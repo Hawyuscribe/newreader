@@ -796,6 +796,89 @@ def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
     return None
 
 
+def _coerce_explanation_from_raw(raw_text: str) -> Optional[str]:
+    """Attempt to salvage an explanation string from raw model output."""
+
+    if not raw_text:
+        return None
+
+    text = str(raw_text).strip()
+    if not text:
+        return None
+
+    # If the model ignored JSON instructions but still produced the explanation
+    # body, surface it as-is.
+    lowered = text.lower()
+    if lowered.startswith("<!doctype") or lowered.startswith("<html"):
+        # Heroku timeouts and other platform errors tend to return HTML pages;
+        # ignore those so the caller can surface the real failure message.
+        return None
+
+    if text.startswith("###") or lowered.startswith("option analysis"):
+        return text
+
+    if "\"explanation\"" in text or text.startswith("{"):
+        # Best-effort extraction without strict JSON parsing.
+        # 1) Drop everything before the first opening brace.
+        brace_index = text.find("{")
+        if brace_index > 0:
+            text = text[brace_index:]
+
+        # 2) Trim any trailing content after the final closing brace.
+        closing_index = text.rfind("}")
+        if closing_index != -1:
+            candidate = text[: closing_index + 1]
+        else:
+            candidate = text
+
+        # 3) Pull the explanation value between the first quote pair after the key.
+        marker = '"explanation"'
+        key_index = candidate.find(marker)
+        if key_index == -1:
+            key_index = candidate.find("'explanation'")
+            marker = "'explanation'"
+
+        if key_index != -1:
+            remainder = candidate[key_index + len(marker) :].lstrip()
+            if remainder.startswith(":"):
+                remainder = remainder[1:].lstrip()
+
+            if remainder.startswith(('"', "'")):
+                quote_char = remainder[0]
+                remainder = remainder[1:]
+                buf = []
+                escaped = False
+                for ch in remainder:
+                    if escaped:
+                        buf.append(ch)
+                        escaped = False
+                        continue
+                    if ch == "\\":
+                        escaped = True
+                        continue
+                    if ch == quote_char:
+                        break
+                    buf.append(ch)
+                else:
+                    # Did not encounter a closing quote; fall through to return None.
+                    buf = []
+
+                if buf:
+                    explanation = "".join(buf)
+                    # Replace common escape sequences.
+                    explanation = (
+                        explanation.replace("\\n", "\n")
+                        .replace("\\r", "\r")
+                        .replace("\\t", "\t")
+                        .replace("\\\"", '"')
+                        .replace("\\'", "'")
+                    )
+                    explanation = explanation.replace("\\\\", "\\")
+                    return explanation.strip()
+
+    return None
+
+
 def _extract_response_json(response: Any) -> Tuple[Dict[str, Any], str]:
     """
     Attempt to pull a JSON object from a Responses API or Chat Completions API output.
@@ -4449,13 +4532,37 @@ def ai_edit_explanation_text(
 
             payload, raw_text = _extract_response_json(response)
             if not payload:
-                snippet = (raw_text or "").strip()
-                if len(snippet) > 160:
-                    snippet = snippet[:160] + "..."
-                last_errors = [f"Invalid JSON output: {snippet or '[empty]'}"]
-                continue
-
-            explanation = str(payload.get("explanation", "")).strip()
+                fallback_explanation = _coerce_explanation_from_raw(raw_text)
+                if fallback_explanation:
+                    logger.warning(
+                        "Recovered explanation from raw output for MCQ #%s (attempt %s)",
+                        mcq_id,
+                        attempt + 1,
+                    )
+                    explanation = fallback_explanation.strip()
+                else:
+                    snippet = (raw_text or "").strip()
+                    if len(snippet) > 160:
+                        snippet = snippet[:160] + "..."
+                    last_errors = [f"Invalid JSON output: {snippet or '[empty]'}"]
+                    continue
+            else:
+                explanation = str(payload.get("explanation", "")).strip()
+                if not explanation:
+                    fallback_explanation = _coerce_explanation_from_raw(raw_text)
+                    if fallback_explanation:
+                        logger.warning(
+                            "Recovered explanation from raw payload text for MCQ #%s (attempt %s)",
+                            mcq_id,
+                            attempt + 1,
+                        )
+                        explanation = fallback_explanation.strip()
+                    else:
+                        snippet = (raw_text or "").strip()
+                        if len(snippet) > 160:
+                            snippet = snippet[:160] + "..."
+                        last_errors = [f"Invalid JSON output: {snippet or '[empty]'}"]
+                        continue
             validation_errors = _validate_explanation_candidate(explanation)
             if validation_errors:
                 last_errors = validation_errors
