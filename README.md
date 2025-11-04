@@ -2,6 +2,12 @@
 
 Neurology MCQ Reader is a Django 5 application for neurology exam preparation. It combines a curated MCQ library with flashcards, high-yield summaries, AI-generated explanations, cognitive reasoning analysis, and an interactive case-based learning bot. The production deployment targets Heroku with PostgreSQL, Redis, Gunicorn, and WhiteNoise. The canonical production instance lives at https://enigmatic-hamlet-38937-db49bd5e9821.herokuapp.com/ (git remote `https://git.heroku.com/enigmatic-hamlet-38937-db49bd5e9821.git`).
 
+## Branch Policy
+
+- `main` contains the only supported history for this repository. All development and deployments should branch from and merge back into `main`.
+- Historical branches (`stable_version`, `master`, etc.) have been retired and should not be used. Delete any local clones of those branches and reset remotes that still point to them.
+- If you need long-lived feature worktrees, base them on `main` and rebase frequently to avoid reintroducing the old history.
+
 ## Highlights
 
 - MCQ library with subspecialty filters, full-text search, bookmarks, notes, flashcards, hide/unhide, mock exams, and weakness drills.
@@ -70,13 +76,20 @@ Refer to the refactor docs for day-by-day notes and the long-term roadmap; updat
    # REDIS_URL=redis://localhost:6379/0
    ```
    AI features degrade to mocked responses if no API key is provided.
-3. **Run database setup**
+3. **Install agent SDK dependencies** (required for AI explanation edits)
+   ```bash
+   cd agents
+   npm install
+   cd ..
+   ```
+   The explanation editor shells out to `agents/run_explanation_agent.js`, which wraps the `@openai/agents` SDK. Node 18+ is recommended.
+4. **Run database setup**
    ```bash
    python django_neurology_mcq/manage.py migrate
    python django_neurology_mcq/manage.py collectstatic --noinput
    python django_neurology_mcq/manage.py createsuperuser
    ```
-4. **Start the development server**
+5. **Start the development server**
    ```bash
    python django_neurology_mcq/manage.py runserver
    ```
