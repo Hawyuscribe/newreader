@@ -1,0 +1,107 @@
+{
+  "specialty": "neurotoxicology",
+  "total_questions": 2,
+  "mcqs": [
+    {
+      "question_number": "1",
+      "question_text": "Intoxication with which of the following agent would cause sensory ataxia with proprioception and vibratory loss:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dapsone"
+        },
+        {
+          "letter": "B",
+          "text": "zidovudine"
+        },
+        {
+          "letter": "C",
+          "text": "tacrolimus"
+        },
+        {
+          "letter": "D",
+          "text": "pyridoxine"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_explanation": null,
+      "complete": true,
+      "source_image": "page_25.png",
+      "verified_answer": "D",
+      "verification_failed": true,
+      "verification_error": "HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1087cfc50>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "categorization_failed": true,
+      "categorization_error": "HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x123a1fd90>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "explanation_failed": true,
+      "explanation_error": "Failed to generate explanation after maximum retries",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "metadata_completion_failed": true,
+      "metadata_completion_error": "HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1211f2ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "has_image": false,
+      "original_category": "other-unclassified",
+      "primary_category": "Neurotoxicology",
+      "reclassified": true,
+      "reclassification_date": "2025-05-17T09:14:19.291003",
+      "exam_type": "Part II",
+      "exam_year": "2020",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json"
+    },
+    {
+      "question_number": "2",
+      "question_text": "Intoxication with which of the following agent would cause sensory ataxia with proprioception and vibratory loss:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dapsone"
+        },
+        {
+          "letter": "B",
+          "text": "zidovudine"
+        },
+        {
+          "letter": "C",
+          "text": "tacrolimus"
+        },
+        {
+          "letter": "D",
+          "text": "pyridoxine"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_explanation": null,
+      "complete": true,
+      "source_image": "page_25.png",
+      "verified_answer": "D",
+      "verification_failed": true,
+      "verification_error": "HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1087cfc50>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "categorization_failed": true,
+      "categorization_error": "HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x123a1fd90>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "explanation_failed": true,
+      "explanation_error": "Failed to generate explanation after maximum retries",
+      "explanation_sections": {
+        "conceptual_foundation": "- **Sensory Ataxia:** A form of ataxia caused by loss of sensory input necessary for coordination, particularly proprioception and vibration sense.\n- **Proprioception and Vibratory Sense:** These modalities are carried by large myelinated fibers traveling in the dorsal columns of the spinal cord.\n- **Large-Fiber Sensory Neuropathy:** Damage to large myelinated sensory fibers leads to impaired proprioception and vibration sense, resulting in sensory ataxia.\n- **Neurotoxicity from Drugs:** Certain drugs or toxins can selectively damage peripheral nerves, causing neuropathies with characteristic clinical patterns.\n---",
+        "pathophysiological_mechanisms": "- **Pyridoxine (Vitamin B6) Toxicity:** Excessive intake of pyridoxine leads to a dose-dependent toxic neuropathy primarily affecting large myelinated sensory fibers. The dorsal root ganglia neurons are particularly vulnerable, resulting in degeneration of large sensory fibers.\n- This large-fiber neuropathy impairs proprioceptive and vibratory sensation, causing sensory ataxia.\n- The mechanism involves mitochondrial dysfunction and interference with neuronal metabolism in sensory neurons.\n- Other agents may cause neuropathy but often affect different fiber types or cause different neurological syndromes.\n---",
+        "clinical_correlation": "- **Presentation:** Patients with pyridoxine toxicity typically present with:\n- Sensory ataxia (unsteady gait worsened by eye closure, positive Romberg sign)\n- Loss of proprioception and vibration sense in the distal limbs\n- Paresthesias or numbness in a stocking-glove distribution\n- **Neurological Exam:** Shows impaired joint position and vibration sense, preserved muscle strength initially.\n- **Reversibility:** Symptoms improve after stopping pyridoxine, but prolonged toxicity can cause permanent damage.\n---",
+        "management_principles": "- **Identification:** Recognize symptoms early in patients taking high doses of pyridoxine supplements or certain medications containing B6.\n- **Discontinuation:** Stop pyridoxine supplementation immediately.\n- **Supportive Care:** Physical therapy to improve balance and coordination.\n- **Monitoring:** Neurological follow-up to assess recovery.\n- **Prevention:** Avoid excessive pyridoxine doses (>200 mg/day generally considered risky).\n---",
+        "option_analysis": "- **A: Dapsone**\n- Primarily causes hemolytic anemia and methemoglobinemia.\n- Does not cause large-fiber neuropathy or sensory ataxia.\n- Neurological toxicity is rare and not characterized by proprioceptive loss.\n- **Incorrect**\n- **B: Zidovudine**\n- An antiretroviral known to cause mitochondrial toxicity.\n- Can cause distal symmetric sensory neuropathy, but predominantly small-fiber type.\n- Small-fiber neuropathy affects pain and temperature, not proprioception or vibration.\n- Does not cause sensory ataxia.\n- **Incorrect**\n- **C: Tacrolimus**\n- Calcineurin inhibitor causing neurotoxicity such as tremors, seizures, and encephalopathy.\n- Does not typically cause sensory ataxia or large-fiber neuropathy.\n- Neurological side effects are central rather than peripheral sensory neuropathy.\n- **Incorrect**\n- **D: Pyridoxine**\n- Excessive intake causes dose-dependent large-fiber sensory neuropathy.\n- Leads to loss of proprioception and vibration sense, causing sensory ataxia.\n- Well-documented neurotoxic profile matching the clinical picture.\n- **Correct**\n---",
+        "clinical_pearls": "- Sensory ataxia with loss of proprioception and vibration sense points to large-fiber sensory neuropathy affecting dorsal columns.\n- Pyridoxine toxicity is a classic cause of large-fiber sensory neuropathy and sensory ataxia.\n- Always inquire about vitamin supplementation in patients presenting with neuropathy.\n- Neuropathy from pyridoxine toxicity is reversible if detected early.\n- Small-fiber neuropathies affect pain and temperature, not proprioception or vibration.\n- Drug-induced neurotoxicity varies by agent and fiber type affected; clinical patterns help differentiate causes.\n---\n**Summary:** Pyridoxine toxicity uniquely causes a large-fiber sensory neuropathy leading to sensory ataxia with proprioceptive and vibratory loss, making option D the correct answer. Other agents listed do not cause this specific neurological syndrome."
+      },
+      "metadata_completion_failed": true,
+      "metadata_completion_error": "HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1211f2ad0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "has_image": false,
+      "verification_reasoning": "The question focuses on intoxication causing sensory ataxia characterized by loss of proprioception and vibratory sense, hallmark features of large-fiber sensory neuropathy affecting the dorsal columns. Pyridoxine (vitamin B6) toxicity is well-documented to cause a sensory neuropathy predominantly affecting large myelinated fibers, leading to sensory ataxia with impaired proprioception and vibration sense. This neuropathy is dose-dependent and reversible upon cessation. \n\nOption A (dapsone) is primarily associated with hemolytic anemia and methemoglobinemia; it does not typically cause sensory ataxia or large-fiber neuropathy. \n\nOption B (zidovudine) is known for causing myopathy and mitochondrial toxicity, and can cause a distal symmetric sensory neuropathy, but this neuropathy is usually small-fiber predominant and does not classically present with sensory ataxia due to dorsal column involvement. \n\nOption C (tacrolimus) is a calcineurin inhibitor that can cause neurotoxicity, including tremor and seizures, but sensory ataxia with proprioceptive loss is not a recognized feature of tacrolimus toxicity. \n\nTherefore, pyridoxine toxicity uniquely explains the clinical picture of sensory ataxia with proprioceptive and vibratory loss due to its selective large-fiber neuropathy. The original answer (D) is correct with high confidence based on established neurotoxic profiles and clinical neuropathy patterns.",
+      "verification_comparative_analysis": "The question focuses on intoxication causing sensory ataxia characterized by loss of proprioception and vibratory sense, hallmark features of large-fiber sensory neuropathy affecting the dorsal columns. Pyridoxine (vitamin B6) toxicity is well-documented to cause a sensory neuropathy predominantly affecting large myelinated fibers, leading to sensory ataxia with impaired proprioception and vibration sense. This neuropathy is dose-dependent and reversible upon cessation. \n\nOption A (dapsone) is primarily associated with hemolytic anemia and methemoglobinemia; it does not typically cause sensory ataxia or large-fiber neuropathy. \n\nOption B (zidovudine) is known for causing myopathy and mitochondrial toxicity, and can cause a distal symmetric sensory neuropathy, but this neuropathy is usually small-fiber predominant and does not classically present with sensory ataxia due to dorsal column involvement. \n\nOption C (tacrolimus) is a calcineurin inhibitor that can cause neurotoxicity, including tremor and seizures, but sensory ataxia with proprioceptive loss is not a recognized feature of tacrolimus toxicity. \n\nTherefore, pyridoxine toxicity uniquely explains the clinical picture of sensory ataxia with proprioceptive and vibratory loss due to its selective large-fiber neuropathy. The original answer (D) is correct with high confidence based on established neurotoxic profiles and clinical neuropathy patterns.",
+      "verification_confidence": "high",
+      "is_original_correct": true,
+      "original_category": "other-unclassified",
+      "primary_category": "Neurotoxicology",
+      "reclassified": true,
+      "reclassification_date": "2025-05-17T09:15:01.224475",
+      "exam_type": "Part II",
+      "exam_year": "2020",
+      "source_file": "Part 2 2020 copy_mcqs_fixed_version2.json"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+[
+  {
+    "question_number": "Q506",
+    "question_text": "",
+    "options": {
+      "A": "Continuous generalized spike-and-wave discharges",
+      "B": "Burst suppression",
+      "C": "Periodic lateralized epileptiform discharges (PLEDs)",
+      "D": "Alpha coma pattern"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q522",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with ALS, his son asks you not to tell his father about the diagnosis. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q260",
+    "question_text": "",
+    "options": {
+      "A": "Suggests a lesion in the contralateral cerebral hemisphere",
+      "B": "Is a sign of cerebellar dysfunction",
+      "C": "Indicates ipsilateral trigeminal nerve involvement",
+      "D": "Is a nonspecific sign with no localizing value"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q276",
+    "question_text": "",
+    "options": {
+      "A": "Glucose is the primary energy source for the brain",
+      "B": "Glucose is not utilized by neurons",
+      "C": "Glucose levels do not affect neurological function",
+      "D": "Glucose is only important in peripheral tissues"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "female patient with weight gain presents with carpal tunnel syndrome on the left side and had delayed reflexes. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "",
+    "options": {
+      "A": "It is safe to use",
+      "B": "It should be avoided due to the risk of premature closure of the ductus arteriosus",
+      "C": "It is the first-line treatment",
+      "D": "It can be used if other medications fail"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "",
+    "options": {
+      "A": "Levodopa is primarily used to treat Alzheimer's disease",
+      "B": "Levodopa is a dopamine precursor used in Parkinson's disease",
+      "C": "Levodopa is an antiepileptic drug",
+      "D": "Levodopa is a muscle relaxant"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q305",
+    "question_text": "Which of the following neurological conditions is most likely associated with a \"Figure of 4\" posture in the left limb extension?",
+    "options": {
+      "A": "Upper motor neuron lesion causing spastic hemiparesis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "Anti-GM1",
+      "B": "Anti-MAG",
+      "C": "Anti-AChR",
+      "D": "Anti-PLA2R"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "Start levodopa",
+      "B": "Initiate physical therapy",
+      "C": "Order brain MRI",
+      "D": "Begin dopamine agonist therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's disease",
+      "B": "Multiple system atrophy",
+      "C": "Corticobasal degeneration",
+      "D": "Progressive Supranuclear Palsy"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "",
+    "options": {
+      "A": "76-year-old gentleman with Parkinson's disease has been maintained on his medications with good motor response. Over the last year, he has developed asymmetrical tremors with rigidity. Which of the following findings is most likely on MRI?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "Systemic",
+      "B": "Vascular",
+      "C": "Neurological",
+      "D": "Metabolic"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "Refuse to include the chairman's name"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q304",
+    "question_text": "",
+    "options": {
+      "A": "Anterior",
+      "B": "Posterior",
+      "C": "Medial",
+      "D": "Lateral"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "Hemianesthesia is best described as:",
+    "options": {
+      "A": "Complete loss of motor function on one side of the body",
+      "B": "Loss of sensation on one side of the body",
+      "C": "Loss of vision in half of the visual field",
+      "D": "Involuntary muscle contractions on one side of the body"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "",
+    "options": {
+      "A": "nurse with multiple sclerosis comes for a follow-up. She is about to get married to a doctor\u2019s friend and asks the doctor not to disclose her disease. What should the doctor do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q188",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with dysarthria and dysphagia. What do you expect to find on this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q228",
+    "question_text": "",
+    "options": {
+      "A": "Botox",
+      "B": "Tizanidine",
+      "C": "Increase baclofen dose",
+      "D": "Baclofen pump"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q236",
+    "question_text": "",
+    "options": {
+      "A": "Allow him to discharge",
+      "B": "Keep him admitted",
+      "C": "Call family members",
+      "D": "Arrange for a psychiatric evaluation"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "Give them your IBAN",
+      "B": "Tell them to make it 25%",
+      "C": "Refuse and ignore the meeting",
+      "D": "Refuse and report them to Nezaha"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q191",
+    "question_text": "",
+    "options": {
+      "A": "Aphemia",
+      "B": "Verbal apraxia",
+      "C": "Broca\u2019s aphasia",
+      "D": "Dysarthria"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q348",
+    "question_text": "",
+    "options": {
+      "A": "Lamictal is primarily used to treat epilepsy and bipolar disorder",
+      "B": "Lamictal is an antibiotic used for bacterial infections",
+      "C": "Lamictal is a muscle relaxant used in spasticity",
+      "D": "Lamictal is a dopamine agonist used in Parkinson\u2019s disease treatment"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q365",
+    "question_text": "",
+    "options": {
+      "A": "Lumbar puncture",
+      "B": "Anti-MOG antibody testing",
+      "C": "Aquaporin-4 antibody testing",
+      "D": "Brain biopsy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q358",
+    "question_text": "",
+    "options": {
+      "A": "Skin biopsy",
+      "B": "Muscle biopsy",
+      "C": "Chest X-ray of fibroblasts",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  }
+]

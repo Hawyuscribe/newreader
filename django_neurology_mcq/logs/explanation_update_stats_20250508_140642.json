@@ -1,0 +1,20 @@
+{
+  "start_time": "2025-05-08T14:06:41.571632",
+  "files_processed": 2,
+  "total_questions": 424,
+  "updated_explanations": 424,
+  "new_explanations": 0,
+  "replaced_explanations": 424,
+  "unmatched_questions": 0,
+  "questions_without_explanation": 0,
+  "invalid_explanations": 0,
+  "failed_updates": 0,
+  "files_with_errors": 0,
+  "matched_by_question_number": 424,
+  "matched_by_exact_text": 0,
+  "matched_by_similarity": 0,
+  "matched_by_exam_year_options": 0,
+  "matched_by_no_match": 0,
+  "end_time": "2025-05-08T14:06:42.031465",
+  "duration": 0.459833
+}

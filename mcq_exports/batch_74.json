@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q141",
+    "question_text": "MS pathophysiology is most commonly associated with which of the following?",
+    "options": {
+      "A": "EBV",
+      "B": "Vitamin B12",
+      "C": "HHV-6",
+      "D": "Herpes Simplex Virus"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "Which risk factor has an odds ratio of 0.5 and is considered unknown in its association with multiple sclerosis?",
+    "options": {
+      "A": "Oral tobacco",
+      "B": "Coffee",
+      "C": "Alcohol",
+      "D": "Passive smoking"
+    },
+    "correct_answer": "C",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "An MS patient developed a tremor. What is the recommended treatment?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Levodopa",
+      "C": "Carbamazepine",
+      "D": "Baclofen"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q176",
+    "question_text": "",
+    "options": {
+      "A": "young female presented with unilateral optic neuritis features. She has positive oligoclonal bands (OCB) and brain MRI shows one enhancing lesion. According to the 2017 McDonald\u2019s criteria, what is her diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuromuscular",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q186",
+    "question_text": "",
+    "options": {
+      "A": "young patient with multiple new acute strokes on MRI has a history of sensorineural hearing loss. What condition is suspected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q204",
+    "question_text": "",
+    "options": {
+      "A": "34-year-old male presents with myoclonus and abnormal eye movements. What is the most likely underlying condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q208",
+    "question_text": "In a case of testicular cancer, which antibody is most likely to be present?",
+    "options": {
+      "A": "Anti-MA",
+      "B": "Anti-GAD",
+      "C": "Anti-NMDA",
+      "D": "Anti-CRMP"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q210",
+    "question_text": "",
+    "options": {
+      "A": "patient with optic neuritis and one periventricular lesion. What is her McDonald criteria?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q274",
+    "question_text": "",
+    "options": {
+      "A": "female patient came with relapsing-remitting multiple sclerosis (RRMS) and an attached MRI of the brain and spine. What is the mechanism of the disease?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuromuscular",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q275",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with multiple sclerosis (MS) continues to experience relapses despite starting disease-modifying therapy (DMT). The spinal cord MRI shows a \"trident sign.\" What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuromuscular",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q319",
+    "question_text": "",
+    "options": {
+      "A": "patient with a long history of multiple sclerosis presents with fatigue. What medication would you consider as a first-line treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuromuscular",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q451",
+    "question_text": "",
+    "options": {
+      "A": "patient receiving their third infusion of Natalizumab develops an allergy with shortness of breath. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuromuscular",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "lady known to have multiple sclerosis (MS) presents with a history of leg numbness for one year. She is currently on teriflunomide but shows no improvement. What is the next appropriate step in her management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Sleep_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "Which factor is associated with a worse prognosis in multiple sclerosis (MS)?",
+    "options": {
+      "A": "Male sex",
+      "B": "Female sex",
+      "C": "Age at onset",
+      "D": "Initial symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q220",
+    "question_text": "Patient came with focal seizure with secondary generalization; he has focal atrophy in the brain; what is the antibody associated with this disease?",
+    "options": {
+      "A": "GluR3",
+      "B": "NMDA receptor",
+      "C": "LGI1",
+      "D": "CASPR2"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "In a paraneoplastic case, what should be done next?",
+    "options": {
+      "A": "Treat underlying etiology",
+      "B": "Initiate immunotherapy",
+      "C": "Perform symptomatic management",
+      "D": "Monitor neurological status closely"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "patient with relapsing-remitting multiple sclerosis (RRMS) received 5 days of intravenous methylprednisolone (IVMP) without improvement. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q279",
+    "question_text": "An MS patient developed tonic spasms. What is the appropriate treatment?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Baclofen",
+      "C": "Gabapentin",
+      "D": "Diazepam"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis experiences painful muscle spasms multiple times per day. Which medication is commonly used for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "Which of the following indicates disease progression in multiple sclerosis (MS)?",
+    "options": {
+      "A": "Brain atrophy",
+      "B": "T2 lesions",
+      "C": "Lesion enhancement",
+      "D": "New clinical relapses"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q193",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with focal seizures that progressed to complex partial seizures and multiple episodes of status epilepticus with hemiparesis. MRI showed hemispheric perisylvian atrophy. What will you send for?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "Patient came with focal seizure with secondary generalization; he has focal atrophy in the brain. What is the antibody associated with this disease?",
+    "options": {
+      "A": "GluR3",
+      "B": "NMDA receptor",
+      "C": "LGI1",
+      "D": "GAD65"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "In a scenario involving diabetes mellitus with stiff person syndrome, what is the most likely antibody present?",
+    "options": {
+      "A": "Anti-GAD",
+      "B": "Anti-NMDA receptor",
+      "C": "Anti-Aquaporin-4",
+      "D": "Anti-MOG"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "Which condition is based on astrocyte pathology?",
+    "options": {
+      "A": "NMOSD",
+      "B": "Anti-MOG",
+      "C": "Multiple sclerosis",
+      "D": "Acute disseminated encephalomyelitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "What is known about the pathology of multiple sclerosis (MS)?",
+    "options": {
+      "A": "Diffuse white matter disease and focal grey matter involvement",
+      "B": "Grey matter disease may be related to a progressive course",
+      "C": "Both A and B",
+      "D": "None of the above"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

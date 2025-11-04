@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "patient who underwent decompression for Chiari malformation two weeks ago presents with meningitis. What is the most common organism responsible for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "Patient came with neurosyphilis; VDRL positive. What are the symptoms associated with the disease?",
+    "options": {
+      "A": "Erythema nodosum",
+      "B": "Hypomelatonic macule",
+      "C": "Constricted pupils",
+      "D": "Argyll Robertson pupils"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q155",
+    "question_text": "",
+    "options": {
+      "A": "scenario suggests subacute sclerosing panencephalitis (SSPE), and an EEG shows periodic bursts. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV presents with a non-enhancing white matter mass on MRI and has not been compliant with HAART. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with HIV one month ago presents now with paraparesis. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "What is the most common bacterial meningitis?",
+    "options": {
+      "A": "Pneumococcus",
+      "B": "Meningococcal",
+      "C": "Haemophilus influenzae",
+      "D": "Listeria monocytogenes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with fever and confusion, was anemic, and had hypoglycemia, which was treated. CSF was normal along with labs. What medication should be used to treat this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "male from Africa presents to Saudi Arabia with fever and vague neurological symptoms, including encephalopathy. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "In HIV-AIDS patients who are refractory to initial empiric treatment for CNS toxoplasmosis, what should be considered for a definitive diagnosis?",
+    "options": {
+      "A": "Immediate treatment with steroids.",
+      "B": "An early brain biopsy.",
+      "C": "Observation without intervention.",
+      "D": "Empiric treatment for primary CNS lymphoma."
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "What is the best management for neuro-brucellosis?",
+    "options": {
+      "A": "Doxycycline",
+      "B": "Ceftriaxone",
+      "C": "Rifampin",
+      "D": "Streptomycin"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "An HIV patient on highly active antiretroviral therapy (HAART) who is non-compliant developed PML, what should be done?",
+    "options": {
+      "A": "HAART",
+      "B": "Steroids",
+      "C": "Plasmapheresis",
+      "D": "Supportive care"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "In a diabetic male older than 50 years, what kind of organisms do you expect to see if he develops meningitis?",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Listeria monocytogenes",
+      "C": "Neisseria meningitidis",
+      "D": "Haemophilus influenzae"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "sickle cell patient presents with back pain and lower limb weakness. On examination, he has back tenderness. What is the most likely organism responsible for his condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "Scenario of a diabetic patient with a history of sinusitis and focal neurological deficit. What is the diagnosis?",
+    "options": {
+      "A": "Mucormycosis",
+      "B": "Bacterial sinusitis",
+      "C": "Cerebral abscess",
+      "D": "Tuberculous meningitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "When should metronidazole be added to meningitis treatment?",
+    "options": {
+      "A": "Age > 50",
+      "B": "History of sinusitis, mastoiditis, or otitis media",
+      "C": "Presence of a ventriculoperitoneal shunt",
+      "D": "Recent neurosurgical procedure"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "What carries the worst prognosis for brain abscess?",
+    "options": {
+      "A": "Being close to ventricles",
+      "B": "Changes in level of consciousness at the time treatment starts",
+      "C": "Size of abscess greater than 2.5 cm",
+      "D": "Presence of multiple abscesses"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "In case of contact with a patient who has meningitis, what is the recommended prophylaxis?",
+    "options": {
+      "A": "Vancomycin",
+      "B": "Amoxicillin",
+      "C": "Ciprofloxacin",
+      "D": "Ceftriaxone"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "What is the primary mechanism of infection by Ameba bacteria?",
+    "options": {
+      "A": "Direct invasion through cribriform plate",
+      "B": "Hematogenous spread via the bloodstream",
+      "C": "Ingestion of contaminated food or water",
+      "D": "Transmission through insect vectors"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "",
+    "options": {
+      "A": "patient with a long history presented with seizures and flaccid paralysis. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV presents with deteriorated level of consciousness and a CT scan shows an enhancing mass. What is your next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "What is the recommended prophylactic treatment for meningitis?",
+    "options": {
+      "A": "Rifampin",
+      "B": "Ciprofloxacin",
+      "C": "Ceftriaxone",
+      "D": "Azithromycin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "",
+    "options": {
+      "A": "patient with schistosomiasis presents with lower limb weakness and high eosinophils in the CBC. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "",
+    "options": {
+      "A": "patient with encephalopathy, EEG showed slow bilateral synchronous high amplitude spikes. What is the likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "Corticosteroids with an antibiotic regimen for meningitis help with which of the following?",
+    "options": {
+      "A": "Decrease mortality",
+      "B": "Decrease deafness",
+      "C": "Reduce seizure frequency",
+      "D": "Shorten hospital stay"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "When suspicion for CNS toxoplasmosis is low based on brain imaging, CD4 count, and negative serology, what may be considered?",
+    "options": {
+      "A": "Proceeding directly for a brain biopsy.",
+      "B": "Starting empirical treatment for tuberculosis.",
+      "C": "Monitoring the patient without further action.",
+      "D": "Immediate referral to neurosurgery."
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "young female patient with subarachnoid hemorrhage (SAH) and a symptomatic posterior communicating artery (PComm) aneurysm presents for management. What is the next step in her treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "An elderly patient with confusion, seizure, and weakness was brought to the emergency department. MRI of the brain showed multiple cortical microhemorrhages. What is the diagnosis?",
+    "options": {
+      "A": "Amyloid-beta related angiitis",
+      "B": "Primary CNS angiitis",
+      "C": "Cerebral amyloid angiopathy without inflammation",
+      "D": "Hypertensive intracerebral hemorrhage"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q193",
+    "question_text": "",
+    "options": {
+      "A": "75-year-old female with diabetes mellitus and hypertension presents with right-sided weakness for one week. MRI shows a left internal capsule lacunar infarction, and vascular workup reveals right ICA 55% stenosis and left ICA 65% stenosis. What should be done for her regarding stroke prevention?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q295",
+    "question_text": "In the context of intracerebral hemorrhage (ICH), which statement is correct?",
+    "options": {
+      "A": "The ICH score is for mortality, including age, GCS, IVH volume, and coagulopathy as risk factors.",
+      "B": "The spot sign is not beneficial for reverse anticoagulation.",
+      "C": "Early surgical evacuation is recommended for all small deep hemorrhages.",
+      "D": "Blood pressure lowering has no impact on hematoma expansion in ICH."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q328",
+    "question_text": "What is the diagnosis for a 40-year-old female, medically free, with a previous history of two miscarriages, presenting with left side weakness, normal CBC, normal INR, normal chemistry, elevated ESR, and positive ANA?",
+    "options": {
+      "A": "Cerebral vasculitis",
+      "B": "Cerebral venous thrombosis (CVT)",
+      "C": "Multiple sclerosis",
+      "D": "Ischemic stroke due to atherosclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q352",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male presents with progressive lower limb weakness and a sensory level up to T10. There is no upper limb involvement. MRI of the spine shows thoracic and conus hyperintensity surrounded by a hypointense rim. The neurological examination reveals upgoing plantar responses and absent reflexes in the lower limbs. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q370",
+    "question_text": "",
+    "options": {
+      "A": "patient with SLE and antiphospholipid syndrome presented with a stroke for 2 days. What will you give?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q194",
+    "question_text": "In a patient with subarachnoid hemorrhage (SAH) and normal CTA and attached CT, what is the recommended management?",
+    "options": {
+      "A": "Evacuation",
+      "B": "Dexamethasone",
+      "C": "Reassurance",
+      "D": "Repeat lumbar puncture"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q249",
+    "question_text": "",
+    "options": {
+      "A": "young female with a history of stroke and recurrent abortions is evaluated. Which of the following is the most likely underlying condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q333",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old female presents with an 18-month history of back pain, weakness, numbness, and sphincter issues. On examination, there is a sensory level up to T10, with upgoing plantar responses and absent ankle reflexes. MRI of the thoracic spine shows high signal T2 with a hypointense center. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q192",
+    "question_text": "MRI (DWI) shows multiple infarctions on one side. What is the next step in management?",
+    "options": {
+      "A": "CTA",
+      "B": "Doppler US",
+      "C": "MRA",
+      "D": "Echocardiogram"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "",
+    "options": {
+      "A": "girl with a history of migraine headaches, stroke, and dementia, along with a family history of similar issues in her father presents for evaluation. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient with SLE and antiphospholipid syndrome presented with a stroke for 2 days. What should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q370",
+    "question_text": "Which cranial nerve is primarily responsible for the sense of smell?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Facial nerve (CN VII)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "The risk of stroke increases with which of the following conditions?",
+    "options": {
+      "A": "Tension-type headache",
+      "B": "Migraine with aura",
+      "C": "Cluster headache",
+      "D": "Sinus headache"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "Based on the following brain MRI, what is the most likely mechanism of injury?",
+    "options": {
+      "A": "ICA stenosis",
+      "B": "Embolic stroke",
+      "C": "Hemorrhagic stroke",
+      "D": "Venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old patient with a history of migraine 15 years ago developed a TIA. His father has a history of stroke. MRI involving the anterior temporal lobe was performed. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a skin rash (Angiokeratomas) and a family history of stroke. What is the gene associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient with CADASIL presents with stroke, dementia, and migraine. What is the best way to diagnose this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "",
+    "options": {
+      "A": "male patient with renal impairment, stroke, and angiokeratoma is being evaluated for enzyme supplementation. Which enzyme is likely deficient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "",
+    "options": {
+      "A": "patient with recurrent epistaxis and telangiectasia over the skin, mucous membranes, retina, and gastrointestinal tract is suspected to have hereditary hemorrhagic telangiectasia. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "What was the aggregate risk reduction of stroke at 10 years for patients with 70% to 99% ICA stenosis undergoing carotid endarterectomy (CEA) according to the ACST trial?",
+    "options": {
+      "A": "From 17.9% in best medical treatment to 13.4% in CEA",
+      "B": "From 11% to 5.1%",
+      "C": "From 26% to 9%",
+      "D": "From 22.2% to 15.7%"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old male with a history of learning difficulty presented to the clinic with his father due to repeated history of stroke-like symptoms, dysarthria, and hearing loss. MRI of the brain was done. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "What is a new recommendation for adults with acute ischemic stroke who have known sickle cell disease?",
+    "options": {
+      "A": "IV alteplase may be beneficial",
+      "B": "Surgical intervention is mandatory",
+      "C": "No treatment is necessary",
+      "D": "Only supportive care is recommended"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q187",
+    "question_text": "In a case of malignant MCA infarction presented after 24 hours with midline shift, what is the most important intervention?",
+    "options": {
+      "A": "Decompressive craniectomy",
+      "B": "Admission to stroke unit",
+      "C": "Intravenous thrombolysis",
+      "D": "Antiplatelet therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

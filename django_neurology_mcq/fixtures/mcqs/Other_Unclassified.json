@@ -1,0 +1,1842 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 8226664,
+    "fields": {
+      "question_number": "Q101",
+      "question_text": "In a scenario involving a female patient with hematologic metastasis, what is the most likely skin-related diagnosis?",
+      "options": {
+        "A": "Skin melanoma",
+        "B": "Basal cell carcinoma",
+        "C": "Squamous cell carcinoma",
+        "D": "Merkel cell carcinoma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The question lacks a clear neurological focus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6557005,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "To act in the best interest of the patient is an example of which ethical principle?",
+      "options": {
+        "A": "Justice",
+        "B": "Beneficence",
+        "C": "Autonomy",
+        "D": "Non-maleficence"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This is an ethics question, not specific to a neurology subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36527079,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "What is the definition of euthanasia?",
+      "options": {
+        "A": "Physician helps the patient with medication to end his life.",
+        "B": "Patient refuses life-sustaining treatment leading to death.",
+        "C": "Administration of pain relief that may unintentionally shorten life.",
+        "D": "Withdrawal of artificial nutrition and hydration to allow natural death."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This question is about a general ethical/legal concept, not a specific neurology subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92309464,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "A patient in a nursing home informs you that he has been physically abused. What should you do?",
+      "options": {
+        "A": "Ignore the issue",
+        "B": "Contact the nursing home",
+        "C": "Inform your senior",
+        "D": "Visit the nursing home yourself"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This focuses on reporting abuse, a general healthcare issue."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29462939,
+    "fields": {
+      "question_number": "Q88",
+      "question_text": "An intern wants to perform a procedure that he knows about but has never done before, and the supervisor is not present. What should he do?",
+      "options": {
+        "A": "Do it alone",
+        "B": "Wait for the supervisor",
+        "C": "Call the supervisor for guidance",
+        "D": "Ask a more experienced colleague for help"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on proper procedure and supervision, not a specific neurology subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6873814,
+    "fields": {
+      "question_number": "Q89",
+      "question_text": "A patient refuses admission and refuses to sign a Leave Against Medical Advice (LAMA). What is the appropriate action?",
+      "options": {
+        "A": "No need to sign",
+        "B": "Force him to sign",
+        "C": "Do not give him any treatment",
+        "D": "Call the manager"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This is about patient rights and hospital procedures, not a specific neurological condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28061544,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "Which enzyme is the rate-limiting step in catecholamine synthesis?",
+      "options": {
+        "A": "Phenylalanine Hydroxylase",
+        "B": "Dopamine Hydroxylase",
+        "C": "Tyrosine Hydroxylase",
+        "D": "Monoamine Oxidase"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: While relevant to neurotransmitters, it lacks direct clinical neurology application."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68033243,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "A patient diagnosed with a serious disease has no family members. How should you break the bad news?",
+      "options": {
+        "A": "Acknowledge a person's right to make choices",
+        "B": "Hold views, and take actions based on personal values and beliefs",
+        "C": "Treat others equitably, distribute benefits/burdens fairly",
+        "D": "Obligation not to inflict harm intentionally"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with ethics in delivering difficult news."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73190271,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "EEG showed diffuse slowing in:",
+      "options": {
+        "A": "Metabolic encephalopathy",
+        "B": "Focal epilepsy",
+        "C": "Brainstem stroke",
+        "D": "Migraine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Diffuse slowing on EEG is typically seen in metabolic encephalopathies due to generalized cerebral dysfunction; other options usually do not cause diffuse slowing."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13599265,
+    "fields": {
+      "question_number": "Q98",
+      "question_text": "A group of doctors conducted research, and after finishing, the chairman\u2019s friend asked to add the chairman\u2019s name. He might report the names of those who refused to the chairman. What is the most appropriate action?",
+      "options": {
+        "A": "Refuse to put the name of the chairman",
+        "B": "Consult the Institutional Review Board (IRB)",
+        "C": "Add the chairman\u2019s name as a courtesy",
+        "D": "Discuss the issue with all research team members"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on research ethics, not neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54069632,
+    "fields": {
+      "question_number": "Q99",
+      "question_text": "A pharmacy company that conducted a clinical trial for a new antiepileptic drug (AED) asks you to give a presentation and offers sponsorship for international flights and conferences. What should you do?",
+      "options": {
+        "A": "Disclose this in the presentation",
+        "B": "Refuse the offer",
+        "C": "Accept the offer without disclosure",
+        "D": "Delegate the presentation to a colleague"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with conflicts of interest and ethics in research."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66632139,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "What is the definition of euthanasia?",
+      "options": {
+        "A": "A doctor prescribes or administers a drug to end the patient\u2019s life",
+        "B": "The physician provides the means by which the patient can end his life",
+        "C": "The patient refuses life-sustaining treatment leading to death",
+        "D": "The use of high doses of painkillers that may hasten death"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the definition of euthanasia, an ethical/legal concept."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46209969,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "Definition of euthanasia:",
+      "options": {
+        "A": "A doctor prescribes or administers a drug to end the patient's life.",
+        "B": "The physician provides the means by which the patient can end his life.",
+        "C": "The patient decides to stop treatment.",
+        "D": "The family decides to withdraw life support."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the definition of euthanasia, an ethical/legal concept."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17677034,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "You have a language barrier with an ER staff member. What is the best way to communicate?",
+      "options": {
+        "A": "Situation, background, assessment, and recommendation",
+        "B": "Pay extra attention to facial gestures",
+        "C": "Say your order clearly and ask questions to ensure understanding",
+        "D": "Use simple words and speak slowly"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: This is about communication in a medical setting, not a specific neurology topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40484012,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "In regards to patient safety and preventing medical errors, which research methodology is the best?",
+      "options": {
+        "A": "Case reports",
+        "B": "Case control",
+        "C": "Mortality and morbidity",
+        "D": "Reporting error system"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: This question focuses on research methodology in patient safety, rather than a specific neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54910917,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "According to resource allocation, when building a children's hospital, which statement regarding the location is correct?",
+      "options": {
+        "A": "In an area with low cost",
+        "B": "In an area with a large population",
+        "C": "In an area with a large number of children",
+        "D": "In a population interested in the healthcare system"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on healthcare system planning, public health, and resource allocation, not a specific neurological disorder or principle."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80630691,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "What is the definition of informed consent?",
+      "options": {
+        "A": "Explain to the patient the purpose of the study",
+        "B": "Obtain written permission from the patient before any procedure",
+        "C": "Provide the patient with all possible treatment options",
+        "D": "Ensure the patient understands the risks and benefits of the procedure"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of medical ethics/research principles (informed consent), which is a general medical concept, not specific to a neurology subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74557233,
+    "fields": {
+      "question_number": "Q70",
+      "question_text": "A nurse got a needle stick in her finger after blood extraction from a patient. She refuses to report it to infection control because the patient looks fine. What should be done?",
+      "options": {
+        "A": "Report the incident.",
+        "B": "Respect the nurse's need.",
+        "C": "Check the patient file.",
+        "D": "Screen the patient for HIV, HBV, and HCV."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with medical ethics, occupational health protocols, and infection control procedures, not a specific neurology subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86317648,
+    "fields": {
+      "question_number": "Q257",
+      "question_text": "Carbamazepine",
+      "options": {
+        "A": "Is primarily used to treat Parkinson\u2019s disease",
+        "B": "Is an anticonvulsant used in epilepsy",
+        "C": "Is a dopamine agonist",
+        "D": "Is a cholinesterase inhibitor"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Incomplete question, lacks context or a query. Cannot be definitively classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62131551,
+    "fields": {
+      "question_number": "Q495",
+      "question_text": "Ethosuximide",
+      "options": {
+        "A": "Is primarily used to treat tonic-clonic seizures",
+        "B": "Is the drug of choice for absence seizures",
+        "C": "Is contraindicated in absence epilepsy",
+        "D": "Is mainly used for status epilepticus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Incomplete question, lacks context or a query. Likely related to absence epilepsy treatment, but cannot be definitively classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89017082,
+    "fields": {
+      "question_number": "Q180",
+      "question_text": "Topiramate",
+      "options": {
+        "A": "Is primarily used to treat Parkinson\u2019s disease",
+        "B": "Is an antiepileptic drug also used for migraine prophylaxis",
+        "C": "Is contraindicated in all patients with renal impairment",
+        "D": "Is a dopamine agonist"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Incomplete question, lacks context or a query. Could relate to Epilepsy, Headache, or other uses of the drug, but cannot be definitively classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21232931,
+    "fields": {
+      "question_number": "Q195",
+      "question_text": "Which of the following is the most sensitive test?",
+      "options": {
+        "A": "Brain CT",
+        "B": "Blood MEL",
+        "C": "EEG",
+        "D": "Lumbar Puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This question is too vague without context. The \"most sensitive test\" depends entirely on the suspected condition, which is not provided. Cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61572812,
+    "fields": {
+      "question_number": "Q133",
+      "question_text": "In the same scenario, what is the most appropriate treatment?",
+      "options": {
+        "A": "Benzodiazepine",
+        "B": "Antipsychotic medication",
+        "C": "Beta-blocker",
+        "D": "Antidepressant"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Cannot be classified without the preceding scenario; context is missing."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92574224,
+    "fields": {
+      "question_number": "Q348",
+      "question_text": "Felbamate",
+      "options": {
+        "A": "Is primarily used for absence seizures",
+        "B": "Has a high risk of aplastic anemia and liver failure",
+        "C": "Is a first-line treatment for status epilepticus",
+        "D": "Is safe to use during pregnancy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Mentions an AED but provides no context or question. Likely an incomplete MCQ. Cannot be definitively classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64990383,
+    "fields": {
+      "question_number": "Q347",
+      "question_text": "MTL",
+      "options": {
+        "A": "Hippocampus",
+        "B": "Amygdala",
+        "C": "Thalamus",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Question is incomplete (\"MTL\"), preventing definitive classification. Likely intended to relate to Mesial Temporal Lobe epilepsy, but cannot be classified without the full question."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89129448,
+    "fields": {
+      "question_number": "Q160",
+      "question_text": "A pharmaceutical company conducting a clinical trial for a new AED offers to sponsor your presentation at international conferences. What should you do?",
+      "options": {
+        "A": "Disclose this in the presentation",
+        "B": "Refuse the offer",
+        "C": "Accept the sponsorship",
+        "D": "Consult with a colleague"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses a question of medical ethics regarding conflicts of interest and industry sponsorship, falling outside specific clinical neurology subspecialties."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9526710,
+    "fields": {
+      "question_number": "Q496",
+      "question_text": "Topiramate",
+      "options": {
+        "A": "Is primarily used to treat Parkinson\u2019s disease",
+        "B": "Is an antiepileptic drug also effective for migraine prophylaxis",
+        "C": "Is contraindicated in patients with epilepsy",
+        "D": "Is a dopamine agonist used in restless legs syndrome"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Question is incomplete (\"Topiramate\"), preventing definitive classification. Could relate to Epilepsy, Headache, or other uses of the drug."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92969149,
+    "fields": {
+      "question_number": "Q394",
+      "question_text": "Medical therapy",
+      "options": {
+        "A": "Antiplatelet agents",
+        "B": "Beta-blockers",
+        "C": "Levodopa",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Question text is incomplete (\"Medical therapy\"). Cannot determine context or subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29462939,
+    "fields": {
+      "question_number": "Q88",
+      "question_text": "The same patient is asking what treatment you will give. What will you choose?",
+      "options": {
+        "A": "Antiepileptic",
+        "B": "Antithrombotic",
+        "C": "Antihypertensive",
+        "D": "Statin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Lacks context from the preceding question (\"The same patient...\") to determine the underlying condition and appropriate classification."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41827375,
+    "fields": {
+      "question_number": "Q360",
+      "question_text": "Thiamine",
+      "options": {
+        "A": "Is a vitamin B1 deficiency that causes Wernicke's encephalopathy",
+        "B": "Is a vitamin B6 deficiency that causes peripheral neuropathy",
+        "C": "Is a vitamin B12 deficiency that causes subacute combined degeneration",
+        "D": "Is a vitamin C deficiency that causes scurvy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Question text is incomplete (\"Thiamine\"). Could relate to various subspecialties (e.g., Neuromuscular, Critical Care, Neurotoxicology), but cannot be definitively classified without context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41827375,
+    "fields": {
+      "question_number": "Q360",
+      "question_text": "Thiamine",
+      "options": {
+        "A": "Is a vitamin B1 deficiency that causes Wernicke's encephalopathy",
+        "B": "Is a vitamin B6 deficiency that causes peripheral neuropathy",
+        "C": "Is a vitamin B12 deficiency that causes subacute combined degeneration",
+        "D": "Is a vitamin C deficiency that causes scurvy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Question text is incomplete (\"Thiamine\"). Could relate to various subspecialties (e.g., Neuromuscular, Critical Care, Neurotoxicology), but cannot be definitively classified without context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4033859,
+    "fields": {
+      "question_number": "Q353",
+      "question_text": "What is the mechanism?",
+      "options": {
+        "A": "Hypertension",
+        "B": "Coagulopathy",
+        "C": "Aneurysm",
+        "D": "Arteriovenous malformation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Lacks context to determine the specific condition or event being discussed. Options suggest a vascular event, but the question is incomplete."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6153910,
+    "fields": {
+      "question_number": "Q270",
+      "question_text": "tPA",
+      "options": {
+        "A": "tPA is contraindicated in ischemic stroke beyond 4.5 hours of symptom onset",
+        "B": "tPA is used to treat hemorrhagic stroke",
+        "C": "tPA is a platelet aggregation inhibitor",
+        "D": "tPA is a thrombolytic agent used in acute ischemic stroke"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Question text is incomplete (\"tPA\"). Likely relates to Vascular Neurology/Stroke, but cannot be definitively classified without the full question."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20472330,
+    "fields": {
+      "question_number": "Q503",
+      "question_text": "CK level",
+      "options": {
+        "A": "Is typically normal in multiple sclerosis",
+        "B": "Is elevated in muscular dystrophies",
+        "C": "Is decreased in amyotrophic lateral sclerosis",
+        "D": "Is elevated in Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Question text is incomplete (\"CK level\"). Likely relates to Neuromuscular disorders, but cannot be definitively classified without context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41011225,
+    "fields": {
+      "question_number": "Q269",
+      "question_text": "MRI/MRV",
+      "options": {
+        "A": "MRI is the preferred imaging modality for detecting acute ischemic stroke",
+        "B": "MRV is primarily used to evaluate cerebral venous sinus thrombosis",
+        "C": "MRI cannot detect demyelinating lesions in multiple sclerosis",
+        "D": "MRV is routinely used to assess intracranial aneurysms"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Question text is incomplete (\"MRI/MRV\"). Could relate to numerous subspecialties depending on the clinical context; cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92133519,
+    "fields": {
+      "question_number": "Q533",
+      "question_text": "The same patient is asking about the treatment options. What is the treatment?",
+      "options": {
+        "A": "IVIG",
+        "B": "PLEX",
+        "C": "Corticosteroids",
+        "D": "Plasma exchange"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Lacks context (\"The same patient...\") to determine the specific condition being treated (likely immune-mediated, potentially fitting Neuroimmunology or Neuromuscular), preventing definitive classification."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26155249,
+    "fields": {
+      "question_number": "Q262",
+      "question_text": "Taking one medication",
+      "options": {
+        "A": "Is always safer than taking multiple medications",
+        "B": "Eliminates the risk of drug interactions",
+        "C": "May still cause side effects depending on the medication and patient factors",
+        "D": "Guarantees symptom resolution without adverse effects"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Incomplete question, cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56011645,
+    "fields": {
+      "question_number": "Q433",
+      "question_text": "Which of the following is associated with apoptosis?",
+      "options": {
+        "A": "Pyknosis",
+        "B": "Swelling in mitochondria with change in shape",
+        "C": "Endonuclease inhibition",
+        "D": "Intact cell membrane"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests basic science knowledge (cellular pathology/features of apoptosis) not tied to a specific clinical subspecialty context within the question itself."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40073294,
+    "fields": {
+      "question_number": "Q313",
+      "question_text": "3.",
+      "options": {
+        "A": "Parkinson's disease",
+        "B": "Multiple sclerosis",
+        "C": "Amyotrophic lateral sclerosis",
+        "D": "Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Incomplete question, cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46336212,
+    "fields": {
+      "question_number": "Q203",
+      "question_text": "In the same scenario, what is the most important and useful way for investigation?",
+      "options": {
+        "A": "Brain MRI",
+        "B": "Lumbar puncture",
+        "C": "Evoked potentials",
+        "D": "Blood tests"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Depends entirely on the preceding scenario, which is not provided. Cannot classify."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25696426,
+    "fields": {
+      "question_number": "Q485",
+      "question_text": "In the case of the patient mentioned above, what is the next step in management?",
+      "options": {
+        "A": "Start antibiotics that were not used for the abscess",
+        "B": "Consult neurosurgery",
+        "C": "Perform repeat imaging to assess abscess progression",
+        "D": "Initiate corticosteroid therapy to reduce cerebral edema"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Depends entirely on the preceding scenario (presumably a brain abscess case). Without context, cannot definitively classify (potentially Neuro-infectious or Neuro-oncology if related to tumor surgery complication)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67576023,
+    "fields": {
+      "question_number": "Q230",
+      "question_text": "A patient has hyperreflexia and a headache, and MRI shows diffuse lesions. What is the most appropriate next step in management?",
+      "options": {
+        "A": "Skin biopsy",
+        "B": "Muscle biopsy",
+        "C": "Chest X-ray",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Presents a non-specific combination of symptoms and signs (UMN, headache, diffuse lesions) with a broad differential diagnosis spanning multiple subspecialties (e.g., Neuroimmunology, Neuro-infectious, Neuro-oncology). Cannot be definitively classified without more context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75927424,
+    "fields": {
+      "question_number": "Q478",
+      "question_text": "In a scenario with a different presentation, what is the most likely diagnosis?",
+      "options": {
+        "A": "PRES",
+        "B": "CVT",
+        "C": "HSV",
+        "D": "Lupus cerebritis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Impossible to classify without the scenario/presentation details needed to differentiate between the varied options (Vascular, Infectious, Immunologic)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68546612,
+    "fields": {
+      "question_number": "Q333",
+      "question_text": "In the same scenario, if the patient came to the emergency room, what is the treatment?",
+      "options": {
+        "A": "IV diazepam",
+        "B": "IV phenytoin",
+        "C": "IV valproate",
+        "D": "IV levetiracetam"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Cannot determine the core concept without the preceding scenario. Options strongly suggest acute seizure management (Epilepsy/Critical Care), but classification is impossible without context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65935275,
+    "fields": {
+      "question_number": "Q225",
+      "question_text": "Same scenario as above. What should be done next?",
+      "options": {
+        "A": "MRI of plexus",
+        "B": "Nerve conduction studies",
+        "C": "Blood tests for inflammatory markers",
+        "D": "Electromyography"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Impossible to classify without the preceding scenario."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44572339,
+    "fields": {
+      "question_number": "Q311",
+      "question_text": "What is the mechanism of the patient's condition?",
+      "options": {
+        "A": "Aneurysm rupture",
+        "B": "Atherosclerosis",
+        "C": "Premesencephalic hemorrhage",
+        "D": "Arteriovenous malformation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Cannot classify without knowing the patient's condition/scenario. Options relate to Vascular Neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29343886,
+    "fields": {
+      "question_number": "Q356",
+      "question_text": "Endarterectomy",
+      "options": {
+        "A": "Is a surgical procedure to remove atherosclerotic plaque from the carotid artery",
+        "B": "Is a treatment for epilepsy",
+        "C": "Is a diagnostic test for multiple sclerosis",
+        "D": "Is a medication used in Parkinson\u2019s disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Mentions a procedure typically used in Vascular Neurology/Stroke prevention but lacks context/question. Cannot be definitively classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62275834,
+    "fields": {
+      "question_number": "Q434",
+      "question_text": "Q434. (Source: Part II 2022_mcqs.txt) (Duplicate listed under Vascular) After all stroke workups are completed except for CTA, what is the next step?",
+      "options": {
+        "A": "CTA",
+        "B": "MRI brain",
+        "C": "Echocardiogram",
+        "D": "Carotid Doppler ultrasound"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The question is too generic. While it mentions stroke workup (suggesting Vascular), it lacks sufficient clinical detail or context about the patient or the findings so far to determine if the core concept being tested relates to stroke specifically or just procedural flow in an unspecified scenario. It simply asks for the 'next step' after listing prior actions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86649932,
+    "fields": {
+      "question_number": "Q494",
+      "question_text": "B. Autoimmune disorder",
+      "options": {
+        "C": "Demyelinating disease",
+        "D": "Neurodegenerative disorder",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: This is just a condition name (CPEO plus) without a question or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32331045,
+    "fields": {
+      "question_number": "Q156",
+      "question_text": "B. Acute motor axonal neuropathy (AMAN) [CORRECT]",
+      "options": {
+        "C": "Chronic inflammatory demyelinating polyneuropathy (CIDP)",
+        "D": "Multifocal motor neuropathy (MMN)",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: This only mentions a condition subtype (AMAN - an axonal variant of GBS) but provides no scenario details, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87867482,
+    "fields": {
+      "question_number": "Q324",
+      "question_text": "Q324. (Source: Part II 2022_mcqs.txt) In a long scenario, a patient is comatose with fever and retinal redness/orange with vascular changes. What is the cause?",
+      "options": {
+        "A": "Cytomegalovirus (CMV) retinitis with encephalitis",
+        "B": "Bacterial endophthalmitis",
+        "C": "Acute angle-closure glaucoma",
+        "D": "Central retinal artery occlusion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The question describes a comatose patient with fever and retinal redness/orange with vascular changes, which is characteristic of CMV retinitis in immunocompromised patients causing encephalitis. Other options do not typically present with coma and fever in this context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24938786,
+    "fields": {
+      "question_number": "Q506",
+      "question_text": "Q506. (Source: Promotion 2023_mcqs.txt) What EEG finding is associated with non-convulsive status epilepticus (NCSE)?",
+      "options": {
+        "A": "Continuous generalized spike-and-wave discharges",
+        "B": "Burst suppression",
+        "C": "Periodic lateralized epileptiform discharges (PLEDs)",
+        "D": "Alpha coma pattern"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: While the topic is NCSE (relevant to Epilepsy/Critical Care), the original options were inadequate. Continuous generalized spike-and-wave discharges are a typical EEG finding in NCSE, making option A the most appropriate correct answer."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12733679,
+    "fields": {
+      "question_number": "Q522",
+      "question_text": "A patient diagnosed with ALS, his son asks you not to tell his father about the diagnosis. What should you do?",
+      "options": {
+        "A": "Tell the son that his father has the right to know about his condition.",
+        "B": "Agree with the son and withhold the diagnosis from the patient.",
+        "C": "Tell the patient the diagnosis without informing the son.",
+        "D": "Refer the son and patient to a counselor before disclosing the diagnosis."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This question primarily tests knowledge of medical ethics, specifically patient autonomy and the principles of disclosing diagnoses, rather than clinical knowledge within a specific neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1379182,
+    "fields": {
+      "question_number": "Q260",
+      "question_text": "B. Is a sign of cerebellar dysfunction",
+      "options": {
+        "C": "Indicates ipsilateral trigeminal nerve involvement",
+        "D": "Is a nonspecific sign with no localizing value",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This is just a clinical sign (\"Ipsilateral nose wiping\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30263084,
+    "fields": {
+      "question_number": "Q276",
+      "question_text": "B. Glucose is not utilized by neurons",
+      "options": {
+        "C": "Glucose levels do not affect neurological function",
+        "D": "Glucose is only important in peripheral tissues",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This is just a keyword (\"Glucose\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18741323,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "A female patient with weight gain presents with carpal tunnel syndrome on the left side and had delayed reflexes. What is the next step in management?",
+      "options": {
+        "A": "Thyroid Function Tests (TFT)",
+        "B": "Nerve conduction studies",
+        "C": "Wrist splinting and NSAIDs",
+        "D": "Electromyography (EMG)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Although symptoms like carpal tunnel syndrome and delayed reflexes fall under the Neuromuscular domain, the question's core concept is recognizing a potential *systemic* cause (hypothyroidism suggested by weight gain, CTS, and delayed reflexes) and ordering the appropriate screening test (TFT). This leans more towards general medical knowledge integrated with neurology rather than a specific subspecialty focus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77125839,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "Q52. (Source: Part 2 2021_mcqs.txt) What is the recommendation for NSAID use in the 3rd trimester of pregnancy?",
+      "options": {
+        "A": "It is safe to use",
+        "B": "It should be avoided due to the risk of premature closure of the ductus arteriosus",
+        "C": "It is the first-line treatment",
+        "D": "It can be used if other medications fail"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This question assesses knowledge of general pharmacology and obstetrical safety guidelines regarding medication use (NSAIDs) during pregnancy. It is not specific to any neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62940617,
+    "fields": {
+      "question_number": "Q159",
+      "question_text": "B. Levodopa is a dopamine precursor used in Parkinson's disease [CORRECT]",
+      "options": {
+        "C": "Levodopa is an antiepileptic drug",
+        "D": "Levodopa is a muscle relaxant",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This is just a drug name (\"Levodopa\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41976035,
+    "fields": {
+      "question_number": "Q305",
+      "question_text": "Which of the following neurological conditions is most likely associated with a \"Figure of 4\" posture in the left limb extension?",
+      "options": {
+        "A": "Upper motor neuron lesion causing spastic hemiparesis",
+        "B": "Lower motor neuron lesion causing flaccid paralysis",
+        "C": "Cerebellar ataxia causing intention tremor",
+        "D": "Peripheral neuropathy causing distal muscle weakness"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This describes a physical exam finding (\"Figure of 4 left limb extension\") associated with upper motor neuron lesions causing characteristic posturing."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8824601,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "Q44. (Source: Part 2 2021_mcqs.txt) The same patient is asking about the associated antibody. Which antibody is most likely present?",
+      "options": {
+        "A": "Anti-GM1",
+        "B": "Anti-MAG",
+        "C": "Anti-AChR",
+        "D": "Anti-PLA2R"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The question explicitly refers to a previous scenario (\"The same patient...\") which is not provided. Without the clinical context, it's impossible to determine the condition being discussed and therefore the relevant subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 57753561,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "Q40. (Source: Part II 2018_mcqs.txt) In the same scenario, what is the next step in management?",
+      "options": {
+        "A": "Start levodopa",
+        "B": "Initiate physical therapy",
+        "C": "Order brain MRI",
+        "D": "Begin dopamine agonist therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: This question explicitly refers to a preceding scenario (\"In the same scenario\") which is not provided. Without context, it cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25271794,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "Q31. (Source: Part 2 2020 copy_mcqs.txt) In a patient with Progressive Supranuclear Palsy (PSP), what is the most likely diagnosis?",
+      "options": {
+        "A": "Parkinson's disease",
+        "B": "Multiple system atrophy",
+        "C": "Corticobasal degeneration",
+        "D": "Progressive Supranuclear Palsy"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: The question is incomplete and nonsensical as written (\"In a patient with PSP, what is the most likely diagnosis?\" - the diagnosis is given) and lacks proper answer options."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97473096,
+    "fields": {
+      "question_number": "Q122",
+      "question_text": "A 76-year-old gentleman with Parkinson's disease has been maintained on his medications with good motor response. Over the last year, he has developed asymmetrical tremors with rigidity. Which of the following findings is most likely on MRI?",
+      "options": {
+        "A": "Asymmetrical atrophy",
+        "B": "Subthalamic nucleus (STN) lesion",
+        "C": "Essential palatal myoclonus",
+        "D": "Symptomatic palatal myoclonus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: The question stem describes worsening parkinsonism (Movement Disorder domain), but the provided answer choices, particularly the purportedly correct answer (Essential palatal myoclonus), are poorly correlated with the clinical description of worsening asymmetric tremor/rigidity in PD. The disconnect makes the question's intent unclear and potentially flawed, thus classifying as Other_Unclassified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29760499,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "Q24. (Source: PART I - 2024 - KSMC Revision_mcqs.txt) An elderly patient with poor oral intake has a one-week history of ongoing infection. What is the most likely cause?",
+      "options": {
+        "A": "Systemic",
+        "B": "Vascular",
+        "C": "Neurological",
+        "D": "Metabolic"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: This question is extremely vague and lacks neurological specificity. \"Ongoing infection\" in an elderly patient with poor intake could relate to numerous systemic issues. While neurological complications like delirium can occur, the question does not provide enough information to classify it under a neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83366246,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "Q58. (Source: Part 2 2021_mcqs.txt) A group of doctors completed research, and the chairman's friend asked to add the chairman\u2019s name to the publication. What is the most appropriate action?",
+      "options": {
+        "A": "Refuse to include the chairman's name",
+        "B": "Consult the Institutional Review Board (IRB)",
+        "C": "Include the name to avoid conflict",
+        "D": "Discuss with the research team"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This question deals purely with research ethics, specifically authorship criteria and handling inappropriate requests. It does not test knowledge of any neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4055379,
+    "fields": {
+      "question_number": "Q304",
+      "question_text": "B. Posterior",
+      "options": {
+        "C": "Medial",
+        "D": "Lateral",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This is just an anatomical directional term (\"Dorsolateral\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16655883,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "Hemianesthesia is best described as:",
+      "options": {
+        "A": "Complete loss of motor function on one side of the body",
+        "B": "Loss of sensation on one side of the body",
+        "C": "Loss of vision in half of the visual field",
+        "D": "Involuntary muscle contractions on one side of the body"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This is just a neurological symptom (\"Hemianesthesia\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46879819,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "A nurse with multiple sclerosis comes for a follow-up. She is about to get married to a doctor\u2019s friend and asks the doctor not to disclose her disease. What should the doctor do?",
+      "options": {
+        "A": "Tell him",
+        "B": "Talk to her and refer to social services",
+        "C": "Respect her wishes and record that on file",
+        "D": "Encourage her to inform her fianc\u00e9 herself"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This question focuses on medical ethics and patient confidentiality, specifically regarding disclosure of sensitive health information, rather than clinical knowledge about Multiple Sclerosis or any other neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 57884910,
+    "fields": {
+      "question_number": "Q188",
+      "question_text": "A patient presents with dysarthria and dysphagia. What do you expect to find on this patient?",
+      "options": {
+        "A": "Left eye ptosis",
+        "B": "Right eye ptosis",
+        "C": "Right plantar Babinski response",
+        "D": "Tongue deviation to one side"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: The question tests basic neurological localization and pattern recognition (associating bulbar symptoms with potential cranial nerve or UMN signs). However, the connection between dysarthria/dysphagia and isolated ptosis or a Babinski sign is not specific enough to pinpoint a single subspecialty beyond general neurological assessment principles."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67015755,
+    "fields": {
+      "question_number": "Q228",
+      "question_text": "Q228. (Source: Part II 2019_mcqs.txt) In the management of spasticity and weakness due to baclofen, which of the following should be tried next?",
+      "options": {
+        "A": "Botox",
+        "B": "Tizanidine",
+        "C": "Increase baclofen dose",
+        "D": "Baclofen pump"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This question addresses the general management of spasticity, a symptom common across various neurological disorders (e.g., MS, stroke, spinal cord injury). While relevant to Neuroimmunology (e.g., MS spasticity) or Critical Care/NeuroRehab, it tests a broad treatment principle rather than knowledge specific to a single subspecialty's core pathology or diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30186231,
+    "fields": {
+      "question_number": "Q236",
+      "question_text": "Q236. (Source: Part II 2019_mcqs.txt) A patient with impaired decision-making capacity wishes to discharge home because he feels better. What should be done?",
+      "options": {
+        "A": "Allow him to discharge",
+        "B": "Keep him admitted",
+        "C": "Call family members",
+        "D": "Arrange for a psychiatric evaluation"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This question deals with the assessment of medical decision-making capacity and the ethical/legal procedures for managing patients who lack capacity. This falls under general medical ethics and patient management, not a specific neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19050413,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "Q36. (Source: Part 1 2021_mcqs.txt) A drug company is providing a new drug similar to an already existing one with the same usages and side effects but at a higher cost. They offered to give you 10% of the money. What should your action be?",
+      "options": {
+        "A": "Give them your IBAN",
+        "B": "Tell them to make it 25%",
+        "C": "Refuse and ignore the meeting",
+        "D": "Refuse and report them to Nezaha"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This is purely an ethics question concerning professional conduct, conflicts of interest, and interactions with the pharmaceutical industry. It is unrelated to clinical neurology subspecialties."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22229844,
+    "fields": {
+      "question_number": "Q191",
+      "question_text": "B. Verbal apraxia",
+      "options": {
+        "C": "Broca\u2019s aphasia",
+        "D": "Dysarthria",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This question tests the definition of basic neurological terminology (dysarthria). While important for all neurologists, it's a fundamental concept rather than specific subspecialty knowledge."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92574224,
+    "fields": {
+      "question_number": "Q348",
+      "question_text": "B. Lamictal is an antibiotic used for bacterial infections",
+      "options": {
+        "C": "Lamictal is a muscle relaxant used in spasticity",
+        "D": "Lamictal is a dopamine agonist used in Parkinson\u2019s disease treatment",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: This is just a drug name (\"Lamictal\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85411686,
+    "fields": {
+      "question_number": "Q365",
+      "question_text": "Q365. (Source: part 2 2021 (2)_mcqs.txt) A 19-year-old female patient came with encephalopathy; MRI showed high signal intensity in the basal ganglia and thalamus; what is the next step?",
+      "options": {
+        "A": "Lumbar puncture",
+        "B": "Anti-MOG antibody testing",
+        "C": "Aquaporin-4 antibody testing",
+        "D": "Brain biopsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The clinical presentation (encephalopathy with specific MRI findings in a young patient) is broad and could suggest various etiologies (metabolic, toxic, infectious, inflammatory/immune). The question asks for a general next diagnostic step (Lumbar Puncture), which is a common procedure in undifferentiated encephalopathy workups, rather than focusing on a specific subspecialty diagnosis (like anti-NMDA encephalitis which might be considered but isn't explicitly tested here). Therefore, it remains Other_Unclassified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89657405,
+    "fields": {
+      "question_number": "Q358",
+      "question_text": "Q358. (Source: part 2 2021 (2)_mcqs.txt) A patient presents with hyperreflexia and headache, and an MRI shows diffuse lesions. What is the next step in management?",
+      "options": {
+        "A": "Skin biopsy",
+        "B": "Muscle biopsy",
+        "C": "Chest X-ray of fibroblasts",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The clinical information (hyperreflexia, headache, diffuse MRI lesions) is highly non-specific. The answer options (biopsies, CXR) do not clearly point towards a standard diagnostic pathway for a recognizable neurological syndrome without significantly more context. The vagueness prevents classification."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79632157,
+    "fields": {
+      "question_number": "Q114",
+      "question_text": "Q114. (Source: Part 2 2020 copy_mcqs.txt) After receiving methylprednisolone, how long should a woman wait before nursing to minimize risks?",
+      "options": {
+        "A": "1 hour",
+        "B": "3 to 4 hours",
+        "C": "12 hours",
+        "D": "24 hours"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This question tests knowledge about the pharmacokinetics of a common medication (methylprednisolone) and its implications for breastfeeding. This falls under general pharmacology and practical patient advice rather than a specific neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67134258,
+    "fields": {
+      "question_number": "Q28",
+      "question_text": "A case scenario presents a patient with a CT brain scan showing multiple brain calcifications. What is the most likely diagnosis?",
+      "options": {
+        "A": "Insufficient information to determine diagnosis",
+        "B": "Fahr\u2019s disease",
+        "C": "Toxoplasmosis infection",
+        "D": "Sturge-Weber syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Brain calcifications can be caused by numerous conditions (infectious, genetic, metabolic, vascular, neoplastic). Without any clinical details about the patient (age, symptoms, family history etc.) or specific location/pattern of calcification, it's impossible to determine the context or classify the question."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59729695,
+    "fields": {
+      "question_number": "Q23",
+      "question_text": "A young male presents with progressive external ophthalmoplegia. What is the likely diagnosis?",
+      "options": {
+        "A": "Myasthenia gravis",
+        "B": "Mitochondrial myopathy",
+        "C": "Multiple sclerosis",
+        "D": "Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The question describes a symptom (Progressive External Ophthalmoplegia - PEO) commonly associated with mitochondrial myopathies, making option B the most likely diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89798864,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "B. Is a description of cognitive impairment [CORRECT]",
+      "options": {
+        "C": "Is caused by a single gene defect",
+        "D": "Is always progressive",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: \"Mental retardation\" (an outdated term for Intellectual Disability) is a description, not a diagnosis in itself, and can result from countless underlying causes spanning Neurogenetics, Pediatric Neurology, Neuroinfectious (congenital), Neurotoxicology, etc. The term alone, without any context, is unclassifiable."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64913083,
+    "fields": {
+      "question_number": "Q261",
+      "question_text": "Valproate is primarily used in the treatment of which of the following conditions?",
+      "options": {
+        "A": "Epilepsy",
+        "B": "Parkinson\u2019s disease",
+        "C": "Multiple sclerosis",
+        "D": "Alzheimer's disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This question assesses knowledge of valproate\u2019s primary clinical use, which is in epilepsy management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83424926,
+    "fields": {
+      "question_number": "Q306",
+      "question_text": "B. Used to treat epilepsy and neuropathic pain [CORRECT]",
+      "options": {
+        "C": "Used as a first-line treatment for multiple sclerosis",
+        "D": "Used exclusively for migraine prophylaxis",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: This is just a drug name (\"Carbamazepine\") without any context, question, or options. Carbamazepine is used in Epilepsy, Neuropathic Pain (Neuromuscular/Pain), and Psychiatry, making classification impossible without context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 3044929,
+    "fields": {
+      "question_number": "Q105",
+      "question_text": "B. Antibiotic therapy",
+      "options": {
+        "C": "Antiepileptic drug",
+        "D": "Dopamine agonist",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This is just a drug name (\"Propranolol\") without any context, question, or options. Propranolol is used in Headache, Movement Disorders (tremor), and general medicine, making classification impossible without context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2305217,
+    "fields": {
+      "question_number": "Q165",
+      "question_text": "Q165. (Source: Promotion 2021_mcqs.txt) In the same scenario as above, what is the next step in management?",
+      "options": {
+        "A": "Refer to surgery",
+        "B": "Initiate corticosteroid therapy",
+        "C": "Order MRI brain with contrast",
+        "D": "Begin physical rehabilitation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This question explicitly refers to a preceding scenario (\"as above\") which is not provided. Without context, it cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44352963,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "A nurse got a needle stick in her finger after blood extraction from a patient. She refuses to report it to infection control because the patient looks fine. What should you do?",
+      "options": {
+        "A": "Report the incident.",
+        "B": "Respect the nurse's need.",
+        "C": "Check the patient file.",
+        "D": "Screen the patient for HIV, HBV, and HCV."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This question assesses knowledge of occupational health protocols, infection control procedures, and ethical responsibilities following a needlestick injury. It is not specific to a clinical neurological subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22742722,
+    "fields": {
+      "question_number": "Q71",
+      "question_text": "B) Obtain written consent from the patient.",
+      "options": {
+        "C": "Ensure the patient understands the risks and benefits.",
+        "D": "Provide the patient with a brochure about the study.",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This question tests understanding of the core components of informed consent, a fundamental principle in medical ethics and research conduct, applicable across all medical fields, not specific to neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87506735,
+    "fields": {
+      "question_number": "Q264",
+      "question_text": "B. Is a non-selective beta blocker [CORRECT]",
+      "options": {
+        "C": "Is primarily used to treat epilepsy",
+        "D": "Has no effect on migraine prophylaxis",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: This is just a drug name (\"Propranolol\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77445722,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "Q69. (Source: Part 2 2020 copy_mcqs.txt) Aspirin (ASA) is commonly used in neurology for which of the following purposes?",
+      "options": {
+        "A": "To reduce the risk of ischemic stroke by inhibiting platelet aggregation",
+        "B": "To treat acute bacterial meningitis",
+        "C": "To manage seizures in epilepsy",
+        "D": "To reverse anticoagulation in hemorrhagic stroke"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This is just a drug name/abbreviation (\"Aspirin (ASA)\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32371664,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "Q80. (Source: Part 2 2020 copy_mcqs.txt) Dual antiplatelet therapy (DAPT) is primarily used in which of the following clinical scenarios?",
+      "options": {
+        "A": "Secondary prevention after ischemic stroke or transient ischemic attack",
+        "B": "Management of acute coronary syndrome",
+        "C": "Treatment of hemorrhagic stroke",
+        "D": "Primary prevention of cardiovascular disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This is just a treatment strategy (\"Dual antiplatelet therapy (DAPT)\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33204294,
+    "fields": {
+      "question_number": "Q83",
+      "question_text": "Weakness is a common neurological symptom. Which of the following is the most likely cause of acute unilateral weakness?",
+      "options": {
+        "A": "Stroke",
+        "B": "Multiple sclerosis",
+        "C": "Peripheral neuropathy",
+        "D": "Myasthenia gravis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This question addresses the differential diagnosis of weakness, focusing on acute unilateral weakness, which is most commonly caused by stroke."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15843377,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "Anomia is best described as which of the following?",
+      "options": {
+        "A": "Difficulty in naming objects or retrieving words",
+        "B": "Loss of ability to understand spoken language",
+        "C": "Inability to recognize faces",
+        "D": "Difficulty in coordinating voluntary movements"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: This is just a symptom (\"Anomia\") without any context, question, or options. It cannot be classified."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75061196,
+    "fields": {
+      "question_number": "Q263",
+      "question_text": "B. Phenytoin",
+      "options": {
+        "C": "Carbamazepine",
+        "D": "Valproate",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Other/Unclassified",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: This is just a drug name (\"Keppra\") without any context, question, or options. It cannot be classified."
+    }
+  }
+]

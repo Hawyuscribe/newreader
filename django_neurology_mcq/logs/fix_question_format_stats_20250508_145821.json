@@ -1,0 +1,15 @@
+{
+  "total_mcqs": 20,
+  "mcqs_with_merged_options": 20,
+  "mcqs_fixed": 20,
+  "mcqs_unfixable": 0,
+  "by_subspecialty": {
+    "Dementia": {
+      "total": 20,
+      "merged_options": 20,
+      "merged_percentage": 100.0,
+      "fixed": 20,
+      "fixed_percentage": 100.0
+    }
+  }
+}

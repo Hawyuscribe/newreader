@@ -1,0 +1,124 @@
+{
+  "timestamp": "2025-05-24T08:33:59.179407",
+  "backend_issues": [
+    {
+      "severity": "HIGH",
+      "type": "Memory Leak",
+      "description": "Sessions are stored globally without cleanup mechanism",
+      "line": 33,
+      "fix": "Implement session timeout and cleanup"
+    },
+    {
+      "severity": "HIGH",
+      "type": "Case Repetition",
+      "description": "No mechanism to track previously shown cases",
+      "fix": "Implement case history tracking per user"
+    },
+    {
+      "severity": "MEDIUM",
+      "type": "API Protection",
+      "description": "No rate limiting for API calls",
+      "fix": "Implement rate limiting to prevent abuse"
+    },
+    {
+      "severity": "LOW",
+      "type": "Flexibility",
+      "description": "Hardcoded temperature value reduces case variety",
+      "line": 62983,
+      "fix": "Make temperature dynamic based on phase"
+    },
+    {
+      "severity": "MEDIUM",
+      "type": "Error Handling",
+      "description": "State transitions lack error recovery",
+      "fix": "Add try-catch blocks around state transitions"
+    }
+  ],
+  "frontend_issues": [
+    {
+      "severity": "MEDIUM",
+      "type": "User Experience",
+      "description": "No client-side session recovery",
+      "fix": "Implement localStorage for session recovery"
+    },
+    {
+      "severity": "LOW",
+      "type": "Accessibility",
+      "description": "No keyboard shortcuts for common actions",
+      "fix": "Add keyboard shortcuts for phase navigation"
+    }
+  ],
+  "case_variety": {
+    "total_specialties": 17,
+    "total_conditions": 287,
+    "average_per_specialty": 16.88235294117647,
+    "low_variety_specialties": [
+      [
+        "Epilepsy",
+        17
+      ],
+      [
+        "Headache",
+        16
+      ],
+      [
+        "Movement Disorders",
+        14
+      ],
+      [
+        "Neuro-otology",
+        14
+      ],
+      [
+        "Neurogenetics",
+        18
+      ],
+      [
+        "Neuroimmunology",
+        18
+      ],
+      [
+        "Neuro-infectious",
+        15
+      ],
+      [
+        "Neuro-oncology",
+        15
+      ],
+      [
+        "Neuroophthalmology",
+        15
+      ],
+      [
+        "Neuropsychiatry",
+        17
+      ],
+      [
+        "Neurotoxicology",
+        15
+      ],
+      [
+        "Neuromuscular",
+        16
+      ],
+      [
+        "Pediatric Neurology",
+        18
+      ],
+      [
+        "Sleep Neurology",
+        14
+      ],
+      [
+        "Vascular Neurology/Stroke",
+        16
+      ]
+    ]
+  },
+  "summary": {
+    "high": 2,
+    "medium": 3,
+    "low": 2,
+    "total": 7
+  }
+}

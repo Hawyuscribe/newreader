@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q225",
+    "question_text": "An 18-year-old female patient with seizures is found dead in bed after taking only one AED. What is the risk of sudden unexpected death in epilepsy (SUDEP)?",
+    "options": {
+      "A": "SUDEP risk is negligible in patients on monotherapy",
+      "B": "SUDEP risk is highest in patients with uncontrolled generalized tonic-clonic seizures",
+      "C": "SUDEP risk is only increased in patients with refractory epilepsy on polytherapy",
+      "D": "SUDEP risk is unrelated to seizure frequency or control"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q215",
+    "question_text": "What is the effect of adding a third antiepileptic drug (AED) on seizure control?",
+    "options": {
+      "A": "60%",
+      "B": "50%",
+      "C": "11%",
+      "D": "5%"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "Which of the following treatments is commonly used for Landau-Kleffner syndrome?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Valproic acid",
+      "C": "Phenytoin",
+      "D": "Lamotrigine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "Patient with MTS seizure; EEG showed left temporal discharges. What symptoms does he have?",
+    "options": {
+      "A": "Left automatism",
+      "B": "Right hand dystonia",
+      "C": "Aphasia",
+      "D": "Right head version"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "In a scenario of dyscognitive auras (Temporal lobe epilepsy), what imaging is typically used for diagnosis?",
+    "options": {
+      "A": "CT scan",
+      "B": "MRI",
+      "C": "PET scan",
+      "D": "EEG"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q259",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with an aura of fear and seizure localization. Which area of the brain is most likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "known case of epilepsy, a female on lamotrigine, wants to start on OCB. What will you tell her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q189",
+    "question_text": "",
+    "options": {
+      "A": "patient with a first-time seizure, normal physical examination, and normal EEG, regarding his risk of seizure recurrence?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "",
+    "options": {
+      "A": "3-year-old boy presented with developmental delay and seizures consisting of tonic seizures, drop attacks, and other types of seizures. What do you expect to find on his EEG (Lennox-Gastaut syndrome)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q221",
+    "question_text": "",
+    "options": {
+      "A": "2-year-old baby with developmental delay has tonic-clonic seizures and drop seizures. What would you expect to find on the EEG?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q268",
+    "question_text": "",
+    "options": {
+      "A": "medical patient with diabetes mellitus, hypertension, hyperlipidemia, osteoporosis, and on warfarin, what antiepileptic medication should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "In a case scenario of a 30-year-old female patient with bizarre nocturnal movements, what is the likely localization of the seizure focus?",
+    "options": {
+      "A": "Frontal operculum",
+      "B": "Dorsomedial (SMA)",
+      "C": "Temporal lobe",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "What is the most common cause of sudden unexpected death in epilepsy?",
+    "options": {
+      "A": "Uncontrolled seizures",
+      "B": "Status epilepticus",
+      "C": "Drowning",
+      "D": "Cardiac arrhythmia"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "Patient with typical symptoms of Juvenile Myoclonic Epilepsy (JME), what is a characteristic feature?",
+    "options": {
+      "A": "Seizure induced by photic stimulation",
+      "B": "Seizures occurring only during sleep",
+      "C": "Progressive cognitive decline",
+      "D": "Focal motor seizures without generalization"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female patient diagnosed with epilepsy is currently on Lacosamide 200 mg BID and Levetiracetam 1500 mg BID. She presented to the epilepsy outpatient clinic for evaluation. She reported a history of generalized seizure preceded by feelings of fear and palpitations. While in the clinic, she had a seizure episode that started with chewing spells and right hand automatism followed by bilateral generalized tonic-clonic seizure. She doesn\u2019t recall the event. Which of the following is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "patient has aphasia and multiple seizure types. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q252",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits seizure semiology characterized by flexion in one limb with extension of the other limb and head turning to the extended limb. Where is the likely localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "In the scenario of an elderly patient with comorbidities including renal stones, heart failure, atrial fibrillation, and post-stroke seizures, what is the best AED to prescribe?",
+    "options": {
+      "A": "Lamictal",
+      "B": "Phenytoin",
+      "C": "Topamax",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q265",
+    "question_text": "What is the least medication to interact with oral contraceptive pills (OCP)?",
+    "options": {
+      "A": "Keppra",
+      "B": "Lamictal",
+      "C": "Valproate",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q255",
+    "question_text": "",
+    "options": {
+      "A": "scenario about a child who has an attack of stereotypical hyperkinetic behavior occurring during the night (EEG attached showed frontal discharge). What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "Multiple seizure types refractory to AEDs",
+    "options": {
+      "A": "Indicates the need for increasing AED doses",
+      "B": "Suggests drug-resistant epilepsy requiring specialist evaluation",
+      "C": "Means seizures will resolve spontaneously over time",
+      "D": "Implies non-epileptic seizures are present"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "In a case of catamenial seizures, which statement is true?",
+    "options": {
+      "A": "Estrogen will decrease the seizure threshold",
+      "B": "Progesterone increases seizure frequency",
+      "C": "Seizure frequency is unrelated to menstrual cycle",
+      "D": "Testosterone has no effect on seizure threshold"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "child who has 2 episodes of seizure, all occurring when he was in the train, associated with nausea and vomiting. EEG showed posterior discharges. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "",
+    "options": {
+      "A": "child with recurrent staring episodes, myoclonus, and rare generalized tonic-clonic seizures (GTCs) is being treated. Which of the following anti-seizure medications will worsen his seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q199",
+    "question_text": "Which EEG finding has the best prognostic value in a 9-year-old boy who has frequent staring spells, especially at school?",
+    "options": {
+      "A": "Seizure onset",
+      "B": "Absence seizure",
+      "C": "Normal background activity",
+      "D": "Generalized delta waves"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

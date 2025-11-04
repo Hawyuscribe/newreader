@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with peripheral neuropathy, and his symptoms were provoked after minor surgery. Which vitamin deficiency should be considered?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q215",
+    "question_text": "Regarding the age of onset of myasthenia gravis (MG), which of the following statements is correct?",
+    "options": {
+      "A": "Female in the 3rd decade, male in the 6th and 7th decades",
+      "B": "Female in the 5th decade, male in the 3rd decade",
+      "C": "Female in the 2nd decade, male in the 6th and 7th decades",
+      "D": "Female and male both commonly present in the 4th decade"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "Which of the following is most common in the pathophysiology of Myasthenia Gravis (MG)?",
+    "options": {
+      "A": "Acetylcholine binding",
+      "B": "Acetylcholine blocking",
+      "C": "Acetylcholine modulating",
+      "D": "Acetylcholine degradation"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hip flexion weakness, thigh adduction weakness, and knee extension weakness after abdominal surgery. She is on warfarin. Where is the lesion likely located?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q199",
+    "question_text": "",
+    "options": {
+      "A": "smoker male presents with bilateral ptosis and proximal weakness. Where is the lesion located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with perioral fasciculation, areflexia, and systemic manifestations. Which of the following conditions could be associated with these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q254",
+    "question_text": "",
+    "options": {
+      "A": "Intravenous immunoglobulin (IVIG)",
+      "B": "Steroids",
+      "C": "Plasmapheresis",
+      "D": "Supportive care"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "In a patient with myasthenia gravis, which medication should be avoided in the case of decreased thiopurine S-methyltransferase (TPMT) enzyme activity?",
+    "options": {
+      "A": "Azathioprine",
+      "B": "Mycophenolate",
+      "C": "Cyclophosphamide",
+      "D": "Methotrexate"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q237",
+    "question_text": "In a patient with Bell's palsy, which muscle is involved?",
+    "options": {
+      "A": "Stylohyoid",
+      "B": "Temporalis",
+      "C": "Masseter",
+      "D": "Levator palpebrae"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "What is the cause of prolonged duration and drop amplitude in CMAP?",
+    "options": {
+      "A": "Low temperature",
+      "B": "Conduction block in some fibres",
+      "C": "Demyelination",
+      "D": "Axonal loss"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "scenario about a patient with shoulder and arm pain, with MRI spine showing disc prolapse at the level of C5. What is the muscle to be examined by EMG?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "In a case of Mononeuritis Multiplex with weight loss and fever, which histologic finding is most characteristic?",
+    "options": {
+      "A": "Onion rings",
+      "B": "Lymphocyte infiltration",
+      "C": "IgG deposit",
+      "D": "Necrotizing vasculitis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "case of Crohn\u2019s disease underwent resection and presented with ataxia and decreased reflexes. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "",
+    "options": {
+      "A": "patient with a radial fracture one month ago complains of pain and erythema. Examination was difficult because of pain. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "In a case of dermatomyositis, what are the histology findings?",
+    "options": {
+      "A": "Perifascicular atrophy",
+      "B": "Endomysial inflammation with invasion of non-necrotic fibers",
+      "C": "Rimmed vacuoles in muscle fibers",
+      "D": "Neurogenic atrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "In a case of dermatomyositis, what are the histology findings?",
+    "options": {
+      "A": "Perifascicular atrophy",
+      "B": "Endomysial inflammation with CD8+ T cells",
+      "C": "Rimmed vacuoles in muscle fibers",
+      "D": "Granulomatous inflammation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "Which visual field defect is characterized by contralateral homonymous hemianopia with macular sparing?",
+    "options": {
+      "A": "Central scotoma",
+      "B": "Monocular vision loss",
+      "C": "Bitemporal hemianopia",
+      "D": "Contralateral homonymous hemianopia with macular sparing"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In a case of relative afferent pupillary defect (RAPD) in the right eye with right homonymous hemianopia, what is the localization?",
+    "options": {
+      "A": "Left optic tract",
+      "B": "Right optic nerve",
+      "C": "Left occipital cortex",
+      "D": "Right lateral geniculate nucleus"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "patient is unable to track with his eyes and has to shake his head to change his gaze. What is this condition called?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "patient with stroke who is unable to move his eyes from one object to another and uses head thrusting is likely experiencing:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "patient with headache and papilledema, the headache increases when she lies down, and she has mild visual obscuration. What is the next management step?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "In Horner's syndrome, what can hydroxyamphetamine do?",
+    "options": {
+      "A": "Confirm Horner's syndrome",
+      "B": "Differentiate third-order neuron from first and second-order neurons",
+      "C": "Treat nystagmus",
+      "D": "Induce pupil dilation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "In a patient with right eye optic neuritis, what would you expect to see in the visual evoked potential (VEP)?",
+    "options": {
+      "A": "Prolonged P100 latency in the right eye",
+      "B": "Increased amplitude of the P100 wave",
+      "C": "Normal VEP in both eyes",
+      "D": "Absent VEP response in the left eye"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "young male presents with central vision loss in the right eye, followed by central vision loss in the left eye a month later, and then develops hearing loss. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "patient after minor trauma was reading a newspaper when he developed diplopia that worsened when he looked down to the left (vertical diplopia). The outer image came from the right eye. Where is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  }
+]

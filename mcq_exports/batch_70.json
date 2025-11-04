@@ -1,0 +1,381 @@
+[
+  {
+    "question_number": "Q371",
+    "question_text": "",
+    "options": {
+      "A": "Persistent enhancement more than 3 months",
+      "B": "Oligoclonal bands in cerebrospinal fluid",
+      "C": "Dawson\u2019s fingers on MRI",
+      "D": "Relapsing-remitting neurological symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q372",
+    "question_text": "",
+    "options": {
+      "A": "No treatment needed",
+      "B": "Pulse steroids",
+      "C": "Plasma exchange",
+      "D": "IVIG"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q375",
+    "question_text": "",
+    "options": {
+      "A": "Multiple sclerosis",
+      "B": "Neuromyelitis optica spectrum disorder (NMOSD)",
+      "C": "MOG Antibody Disease (MOGAD)",
+      "D": "Ischemic optic neuropathy"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q378",
+    "question_text": "",
+    "options": {
+      "A": "Alemtuzumab",
+      "B": "Fingolimod",
+      "C": "Ocrelizumab",
+      "D": "Dimethyl fumarate"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q379",
+    "question_text": "",
+    "options": {
+      "A": "Alemtuzumab",
+      "B": "Fingolimod",
+      "C": "Natalizumab",
+      "D": "Ocrelizumab"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q380",
+    "question_text": "",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Neuromyelitis optica spectrum disorder",
+      "C": "Spinal cord infarction",
+      "D": "Chronic inflammatory demyelinating polyneuropathy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q381",
+    "question_text": "",
+    "options": {
+      "A": "Rebound disease",
+      "B": "Pseudo relapse",
+      "C": "True relapse",
+      "D": "Urinary tract infection"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis presented with leg weakness that improved with steroids but recurred after one week. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "woman with multiple sclerosis on fingolimod has a brain MRI showing new active lesions in the left frontal lobe. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "Which of the following has an indication in multiple sclerosis disease progression?",
+    "options": {
+      "A": "Cortical atrophy",
+      "B": "T2 lesions",
+      "C": "Gadolinium-enhancing lesions",
+      "D": "T1 lesions"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "In the same scenario of the young female with sudden left-sided weakness, what would you give for her symptoms over the last 5 days?",
+    "options": {
+      "A": "Pulse steroid",
+      "B": "Aspirin",
+      "C": "Intravenous immunoglobulin (IVIG)",
+      "D": "Oral antibiotics"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "In which case would steroids have an effect?",
+    "options": {
+      "A": "Brain cancer with vasogenic edema",
+      "B": "Traumatic brain injury",
+      "C": "Multiple sclerosis",
+      "D": "Alzheimer's disease"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "In which case would steroids have an effect?",
+    "options": {
+      "A": "Brain cancer with vasogenic edema",
+      "B": "Traumatic brain injury",
+      "C": "Multiple sclerosis",
+      "D": "Alzheimer's disease"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "",
+    "options": {
+      "A": "patient with optic neuritis symptoms and brain MRI showing multiple white matter lesions periventricular, which of the following is true?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q248",
+    "question_text": "In patients with high-risk clinically isolated syndrome (CIS), which of the following factors is predictive of future rapid disability worsening as measured by EDSS?",
+    "options": {
+      "A": "Younger age",
+      "B": "Absence of disease-modifying treatment (DMT)",
+      "C": "Presence of T2 lesions",
+      "D": "Older age"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q269",
+    "question_text": "Which symptom indicates worsening in primary progressive multiple sclerosis (PPMS)?",
+    "options": {
+      "A": "Leg weakness",
+      "B": "Upper limb weakness",
+      "C": "Fatigue",
+      "D": "Visual disturbances"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q220",
+    "question_text": "Which of the following is considered a red flag in multiple sclerosis (MS)?",
+    "options": {
+      "A": "Bilateral internuclear ophthalmoplegia (INO)",
+      "B": "Extensive transverse myelitis (TM)",
+      "C": "Enhancing lesion greater than 3 months",
+      "D": "Complete gaze palsy"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "AQP4-IgG is a specific, pathogenic biomarker of which condition?",
+    "options": {
+      "A": "Multiple Sclerosis",
+      "B": "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+      "C": "Amyotrophic Lateral Sclerosis",
+      "D": "Guillain-Barr\u00e9 Syndrome"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q385",
+    "question_text": "What is the risk of multiple sclerosis (MS) in 15 years if there is a history of optic neuritis and several T2 supratentorial lesions?",
+    "options": {
+      "A": "50% with need to start DMT",
+      "B": "30% with need to start DMT",
+      "C": "30% without need to start DMT",
+      "D": "10% with no MRI lesions"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "",
+    "options": {
+      "A": "young male had an isolated single attack of focal neurological deficit and did not start on DMT. What is the percentage chance of having a second attack?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "male patient with limbic encephalitis (seizures, psychosis) is asked about the most common antibody associated with this condition. Which of the following is the answer?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with Multiple Sclerosis is being evaluated. What would be a favorable factor in her case?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "",
+    "options": {
+      "A": "19-year-old female presented with a history of seizures. One month before presentation, she had depression, social isolation, personality changes, and hallucinations. She was taken to a psychiatrist and was given antipsychotic medications. The examination was unremarkable except for orofacial dyskinesia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "Which of the following MRI characteristics is the best predictor of future disability in patients with multiple sclerosis?",
+    "options": {
+      "A": "Baseline enhancing lesion number",
+      "B": "Baseline T2 lesion number",
+      "C": "Baseline T2 lesion volume",
+      "D": "Number of new enhancing lesions"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q306",
+    "question_text": "Which of the following treatments causes rebound multiple sclerosis (MS) if stopped?",
+    "options": {
+      "A": "Fingolimod",
+      "B": "Alemtuzumab",
+      "C": "Ocrelizumab",
+      "D": "Dimethyl fumarate"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

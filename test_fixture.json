@@ -1,0 +1,1 @@
+[{"model": "mcq.mcq", "pk": null, "fields": {"question_number": "UNIQUE_TEST_999", "question_text": "Test question to check import", "options": {"A": "Option A", "B": "Option B"}, "correct_answer": "A", "explanation": "Test explanation", "subspecialty": "Test"}}]

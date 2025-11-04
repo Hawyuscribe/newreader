@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Scenario for patient developed embolic stroke, his routine work up unremarkable, what to do next?",
+    "options": {
+      "option_a": "",
+      "option_b": "is assumed to represent the choice of extended cardiac monitoring. This is the correct next step after a negative initial evaluation in a patient with an embolic stroke pattern.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario for ischemic stroke, imaging showed bilateral anterior and posterior circulation strokes, what is the best step for management of this patient if TTE and TEE were negative?",
+    "options": {
+      "option_a": "",
+      "option_b": ", which is presumed to represent the strategy of prolonged or extended cardiac monitoring, is correct. It targets the possibility of intermittent atrial fibrillation that may have been missed on initial examinations.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Picture of spine MRI for patient has progressive myelopathy, ask about the diagnosis",
+    "options": {
+      "option_a": "",
+      "option_b": "corresponds to 'cervical spondylotic myelopathy', this is the correct choice based on the clinical picture and typical MRI findings associated with the condition.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Acute stroke With CT image with no established stroke ASPECT 8? Was treated with tPA CTA done and prepared for thrombectomy then he vomited and become lethargic bp 180/110",
+    "options": {
+      "option_a": "decrease bp",
+      "option_b": "Stop tPA",
+      "option_c": "Send him to CT",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of press female with high BP 180/?? Presented with seizure and confusion with MRI showing bilateral occipital cortical hyperintensity dx",
+    "options": {
+      "option_a": "PRESS",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "74-year-old male with CT brain image showing large hemorrhage in the cortex what to do next",
+    "options": {
+      "option_a": "MRI",
+      "option_b": "CTA",
+      "option_c": "conventional angio",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with small left internal capsule infarction and right-sided weakness for 2 days found to have PFO (not mentioned if there was a specific feature of it) HTN with uncontrolled BP. What is the treatment?",
+    "options": {
+      "option_a": "Aspirin",
+      "option_b": "Warfarin",
+      "option_c": "PFO closure",
+      "option_d": "Aspirin and plavix",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Alexia without agraphia with hemianopia",
+    "options": {
+      "option_a": "PCA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with ataxia and vomiting CT attached (showing hypodensity at the whole right cerebellum at the level of the midbrain)",
+    "options": {
+      "option_a": "SCA",
+      "option_b": "PCA",
+      "option_c": "PICA",
+      "option_d": "AICA",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Lady with 2 abortions came with stroke what to order",
+    "options": {
+      "option_a": "protein c def",
+      "option_b": "Antithrombin 3",
+      "option_c": "Antiphospholipid syndrome",
+      "option_d": "Protein glycoprotein 20220",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with history of mild head trauma pic showing (left Horner\u2019s and tongue deviation to the left) what is the involved artery",
+    "options": {
+      "option_a": "Internal carotid",
+      "option_b": "Vertebral artery",
+      "option_c": "PICA",
+      "option_d": "Basilar",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of presentation typical to Fabry with pic of angiokeratoma and 2 strokes and",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "Fabry",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario showing an MRI (flare) with unilateral deep watershed infarction what is the diagnosis",
+    "options": {
+      "option_a": "ICA stenosis",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with hemorrhagic stroke what bp target",
+    "options": {
+      "option_a": "160/100",
+      "option_b": "140/90",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with recent history of car accident has PCA infarction",
+    "options": {
+      "option_a": "Artery to artery",
+      "option_b": "Cryptogenic",
+      "option_c": "Cardioembolic",
+      "option_d": "Hypoperfusion",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of TGA (4 hours, confused, repeating questions, preserved identity, knows the family) Next step:",
+    "options": {
+      "option_a": "EEG",
+      "option_b": "Brain CT & CTA",
+      "option_c": "Lumbar puncture",
+      "option_d": "???",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient has stroke with slurred speech you referred him to speech therapist and rehab service, this is considered as:",
+    "options": {
+      "option_a": "Primary prevention",
+      "option_b": "Secondary prevention",
+      "option_c": "Tertiary prevention",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "RCVS ttt",
+    "options": {
+      "option_a": "(IV hydration) is supportive but insufficient as definitive therapy. Option B (Steroids) are contraindicated because RCVS is non",
+      "option_b": "",
+      "option_c": "(Nimodipine) is correct as it directly addresses the pathophysiologic mechanism of vasospasm. Option D (ASA) is not indicated since antiplatelet therapy does not target the dysregulated vascular tone and could potentially raise hemorrhagic risks.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A patient with 3rd nerve palsy, with contralateral weakness, localization:",
+    "options": {
+      "option_a": "(Pons) and Option B (Medulla) are incorrect because the oculomotor nerve originates in the midbrain. Option C (Bases of midbrain) is correct, as it accounts for the simultaneous involvement of CN III and the corticospinal tract.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "III nerve palsy with ipsilateral ataxia",
+    "options": {
+      "option_a": "(Claude syndrome) is correct because it exactly matches the clinical picture of CN III palsy with ipsilateral ataxia. Option B (Weber syndrome) is incorrect since it presents with contralateral hemiparesis. Option C (Benedikt syndrome) is associated with contralateral involuntary movements, and Option D (Nothnagel syndrome) is less commonly used and does not fully capture the classic presentation described.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  }
+]

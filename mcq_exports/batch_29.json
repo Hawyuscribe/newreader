@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q173",
+    "question_text": "What is the main neurotransmitter involved in migraine headaches?",
+    "options": {
+      "A": "Glutamate",
+      "B": "Serotonin",
+      "C": "Dopamine",
+      "D": "GABA"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "young man has a history of headaches lasting 15-20 minutes, located over his orbit, associated with nasal congestion. His wife reports that he becomes irritated and angry during these episodes. What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a history of unilateral headache, severe, lasting less than 5 minutes, with stabbing pain and associated autonomic symptoms on the same side (tearing). What is the best approach for treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "What is the mechanism of action of Botox in the treatment of migraine headaches?",
+    "options": {
+      "A": "Serotonin agonist",
+      "B": "Serotonin reuptake inhibitors",
+      "C": "Monoamine inhibitor",
+      "D": "Glutamate inhibition"
+    },
+    "correct_answer": "D",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a headache that came out of the blue and has persisted for 3 months. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "What is the second-line management for trigeminal neuralgia after carbamazepine?",
+    "options": {
+      "A": "Pregabalin",
+      "B": "Lamotrigine",
+      "C": "Baclofen",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a headache, normal brain CT, and lumbar puncture (LP) done by an intern that shows 48 WBCs, 780 RBCs, normal protein, and glucose. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "In a patient with migraine without aura, which of the following is the most relevant clinical picture?",
+    "options": {
+      "A": "30 to 60 minutes in duration",
+      "B": "Throbbing quality",
+      "C": "Bilateral location",
+      "D": "Not aggravated by daily activity"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q183",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male with a history of migraine has recently been diagnosed with myocardial infarction (MI) and coronary artery disease (CAD). What is contraindicated for use regarding preventive treatment of migraine?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "MRI brain shows brainstem hyperintensities",
+      "B": "PET scan shows changes in the diencephalon",
+      "C": "EEG shows spikes and acceleration",
+      "D": "Trigeminal nerve hypertrophy"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q195",
+    "question_text": "",
+    "options": {
+      "A": "Papilledema",
+      "B": "Normal neurologic examination except for cranial nerve abnormalities",
+      "C": "Neuroimaging: Normal brain parenchyma without evidence of hydrocephalus, mass, or structural lesion and no abnormal meningeal enhancement on MRI",
+      "D": "Elevated lumbar puncture opening pressure (\u2265250 mm CSF in adults and \u2265280 mm CSF in children)"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "young female presented with a severe headache; CT imaging shows pituitary apoplexy. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "postpartum patient who underwent a C-section presents with a headache that worsens upon standing and during Valsalva maneuver, and is not responding to medication. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "SUNCT and SUNA are characterized by sudden brief attacks of severe unilateral head pain in which regions?",
+    "options": {
+      "A": "Occipital and cervical",
+      "B": "Orbital, peri-orbital, or temporal",
+      "C": "Frontal and parietal",
+      "D": "Maxillary and mandibular"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "",
+    "options": {
+      "A": "67-year-old patient with a history of severe bilateral temporal headache and a high ESR of 30 presents with sectoranopia (superior quadrant loss of vision)."
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "The disruption within the Guillain-Mollaret triangle is associated with which type of palatal myoclonus?",
+    "options": {
+      "A": "Essential palatal myoclonus",
+      "B": "Symptomatic palatal myoclonus",
+      "C": "Both types of palatal myoclonus",
+      "D": "Neither type of palatal myoclonus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease presented with peak dose dyskinesia. Which medication is most commonly used to manage this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "patient with progressive supranuclear palsy (PSP) presents with impaired vertical gaze and axial rigidity. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "Essential palatal myoclonus is frequently associated with which of the following characteristics?",
+    "options": {
+      "A": "Muscle agonist is the tensor veli palatini",
+      "B": "More persistent than symptomatic palatal myoclonus",
+      "C": "Caused by a structural lesion",
+      "D": "Associated with other neurological symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with dystonia and myoclonus. Which of the following is a characteristic feature of myoclonic-dystonia DYT11?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "patient with frequent falls and vertical gaze palsy shows tectal atrophy on Brain MRI. What condition is most likely indicated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "Which type of palatal myoclonus is characterized by palatal movements due to contractions of the levator veli palatini and is often associated with other symptoms related to a causative lesion?",
+    "options": {
+      "A": "Essential palatal myoclonus",
+      "B": "Symptomatic palatal myoclonus",
+      "C": "Idiopathic palatal myoclonus",
+      "D": "Familial palatal myoclonus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male presents with a history of symmetrical action tremor that improves with alcohol. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "An elderly male patient with a history suggestive of Parkinson's disease (tremors, rigidity, and bradykinesia) presents for evaluation. What is the next step in management?",
+    "options": {
+      "A": "Levodopa/carbidopa trial",
+      "B": "PET scan",
+      "C": "MRI brain",
+      "D": "Physical therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "Axial brain CT shows bilateral caudate atrophy. What is the most likely diagnosis?",
+    "options": {
+      "A": "Huntington disease",
+      "B": "Chorea-acanthocytosis",
+      "C": "Huntington disease-like 2",
+      "D": "FTLD-FUS"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

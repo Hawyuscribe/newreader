@@ -1,0 +1,886 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "lymphocytes , normal glucose what is the most likely diagnosis.",
+    "options": {
+      "A": "P. Falciparum",
+      "B": "P. Ovale",
+      "C": "Brucella",
+      "D": "Meningitis"
+    }
+  },
+  {
+    "question_number": 2,
+    "question_text": "he can not do daily activities. What to give.",
+    "options": {
+      "A": "Reassurance",
+      "B": "Donepezil",
+      "C": "vitamin E"
+    }
+  },
+  {
+    "question_number": 3,
+    "question_text": "showed occipital lope spike what is the management.",
+    "options": {
+      "A": "Carbamezapine",
+      "B": "Amitriptyline"
+    }
+  },
+  {
+    "question_number": 4,
+    "question_text": "2nd line management of trigeminal N after carbamazepine.",
+    "options": {
+      "A": "Pregabalin",
+      "B": "Lamotrigine"
+    }
+  },
+  {
+    "question_number": 5,
+    "question_text": "(Exactly the same CT)",
+    "options": {
+      "A": "hypoperfusion",
+      "B": "Hyperperfusion",
+      "C": "Autoregulation",
+      "D": "Artery to artery"
+    }
+  },
+  {
+    "question_number": 6,
+    "question_text": "(Similar but was left frontal and right temporal bleed)",
+    "options": {
+      "A": "Trauma",
+      "B": "Cardioembolic",
+      "C": "Artery to artery",
+      "D": "Obstruction of Venous flow"
+    }
+  },
+  {
+    "question_number": 7,
+    "question_text": "Boy with seizure, uncontrolled, he is known case of bipolar, management:",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Levetiracetam",
+      "C": "Valproate",
+      "D": "Lamotrigine"
+    }
+  },
+  {
+    "question_number": 8,
+    "question_text": "protein high, glucose normal:",
+    "options": {
+      "A": "Lyme",
+      "B": "Aspergillosis",
+      "C": "TB",
+      "D": "Pneumococcal"
+    }
+  },
+  {
+    "question_number": 9,
+    "question_text": "without, it was non-enhancing, management.",
+    "options": {
+      "A": "PLEX",
+      "B": "HAART"
+    }
+  },
+  {
+    "question_number": 10,
+    "question_text": "especially on gum line.",
+    "options": {
+      "A": "Repeat workup of MS",
+      "B": "Shimmer test (SJS)"
+    }
+  },
+  {
+    "question_number": 11,
+    "question_text": "(Exactly the same MRI)",
+    "options": {
+      "A": "Disc Compression",
+      "B": "Rheumatoid Pannus",
+      "C": "Spondylosis"
+    }
+  },
+  {
+    "question_number": 12,
+    "question_text": "MS pt with ON, MRI showed 1 periventricular lesion",
+    "options": {
+      "A": "CIS",
+      "B": "RRMS"
+    }
+  },
+  {
+    "question_number": 13,
+    "question_text": "Parkinson Disease case came with hallucination and forgetfulness, management.",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "clozapine"
+    }
+  },
+  {
+    "question_number": 14,
+    "question_text": "also mentioned family history of migraine.",
+    "options": {
+      "A": "Exercise related dyskinesia",
+      "B": "Paroxysmal kinesigenic dyskinesia"
+    }
+  },
+  {
+    "question_number": 15,
+    "question_text": "she is scared of falling, after that she can walk normally.",
+    "options": {
+      "A": "Ataxic syndrome",
+      "B": "Orthostatic Tremor"
+    }
+  },
+  {
+    "question_number": 16,
+    "question_text": "Carpidona 100/25 6 times per day, next step of management.",
+    "options": {
+      "A": "decrease Levodopa dose",
+      "B": "Amantadine",
+      "C": "Levodopa and entacpon",
+      "D": "Pramipexole"
+    }
+  },
+  {
+    "question_number": 17,
+    "question_text": "Most psychiatric manifestation in AD",
+    "options": {
+      "A": "Apathy",
+      "B": "Agitation",
+      "C": "Disinhibition"
+    }
+  },
+  {
+    "question_number": 18,
+    "question_text": "questions about fragile x, read about it)",
+    "options": {
+      "A": "Inherited anti-psychiatric test",
+      "B": "metabolic test",
+      "C": "confirm or r/o fragile x syndrome"
+    }
+  },
+  {
+    "question_number": 19,
+    "question_text": "Pt with MS what is true about MS.",
+    "options": {
+      "A": "Simultaneous bilateral ON would suggest to look for other diagnosis",
+      "B": "Incomplete recovery is typical with MS"
+    }
+  },
+  {
+    "question_number": 20,
+    "question_text": "Familial hx of ALS, gene mutation",
+    "options": {
+      "A": "sod1",
+      "B": "c9orf"
+    }
+  },
+  {
+    "question_number": 21,
+    "question_text": "Wilson disease most common psychiatric manifestation. (No low mood in choices).",
+    "options": {
+      "A": "Psychosis",
+      "B": "Depression",
+      "C": "Mania"
+    }
+  },
+  {
+    "question_number": 22,
+    "question_text": "Chrea, Cognitive Decline, Behavioral changes:",
+    "options": {
+      "A": "Huntington disease"
+    }
+  },
+  {
+    "question_number": 23,
+    "question_text": "pinprick up to mid-shin, what test would be best for diagnosis.",
+    "options": {
+      "A": "NCS",
+      "B": "MRI spine",
+      "C": "Epidermal nerve fiver density"
+    }
+  },
+  {
+    "question_number": 24,
+    "question_text": "neuropathy. (Both pregapalin and gapapentin came in choices)",
+    "options": {
+      "A": "Pregabaline",
+      "B": "Gapapentin",
+      "C": "Amitriptyline"
+    }
+  },
+  {
+    "question_number": 25,
+    "question_text": "Pt came with peripheral neuropathy, his symptoms provoked after minor surgery.",
+    "options": {
+      "A": "Vitamin E",
+      "B": "Cobalamine",
+      "C": "Thiamine"
+    }
+  },
+  {
+    "question_number": 26,
+    "question_text": "pain what lab to request.",
+    "options": {
+      "A": "Porphyria",
+      "B": "Paraproteinemia"
+    }
+  },
+  {
+    "question_number": 27,
+    "question_text": "she presented within 60 min, CT done within 30 min, BP 220/110, next step.",
+    "options": {
+      "A": "Give tpa",
+      "B": "BP management",
+      "C": "CTA",
+      "D": "Mechanical Thrombectomy"
+    }
+  },
+  {
+    "question_number": 28,
+    "question_text": "severe intracranial right MCA stenosis.",
+    "options": {
+      "A": "ASA",
+      "B": "IV thrombolysis",
+      "C": "DAPT",
+      "D": "Stent"
+    }
+  },
+  {
+    "question_number": 29,
+    "question_text": "Female came with hand tremor improve with alcohol, there is family history.",
+    "options": {
+      "A": "Essential",
+      "B": "Enhanced physiological tremor"
+    }
+  },
+  {
+    "question_number": 30,
+    "question_text": "appropriate management.",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Sumatriptan",
+      "C": "Opioid"
+    }
+  },
+  {
+    "question_number": 31,
+    "question_text": "What is true about popping nystagmus.",
+    "options": {
+      "A": "Slow downward deviation and rapid upward return of the eyes to the primary position",
+      "B": "Rapid downward deviation and slow upward return of the eyes to the primary position",
+      "C": "Rapid upward deviation and slow downward return of the eyes to the primary position"
+    }
+  },
+  {
+    "question_number": 32,
+    "question_text": "Where is the location of popping nys in tagmus.",
+    "options": {
+      "A": "Pons",
+      "B": "Midbrain"
+    }
+  },
+  {
+    "question_number": 33,
+    "question_text": "Case of sturge weber (hint: bort wine on face) asked about what it comes with.",
+    "options": {
+      "A": "Renal Angiofibroma",
+      "B": "Cardiac Rhabdomyosarcoma",
+      "C": "Glaucoma"
+    }
+  },
+  {
+    "question_number": 34,
+    "question_text": "SEGA with which disease.",
+    "options": {
+      "A": "Something not related",
+      "B": "Tuberous Sclerosis"
+    }
+  },
+  {
+    "question_number": 35,
+    "question_text": "Patient came with hand extension weakness no sensory",
+    "options": {
+      "A": "PIN",
+      "B": "Radial"
+    }
+  },
+  {
+    "question_number": 36,
+    "question_text": "thumb and latera forearm, improved index and 3rd finger, flextion 2 nerve impaired.",
+    "options": {
+      "A": "Suprascapular/long thoracic .",
+      "B": "Axillary and lateral antebrachial. radial",
+      "C": "Musculocutaneous"
+    }
+  },
+  {
+    "question_number": 37,
+    "question_text": "Patient came after hysterectomy, there is hip flexion, knee extension weakness.",
+    "options": {
+      "A": "Femoral",
+      "B": "obturator"
+    }
+  },
+  {
+    "question_number": 38,
+    "question_text": "after abdominal surgery, she is on warfarin, where is the lesion.",
+    "options": {
+      "A": "Femoral at illicus",
+      "B": "Femoral at psoas"
+    }
+  },
+  {
+    "question_number": 39,
+    "question_text": "Thalamotomy in PD will improve.",
+    "options": {
+      "A": "Tremor",
+      "B": "Bradykinesia"
+    }
+  },
+  {
+    "question_number": 40,
+    "question_text": "Most common side effect of lithium:",
+    "options": {
+      "A": "Tremor"
+    }
+  },
+  {
+    "question_number": 41,
+    "question_text": "Patient came with blurry vision, ataxia, ophthalmoplegia.",
+    "options": {
+      "A": "SCA3",
+      "B": "Ataxia with ocular apraxia",
+      "C": "Laber"
+    }
+  },
+  {
+    "question_number": 42,
+    "question_text": "Lady on OCP came with seizure, headache, CT normal, next.",
+    "options": {
+      "A": "LP",
+      "B": "EEG",
+      "C": "CTV"
+    }
+  },
+  {
+    "question_number": 43,
+    "question_text": "thrombosis, what is true.",
+    "options": {
+      "A": "She has clear cause and no need workup",
+      "B": "Do thrombophilia workup"
+    }
+  },
+  {
+    "question_number": 44,
+    "question_text": "tell the patient.",
+    "options": {
+      "A": "He is not at risk at all since he underwent 3 procedures without complication",
+      "B": "Still he has the risk",
+      "C": "He is at high risk"
+    }
+  },
+  {
+    "question_number": 45,
+    "question_text": "Patient known case of Myotonic Dystrophy came with shoulder pain management",
+    "options": {
+      "A": "Melxiten for pain",
+      "B": "Amantadine"
+    }
+  },
+  {
+    "question_number": 46,
+    "question_text": "HIV patient came to the clinic with single ring enhancing lesion in brain next.",
+    "options": {
+      "A": "CSF",
+      "B": "Start Antibiotics",
+      "C": "Toxoplasmois management"
+    }
+  },
+  {
+    "question_number": 47,
+    "question_text": "Patient with abdominal rising sensation, deja vu, Pathophysiology.",
+    "options": {
+      "A": "Activation dentate nuclear",
+      "B": "Schaffer collateral from c3 to c1",
+      "C": "mousse fiber Sth\u2026"
+    }
+  },
+  {
+    "question_number": 48,
+    "question_text": "Patient has partial seizure, PET showed hypometabolism perysilvin.",
+    "options": {
+      "A": "GluR3",
+      "B": "GLUT-1"
+    }
+  },
+  {
+    "question_number": 49,
+    "question_text": "EEG of slow spike charachteristic of",
+    "options": {
+      "A": "Lennox",
+      "B": "West",
+      "C": "JME"
+    }
+  },
+  {
+    "question_number": 50,
+    "question_text": "Pic of ribboning. what is the most likely.",
+    "options": {
+      "A": "Prion disease"
+    }
+  },
+  {
+    "question_number": 51,
+    "question_text": "wight, most important management",
+    "options": {
+      "A": "IVIG",
+      "B": "Tight glycemic control, and care of foot",
+      "C": "Extensive physiotherapy"
+    }
+  },
+  {
+    "question_number": 52,
+    "question_text": "Patient known case of Duchenne, first symptoms.",
+    "options": {
+      "A": "Walk on toe",
+      "B": "Loss fine movement"
+    }
+  },
+  {
+    "question_number": 53,
+    "question_text": "Patient came with hemianopia, alexia without agraphia, location.",
+    "options": {
+      "A": "Infra sylvan temporal",
+      "B": "Supra sylvan frontal",
+      "C": "Angular"
+    }
+  },
+  {
+    "question_number": 54,
+    "question_text": "Prosopagnosia localization",
+    "options": {
+      "A": "Occipito-temporal",
+      "B": "Occipito-parietal"
+    }
+  },
+  {
+    "question_number": 55,
+    "question_text": "Male known case of testicular cancer came with encephalitis.",
+    "options": {
+      "A": "Ant-Ma2",
+      "B": "anti-hu",
+      "C": "anti-LG1"
+    }
+  },
+  {
+    "question_number": 56,
+    "question_text": "most likely cause.",
+    "options": {
+      "A": "Systemtic",
+      "B": "Vascular"
+    }
+  },
+  {
+    "question_number": 57,
+    "question_text": "MMSE Test the most covered domain.",
+    "options": {
+      "A": "Orientation",
+      "B": "Memory"
+    }
+  },
+  {
+    "question_number": 58,
+    "question_text": "week, her symptoms came again in the same side, what is the next step.",
+    "options": {
+      "A": "Urinalysis",
+      "B": "Pulse steroid",
+      "C": "Change DMT"
+    }
+  },
+  {
+    "question_number": 59,
+    "question_text": "Patient with figure of 4, fencing, right side nose rubbing, localization.",
+    "options": {
+      "A": "Lt temporal",
+      "B": "Rt Temporal"
+    }
+  },
+  {
+    "question_number": 60,
+    "question_text": "Migraine without aura, most relevant clinical picture.",
+    "options": {
+      "A": "30 to 60 minute in duration",
+      "B": "Throbbing quality",
+      "C": "Bilateral location",
+      "D": "Not aggravated by daily activity"
+    }
+  },
+  {
+    "question_number": 61,
+    "question_text": "In favor of diagnosis of functional tremor.",
+    "options": {
+      "A": "Distraction of the patient improve the tremors",
+      "B": "Manipulation of other hand improve the tremor."
+    }
+  },
+  {
+    "question_number": 62,
+    "question_text": "What is the management of functional tremor:",
+    "options": {
+      "A": "Propranolol",
+      "B": "Psychotherapy"
+    }
+  },
+  {
+    "question_number": 63,
+    "question_text": "conscious and oriented. WOTF help you with the diagnosis?",
+    "options": {
+      "A": "Rhythmic clonus",
+      "B": "Multifocal myoclonus",
+      "C": "Oral automatism",
+      "D": "Up rolling of eyes"
+    }
+  },
+  {
+    "question_number": 64,
+    "question_text": "3-Hz spike EEG Characterstic of.",
+    "options": {
+      "A": "Absance Seizure",
+      "B": "West Syndrome"
+    }
+  },
+  {
+    "question_number": 65,
+    "question_text": "Which of these is a characteristic of LGS.",
+    "options": {
+      "A": "Resistant to antiepileptic medications.",
+      "B": "Peak onset 5-10 years."
+    }
+  },
+  {
+    "question_number": 66,
+    "question_text": "Pic of mengioma ask about pathology (They did not mention meningioma in Qs).",
+    "options": {
+      "A": "Roussate",
+      "B": "Pseudorossate",
+      "C": "Psammoma bodies"
+    }
+  },
+  {
+    "question_number": 67,
+    "question_text": "What is the pathology of Ependymoma.",
+    "options": {
+      "A": "Roussate",
+      "B": "Pseudorossate"
+    }
+  },
+  {
+    "question_number": 68,
+    "question_text": "What is true about JME.",
+    "options": {
+      "A": "Can be provoked by photic stimulation",
+      "B": "Most patients will be seizure free"
+    }
+  },
+  {
+    "question_number": 69,
+    "question_text": "monthly seizures next.",
+    "options": {
+      "A": "Start workup for epilepsy Surgery",
+      "B": "Add 3rd ASMs"
+    }
+  },
+  {
+    "question_number": 70,
+    "question_text": "Patient with 3rd nerve palsy, tremor, hearing loss.",
+    "options": {
+      "A": "AICA",
+      "B": "PICA"
+    }
+  },
+  {
+    "question_number": 71,
+    "question_text": "Ipsilateral scotoma and contralater quadrinopa where is localization.",
+    "options": {
+      "A": "Occipital lobe",
+      "B": "Radiation",
+      "C": "Optic chiasm"
+    }
+  },
+  {
+    "question_number": 72,
+    "question_text": "neurological symptoms, localization.",
+    "options": {
+      "A": "Right trochlear nerve",
+      "B": "Right trochlear nuclus",
+      "C": "Left trochlear nerve",
+      "D": "Left Trochlear Nuceus"
+    }
+  },
+  {
+    "question_number": 73,
+    "question_text": "MRI showed intramedullary, ill defined, non-enhancing lesion, what\u2019 the diagnosis.",
+    "options": {
+      "A": "Astrocytoma.",
+      "B": "Ependymoma",
+      "C": "Meningioma"
+    }
+  },
+  {
+    "question_number": 74,
+    "question_text": "Patient HIV, pain radiation to back, MRI spine negative, CSF negative.",
+    "options": {
+      "A": "HZV",
+      "B": "CMV",
+      "C": "HIV Myelitis",
+      "D": "vacuolar myelopathy"
+    }
+  },
+  {
+    "question_number": 75,
+    "question_text": "MS lesions pattern of distribution.",
+    "options": {
+      "A": "Oligodendrocytes cell body.",
+      "B": "Venules.",
+      "C": "Arterioles."
+    }
+  },
+  {
+    "question_number": 76,
+    "question_text": "MS on finglmoid , image showed new activity, next.",
+    "options": {
+      "A": "Natalizumab",
+      "B": "Glatemare Acetate"
+    }
+  },
+  {
+    "question_number": 77,
+    "question_text": "MS on Natalaziumab, developed PML, management",
+    "options": {
+      "A": "Stop Natalizumab"
+    }
+  },
+  {
+    "question_number": 78,
+    "question_text": "MS pt on medication resulted in blurry vision, macular edema.",
+    "options": {
+      "A": "Fingolimod"
+    }
+  },
+  {
+    "question_number": 79,
+    "question_text": "Most common to be associated with MS",
+    "options": {
+      "A": "HSV",
+      "B": "EBV"
+    }
+  },
+  {
+    "question_number": 80,
+    "question_text": "enzyme involved in this disease.",
+    "options": {
+      "A": "Alpha-Galactosidase"
+    }
+  },
+  {
+    "question_number": 81,
+    "question_text": "MS patient on DMT, lost follow up, came to ER low plt , pic show (skin rash) .",
+    "options": {
+      "A": "Ofatumumab",
+      "B": "Alemtuzumab"
+    }
+  },
+  {
+    "question_number": 82,
+    "question_text": "is the most appropriate treatment?.",
+    "options": {
+      "A": "Surgical removal",
+      "B": "Whole brain radiation",
+      "C": "Chemotherapy"
+    }
+  },
+  {
+    "question_number": 83,
+    "question_text": "Intracranial bleed and asked about the blood pressure management.",
+    "options": {
+      "A": "140/90",
+      "B": "160/90",
+      "C": "130/90",
+      "D": "120/90"
+    }
+  },
+  {
+    "question_number": 84,
+    "question_text": "What is the physiology of cluster headache.",
+    "options": {
+      "A": "Imbalance neurotraumatic in trigeminal nerve.",
+      "B": "Brainstem change modulation",
+      "C": "Ipsilateral hypothalamus in CNS."
+    }
+  },
+  {
+    "question_number": 85,
+    "question_text": "What\u2019s the mechanism of action of botox in migraine headache.",
+    "options": {
+      "A": "Serotonin agonist",
+      "B": "Serotonin reuptake inhibitors",
+      "C": "Monoamine inhibitor",
+      "D": "glutamates inhibition"
+    }
+  },
+  {
+    "question_number": 86,
+    "question_text": "Scenario of cluster headache what additional finding.",
+    "options": {
+      "A": "MRI brain show brainstem hyperintesities",
+      "B": "PET scan show changes in diencephalon",
+      "C": "EEG shows spike and acceleration",
+      "D": "Trigeminal nerve hypertrophy"
+    }
+  },
+  {
+    "question_number": 87,
+    "question_text": "Headache out of blue since 3 month.",
+    "options": {
+      "A": "NDPH",
+      "B": "SUNA",
+      "C": "HC"
+    }
+  },
+  {
+    "question_number": 88,
+    "question_text": "Fatigue in daytime and increased sleepiness in Alzheimer\u2019s is due to.",
+    "options": {
+      "A": "Atrophy in subthalamic nuclei",
+      "B": "Disturbance in serotonin pathway",
+      "C": "Decrease glucose level",
+      "D": "Suprachiasmatic nucleus degeneration"
+    }
+  },
+  {
+    "question_number": 89,
+    "question_text": "sleepiness, snoring at night, best next step.",
+    "options": {
+      "A": "EEG",
+      "B": "Polysomnogram"
+    }
+  },
+  {
+    "question_number": 90,
+    "question_text": "ALS came with fatigue next step.",
+    "options": {
+      "A": "Pulmonary function test",
+      "B": "Methylphenadate",
+      "C": "Refer to assess depression",
+      "D": "nocturnal oximetry"
+    }
+  },
+  {
+    "question_number": 91,
+    "question_text": "Pt came with this picture, other examination normal.",
+    "options": {
+      "A": "Pre ganglionic",
+      "B": "Post ganglionic"
+    }
+  },
+  {
+    "question_number": 92,
+    "question_text": "Patient came with history of vertigo, nausea DWI showed",
+    "options": {
+      "A": "Right side ptosis",
+      "B": "Lt uvula deviation",
+      "C": "Rt uvula deviation"
+    }
+  },
+  {
+    "question_number": 93,
+    "question_text": "(Similar but not the same)",
+    "options": {
+      "A": "Pure motor",
+      "B": "Pure sensory",
+      "C": "Mixed",
+      "D": "clumsy"
+    }
+  },
+  {
+    "question_number": 94,
+    "question_text": "lysosome accumulation.",
+    "options": {
+      "A": "Gaucher",
+      "B": "Calven",
+      "C": "neuronal ceroid lipofuscinosis"
+    }
+  },
+  {
+    "question_number": 95,
+    "question_text": "Male came with stiffness with repeat exercise.",
+    "options": {
+      "A": "Myotonia congenita",
+      "B": "Paramyotonia"
+    }
+  },
+  {
+    "question_number": 96,
+    "question_text": "Male came with peroral fasciculation, areflexia, systemic manifestation.",
+    "options": {
+      "A": "DM",
+      "B": "HTN"
+    }
+  },
+  {
+    "question_number": 97,
+    "question_text": "impaired , since 2 days next step , no hx about infection or vaccine. What is Ab.",
+    "options": {
+      "A": "Anti-GQ1b",
+      "B": "?"
+    }
+  },
+  {
+    "question_number": 98,
+    "question_text": "thiopurine S-methyltransferase (TPMT) enzyme.",
+    "options": {
+      "A": "Azathioprine",
+      "B": "Mycophenolate",
+      "C": "Cyclophosphamide"
+    }
+  },
+  {
+    "question_number": 99,
+    "question_text": "with sleep issue next.",
+    "options": {
+      "A": "Melatonin",
+      "B": "Benzodiazepine",
+      "C": "zolpidem"
+    }
+  },
+  {
+    "question_number": 100,
+    "question_text": "Patient known case of DM come with black spot on nose management",
+    "options": {
+      "A": "Amphotericin B",
+      "B": "Fluconazole"
+    }
+  },
+  {
+    "question_number": 101,
+    "question_text": "70 YO, M, Came with this MRI.",
+    "options": {
+      "A": "Watershed",
+      "B": "Cardioembolic",
+      "C": "Small Vessle Disease",
+      "D": "Vasculitis",
+      "E": "Best management of Neuro-brucellosis.",
+      "F": "Doxycycline",
+      "G": "Ceftriaxone"
+    }
+  },
+  {
+    "question_number": 102,
+    "question_text": "protein(58) and cell count with lymph predominance what the cause?",
+    "options": {
+      "A": "TB meningoencephalitis",
+      "B": "Neurosarcoidosis"
+    }
+  }
+]

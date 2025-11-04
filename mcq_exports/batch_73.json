@@ -1,0 +1,345 @@
+[
+  {
+    "question_number": "Q364",
+    "question_text": "",
+    "options": {
+      "A": "scenario presents a case of limbic encephalitis. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q266",
+    "question_text": "",
+    "options": {
+      "A": "lady diagnosed with RRMS is about to start DMT. What will you give her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q361",
+    "question_text": "",
+    "options": {
+      "A": "female patient with a known case of multiple sclerosis (MS) came with increased sensory symptoms and mentioned a change in her urine smell. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "An elderly patient presents with areflexia (tendon reflex not obtained), ophthalmoplegia, and impaired finger-to-nose test for the past 2 days, with no history of infection or vaccination. What is the next step in management?",
+    "options": {
+      "A": "IVIG",
+      "B": "Methylprednisolone",
+      "C": "Acetylcholine",
+      "D": "Plasmapheresis"
+    },
+    "correct_answer": "A",
+    "source_file": "Sleep_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "patient with relapsing-remitting multiple sclerosis (RRMS) and psoriasis started on disease-modifying therapy (DMT) and showed improvement in his psoriasis. What is the DMT?"
+    },
+    "correct_answer": "A",
+    "source_file": "Critical_Care_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "patient on Natalizumab develops progressive multifocal leukoencephalopathy (PML). What is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Sleep_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "young man diagnosed with left eye optic neuritis was planned to start Teriflunomide. He has no previous history of neurological symptoms and is not interested in starting the treatment. Which of the following statements is true regarding the suspected differential diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis (MS) on disease-modifying therapy (DMT) developed hyperthyroidism. What is the most likely medication used?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of Multiple Sclerosis used a medication that causes flushing. What is the mechanism of action of that drug?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis developed tonic spasms. Which medication is most appropriate for treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old female patient, medically free, came with heat intolerance, lower limb weakness, and sensory symptoms, along with urinary incontinence. Her symptoms increased after stress at work. What will you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "female patient with a known case of multiple sclerosis (MS) came with increased sensory symptoms and mentioned a change in her urine smell. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "patient came with bilateral optic neuritis; MRI showed high signal intensity in the bilateral optic nerves. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Sleep_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "What is the odds ratio for infectious mononucleosis as a risk factor for multiple sclerosis?",
+    "options": {
+      "A": "1.3",
+      "B": "2.0",
+      "C": "2.1",
+      "D": "2.5"
+    },
+    "correct_answer": "D",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "young lady known to have MS is pregnant and asks about the percentage risk of her baby having MS. What is the estimated risk?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "",
+    "options": {
+      "A": "patient with optic neuritis and one periventricular lesion is evaluated. What do the McDonald criteria indicate?"
+    },
+    "correct_answer": "A",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "In neuromyelitis optica (NMO), which statement is correct?",
+    "options": {
+      "A": "It is 10 times more common in males than females",
+      "B": "It is monophasic with no relapses",
+      "C": "NMO lesions show immunoglobulin and complement deposits in a characteristic vasculo-concentric rim and rosette pattern around hyalinized blood vessels",
+      "D": "It primarily affects the peripheral nervous system"
+    },
+    "correct_answer": "C",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "case scenario about temporal arteritis presents the following: Age more than 50, presenting with headache and visual changes. If no ESR is done, what should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "What is the estimated risk of progressive multifocal leukoencephalopathy (PML) with rituximab?",
+    "options": {
+      "A": "1 in 10,000",
+      "B": "1 in 30,000",
+      "C": "1 in 50,000",
+      "D": "1 in 100,000"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuroanatomy",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "",
+    "options": {
+      "A": "young female has a history of left-sided weakness that lasted for 10 days and then improved. She now presents with fatigue. What is the most appropriate step of management for her current complaint?"
+    },
+    "correct_answer": "A",
+    "source_file": "Critical_Care_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have multiple sclerosis (MS) on natalizumab develops an infusion reaction. What is the most appropriate action?"
+    },
+    "correct_answer": "A",
+    "source_file": "Critical_Care_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with multiple sclerosis (MS) is on treatment but shows no improvement, continuing to have recurrent attacks and an increase in disability. A detailed history reveals a recurrent history of dry eyes. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Critical_Care_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "Which of the following indicates disease progression in Multiple Sclerosis (MS)?",
+    "options": {
+      "A": "Cerebral atrophy",
+      "B": "Disability progression/number of relapses",
+      "C": "New T2 lesions",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "source_file": "Critical_Care_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis developed a tremor. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Critical_Care_Neurology",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "Which of the following antibodies is associated with myoclonus dystonia?",
+    "options": {
+      "A": "Anti-GD1",
+      "B": "Anti-GB1",
+      "C": "Anti-GM1",
+      "D": "Anti-GAD65"
+    },
+    "correct_answer": "B",
+    "source_file": "Movement_Disorders",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

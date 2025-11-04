@@ -1,0 +1,82 @@
+{
+  "timestamp": "20250509_031308",
+  "total_mcqs": 3044,
+  "subspecialties": {
+    "Critical Care Neurology": {
+      "count": 124,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Critical_Care_Neurology_explanations_20250509_031308.json"
+    },
+    "Dementia": {
+      "count": 114,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Dementia_explanations_20250509_031308.json"
+    },
+    "Epilepsy": {
+      "count": 310,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Epilepsy_explanations_20250509_031308.json"
+    },
+    "Headache": {
+      "count": 174,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Headache_explanations_20250509_031308.json"
+    },
+    "Movement Disorders": {
+      "count": 260,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Movement_Disorders_explanations_20250509_031308.json"
+    },
+    "Neuro oncology": {
+      "count": 164,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuro_oncology_explanations_20250509_031308.json"
+    },
+    "Neuro otology": {
+      "count": 9,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuro_otology_explanations_20250509_031308.json"
+    },
+    "Neuro-infectious": {
+      "count": 222,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuro-infectious_explanations_20250509_031308.json"
+    },
+    "Neuroanatomy": {
+      "count": 98,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuroanatomy_explanations_20250509_031308.json"
+    },
+    "Neurogenetics": {
+      "count": 106,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neurogenetics_explanations_20250509_031308.json"
+    },
+    "Neuroimmunology": {
+      "count": 323,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuroimmunology_explanations_20250509_031308.json"
+    },
+    "Neuromuscular": {
+      "count": 450,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuromuscular_explanations_20250509_031308.json"
+    },
+    "Neuroophthalmology": {
+      "count": 95,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuroophthalmology_explanations_20250509_031308.json"
+    },
+    "Neuropsychiatry": {
+      "count": 40,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neuropsychiatry_explanations_20250509_031308.json"
+    },
+    "Neurotoxicology": {
+      "count": 40,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Neurotoxicology_explanations_20250509_031308.json"
+    },
+    "Other Unclassified": {
+      "count": 88,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Other_Unclassified_explanations_20250509_031308.json"
+    },
+    "Pediatric Neurology": {
+      "count": 18,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Pediatric_Neurology_explanations_20250509_031308.json"
+    },
+    "Sleep Neurology": {
+      "count": 34,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Sleep_Neurology_explanations_20250509_031308.json"
+    },
+    "Vascular Neurology Stroke": {
+      "count": 375,
+      "file_path": "/Users/tariqalmatrudi/NEWreader/django_neurology_mcq/explanation_exports/Vascular_Neurology_Stroke_explanations_20250509_031308.json"
+    }
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Old patient k/c of DM, HTN, ESRD, came with decrease LOC, her wife mentioned that he told her that he was seeing animals then deteriorated; CT showed left occipital hypodensity, what you will do?",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "EEG",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "pt with cardioembolic stroke, ECG showed AF, Echo: nonvalvular cardiac disease, what to give:",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "warfarin",
+      "option_c": "factor X inhibitor",
+      "option_d": "is not provided.)",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "stroke with NIHSS 3, what is the treatment:",
+    "options": {
+      "option_a": "Warfarin",
+      "option_b": "Aspirin",
+      "option_c": "factor X inhibitor",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Pregnant lady had headache her CT showed ICH, what is the treatment?",
+    "options": {
+      "option_a": "start Heparin",
+      "option_b": "Warfarin",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with multiple Hg in the brain he was on aspirin; lips showed petechiae, what you will do? Case of osler weber rendu",
+    "options": {
+      "option_a": "pulmonary CT Angoi",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient came with left side weakness; CT showed right semiovale hypodensity; what is the next step:",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Another question about Patient came with stroke CT showed watershed infarction, next?",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke patient and he has fever, Cardiac consultation showed pan systolic murmur; what is the treatment:",
+    "options": {
+      "option_a": "antiplatelets",
+      "option_b": "Antibiotics",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke patient has livedo reticularis what is the Dx?",
+    "options": {
+      "option_a": "Sneddon disease",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "60 years old came to ER with left side weakness and left decrease propioception and right tongue weakness; what is the artery involved?",
+    "options": {
+      "option_a": "Rigth Vert",
+      "option_b": "Left Vert",
+      "option_c": "Basilar",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "pt with Acom aneurysm what is the most important risk factor for rupture:",
+    "options": {
+      "option_a": "Size",
+      "option_b": "Smoking",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient came with right side weakness; CT showed Lt BG Hg with 3mm midline shift, what you will do?",
+    "options": {
+      "option_a": "Craniotomy",
+      "option_b": "give LMWH",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "Conservative management",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Pregnant lady had headache her CT showed ICH, what is the treatment",
+    "options": {
+      "option_a": "start Heparin",
+      "option_b": "Warfarin",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with multiple Hg in the brain he was on aspirin; lips showed petechiae, what you will do?",
+    "options": {
+      "option_a": "pulmonary CT Angoi",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "4 years old sickle cell disease patient had stroke with significant MCA stenosis, what will determine the stroke risk:",
+    "options": {
+      "option_a": "Hb Electrophoresis",
+      "option_b": "Transcranial doppler",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Same patient asking what treatment you will give?",
+    "options": {
+      "option_a": "Antiepileptic",
+      "option_b": "Antithrombotic",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "pt with stroke and has marfinoid feature, what is the treatment:",
+    "options": {
+      "option_a": "vit B6",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient came with left side weakness; CT showed right semiovale hypodensity; what is the next step:",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "pt with SLE + antiphospholipid presented with stroke for 2 days what you will give:",
+    "options": {
+      "option_a": "warfarin",
+      "option_b": "Aspirin",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Another question about Patient came with stroke CT showed watershed infarction, next?",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  }
+]

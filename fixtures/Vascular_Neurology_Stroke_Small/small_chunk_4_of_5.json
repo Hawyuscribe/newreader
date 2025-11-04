@@ -1,0 +1,155 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "99993276",
+    "fields": {
+      "question_number": "138",
+      "question_text": "Patient came with history of vertigo, nausea DWI showed (image of brain MRI). Which of the following is correct?",
+      "options": {
+        "A": "Right side ptosis",
+        "B": "Lt uvula deviation",
+        "C": "Rt uvula deviation",
+        "D": "is not provided."
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Posterior circulation strokes, particularly those affecting the brainstem, can produce a variety of cranial nerve deficits. Involvement of structures governing the soft palate, such as the nucleus ambiguus, leads to characteristic findings like uvular deviation.",
+        "pathophysiology": "Infarction within the lateral medulla (Wallenberg syndrome) often affects the nucleus ambiguus or its associated fibers, which are responsible for the motor innervation of the palate via the vagus nerve (CN X). When these fibers are compromised on one side, the functioning opposite side exerts a greater pull on the soft palate, causing the uvula to deviate away from the side of the lesion.",
+        "clinical_correlation": "A patient presenting with vertigo and nausea is often experiencing a posterior circulation event. If the infarct involves the right lateral medulla, one might expect a right-sided weakness of the palatal muscles, resulting in uvular deviation toward the left. Other associated symptoms can include dysphagia, hoarseness, and ipsilateral Horner\u2019s syndrome.",
+        "diagnostic_approach": "Diffusion weighted imaging (DWI) is sensitive for detecting acute infarcts in the brainstem. Differential diagnoses include cerebellar infarcts, vestibular neuritis, and other brainstem syndromes. A careful neurological exam helps to distinguish the patterns; for example, uvular deviation typically indicates involvement of the vagal motor fibers.",
+        "classification_and_neurology": "Lateral medullary syndrome is classified as a type of brainstem stroke within the ischemic cerebrovascular disease category. It falls under the TOAST classification as a large artery atherosclerosis or artery-to-artery embolism affecting the posterior circulation. The syndrome is part of the posterior circulation stroke family, distinct from anterior circulation strokes by clinical and imaging features. The classification of brainstem strokes has evolved with imaging advances, allowing precise lesion localization and subtype identification. There is consensus to categorize strokes by vascular territory and clinical syndrome to guide management. Some debate persists on the best classification for small vessel versus large artery strokes in the brainstem, but lateral medullary syndrome is well-established as a PICA territory infarct.",
+        "classification_and_nosology": "Lateral medullary syndrome (Wallenberg syndrome) is a brainstem stroke typically due to occlusion of the posterior inferior cerebellar artery (PICA). Cranial nerve signs such as uvular deviation are part of its clinical spectrum when the nucleus ambiguus is involved.",
+        "management_principles": "Acute management focuses on supportive treatment, secondary prevention with antithrombotic therapy, and aggressive risk factor modification. In pregnant or lactating patients, management follows similar principles, but medication choices (including antiplatelets) must consider fetal and neonatal safety. Rehabilitation for swallowing and speech may also be required.",
+        "option_analysis": "Option A (Right side ptosis) may be a feature of Horner\u2019s syndrome seen in lateral medullary infarcts, but it is not the specific sign tested here. Option B (Left uvula deviation) is correct for a right-sided lesion affecting the nucleus ambiguus, as the palate deviates away from the affected side. Option C (Right uvula deviation) would imply a left-sided lesion. Option D is not provided.",
+        "clinical_pearls": "1. In lesions affecting the nucleus ambiguus, the uvula deviates away from the side of the lesion. 2. Vertigo and nausea in a stroke patient should prompt evaluation of the posterior circulation and brainstem structures.",
+        "current_evidence": "Recent studies and guidelines continue to emphasize the importance of early recognition of posterior circulation strokes. Advanced imaging techniques have enhanced the diagnostic accuracy for brainstem infarcts, and multidisciplinary management remains the standard of care."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_15.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993277",
+    "fields": {
+      "question_number": "139",
+      "question_text": "70 YO, M, Came with this MRI.",
+      "options": {
+        "A": "Watershed",
+        "B": "Cardioembolic",
+        "C": "Small Vessle Disease",
+        "D": "Vasculitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Watershed infarcts are a type of ischemic stroke that occur in the border zones between two major cerebral arterial territories (eg, between the anterior and middle cerebral arteries or between the middle and posterior cerebral arteries). They typically result from systemic hypoperfusion or severe carotid disease, leading to reduced blood flow in these vulnerable border regions.",
+        "pathophysiology": "In watershed strokes, the distal fields of two arterial systems are most vulnerable to a drop in cerebral perfusion pressure. In elderly patients, chronic vascular disease or severe hypotension (or carotid occlusive disease) can lead to these borderzone infarcts. The compromised perfusion in these regions causes ischemia and infarction. Recent evidence underscores the importance of maintaining optimal hemodynamic stability, especially in patients with preexisting carotid disease.",
+        "clinical_correlation": "Patients with watershed infarcts may present with symptoms that correlate with the affected borderzone regions. For example, infarcts between the ACA and MCA territories can produce contralateral leg weakness and cognitive disturbances. In an elderly male with a history of vascular disease, an MRI showing a border-zone pattern supports a diagnosis of a watershed infarct.",
+        "diagnostic_approach": "Diagnosis usually relies on neuroimaging (MRI is more sensitive than CT in the early phase). Differential diagnoses include: cardioembolic stroke (typically producing cortical infarcts in distinct vascular territories), small vessel (lacunar) infarcts which affect deep structures, and vasculitis which often produces multifocal, scattered lesions. History, risk factor assessment, and imaging characteristics help differentiate these conditions.",
+        "classification_and_neurology": "Ischemic strokes are classified by the Trial of ORG 10172 in Acute Stroke Treatment (TOAST) criteria into five major subtypes: large artery atherosclerosis, cardioembolism, small vessel occlusion (lacunar), stroke of other determined etiology, and stroke of undetermined etiology. Watershed infarcts are often categorized under hemodynamic strokes or large artery disease with hypoperfusion. This classification helps in understanding stroke mechanisms and tailoring secondary prevention. The concept of watershed infarcts is integrated into the broader taxonomy of ischemic strokes emphasizing vascular territory and mechanism. Some controversy exists regarding overlap between embolic and hemodynamic causes in watershed zones, but imaging and clinical context usually clarify the diagnosis.",
+        "classification_and_nosology": "Watershed infarcts fall under the broader category of ischemic strokes. According to the TOAST classification, they are considered strokes due to hemodynamic compromise rather than embolic or small vessel occlusions.",
+        "management_principles": "Management focuses on correcting the underlying hemodynamic instability. First-line management involves optimizing blood flow, blood pressure control, and supportive care. Secondary prevention includes antiplatelet therapy, statins, and management of risk factors (hypertension, diabetes, etc.). In special populations such as pregnant or lactating women, careful selection of antihypertensives (eg, labetalol or nifedipine) and antiplatelet agents with safety profiles in pregnancy is essential.",
+        "option_analysis": "Option A (Watershed) is correct as the imaging is consistent with a border-zone pattern. Option B (Cardioembolic) is typically associated with abrupt cortical infarcts in distinct vascular distributions. Option C (Small Vessel Disease) usually gives lacunar infarcts in deep brain regions. Option D (Vasculitis) generally exhibits multifocal and irregular lesions rather than the classic border-zone pattern.",
+        "clinical_pearls": "1. Watershed infarcts occur in areas where arterial territories meet (border zones) and are highly sensitive to drops in perfusion pressure. 2. Management requires strict control of blood pressure and risk factor modification. 3. Neuroimaging is crucial to differentiate watershed infarcts from other types of stroke.",
+        "current_evidence": "Recent studies emphasize the importance of perioperative and long\u2010term blood pressure management to prevent watershed infarctions in at-risk populations. Updated guidelines highlight the benefit of aggressive vascular risk factor management in elderly patients with carotid artery disease."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993278",
+    "fields": {
+      "question_number": "140",
+      "question_text": "Patient after severe external carotid stenosis revascularization, 1 day later found confused, CT brain (image shown), what is the mechanism.",
+      "options": {
+        "A": "hypoperfusion",
+        "B": "Hyperperfusion",
+        "C": "Autoregulation",
+        "D": "Artery to artery"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Hyperperfusion syndrome is a recognized complication following procedures that restore blood flow, such as carotid revascularization. It results from an abrupt increase in cerebral blood flow to previously hypoperfused brain regions that have lost the ability to autoregulate.",
+        "pathophysiology": "In chronic stenotic conditions, cerebral blood vessels adapt to low flow, leading to impaired autoregulation. When revascularization (eg, carotid endarterectomy or stenting) suddenly increases the blood supply, the cerebral arterioles cannot constrict adequately. This results in increased capillary pressure, breakdown of the blood-brain barrier, vasogenic edema, and sometimes even intracerebral hemorrhage. The mechanism is well-documented in cases following revascularization procedures.",
+        "clinical_correlation": "Patients typically present within hours to a few days after revascularization with symptoms such as headache, confusion, and sometimes seizures or focal deficits. In this case, confusion occurring one day post-procedure is highly suggestive of cerebral hyperperfusion syndrome.",
+        "diagnostic_approach": "Clinical diagnosis is supported by imaging (CT or MRI), which may show cerebral edema or hemorrhage. Differential diagnoses include hypoperfusion infarcts (which would present with focal deficits and ischemic changes on imaging), embolic strokes (which often show territorial infarcts), and reperfusion injury. The time course and imaging findings help differentiate hyperperfusion syndrome from these conditions.",
+        "classification_and_neurology": "Cerebral hyperperfusion syndrome is classified under **perioperative cerebrovascular complications** following carotid revascularization procedures. It falls within the broader category of cerebrovascular disorders related to **hemodynamic disturbances**. The syndrome is distinct from ischemic complications such as embolic stroke or hypoperfusion infarcts. Nosologically, CHS represents a form of reperfusion injury characterized by failure of cerebral autoregulation. Classification systems for carotid revascularization complications typically separate ischemic, hemorrhagic, and hyperperfusion syndromes, reflecting their differing pathophysiology and management.",
+        "classification_and_nosology": "Hyperperfusion syndrome is classified as a type of reperfusion injury seen after carotid revascularization. It is not considered a primary stroke subtype but instead represents a post-procedural complication due to loss of autoregulation.",
+        "management_principles": "The cornerstone of management is strict blood pressure control to prevent further increases in cerebral perfusion pressure. First-line treatment involves intravenous antihypertensives such as labetalol or nicardipine. Supportive care and close neurological monitoring are essential. In severe cases with cerebral edema, additional measures like osmotherapy may be required. In pregnant patients, labetalol and hydralazine are considered safe; similar caution applies during lactation with appropriate agent selection.",
+        "option_analysis": "Option A (Hypoperfusion) is incorrect as it would result in ischemic infarction rather than the edema seen in hyperperfusion syndrome. Option B (Hyperperfusion) is correct, as it best explains the sudden increase in blood flow following revascularization leading to edema and neurologic symptoms. Option C (Autoregulation) is a normal physiological process that is impaired in this scenario, and Option D (Artery to artery embolism) would typically result in territorial infarcts rather than the diffuse changes seen here.",
+        "clinical_pearls": "1. Hyperperfusion syndrome typically manifests within 24-72 hours after carotid revascularization. 2. The key management step is aggressive blood pressure control to mitigate the risk of hemorrhage. 3. Recognition of the syndrome is critical to prevent further neurological deterioration.",
+        "current_evidence": "Current guidelines stress the importance of perioperative monitoring of blood pressure following revascularization procedures. Recent research has underscored that using intravenous antihypertensives early post-procedure reduces the incidence and severity of hyperperfusion syndrome."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993398",
+    "fields": {
+      "question_number": "427",
+      "question_text": "Patient has 2 stroke, sensory peripheral neuropathy, skin rash with picture. What is the enzyme involved in this disease.",
+      "options": {
+        "A": "Alpha-Galactosidase"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Fabry disease is an X-linked lysosomal storage disorder characterized by a deficiency in the enzyme alpha-galactosidase A. This enzyme deficiency leads to the accumulation of glycosphingolipids, particularly globotriaosylceramide, in various tissues throughout the body.",
+        "pathophysiology": "The deficiency of alpha-galactosidase A results in the deposition of glycosphingolipids in the endothelial cells of blood vessels, the nervous system, kidneys, and skin. This accumulation can lead to vascular dysfunction, pain in the extremities (acroparesthesias), and organ damage. The stroke, neuropathy, and characteristic skin findings (angiokeratomas) seen in Fabry disease correlate with the widespread vascular deposition and subsequent tissue ischemia and inflammation.",
+        "clinical_correlation": "Patients with Fabry disease often present with a combination of clinical features such as early-onset strokes, peripheral neuropathy (manifesting as burning pain in the hands and feet), and angiokeratomas (small, reddish-purple skin lesions). These signs are crucial for the clinical diagnosis of the disorder.",
+        "diagnostic_approach": "Diagnosis is confirmed by measuring alpha-galactosidase A activity in leukocytes or plasma, with genetic testing to identify mutations in the GLA gene. Differential diagnoses include other lysosomal storage disorders (such as Gaucher's disease) and conditions causing stroke in young adults. The pattern of multisystem involvement with characteristic skin lesions and neuropathic pain assists in differentiating Fabry disease from other disorders.",
+        "classification_and_neurology": "Fabry disease is classified within the lysosomal storage disorders (LSDs), specifically as a glycosphingolipidosis. It is an X-linked inherited disorder due to mutations of the GLA gene. Within neurology, it falls under neurogenetic disorders causing stroke and peripheral neuropathy. The disease is part of a broader category of inherited metabolic disorders that affect the nervous system via substrate accumulation and vascular injury. Historically, LSDs have been classified by the deficient enzyme and accumulated substrate; Fabry disease is unique due to its X-linked pattern and multisystem involvement. Current nosology emphasizes genotype-phenotype correlations and the spectrum from classic severe disease in males to later-onset or attenuated forms in females. Controversies exist regarding screening and classification of variants of uncertain significance, but consensus supports enzyme assay and genetic confirmation as diagnostic standards.",
+        "classification_and_nosology": "Fabry disease is classified as a sphingolipidosis, a subgroup of lysosomal storage disorders. It is inherited in an X-linked manner, affecting predominantly males, although females can be affected due to X-chromosome inactivation.",
+        "management_principles": "Management includes enzyme replacement therapy (ERT) with agents such as agalsidase beta or agalsidase alfa to reduce glycosphingolipid accumulation. Adjunctive therapies involve pain management, management of renal involvement, and cardiovascular risk reduction. For pregnant or lactating women, the use of ERT requires careful discussion with specialists because data are limited; however, individualized management is recommended with close monitoring.",
+        "option_analysis": "Option A (Alpha-Galactosidase) is correct, as the enzyme deficient in Fabry disease is alpha-galactosidase A. The other options were not provided, but based on the clinical scenario the correct enzyme is clearly indicated.",
+        "clinical_pearls": "1. Fabry disease can present with strokes at a younger age compared to typical atherosclerotic disease. 2. Angiokeratomas (small, dark red telangiectatic skin lesions) are a hallmark of the disease. 3. Early diagnosis and intervention with ERT can slow disease progression.",
+        "current_evidence": "Recent studies highlight the benefits of early enzyme replacement therapy in Fabry disease to delay the progression of organ damage. Guidelines now recommend family screening and genetic counseling for early identification and management of the condition."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "https://drive.google.com/file/d/1EeHee6W2qvJjiZZi93bMjfVtfpclDJpE/preview"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993399",
+    "fields": {
+      "question_number": "428",
+      "question_text": "Case of Sturge Weber (hint: bort wine on face) asked about what it comes with.",
+      "options": {
+        "A": "Renal Angiofibroma",
+        "B": "Cardiac Rhabdomyosarcoma",
+        "C": "Glaucoma"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Sturge-Weber syndrome is a neurocutaneous disorder characterized by a facial capillary malformation (commonly known as a port-wine stain) along the distribution of the trigeminal nerve, leptomeningeal angiomas, and associated ocular abnormalities.",
+        "pathophysiology": "The syndrome is thought to arise from a somatic mosaic mutation in the GNAQ gene, leading to abnormal vascular development. The port-wine stain is due to capillary malformations in the skin, and the leptomeningeal angiomas can lead to seizures and neurological deficits. The ocular involvement, particularly glaucoma, is due to increased episcleral venous pressure and abnormal vascular development in the eye.",
+        "clinical_correlation": "Patients with Sturge-Weber syndrome typically present with a port-wine stain (often described as a 'port wine' or 'bordeaux wine' appearance) on the face, usually in the V1 distribution of the trigeminal nerve. Glaucoma is a common complication and can lead to vision loss if not managed appropriately. Neurological symptoms such as seizures may also be present due to leptomeningeal angiomatosis.",
+        "diagnostic_approach": "Diagnosis is primarily clinical based on the characteristic cutaneous and neurological findings. Neuroimaging (MRI/CT) can help identify leptomeningeal angiomas, and ophthalmologic evaluation is essential for early detection of glaucoma. Differential diagnoses include other phakomatoses like Klippel-Trenaunay syndrome, but the combination of facial port-wine stain and leptomeningeal involvement is specific for Sturge-Weber.",
+        "classification_and_neurology": "SWS is classified as a sporadic neurocutaneous syndrome within the phakomatoses, distinct from genetic inherited disorders. It is part of a spectrum of vascular malformation syndromes, including Klippel-Trenaunay and Parkes Weber syndromes, but uniquely involves leptomeningeal angiomas. The Roach classification subdivides SWS into three types: Type I (classic, with facial and leptomeningeal angiomas), Type II (facial angioma without CNS involvement), and Type III (isolated leptomeningeal angioma without facial nevus). This classification aids in prognostication and management. The current consensus emphasizes the somatic mosaic nature of the disease, refining the understanding from purely congenital to post-zygotic mutation-driven pathology. Controversies remain regarding the extent of systemic involvement and optimal classification schemes.",
+        "classification_and_nosology": "Sturge-Weber syndrome is classified among the phakomatoses (neurocutaneous syndromes). It is a sporadic condition with no clear hereditary pattern.",
+        "management_principles": "Management is multidisciplinary. Seizures are managed with antiepileptic medications with careful consideration in pregnant and lactating patients (eg, lamotrigine or levetiracetam, which have relatively favorable profiles). Glaucoma management is crucial and may include topical medications like beta-blockers (with caution in pregnancy, where agents like timolol require careful risk assessment) or surgical interventions if medical therapy fails. Regular ophthalmologic and neurological monitoring is advised.",
+        "option_analysis": "Option A (Renal Angiofibroma) is incorrect as it is not a feature of Sturge-Weber syndrome. Option B (Cardiac Rhabdomyosarcoma) is unrelated to the syndrome. Option C (Glaucoma) is correct because glaucoma is a well-known ocular complication associated with Sturge-Weber syndrome.",
+        "clinical_pearls": "1. The port-wine stain in Sturge-Weber syndrome is typically unilateral and follows the distribution of the trigeminal nerve. 2. Glaucoma is a common complication and can develop in early childhood or later in life. 3. Early and regular ophthalmologic evaluations are critical to prevent vision loss.",
+        "current_evidence": "Recent research and clinical guidelines emphasize early recognition and intervention for glaucoma in Sturge-Weber patients. Advances in neuroimaging and genetic testing have improved the understanding of the underlying molecular mechanisms, aiding in more tailored management approaches."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  }
+]

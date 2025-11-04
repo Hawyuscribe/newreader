@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with focal numbness on a skin lesion. Investigation revealed nerve enlargement around the lesion, and there is an attached picture of a reddish skin patch. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "An HIV patient has a brain CT showing multiple ring-enhancing lesions. What is the next step in management?",
+    "options": {
+      "A": "CSF PCR",
+      "B": "Serology",
+      "C": "Biopsy",
+      "D": "Empirical anti-toxoplasma therapy"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with fever and visual loss. Fundoscopic examination reported retinal whitening, orange discoloration of vessels, and multiple retinal hemorrhages. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male patient with a history of lupus who is on steroids and has undergone a kidney transplant presents with fever and headache. MRI shows temporal enhancement. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "In a case of Creutzfeldt-Jakob disease (CJD) regarding organ donation, which statement is correct?",
+    "options": {
+      "A": "You can take the kidney and liver but not the cornea",
+      "B": "If brain biopsy is negative, use the organs",
+      "C": "Do not take any organ",
+      "D": "Only corneal transplantation is contraindicated"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "In an HIV patient with a non-enhancing lesion in the parietal lobe, which statement is true?",
+    "options": {
+      "A": "Prognosis is better if CD4 count increases and viral load is low.",
+      "B": "There is treatment for this condition.",
+      "C": "The lesion typically shows ring enhancement on MRI.",
+      "D": "It is most commonly caused by Toxoplasma gondii infection."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "What is the most effective prevention method for post-herpetic neuralgia?",
+    "options": {
+      "A": "Steroids",
+      "B": "Carbamazepine (CMZ)",
+      "C": "Anti-viral therapy",
+      "D": "Pregabalin"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old boy has behavior issues, and his teacher reports a decrease in performance in school. He also sleeps a lot. What condition might be indicated by an EEG showing signs of subacute sclerosing panencephalitis (SSPE)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q173",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient has a fever, and cardiac consultation showed a pansystolic murmur. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a one-month history of increased thirst, headache, fever, and personality changes. Brain MRI shows bilateral cortical and subcortical hypodensities on T2 involving the frontal, parietal, and occipital lobes, hypothalamus, midbrain, pons, and medulla. Lumbar puncture shows less than 20 WBCs (99% lymphocytes), low glucose, and high protein, with negative culture. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "",
+    "options": {
+      "A": "patient is comatose, with retinal findings typical for neuro-retinitis. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "In the same scenario [Implied: Likely Q62 context - diabetic with black nostril lesion/mucormycosis], what is the treatment for the infection?",
+    "options": {
+      "A": "Fluconazole",
+      "B": "Amphotericin B",
+      "C": "Voriconazole",
+      "D": "Itraconazole"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "79-year-old female has a 4-week history of malaise, low-grade fever, and altered mental status. She is found to have diffuse flaccid weakness in all four limbs. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "What is the most common cause of bacterial meningitis?",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Neisseria meningitidis",
+      "C": "Haemophilus influenzae",
+      "D": "Listeria monocytogenes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "",
+    "options": {
+      "A": "case of sinusitis is presented with a history of headache, proptosis, and ocular dysmotility. Which of the following is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "What is the benefit of using steroids at the initiation of meningitis treatment?",
+    "options": {
+      "A": "Decrease hospitalization period",
+      "B": "Decrease the risk of deafness",
+      "C": "Decrease risk of aspiration",
+      "D": "Reduce cerebral edema"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "Whipple disease is caused by which of the following organisms?",
+    "options": {
+      "A": "Mycobacterium leprae",
+      "B": "Tropheryma whipplei",
+      "C": "Treponema pallidum",
+      "D": "Clostridium botulinum"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "What is the most common cause of polyradiculopathy, without mention of immune status?",
+    "options": {
+      "A": "Cytomegalovirus (CMV)",
+      "B": "Tuberculosis (TB)",
+      "C": "Lyme disease",
+      "D": "Varicella zoster virus (VZV)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "",
+    "options": {
+      "A": "male patient from Africa, an illegal resident in Saudi Arabia, was brought to the hospital after not eating well for a long time. He presented with headache and fever. CSF analysis showed elevated WBC (571, monoclonal cells predominant), high protein, and low glucose. Gram stain showed no organism. Which of the following is the most likely cause of his condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "",
+    "options": {
+      "A": "scenario suggestive of West Nile virus encephalitis is presented. What is expected to be found on CSF analysis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "Which of the following is a common complication of cerebral malaria?",
+    "options": {
+      "A": "Encephalopathy",
+      "B": "Seizures",
+      "C": "Retinal hemorrhages",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "Patient found to have positive poliovirus IgG, what is the most common presentation?",
+    "options": {
+      "A": "Asymptomatic",
+      "B": "Flu-like symptoms",
+      "C": "Aseptic meningitis",
+      "D": "Paralytic poliomyelitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of diabetes mellitus presents with a black spot on the nose. What is the best management option?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "An HIV patient on HAART (not compliant) developed PML. What should be done next?",
+    "options": {
+      "A": "Restart or optimize HAART",
+      "B": "Administer steroids",
+      "C": "Start intravenous immunoglobulin (IVIG)",
+      "D": "Perform brain biopsy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "In a case of HSV encephalitis, what would you expect to find in the CSF?",
+    "options": {
+      "A": "Pleocytosis with red blood cells",
+      "B": "Elevated protein with normal glucose",
+      "C": "Neutrophilic predominance without red blood cells",
+      "D": "Low protein and low glucose"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

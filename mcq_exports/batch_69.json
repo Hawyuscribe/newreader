@@ -1,0 +1,396 @@
+[
+  {
+    "question_number": "Q202",
+    "question_text": "",
+    "options": {
+      "A": "Guillain-Barr\u00e9 syndrome",
+      "B": "Miller Fisher syndrome",
+      "C": "Bickerstaff brainstem encephalitis",
+      "D": "Multiple sclerosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q217",
+    "question_text": "",
+    "options": {
+      "A": "Continue treatment",
+      "B": "Discontinue treatment",
+      "C": "Decrease the rate",
+      "D": "Administer antihistamines and monitor closely"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q239",
+    "question_text": "",
+    "options": {
+      "A": "Ach antibodies",
+      "B": "Anti-GM1 antibodies",
+      "C": "Cortical dementia",
+      "D": "Moyamoya disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q240",
+    "question_text": "",
+    "options": {
+      "A": "Miller Fisher syndrome",
+      "B": "Bickerstaff brainstem encephalitis",
+      "C": "Guillain-Barr\u00e9 syndrome",
+      "D": "Multiple sclerosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q246",
+    "question_text": "",
+    "options": {
+      "A": "Multiple sclerosis",
+      "B": "Neuromyelitis optica (NMO)",
+      "C": "Transverse myelitis",
+      "D": "Brain tumor"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q249",
+    "question_text": "",
+    "options": {
+      "A": "Migraine",
+      "B": "Intracranial hemorrhage",
+      "C": "Multiple sclerosis",
+      "D": "Neuro-Behcet's disease"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q252",
+    "question_text": "",
+    "options": {
+      "A": "Alemtuzumab",
+      "B": "Dalfampridine",
+      "C": "Dimethyl fumarate",
+      "D": "Fingolimod"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q255",
+    "question_text": "",
+    "options": {
+      "A": "Peripheral brainstem",
+      "B": "Inferior temporal pole",
+      "C": "Ovoid periventricular",
+      "D": "Cerebellar atrophy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q258",
+    "question_text": "",
+    "options": {
+      "A": "SSES",
+      "B": "VEP",
+      "C": "BSEP",
+      "D": "MRI"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q259",
+    "question_text": "",
+    "options": {
+      "A": "Cervical region",
+      "B": "Thoracic region",
+      "C": "Lumbar region",
+      "D": "Sacral region"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q263",
+    "question_text": "",
+    "options": {
+      "A": "Hemiplegic migraine",
+      "B": "HaNDL",
+      "C": "DAVF",
+      "D": "Viral meningitis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q264",
+    "question_text": "",
+    "options": {
+      "A": "Lesions in the frontal lobe are most predictive.",
+      "B": "Infratentorial and spinal cord lesions are most predictive.",
+      "C": "Lesion volume is irrelevant.",
+      "D": "Only the number of lesions matters."
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q268",
+    "question_text": "",
+    "options": {
+      "A": "Alemtuzumab",
+      "B": "Fingolimod",
+      "C": "Natalizumab",
+      "D": "Ocrelizumab"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q270",
+    "question_text": "",
+    "options": {
+      "A": "Contrast enhancement for 3 months",
+      "B": "LETM",
+      "C": "Multiple small ovoid lesions in periventricular white matter",
+      "D": "Dawson\u2019s fingers on MRI"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q272",
+    "question_text": "",
+    "options": {
+      "A": "Relapsing-Remitting Multiple Sclerosis (RRMS)",
+      "B": "Primary Progressive Multiple Sclerosis (PPMS)",
+      "C": "Secondary Progressive Multiple Sclerosis (SPMS)",
+      "D": "Clinically Isolated Syndrome (CIS)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q275",
+    "question_text": "",
+    "options": {
+      "A": "child presents with decreased vision in both eyes, papilledema, and no confusion. An orbital MRI shows anterior bilateral optic nerve enhancement. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q284",
+    "question_text": "",
+    "options": {
+      "A": "Adolescent obesity",
+      "B": "Epstein-Barr virus seropositivity",
+      "C": "Smoking",
+      "D": "Vitamin D deficiency"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q302",
+    "question_text": "",
+    "options": {
+      "A": "52%",
+      "B": "58%",
+      "C": "60%",
+      "D": "65%"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q309",
+    "question_text": "",
+    "options": {
+      "A": "Fingolimod",
+      "B": "Interferon",
+      "C": "Dalfampridine",
+      "D": "Ocrelizumab"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q310",
+    "question_text": "",
+    "options": {
+      "A": "Relapsing-Remitting Multiple Sclerosis (RRMS)",
+      "B": "Neuromyelitis Optica (NMO)",
+      "C": "Acute Disseminated Encephalomyelitis (ADEM)",
+      "D": "Myelin Oligodendrocyte Glycoprotein Antibody Disease (MOGAD)"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q311",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old man with migraine with incidental periventricular lesion and 2 spine lesions with negative OCB",
+      "B": "31-year-old woman with migraine, 4 pericallosal and 3 cerebellar plaques but normal spine",
+      "C": "52-year-old woman with demyelinating lesion in the brain and OCB in serum",
+      "D": "28-year-old woman with optic neuritis and positive oligoclonal bands in CSF"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q313",
+    "question_text": "",
+    "options": {
+      "A": "Acetazolamide",
+      "B": "Carbamazepine",
+      "C": "Diazepam",
+      "D": "Baclofen"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q316",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with a history of encephalopathy, weakness, and hearing loss. An MRI of the brain is performed. Which condition is most likely indicated by these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q331",
+    "question_text": "",
+    "options": {
+      "A": "Intracerebral hemorrhage",
+      "B": "Cerebral venous thrombosis",
+      "C": "PRES",
+      "D": "Lupus Cerebritis"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q357",
+    "question_text": "",
+    "options": {
+      "A": "Stop fingolimod",
+      "B": "Start steroid",
+      "C": "Plasmapheresis (PLEX)",
+      "D": "Order ophthalmology evaluation"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Stroke patient and he has fever, Cardiac consultation showed pan systolic murmur; what is the treatment:",
+    "options": {
+      "option_a": "antiplatelets",
+      "option_b": "Antibiotics",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "60 years old came to ER with left side weakness and left decrease propioception and right tongue weakness; what is the artery involved?",
+    "options": {
+      "option_a": "Rigth Vert",
+      "option_b": "Left Vert",
+      "option_c": "Basilar",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke patient has livedo reticularis what is the Dx?",
+    "options": {
+      "option_a": "Sneddon disease",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "pt with stroke and had fibromuscular dysplasia, what next:",
+    "options": {
+      "option_a": "Renal Angio",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "MRI with dissection, what to do:",
+    "options": {
+      "option_a": "Medical Therapy",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "73 years old female patient presented with decrease LOC showing hemorrhage with fluid level:",
+    "options": {
+      "option_a": "Amyloid",
+      "option_b": "CVT",
+      "option_c": "Anticoagulation use",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What is the artey?",
+    "options": {
+      "option_a": "mca",
+      "option_b": "pca",
+      "option_c": "ant choroidal artery",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What yoi will do?",
+    "options": {
+      "option_a": "Shunt",
+      "option_b": "anticoagulant",
+      "option_c": "give",
+      "option_d": "give LMWH",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What is the mechanism?",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "T",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "82 years old male pt came within 3 hrs and have no contraindication for tpa and ct attached with early signe of stroke but infarction not established what you will give",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "plavix",
+      "option_c": "tpa",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Rt small thalamic hemorrhage since one day, BP normal, pic attached no hydro or ventricular extension what to do next",
+    "options": {
+      "option_a": "(Prophylaxis LMWH): Correct because it reduces the risk of thromboembolic complications in a patient with a stable hemorrhage. \u2022 Option B (EVD): Incorrect, as external ventricular drainage is indicated in cases with hydrocephalus or significant intraventricular bleeding, which is not present in this patient.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Male with progressive myelopathy attached image clearly showing slow void, and long cord signal changes, dx",
+    "options": {
+      "option_a": "(DAVF): Correct, as the combination of progressive myelopathy and MRI findings with slow flow voids and elongated cord signal anomalies is classic for this diagnosis. Alternative options such as multiple sclerosis, transverse myelitis, or spinal tumors do not typically show the vascular flow voids on imaging.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Male with renal impairment, stroke, angiokeratoma pic asking about enzyme supp",
+    "options": {
+      "option_a": "(alpha",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario patient feeling unwell, then start seeing animals after which he had decreased LOC intubated, decerebrate posturing CT brain attached showed hyperdense basilar sign otherwise no clear ischemic changes what to do next",
+    "options": {
+      "option_a": "(CTA) is correct because CTA provides non",
+      "option_b": "(EEG) is incorrect as it evaluates brain electrical activity and is not useful in diagnosing vascular occlusions.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What is the mechanism?",
+    "options": {
+      "option_a": "tramatic haemorrage",
+      "option_b": "ICh",
+      "option_c": "lobar haemorrage",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What is the mechanism?",
+    "options": {
+      "option_a": "(Aneurysm rupture) is incorrect because the hemorrhage pattern in premesencephalic hemorrhage does not support an aneurysmal source. Option B (Atherosclerosis) is incorrect as it is associated with ischemic strokes rather than subarachnoid hemorrhage. Option C (Premesencephalic hemorrhage) is correct because it accurately describes the mechanism for this subtype of SAH. The previously marked answer (D) does not correspond to any of the relevant options provided.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "sickler pt come with stroke work up done and found to have multiple stenosis in AcA and McA. Ehat is the method of prevention?",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "plavix",
+      "option_c": "chronic transfusion",
+      "option_d": "dual antiplate",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What you will do:",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke all stroke workups mentioned except CTA asked what to do next",
+    "options": {
+      "option_a": "(CTA): Correct because it provides rapid, comprehensive vascular imaging necessary for acute stroke management. \n\u2022 Option B: Does not offer the comprehensive vascular assessment needed for immediate management decisions. Other non",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with ESRD Scenario with pic showing rt superficial borderzone infarction at MCA/ACA territory asking about next investigation",
+    "options": {
+      "option_a": "(Brain CT angiography alone): Although it provides good intracranial detail, it is incomplete without neck imaging to evaluate the carotid arteries. \n\u2022 Option B (Conventional angiography): While being the gold standard, it is invasive and carries higher risks, especially in ESRD patients. \n\u2022 Option C: Implied to represent a comprehensive CTA (including both brain and neck vessels), which is the most appropriate next investigation given its noninvasive nature and ability to assess the entire cerebrovascular system.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  }
+]

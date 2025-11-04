@@ -1,0 +1,21 @@
+{
+  "timestamp": "20250508_163655",
+  "total_placeholders": 220,
+  "total_updated": 300,
+  "remaining_placeholders": 220,
+  "subspecialty_counts": {
+    "Dementia": 26,
+    "Pediatric Neurology": 19,
+    "Epilepsy": 79,
+    "Neuropsychiatry": 40,
+    "Critical Care Neurology": 14,
+    "Neuroanatomy": 16,
+    "Vascular Neurology/Stroke": 78,
+    "Neuroimmunology": 71,
+    "Neuroophthalmology": 10,
+    "Movement Disorders": 49,
+    "Neuro-infectious": 37,
+    "Neuromuscular": 80,
+    "Neurotoxicology": 1
+  }
+}

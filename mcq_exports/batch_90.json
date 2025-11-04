@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "22-year-old Filipino male presented with generalized weakness after heavy exercise. On examination, he shows hypotonia, areflexia, and weakness. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "What histological finding is associated with a sural nerve biopsy in HNPP?",
+    "options": {
+      "A": "Axonal degeneration",
+      "B": "Focal sausage-like thickenings of myelin termed tomacula",
+      "C": "Demyelination of all nerve fibers",
+      "D": "Increased number of Schwann cells"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q466",
+    "question_text": "",
+    "options": {
+      "A": "patient with myasthenia gravis (MG) presents. What is the most sensitive test for diagnosing this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q374",
+    "question_text": "In an anti-MuSK case, which statement is true?",
+    "options": {
+      "A": "Normal thymus pathology",
+      "B": "Associated with HLA DRB8",
+      "C": "Predominantly affects ocular muscles",
+      "D": "Responds well to acetylcholinesterase inhibitors"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old patient presents with a 10-year history of lower limb proximal weakness and difficulty standing from a sitting position. He has siblings with the same problem. EMG findings are not available, and CK levels are 2800. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q549",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old patient presented with posterior thigh weakness and calf weakness and is unable to perform plantar flexion. CK levels are 35 times the normal limit. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with weakness provoked by exercise but then improves shortly after. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "",
+    "options": {
+      "A": "long scenario describes an elderly patient with peripheral neuropathy, organomegaly, and limb edema. Which condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "In a scenario with stiffness and difficulty walking with an episode of loss of consciousness, where EMG showed neuromyotonia and the patient is now fully conscious with normal mental status, what is the diagnosis?",
+    "options": {
+      "A": "Morvan syndrome",
+      "B": "Isaac syndrome",
+      "C": "Stiff person syndrome",
+      "D": "Multiple sclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "In a scenario suggestive of Botulism, what is the pathophysiology responsible?",
+    "options": {
+      "A": "Irreversible blockage of presynaptic ACH receptor",
+      "B": "Irreversible blockage of postsynaptic ACH receptor",
+      "C": "Irreversible blockage of protein that is responsible for acetylcholine release",
+      "D": "Inhibition of acetylcholinesterase enzyme"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q384",
+    "question_text": "",
+    "options": {
+      "A": "23-year-old male presents with respiratory failure and a cerebral aneurysm. Electromyography (EMG) shows myotonia without clinical myotonia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient with Anti-Musk antibodies is likely to present with which of the following symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "",
+    "options": {
+      "A": "patient has selective weakness of biceps, hip flexors, and knee flexors, sparing the deltoid. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q292",
+    "question_text": "",
+    "options": {
+      "A": "26-year-old male presented with proximal weakness and bilateral scapular winging, painless, with no clear history of facial asymmetry. What is the diagnosis? Attached pedigree of AR pattern:"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q256",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male presents with a history of progressive lower limb weakness with tingling and numbness for 3 months, which then became static. Later, he experienced sudden right foot drop. Examination reveals weakness with areflexia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with dysphasia, dysarthria, and proximal muscle weakness, and was found to have anti-Musk antibody. What will you find?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "What should be regularly assessed in a patient with Guillain-Barr\u00e9 syndrome?",
+    "options": {
+      "A": "Muscle strength",
+      "B": "Autonomic function",
+      "C": "Blood pressure",
+      "D": "Respiratory function"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q423",
+    "question_text": "",
+    "options": {
+      "A": "scenario is suggestive of Mononeuritis multiplex with pathology showing monoclonal cells and necrotizing vasculitis. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q430",
+    "question_text": "In a scenario suggesting periodic paralysis in a Filipino patient with generalized muscle weakness, what is the next investigation to be performed?",
+    "options": {
+      "A": "Potassium level",
+      "B": "Thyroid function tests",
+      "C": "Electromyography (EMG)",
+      "D": "Serum calcium level"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q524",
+    "question_text": "",
+    "options": {
+      "A": "young male patient came with eyelid myotonia that increased after eating ice cream or being exposed to cold. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "man who developed progressive weakness of the right hand showed severe weakness and muscle atrophy in the right arm, along with decreased reflexes and fasciculation. The left arm showed hyporeflexia, while the lower limb was not affected and sensory examination was normal. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q475",
+    "question_text": "",
+    "options": {
+      "A": "patient with multifocal motor neuropathy (MMN) is being considered for treatment. What is the first-line management option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q535",
+    "question_text": "What is the first abnormality typically seen in nerve conduction studies (NCS) or electromyography (EMG) in AIDP?",
+    "options": {
+      "A": "Prolonged or absent F wave and absent H reflexes",
+      "B": "Decreased distal latency",
+      "C": "Increased sensory nerve action potentials",
+      "D": "Normal findings"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "What is the most sensitive test for diagnosing Myasthenia Gravis (MG)?",
+    "options": {
+      "A": "Single fiber EMG (SFEMG)",
+      "B": "Anti-Cholinesterase antibody",
+      "C": "Anti-MuSK antibody",
+      "D": "Two-hertz to 5-Hz RNS studies"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "In a scenario of LGM1B (laminopathy) with elevated heart enzyme levels, what is the expected finding?",
+    "options": {
+      "A": "Contracture of elbow and ankle",
+      "B": "Late contracture in LGMD1B (AD)",
+      "C": "Early contracture in Emery-Dreifuss dystrophy (X-linked)",
+      "D": "Cardiac conduction defects"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

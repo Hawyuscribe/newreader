@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🧪 Heroku MCQ Conversion Tester</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .test-container { max-width: 1200px; margin: 20px auto; padding: 20px; }
+        .status-indicator { padding: 10px; margin: 10px 0; border-radius: 5px; }
+        .status-processing { background-color: #fff3cd; border: 1px solid #ffeaa7; }
+        .status-success { background-color: #d1edff; border: 1px solid #bee5eb; }
+        .status-failed { background-color: #f8d7da; border: 1px solid #f5c6cb; }
+        .json-display { background: #f8f9fa; padding: 15px; border-radius: 5px; font-family: monospace; white-space: pre-wrap; }
+        .auto-refresh { color: #6c757d; font-size: 0.9em; }
+        .test-step { padding: 10px; margin: 5px 0; border-left: 3px solid #007bff; background: #f8f9fa; }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>🧪 Heroku MCQ Conversion Tester</h1>
+        <p class="text-muted">Test MCQ-to-Case conversion directly on Heroku with real-time monitoring</p>
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Test Controls</h5>
+                    </div>
+                    <div class="card-body">
+                        <button id="startTest" class="btn btn-primary">🚀 Start Random MCQ Test</button>
+                        <button id="refreshStatus" class="btn btn-secondary ms-2">🔄 Refresh Status</button>
+                        <div class="form-check mt-3">
+                            <input class="form-check-input" type="checkbox" id="autoRefresh" checked>
+                            <label class="form-check-label" for="autoRefresh">
+                                Auto-refresh every 3 seconds
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="testResults" class="card mt-3" style="display: none;">
+                    <div class="card-header">
+                        <h5>Test Results</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="testStatus" class="status-indicator"></div>
+                        <div id="testDetails"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Environment Info</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="environmentInfo">
+                            <div class="spinner-border spinner-border-sm" role="status"></div>
+                            Loading environment information...
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="caseAnalysis" class="card mt-3" style="display: none;">
+                    <div class="card-header">
+                        <h5>Case Analysis</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="caseDetails"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card mt-3" id="debugLog" style="display: none;">
+            <div class="card-header">
+                <h5>Full Debug Data</h5>
+            </div>
+            <div class="card-body">
+                <div id="debugData" class="json-display"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let currentSessionId = null;
+        let autoRefreshInterval = null;
+        
+        // CSRF token
+        const csrfToken = document.querySelector('[name=csrfmiddlewaretoken]')?.value || '';
+        
+        document.getElementById('startTest').addEventListener('click', startTest);
+        document.getElementById('refreshStatus').addEventListener('click', refreshStatus);
+        document.getElementById('autoRefresh').addEventListener('change', toggleAutoRefresh);
+        
+        function startTest() {
+            document.getElementById('startTest').disabled = true;
+            document.getElementById('startTest').innerHTML = '🔄 Starting Test...';
+            
+            fetch('/admin/debug/test-heroku/', {
+                method: 'POST',
+                headers: {
+                    'X-CSRFToken': csrfToken,
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    currentSessionId = data.session_id;
+                    displayTestData(data.test_data);
+                    startMonitoring();
+                } else {
+                    displayError('Test failed to start: ' + data.error);
+                }
+            })
+            .catch(error => {
+                displayError('Error starting test: ' + error);
+            })
+            .finally(() => {
+                document.getElementById('startTest').disabled = false;
+                document.getElementById('startTest').innerHTML = '🚀 Start Random MCQ Test';
+            });
+        }
+        
+        function startMonitoring() {
+            document.getElementById('testResults').style.display = 'block';
+            refreshStatus();
+            if (document.getElementById('autoRefresh').checked) {
+                autoRefreshInterval = setInterval(refreshStatus, 3000);
+            }
+        }
+        
+        function refreshStatus() {
+            if (!currentSessionId) return;
+            
+            fetch(`/admin/debug/monitor-test/${currentSessionId}/`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    updateTestStatus(data.test_data);
+                } else {
+                    displayError('Monitoring error: ' + data.error);
+                }
+            })
+            .catch(error => {
+                console.error('Monitoring error:', error);
+            });
+        }
+        
+        function displayTestData(testData) {
+            // Display environment info
+            const env = testData.environment;
+            document.getElementById('environmentInfo').innerHTML = `
+                <div class="test-step">
+                    <strong>Dyno:</strong> ${env.dyno || 'local'}<br>
+                    <strong>Redis:</strong> ${env.redis_available ? '✅ Available' : '❌ Error'}<br>
+                    <strong>OpenAI:</strong> ${env.openai_available ? '✅ Available' : '❌ Error'}<br>
+                    ${env.redis_error ? '<div class="text-danger">Redis Error: ' + env.redis_error + '</div>' : ''}
+                    ${env.openai_error ? '<div class="text-danger">OpenAI Error: ' + env.openai_error + '</div>' : ''}
+                </div>
+            `;
+            
+            // Display MCQ info
+            const mcq = testData.mcq;
+            document.getElementById('testDetails').innerHTML = `
+                <div class="test-step">
+                    <strong>Testing MCQ:</strong> ${mcq.id}<br>
+                    <strong>Subspecialty:</strong> ${mcq.subspecialty}<br>
+                    <strong>Question:</strong> ${mcq.question_text.substring(0, 200)}...<br>
+                    <strong>Correct Answer:</strong> ${mcq.correct_answer}
+                </div>
+                <div class="test-step">
+                    <strong>Session ID:</strong> ${testData.session_id}<br>
+                    <strong>Task ID:</strong> ${testData.task_id}<br>
+                    <strong>Started:</strong> ${new Date(testData.conversion_started_at).toLocaleString()}
+                </div>
+            `;
+        }
+        
+        function updateTestStatus(testData) {
+            const status = testData.current_status;
+            const statusDiv = document.getElementById('testStatus');
+            
+            // Update status indicator
+            statusDiv.className = 'status-indicator';
+            if (status.session_status === 'READY') {
+                statusDiv.classList.add('status-success');
+                statusDiv.innerHTML = '✅ Conversion Completed';
+                clearInterval(autoRefreshInterval);
+                
+                // Display case analysis
+                if (status.case_analysis) {
+                    displayCaseAnalysis(status.case_analysis);
+                }
+            } else if (status.session_status === 'FAILED') {
+                statusDiv.classList.add('status-failed');
+                statusDiv.innerHTML = '❌ Conversion Failed: ' + (status.error_message || 'Unknown error');
+                clearInterval(autoRefreshInterval);
+            } else {
+                statusDiv.classList.add('status-processing');
+                statusDiv.innerHTML = '🔄 Processing... (Status: ' + status.session_status + ')';
+            }
+            
+            // Show debug data
+            document.getElementById('debugLog').style.display = 'block';
+            document.getElementById('debugData').textContent = JSON.stringify(testData, null, 2);
+        }
+        
+        function displayCaseAnalysis(analysis) {
+            document.getElementById('caseAnalysis').style.display = 'block';
+            
+            let issuesHtml = '';
+            if (analysis.detected_issues && analysis.detected_issues.length > 0) {
+                issuesHtml = `
+                    <div class="alert alert-warning">
+                        <strong>Issues Detected:</strong>
+                        <ul class="mb-0">
+                            ${analysis.detected_issues.map(issue => `<li>${issue}</li>`).join('')}
+                        </ul>
+                    </div>
+                `;
+            }
+            
+            document.getElementById('caseDetails').innerHTML = `
+                ${issuesHtml}
+                <div class="test-step">
+                    <strong>MCQ ID Match:</strong> ${analysis.mcq_id_match ? '✅ Correct' : '❌ Mismatch'}<br>
+                    <strong>Expected MCQ:</strong> ${analysis.expected_mcq_id}<br>
+                    <strong>Generated MCQ:</strong> ${analysis.source_mcq_id}<br>
+                    <strong>Validation Score:</strong> ${analysis.validation_score}/100<br>
+                    <strong>Validation Passed:</strong> ${analysis.validation_passed ? '✅ Yes' : '❌ No'}
+                </div>
+                <div class="test-step">
+                    <strong>Patient Demographics:</strong> ${analysis.patient_demographics}<br>
+                    <strong>Specialty:</strong> ${analysis.specialty}<br>
+                    <strong>Core Concept:</strong> ${analysis.core_concept}
+                </div>
+                <div class="test-step">
+                    <strong>Case Preview:</strong><br>
+                    ${analysis.case_preview}
+                </div>
+                <div class="badge ${analysis.test_result === 'SUCCESS' ? 'bg-success' : 'bg-warning'} p-2">
+                    Result: ${analysis.test_result}
+                </div>
+            `;
+        }
+        
+        function displayError(message) {
+            document.getElementById('testResults').style.display = 'block';
+            document.getElementById('testStatus').className = 'status-indicator status-failed';
+            document.getElementById('testStatus').innerHTML = '❌ ' + message;
+        }
+        
+        function toggleAutoRefresh() {
+            if (document.getElementById('autoRefresh').checked && currentSessionId) {
+                autoRefreshInterval = setInterval(refreshStatus, 3000);
+            } else {
+                clearInterval(autoRefreshInterval);
+            }
+        }
+        
+        // Auto-start if we have CSRF token
+        if (csrfToken) {
+            // Ready to test
+        } else {
+            document.getElementById('environmentInfo').innerHTML = 
+                '<div class="alert alert-warning">Please ensure you are logged in as staff to use this tester.</div>';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q139",
+    "question_text": "Which of the following is a characteristic feature of Benign Rolandic Epilepsy of Childhood?",
+    "options": {
+      "A": "Onset usually between 2-13 years",
+      "B": "Seizures primarily occur during the day",
+      "C": "EEG shows generalized spike-and-wave discharges",
+      "D": "Seizures are always tonic-clonic"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q176",
+    "question_text": "",
+    "options": {
+      "A": "child with a typical scenario of benign rolandic epilepsy is being evaluated. What is the finding on EEG?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q277",
+    "question_text": "Typical JME on topiramate and well controlled; he wants to stop the medication. What is the recommendation?",
+    "options": {
+      "A": "Lifelong treatment",
+      "B": "Gradual withdrawal after 2 years seizure-free",
+      "C": "Immediate cessation of medication",
+      "D": "Switch to another antiepileptic drug before stopping"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "Which of the following is NOT a common behavioral problem associated with Landau-Kleffner syndrome?",
+    "options": {
+      "A": "Irritability",
+      "B": "Poor attention span",
+      "C": "Hyperactivity",
+      "D": "Auditory agnosia"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "In a scenario of infantile spasms, if an EEG is provided, what is the EEG description?",
+    "options": {
+      "A": "Hypsarrhythmia",
+      "B": "Normal EEG",
+      "C": "Focal spikes",
+      "D": "Generalized slowing"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q228",
+    "question_text": "In the context of focal seizures, which factors favor a good prognosis?",
+    "options": {
+      "A": "One seizure type",
+      "B": "Long duration of disease activity",
+      "C": "MRI lesion of nonspecific white matter changes",
+      "D": "Short duration of remission"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "Localization of palpitation in seizure attacks is more commonly associated with which structure?",
+    "options": {
+      "A": "Amygdala",
+      "B": "Insula",
+      "C": "Hippocampus",
+      "D": "Thalamus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q270",
+    "question_text": "Patient with seizure and mental retardation, EEG showed 2Hz; what is the treatment?",
+    "options": {
+      "A": "Valproic acid",
+      "B": "Carbamazepine",
+      "C": "Phenytoin",
+      "D": "Ethosuximide"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "In a case scenario of a patient with seizure associated hypersalivation, which area of the brain is likely involved?",
+    "options": {
+      "A": "Temporal lobe",
+      "B": "Insula",
+      "C": "Frontal lobe",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q209",
+    "question_text": "What is the risk of developing epilepsy following a febrile seizure?",
+    "options": {
+      "A": "2%",
+      "B": "6%",
+      "C": "10%",
+      "D": "15%"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "young female was brought by her family due to bizarre nocturnal hyperactive abnormal movements, with a similar history in her family. What is the appropriate antiepileptic drug (AED) to start for suspected autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q389",
+    "question_text": "In a scenario of Lennox-Gastaut syndrome, what is the first-line treatment for drop attacks?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Clobazam",
+      "C": "Depakine",
+      "D": "Rufinamide"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q372",
+    "question_text": "",
+    "options": {
+      "A": "patient has seizure recurrence while on topiramate 200 mg and carbamazepine 400 mg bid. An EEG shows spikes in the temporal lobe, and an MRI shows mesial temporal sclerosis (MTS). What is the likely cause of the breakthrough seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "What is the typical EEG finding in a patient with Benign Rolandic Epilepsy of Childhood?",
+    "options": {
+      "A": "Bilateral independent centrotemporal spikes",
+      "B": "Generalized spike-and-wave activity",
+      "C": "Focal slowing in the frontal lobe",
+      "D": "Normal background activity"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "Slow spike-and-wave activity on EEG (1.5 \u2013 2.5 Hz)",
+    "options": {
+      "A": "Childhood absence epilepsy",
+      "B": "Juvenile myoclonic epilepsy",
+      "C": "Lennox-Gastaut syndrome",
+      "D": "Benign epilepsy with centrotemporal spikes"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "",
+    "options": {
+      "A": "patient who is epileptic and on Topamax and Carbamazepine (CBZ CR) presents with breakthrough seizures. The EEG shows epileptiform discharges and the MRI shows mesial temporal sclerosis. What is the likely cause of seizures for this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q280",
+    "question_text": "Patient with seizure; EEG showed multifocal spikes; what is the surgery for this patient?",
+    "options": {
+      "A": "VNS",
+      "B": "Temporal lobectomy",
+      "C": "Corpus callosotomy",
+      "D": "Hemispherectomy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a history of right early non-forced head turning and right-side automatism. What is the localization of the seizure focus?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q276",
+    "question_text": "Patient with GTC seizure; what increases the recurrence of seizure?",
+    "options": {
+      "A": "Long duration",
+      "B": "Early treatment initiation",
+      "C": "Normal EEG findings",
+      "D": "Single seizure episode"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q188",
+    "question_text": "In focal seizures, where is the localization of the seizure in the semiology of absence?",
+    "options": {
+      "A": "Mesial temporal lobe",
+      "B": "Occipital lobe",
+      "C": "Frontal lobe",
+      "D": "Parietal lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "patient with hyperkinetic nocturnal seizures and a positive family history. How would you treat him?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q264",
+    "question_text": "",
+    "options": {
+      "A": "3-year-old boy presents with auditory agnosia and delay in language development. EEG shows ESES. What is the syndrome?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q216",
+    "question_text": "In a scenario of mesiotemporal epilepsy, what is the typical semiology used to ask about the diagnosis?",
+    "options": {
+      "A": "Seizure duration",
+      "B": "Aura characteristics",
+      "C": "Postictal state",
+      "D": "EEG findings"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q263",
+    "question_text": "",
+    "options": {
+      "A": "23-year-old male patient on lamotrigine 200 mg BID had a tonic-clonic seizure that was not fully controlled and came to the clinic. What medication would you add for him? All other neurological examinations are intact."
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q290",
+    "question_text": "",
+    "options": {
+      "A": "patient came to the clinic with facial and arm twitches, and pronator drift, occasionally stopping without mention of loss of consciousness. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,382 @@
+{
+  "total_mcqs": 3044,
+  "mcqs_with_exam_year": 3044,
+  "mcqs_with_exam_type": 3044,
+  "mcqs_missing_exam_year": 0,
+  "mcqs_missing_exam_type": 0,
+  "by_subspecialty": {
+    "Critical Care Neurology": {
+      "total": 124,
+      "with_exam_year": 124,
+      "with_exam_type": 124,
+      "years": {
+        "2018": 21,
+        "2019": 14,
+        "2020": 10,
+        "2021": 27,
+        "2022": 17,
+        "2023": 25,
+        "2024": 10
+      },
+      "exam_types": {
+        "Part II": 56,
+        "Promotion": 37,
+        "Part I": 31
+      }
+    },
+    "Dementia": {
+      "total": 114,
+      "with_exam_year": 114,
+      "with_exam_type": 114,
+      "years": {
+        "2018": 22,
+        "2019": 18,
+        "2021": 28,
+        "2022": 23,
+        "2023": 17,
+        "2024": 6
+      },
+      "exam_types": {
+        "Part II": 52,
+        "Part I": 39,
+        "Promotion": 23
+      }
+    },
+    "Epilepsy": {
+      "total": 310,
+      "with_exam_year": 310,
+      "with_exam_type": 310,
+      "years": {
+        "2018": 39,
+        "2019": 25,
+        "2020": 43,
+        "2021": 78,
+        "2022": 50,
+        "2023": 32,
+        "2024": 43
+      },
+      "exam_types": {
+        "Part II": 182,
+        "Part I": 87,
+        "Promotion": 41
+      }
+    },
+    "Headache": {
+      "total": 174,
+      "with_exam_year": 174,
+      "with_exam_type": 174,
+      "years": {
+        "2018": 28,
+        "2019": 40,
+        "2020": 20,
+        "2021": 33,
+        "2022": 18,
+        "2023": 19,
+        "2024": 16
+      },
+      "exam_types": {
+        "Part II": 78,
+        "Part I": 73,
+        "Promotion": 23
+      }
+    },
+    "Movement Disorders": {
+      "total": 260,
+      "with_exam_year": 260,
+      "with_exam_type": 260,
+      "years": {
+        "2018": 35,
+        "2019": 27,
+        "2020": 33,
+        "2021": 67,
+        "2022": 42,
+        "2023": 30,
+        "2024": 26
+      },
+      "exam_types": {
+        "Part II": 143,
+        "Part I": 67,
+        "Promotion": 50
+      }
+    },
+    "Neuro oncology": {
+      "total": 164,
+      "with_exam_year": 164,
+      "with_exam_type": 164,
+      "years": {
+        "2018": 18,
+        "2019": 13,
+        "2020": 51,
+        "2021": 36,
+        "2022": 17,
+        "2023": 18,
+        "2024": 11
+      },
+      "exam_types": {
+        "Part II": 96,
+        "Part I": 43,
+        "Promotion": 25
+      }
+    },
+    "Neuro otology": {
+      "total": 9,
+      "with_exam_year": 9,
+      "with_exam_type": 9,
+      "years": {
+        "2018": 1,
+        "2019": 3,
+        "2022": 3,
+        "2023": 1,
+        "2024": 1
+      },
+      "exam_types": {
+        "Part II": 4,
+        "Promotion": 3,
+        "Part I": 2
+      }
+    },
+    "Neuro-infectious": {
+      "total": 222,
+      "with_exam_year": 222,
+      "with_exam_type": 222,
+      "years": {
+        "2018": 32,
+        "2019": 37,
+        "2020": 34,
+        "2021": 30,
+        "2022": 38,
+        "2023": 29,
+        "2024": 22
+      },
+      "exam_types": {
+        "Part II": 121,
+        "Part I": 77,
+        "Promotion": 24
+      }
+    },
+    "Neuroanatomy": {
+      "total": 98,
+      "with_exam_year": 98,
+      "with_exam_type": 98,
+      "years": {
+        "2018": 19,
+        "2019": 17,
+        "2020": 7,
+        "2021": 12,
+        "2022": 17,
+        "2023": 16,
+        "2024": 10
+      },
+      "exam_types": {
+        "Part II": 58,
+        "Part I": 25,
+        "Promotion": 15
+      }
+    },
+    "Neurogenetics": {
+      "total": 106,
+      "with_exam_year": 106,
+      "with_exam_type": 106,
+      "years": {
+        "2018": 6,
+        "2019": 12,
+        "2020": 7,
+        "2021": 44,
+        "2022": 15,
+        "2023": 12,
+        "2024": 10
+      },
+      "exam_types": {
+        "Part II": 66,
+        "Part I": 31,
+        "Promotion": 9
+      }
+    },
+    "Neuroimmunology": {
+      "total": 323,
+      "with_exam_year": 323,
+      "with_exam_type": 323,
+      "years": {
+        "2017": 1,
+        "2018": 79,
+        "2019": 49,
+        "2020": 30,
+        "2021": 47,
+        "2022": 41,
+        "2023": 38,
+        "2024": 38
+      },
+      "exam_types": {
+        "Part I": 141,
+        "Part II": 139,
+        "Promotion": 43
+      }
+    },
+    "Neuromuscular": {
+      "total": 450,
+      "with_exam_year": 450,
+      "with_exam_type": 450,
+      "years": {
+        "2018": 35,
+        "2019": 59,
+        "2020": 68,
+        "2021": 125,
+        "2022": 63,
+        "2023": 58,
+        "2024": 42
+      },
+      "exam_types": {
+        "Part II": 240,
+        "Part I": 155,
+        "Promotion": 55
+      }
+    },
+    "Neuroophthalmology": {
+      "total": 95,
+      "with_exam_year": 95,
+      "with_exam_type": 95,
+      "years": {
+        "2018": 22,
+        "2019": 10,
+        "2020": 8,
+        "2021": 16,
+        "2022": 17,
+        "2023": 10,
+        "2024": 12
+      },
+      "exam_types": {
+        "Part II": 54,
+        "Part I": 23,
+        "Promotion": 18
+      }
+    },
+    "Neuropsychiatry": {
+      "total": 40,
+      "with_exam_year": 40,
+      "with_exam_type": 40,
+      "years": {
+        "2018": 5,
+        "2019": 7,
+        "2020": 7,
+        "2021": 8,
+        "2022": 2,
+        "2023": 5,
+        "2024": 6
+      },
+      "exam_types": {
+        "Part II": 22,
+        "Part I": 13,
+        "Promotion": 5
+      }
+    },
+    "Neurotoxicology": {
+      "total": 40,
+      "with_exam_year": 40,
+      "with_exam_type": 40,
+      "years": {
+        "2018": 9,
+        "2019": 2,
+        "2020": 3,
+        "2021": 13,
+        "2022": 8,
+        "2023": 3,
+        "2024": 2
+      },
+      "exam_types": {
+        "Part II": 24,
+        "Part I": 8,
+        "Promotion": 8
+      }
+    },
+    "Other Unclassified": {
+      "total": 88,
+      "with_exam_year": 88,
+      "with_exam_type": 88,
+      "years": {
+        "2018": 9,
+        "2019": 14,
+        "2020": 10,
+        "2021": 22,
+        "2022": 22,
+        "2023": 10,
+        "2024": 1
+      },
+      "exam_types": {
+        "Part II": 58,
+        "Part I": 15,
+        "Promotion": 15
+      }
+    },
+    "Pediatric Neurology": {
+      "total": 18,
+      "with_exam_year": 18,
+      "with_exam_type": 18,
+      "years": {
+        "2018": 2,
+        "2019": 3,
+        "2020": 2,
+        "2021": 2,
+        "2022": 3,
+        "2024": 6
+      },
+      "exam_types": {
+        "Part II": 9,
+        "Part I": 6,
+        "Promotion": 3
+      }
+    },
+    "Sleep Neurology": {
+      "total": 34,
+      "with_exam_year": 34,
+      "with_exam_type": 34,
+      "years": {
+        "2018": 5,
+        "2019": 1,
+        "2020": 12,
+        "2021": 8,
+        "2022": 4,
+        "2023": 2,
+        "2024": 2
+      },
+      "exam_types": {
+        "Part II": 21,
+        "Part I": 10,
+        "Promotion": 3
+      }
+    },
+    "Vascular Neurology Stroke": {
+      "total": 375,
+      "with_exam_year": 375,
+      "with_exam_type": 375,
+      "years": {
+        "2018": 56,
+        "2019": 41,
+        "2020": 59,
+        "2021": 79,
+        "2022": 78,
+        "2023": 39,
+        "2024": 23
+      },
+      "exam_types": {
+        "Part II": 185,
+        "Part I": 126,
+        "Promotion": 64
+      }
+    }
+  },
+  "by_year": {
+    "2017": 1,
+    "2018": 443,
+    "2019": 392,
+    "2020": 404,
+    "2021": 675,
+    "2022": 478,
+    "2023": 364,
+    "2024": 287
+  },
+  "by_exam_type": {
+    "Part II": 1608,
+    "Part I": 972,
+    "Promotion": 464
+  }
+}

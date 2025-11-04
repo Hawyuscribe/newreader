@@ -1,0 +1,235 @@
+{
+  "timestamp": "2025-05-08T09:28:13.970809",
+  "total_mcqs": 3293,
+  "mcqs_with_explanations": 3241,
+  "mcqs_needing_explanations": 52,
+  "explanation_coverage_percentage": 98.42,
+  "subspecialty_stats": {
+    "Dementia": {
+      "total": 117,
+      "with_explanation": 117,
+      "needing_explanation": 0
+    },
+    "Pediatric Neurology": {
+      "total": 27,
+      "with_explanation": 27,
+      "needing_explanation": 0
+    },
+    "Epilepsy": {
+      "total": 327,
+      "with_explanation": 327,
+      "needing_explanation": 0
+    },
+    "Neuropsychiatry": {
+      "total": 63,
+      "with_explanation": 61,
+      "needing_explanation": 2
+    },
+    "Neurogenetics": {
+      "total": 106,
+      "with_explanation": 106,
+      "needing_explanation": 0
+    },
+    "Critical Care Neurology": {
+      "total": 127,
+      "with_explanation": 127,
+      "needing_explanation": 0
+    },
+    "Neuroanatomy": {
+      "total": 102,
+      "with_explanation": 102,
+      "needing_explanation": 0
+    },
+    "Vascular Neurology/Stroke": {
+      "total": 388,
+      "with_explanation": 388,
+      "needing_explanation": 0
+    },
+    "Neuro-otology": {
+      "total": 9,
+      "with_explanation": 9,
+      "needing_explanation": 0
+    },
+    "Other/Unclassified": {
+      "total": 88,
+      "with_explanation": 88,
+      "needing_explanation": 0
+    },
+    "Neuroimmunology": {
+      "total": 333,
+      "with_explanation": 333,
+      "needing_explanation": 0
+    },
+    "Neuroophthalmology": {
+      "total": 98,
+      "with_explanation": 98,
+      "needing_explanation": 0
+    },
+    "Movement Disorders": {
+      "total": 268,
+      "with_explanation": 268,
+      "needing_explanation": 0
+    },
+    "Sleep Neurology": {
+      "total": 52,
+      "with_explanation": 45,
+      "needing_explanation": 7
+    },
+    "Headache": {
+      "total": 285,
+      "with_explanation": 242,
+      "needing_explanation": 43
+    },
+    "Neuro-oncology": {
+      "total": 164,
+      "with_explanation": 164,
+      "needing_explanation": 0
+    },
+    "Neuro-infectious": {
+      "total": 229,
+      "with_explanation": 229,
+      "needing_explanation": 0
+    },
+    "Neuromuscular": {
+      "total": 469,
+      "with_explanation": 469,
+      "needing_explanation": 0
+    },
+    "Neurotoxicology": {
+      "total": 41,
+      "with_explanation": 41,
+      "needing_explanation": 0
+    }
+  },
+  "placeholder_counts": {
+    "no_explanation": 2,
+    "classification_reason": 0,
+    "explanation_needed": 0,
+    "reviewed_by_specialists": 0,
+    "contact_instructor": 0,
+    "too_short": 2,
+    "no_content": 48
+  },
+  "mcqs_needing_explanations_sample": [
+    {
+      "id": 100021933,
+      "question_number": "Q2c3f7b",
+      "subspecialty": "Neuropsychiatry",
+      "explanation_preview": "# Classification\nSimilar to Q158, this is an ethical question regarding confidentiality versus publi..."
+    },
+    {
+      "id": 100021935,
+      "question_number": "Q4e9f21",
+      "subspecialty": "Neuropsychiatry",
+      "explanation_preview": "# Classification\nLinks a neuropsychiatric symptom (apathy) post-TBI to its neuroanatomical substrate..."
+    },
+    {
+      "id": 100021948,
+      "question_number": "Qca0cce",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nDescribes classic symptoms of REM Sleep Behavior Disorder (RBD) and asks for its pr..."
+    },
+    {
+      "id": 100021955,
+      "question_number": "Q54adc7",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nDescribes classic symptoms of Obstructive Sleep Apnea (OSA) and asks for the diagno..."
+    },
+    {
+      "id": 100021956,
+      "question_number": "Q9a16ae",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nAddresses the management of insomnia, likely psychophysiological or behavioral inso..."
+    },
+    {
+      "id": 100021957,
+      "question_number": "Qd15d46",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nDescribes cataplexy, a cardinal symptom of narcolepsy type 1, triggered by emotion ..."
+    },
+    {
+      "id": 100021959,
+      "question_number": "Qf84165",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nDuplicate of\n\n"
+    },
+    {
+      "id": 100021961,
+      "question_number": "Q9399ce",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nAsks about the first-line treatment (Modafinil) for excessive daytime sleepiness in..."
+    },
+    {
+      "id": 100021963,
+      "question_number": "Q387a49",
+      "subspecialty": "Sleep Neurology",
+      "explanation_preview": "# Classification\nDuplicate/Partial of\n\n"
+    },
+    {
+      "id": 100021969,
+      "question_number": "Qfd1b6a",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nAsks for the diagnosis based on a classic description of Hemicrania Continua, a pri..."
+    },
+    {
+      "id": 100021971,
+      "question_number": "Qc6c4fa",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nDirectly addresses the management strategy (medication withdrawal) for Medication O..."
+    },
+    {
+      "id": 100021973,
+      "question_number": "Qe7f025",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nFocuses on selecting safe and appropriate acute migraine treatment during pregnancy..."
+    },
+    {
+      "id": 100021977,
+      "question_number": "Q810ee5",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nAssesses knowledge of safe and appropriate first-line acute migraine treatment duri..."
+    },
+    {
+      "id": 100021980,
+      "question_number": "Q11de0d",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nTests the ability to recognize the classic clinical description of trigeminal neura..."
+    },
+    {
+      "id": 100021984,
+      "question_number": "Q0bc7aa",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nFocuses on diagnosing a specific subtype of migraine (Menstrual Migraine) based on ..."
+    },
+    {
+      "id": 100021985,
+      "question_number": "Q20a519",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nIdentical to Q8, focuses on recognizing headache red flags requiring investigation...."
+    },
+    {
+      "id": 100021987,
+      "question_number": "Qe5702b",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nTests the ability to diagnose migraine with aura based on the characteristic tempor..."
+    },
+    {
+      "id": 100021989,
+      "question_number": "Q1987c6",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nDescribes classic post-dural puncture headache (a form of intracranial hypotension)..."
+    },
+    {
+      "id": 100021990,
+      "question_number": "Q0b2d41",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nTests knowledge of the diagnostic criteria (number of attacks) for a specific heada..."
+    },
+    {
+      "id": 100021996,
+      "question_number": "Q970883",
+      "subspecialty": "Headache",
+      "explanation_preview": "# Classification\nDescribes symptoms suggestive of hypnic headache and asks for its specific treatmen..."
+    }
+  ]
+}

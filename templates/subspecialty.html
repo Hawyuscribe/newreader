@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ subspecialty }} - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>{{ subspecialty }}</h1>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <a href="{{ url_for('dashboard') }}" class="btn btn-outline-primary">
+            <i class="bi bi-arrow-left"></i> Back to Dashboard
+        </a>
+    </div>
+</div>
+
+<div class="card mb-4 shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0">Filter MCQs</h3>
+    </div>
+    <div class="card-body">
+        <form action="{{ url_for('subspecialty', subspecialty=subspecialty) }}" method="get">
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label for="exam_type" class="form-label">Examination Type</label>
+                    <select class="form-select" id="exam_type" name="exam_type">
+                        <option value="All Types" {% if exam_type == 'All Types' %}selected{% endif %}>All Types</option>
+                        <option value="Basic level" {% if exam_type == 'Basic level' or exam_type == 'Promotion' %}selected{% endif %}>Basic level</option>
+                        <option value="Advanced" {% if exam_type == 'Advanced' or exam_type == 'Part I' %}selected{% endif %}>Advanced</option>
+                        <option value="Board-level" {% if exam_type == 'Board-level' or exam_type == 'Part II' %}selected{% endif %}>Board-level</option>
+                    </select>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label for="start_year" class="form-label">Start Year</label>
+                    <select class="form-select" id="start_year" name="start_year">
+                        {% for year in range(2018, 2025) %}
+                        <option value="{{ year }}" {% if start_year|int == year %}selected{% endif %}>{{ year }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label for="end_year" class="form-label">End Year</label>
+                    <select class="form-select" id="end_year" name="end_year">
+                        {% for year in range(2018, 2025) %}
+                        <option value="{{ year }}" {% if end_year|int == year %}selected{% endif %}>{{ year }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Apply Filters</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0">MCQ List ({{ mcqs|length }} found)</h3>
+    </div>
+    <div class="card-body">
+        {% if mcqs %}
+        <div class="list-group">
+            {% for mcq in mcqs %}
+            <a href="{{ url_for('view_mcq', mcq_id=mcq.id) }}" class="list-group-item list-group-item-action">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">{{ mcq.question_number }}</h5>
+                    <small>
+                        {% if mcq.exam_type %}<span class="badge {{ mcq.exam_type|exam_type_badge_class }}">{{ mcq.exam_type|display_exam_type }}</span>{% endif %}
+                        {% if mcq.exam_year %}<span class="badge bg-info">{{ mcq.exam_year }}</span>{% endif %}
+                    </small>
+                </div>
+                <p class="mb-1">{{ mcq.question_text|truncate(150) }}</p>
+            </a>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="alert alert-info">No MCQs found matching your criteria. Try adjusting your filters.</div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,339 @@
+[
+  {
+    "question_number": "Q130",
+    "question_text": "",
+    "options": {
+      "A": "42-year-old female was found unconscious. A CT scan is attached for review. Which of the following conditions could be responsible for her presentation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q243",
+    "question_text": "This is a 24-year-old female patient with a known case of aneurysm, presenting with a history of right-sided headache and right pupil dilatation. On examination, the right pupil is dilated, with impaired right eye adduction. A CT brain scan showed a ruptured aneurysm. Where is the location of the aneurysm?",
+    "options": {
+      "A": "Right PCOM",
+      "B": "Right ICR",
+      "C": "Right ACOM",
+      "D": "Right MCA"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "",
+    "options": {
+      "A": "man has right-sided weakness and dysphasia. On stroke workup, he was found to have severe stenosis of the left middle cerebral artery (MCA). What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male presents with an MRI showing changes. Which of the following is a potential cause of his condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "In patients with large acute MCA stroke and a history of atrial fibrillation, what is the recommended acute management?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Mannitol",
+      "C": "Hypertonic saline",
+      "D": "Decompressive craniectomy"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q204",
+    "question_text": "Post aortic surgery, a patient is awake with flaccid paraparesis and a sensory level at which of the following?",
+    "options": {
+      "A": "T4",
+      "B": "T8",
+      "C": "L4",
+      "D": "C2"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient with an NIHSS score of 3 is being evaluated. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q245",
+    "question_text": "",
+    "options": {
+      "A": "62-year-old male patient with a history of diabetes mellitus for 12 years presented to the ER with a history of left side weakness that lasted for 10 minutes and then resolved. His blood pressure was 150/60. What is the risk of stroke in the next 90 days?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old female patient presents with left side weakness. Carotid Doppler shows right carotid stenosis of 50% and left carotid stenosis of 80%. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "What is a common cerebrospinal fluid (CSF) finding in reversible cerebral vasoconstriction syndrome (RCVS)?",
+    "options": {
+      "A": "High protein",
+      "B": "Oligoclonal bands",
+      "C": "Normal glucose",
+      "D": "Elevated white blood cell count"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "",
+    "options": {
+      "A": "female patient in her 30s presented to the ER with a history of progressive headache that started 10 days ago, associated with nausea, vomiting, and blurry vision. She is currently on oral contraceptive pills. Physical examination was remarkable for bilateral papilledema. CT brain and CTV were done. Which of the following is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "",
+    "options": {
+      "A": "patient has had a stroke and presents with slurred speech. You refer him to a speech therapist and rehabilitation service. This is considered as:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with infrequent headaches that are well controlled and has a family history of headaches. An MRI shows a deep cavernoma. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with acute limb weakness and dysarthria. A CT brain was performed and was normal. He was within the treatment window and IV t-PA was started. Twenty minutes later, the primary nurse called the physician as the patient had abnormal swelling around the mouth (image attached). Blood pressure was normal. Which of the following is the most likely associated risk factor for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "case presents typical of Fabry disease with a picture of angiokeratoma and two strokes. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "patient post-RTA (road traffic accident) has an image attached. Where is the localization of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with ataxia and vomiting. A CT scan shows hypodensity in the whole right cerebellum at the level of the midbrain. Which artery is likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of mild head trauma presents with left Horner\u2019s syndrome and tongue deviation to the left. Which artery is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "female patient came with ischemic stroke, a history of two previous abortions, and elevated prothrombin time. What is the most helpful investigation in her case?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "66-year-old male patient presented with dysarthria and right-sided weakness for 10 hours. A CT brain was done and showed acute ischemic change over the left internal capsule. Which of the following is the next step in the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "",
+    "options": {
+      "A": "female patient with end-stage renal disease (ESRD) on regular hemodialysis complained of recurrent TIAs lasting less than 10 minutes in the form of left-sided weakness and dysarthria that resolved completely. These symptoms occurred during the dialysis sessions. CT brain showed evidence of old ischemic stroke. Carotid ultrasound showed left ICA atherosclerotic changes with no visualized stenosis or occlusion. Which of the following is important to order during the evaluation of this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "52-year-old male presents with cognitive decline and unsteady gait. A brain MRI shows extensive subcortical white matter changes. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male has sudden cognitive decline and presents with repetitive questioning. His memory for recent events is affected, but he can remember past events. What is the best next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q244",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with symptoms of vertigo and ataxia over 1 day. A CT scan shows left cerebellar hypodensity, midline shift, and crowding of the posterior fossa. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q239",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with recurrent thunderclap headache. A CTA shows a \"string of pearls\" appearance and the ESR is normal. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

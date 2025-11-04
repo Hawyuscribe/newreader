@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q135",
+    "question_text": "",
+    "options": {
+      "A": "mother brought her 2-month-old baby with seizures and a history of the same seizures in his older brother. The seizures resolved at 8 months of age. What is the likely gene involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "3-month-old infant has a history of clonic and possible tonic or myoclonic seizures. The sibling had a similar history that resolved. What is the likely gene affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "patient with seizures who sometimes had febrile seizures is diagnosed with Dravet syndrome. What is the statement regarding this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "What is the channel involved in juvenile myoclonic epilepsy (JME)?",
+    "options": {
+      "A": "Sodium (Na)",
+      "B": "Calcium (Ca)",
+      "C": "Chloride (Cl)",
+      "D": "Potassium (K)"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q191",
+    "question_text": "In a case of temporal lobe epilepsy (TLE) with auditory features, which genetic mutation is typically asked about?",
+    "options": {
+      "A": "LGI-1",
+      "B": "SCN1A",
+      "C": "CACNA1A",
+      "D": "KCNQ2"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "Topiramate",
+      "B": "Lamotrigine",
+      "C": "Levetiracetam",
+      "D": "Carbamazepine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "Tuberous sclerosis",
+      "B": "Neurofibromatosis type 1",
+      "C": "Sturge-Weber syndrome",
+      "D": "Von Hippel-Lindau disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q186",
+    "question_text": "",
+    "options": {
+      "A": "IV Diazepam",
+      "B": "IV Keppra",
+      "C": "IV VPA",
+      "D": "IV Phenytoin"
+    },
+    "correct_answer": "D",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "",
+    "options": {
+      "A": "12-year-old patient presented with a history of seizures that started 3 years ago. The parents describe seizure semiology in the form of frequent staring episodes that cause poor school performance. Which of the following is the most likely gene mutation responsible for the patient's seizure type?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with short stature, a long history of seizures, and multiple skin macular and cutaneous tumors. Which of the following findings is most likely associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q211",
+    "question_text": "",
+    "options": {
+      "A": "history of seizures in a few months old baby, with a similar history in the older brother, is most likely associated with which genetic mutation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "In a case involving Landau-Kleffner syndrome (verbal auditory agnosia and progressive aphasia) who was found to have electrographic seizures during sleep on EEG, what is the diagnosis?",
+    "options": {
+      "A": "Landau-Kleffner syndrome (LKS)",
+      "B": "Childhood absence epilepsy",
+      "C": "Benign Rolandic epilepsy",
+      "D": "Lennox-Gastaut syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "In a patient with developmental delay and multiple seizure types (tonic spasms, drop attacks), what is the finding on EEG?",
+    "options": {
+      "A": "Spike and slow waves slower than 2 Hz",
+      "B": "Generalized 3 Hz spike-and-wave discharges",
+      "C": "Focal temporal sharp waves",
+      "D": "Hypsarrhythmia pattern"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q409",
+    "question_text": "In a normal child with a simple febrile seizure, what is the risk of developing epilepsy?",
+    "options": {
+      "A": "3%",
+      "B": "7%",
+      "C": "10%",
+      "D": "15%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q436",
+    "question_text": "In a scenario where an infant with myoclonus started focally and became progressive, what would you expect to see on EEG?",
+    "options": {
+      "A": "Burst suppression",
+      "B": "Focal spikes",
+      "C": "Generalized slowing",
+      "D": "Normal findings"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "In the same scenario of the young lady post-aneurysm clipping, what is the recommended antiepileptic drug (AED) to use?  [Implicit scenario involves post-SAH/clipping seizure]",
+    "options": {
+      "A": "Keppra",
+      "B": "Gabapentin",
+      "C": "Depakine",
+      "D": "Lamotrigine"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences a visual aura lasting for 10 seconds followed by a headache. What is the most likely explanation for this phenomenon?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "young lady who underwent tumor resection presents with a staring spell and loss of awareness. EEG shows frontal discharges. What is the classification of her seizure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "Patient with absence seizure; what is the medication that worsens the seizure?",
+    "options": {
+      "A": "Oxycarbazepine",
+      "B": "Ethosuximide",
+      "C": "Valproic acid",
+      "D": "Lamotrigine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a figure of 4, fencing posture, and right side nose rubbing. Which localization is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "In a case scenario of a patient with Mesial Temporal Lobe Epilepsy (MTLE) on two sufficient anti-seizure medications, but still experiencing monthly seizures, what is the next step?",
+    "options": {
+      "A": "Start workup for epilepsy surgery",
+      "B": "Add a third anti-seizure medication",
+      "C": "Increase the dose of current anti-seizure medications",
+      "D": "Recommend lifestyle modifications and stress reduction"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "An elderly patient with a history of diabetes mellitus, hypertension, hyperlipidemia, and osteoporosis presents with seizures. Which medication is commonly used for seizure management in this patient?",
+    "options": {
+      "A": "Valproate",
+      "B": "Phenytoin",
+      "C": "Lamotrigine",
+      "D": "Lacosamide"
+    },
+    "correct_answer": "C",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "patient with partial seizures has a PET scan showing hypometabolism in the perisylvian region. Which receptor is most likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "patient has an abdominal rising sensation and d\u00e9j\u00e0 vu. Which of the following is involved in the pathophysiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "boy with uncontrolled seizures is known to have bipolar disorder. What is the most appropriate management option for his seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

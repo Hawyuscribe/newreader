@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Young female with stroke & recurrent abortion",
+    "options": {
+      "option_a": "(Protein C deficiency) and option b (Antithrombin III deficiency) predispose mainly to venous thrombosis and do not explain recurrent abortions. Option d (Anti",
+      "option_b": "",
+      "option_c": ", Antiphospholipid syndrome, best fits the clinical scenario with its dual presentation of arterial stroke and recurrent pregnancy loss.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Middle age male Rt hemiplegia , found to have AF with attached CT brain, ttt",
+    "options": {
+      "option_a": "(ASA) and option b (dual antiplatelet therapy with ASA & Plavix) have been shown to be inferior to anticoagulation in AF",
+      "option_b": "",
+      "option_c": ", warfarin, effectively reduces the risk of cardioembolic events and is considered an evidence",
+      "option_d": "(LMWH) is not used for long",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with 3 mm Hemorrhage in putamen, stable hemorrhage but had increased oedema & decrease LOC, ttt",
+    "options": {
+      "option_a": "(Triple H therapy) is inappropriate as it is used in managing vasospasm in subarachnoid hemorrhage. Option b (Osmotic treatment) may transiently reduce ICP but does not address ongoing mass effect in a deteriorating patient. Option c (Dexamethasone) has been proven ineffective and is potentially harmful in ICH. Option d (Surgical evacuation) is correct as it directly alleviates the mass effect and reduces the risk of further neurological deterioration.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "MRI (DWI) multiple infarctions in one side, NL ECHO- Next step",
+    "options": {
+      "option_a": "(CTA) is correct because it provides detailed imaging of both extracranial and intracranial arteries and is rapid and widely available. Option b (Doppler ultrasound) is limited by operator dependency and inability to fully image intracranial vessels. Option c (MRA) is less sensitive for detecting calcific plaques and may not be as readily available in acute settings. Thus, CTA stands out as the most appropriate next diagnostic step.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Decrease risk of stroke in patient with homocysteinemia",
+    "options": {
+      "option_a": "(Vitamin B1) supports carbohydrate metabolism rather than homocysteine clearance. Option b (Coenzyme Q10) plays a role in mitochondrial function and antioxidant defense but does not lower homocysteine levels. Option d (Carnitine) is involved in fatty acid transport and energy metabolism without an impact on homocysteine metabolism. Only option c (Vitamin B6) directly aids the enzyme",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient was not able to read his handwriting",
+    "options": {
+      "option_a": "(ACA) would more likely cause contralateral leg weakness and cognitive changes rather than isolated visual processing deficits. Option b (MCA) is associated with hemiparesis and language deficits. Option c (ICA) would result in broader deficits by affecting multiple cerebral territories. Option d (PCA) directly supplies the occipital lobe, clarifying the visual disturbance observed.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Post of aortic surgery awake with flaccid paraparesis & sensory level",
+    "options": {
+      "option_a": "",
+      "option_b": "(T8) is correct because of the typical anatomical origin of the artery of Adamkiewicz in this region. Option a (T4) would suggest a higher level infarct, which is less common in this scenario; option c (L4) is below the termination of the spinal cord; and option d (C2) is inconsistent with the clinical presentation focused on lower extremity involvement.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "75 year old female, DM and HTN, came with Rt sided weakness since one week, MRI: Lt internal capsule lacunar infarction, vascular workup: Rt ICA 55 % stenosis & Lt ICA of 65 % stenosis. What to do for her regarding stroke prevention",
+    "options": {
+      "option_a": "(Right ICA stenting) and option b (Left ICA stenting) are not indicated because both stenoses are moderate and asymptomatic relative to the lacunar stroke pathophysiology. Option c (Maximize medical treatment) is appropriate, as current guidelines support intensive medical management for lacunar strokes.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "82-year-old, medically free, came with acute right-side weakness and global aphasia for 3 hours, BP 180/100mmHg, his CT scan is shown (no hemorrhage, with good ASPECT scores). What is your next step in his management?",
+    "options": {
+      "option_a": "(reduce BP) is incorrect because although the patient is hypertensive, his blood pressure is still below the critical threshold that mandates immediate lowering prior to tPA. Option B (IV thrombolytic) is the correct and time",
+      "option_b": "",
+      "option_c": "(CTA) is valuable in later planning for endovascular therapy but should not delay the administration of thrombolysis in eligible patients.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "50-year-old transient Rt side weakness, Dx: TIA, Rt ICA 60%, Lt 65% stenosis",
+    "options": {
+      "option_a": "(Aspirin alone) is correct because it is the cornerstone of medical management in patients with moderate symptomatic carotid stenosis. Option B (Angioplasty alone) is not standard due to high rates of restenosis and embolic risks. Option C (Dual antiplatelet therapy) is not required for long",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "(Angioplasty with stenting) is generally reserved for high",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "30 y.o male found unconscious at street. What you expect as the mechanism of injury for attached CT",
+    "options": {
+      "option_a": "(Aneurysmal) is incorrect because aneurysmal ruptures typically produce subarachnoid hemorrhage in a non",
+      "option_b": "(Trauma) is correct as the patient\u2019s history and clinical situation strongly indicate a traumatic injury. Option C (Hypertension) is incorrect because hypertensive hemorrhages generally occur in older individuals with a history of poorly controlled blood pressure and typically involve deep brain regions.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Global aphasia after one month (? asking about prognosis)",
+    "options": {
+      "option_a": "(Broca\u2019s aphasia) is incorrect because it represents a less severe, non",
+      "option_b": "(Global aphasia) is correct, reflecting the patient\u2019s persistent and extensive language deficits. Option C (Anomia) is incorrect as it refers only to word",
+      "option_c": "",
+      "option_d": "(Wernicke\u2019s aphasia) is incorrect because it does not match the global nature of the deficits observed.",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Small PFO & AF in young female who developed stroke, ttt",
+    "options": {
+      "option_a": "(Closure): Incorrect because closing a small PFO does not address the embolic risk from AF. Option b (Warfarin): While anticoagulation is indicated in many AF cases, warfarin is not preferred given the availability of DOACs and may be overtreatment in a low AF burden scenario. Option c (ASA): Correct in this context where the clinical scenario implies low AF burden or diagnostic uncertainty, making antiplatelet therapy a conservative and appropriate choice.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Lobar hemorrhage with high INR, ttt:",
+    "options": {
+      "option_a": "(PCC): Correct",
+      "option_b": "(FFP): Incorrect",
+      "option_c": "(Vitamin K alone): Incorrect",
+      "option_d": "(Protamine): Incorrect",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Severe MCA stenosis in elderly with stroke, ttt",
+    "options": {
+      "option_a": "(ASA): Correct",
+      "option_b": "(Angio & stenting): Incorrect",
+      "option_c": "(ASA & Warfarin): Incorrect",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Maxillary, nasal lesion with proptosis, causes of CVT:",
+    "options": {
+      "option_a": "(Direct invasion): Correct",
+      "option_b": "(Veins): Incorrect",
+      "option_c": "",
+      "option_d": "oes not explain the mechanism. Option c (LN [Lymph nodes]): Incorrect",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "The management of a patient who developed angioedema after starting tPA:",
+    "options": {
+      "option_a": "Reassurance",
+      "option_b": "intubate",
+      "option_c": "anti-histamine & steroids",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "83-Year-old man, presented with 3 hr Hx of stroke, CT brain done What to do next \u0646\u0633\u064a\u062a \u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u0644\u062d\u0627\u0644\u0629",
+    "options": {
+      "option_a": "(Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first",
+      "option_b": "",
+      "option_c": "(anti",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Tongue deviation to the Lt",
+    "options": {
+      "option_a": "(Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first",
+      "option_b": "",
+      "option_c": "(anti",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of chronic fluctuating paraparesis\nimage attached",
+    "options": {
+      "option_a": "(Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first",
+      "option_b": "",
+      "option_c": "(anti",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "total_placeholders": 150,
+  "fixed_count": 150,
+  "failed_count": 0,
+  "by_subspecialty": {
+    "Pediatric Neurology": {
+      "fixed": 8,
+      "failed": 0
+    },
+    "Neuropsychiatry": {
+      "fixed": 21,
+      "failed": 0
+    },
+    "Sleep Neurology": {
+      "fixed": 18,
+      "failed": 0
+    },
+    "Headache": {
+      "fixed": 103,
+      "failed": 0
+    }
+  }
+}

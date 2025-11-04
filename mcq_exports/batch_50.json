@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "brain tumor with histology of pseudorosette is most likely:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "patient with a tumor in the lateral ventricle is most likely to have which type of tumor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "brain lesion with a pathologic description of central necrosis is most likely which type of tumor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "case scenario involves a patient with a brain tumor. The MRI brain report shows a focal lesion with peripheral enhancement and a hypointense central core. The pathology report indicates highly vascular proliferation with atypia and central necrosis. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "coronal brain MRI shows a frontal extra-axial homogeneous mass. What is the likely histopathology?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "Anaplastic astrocytoma is characterized by which of the following features?",
+    "options": {
+      "A": "Psammoma bodies",
+      "B": "Naked cells, GFAP positive",
+      "C": "Pseudorosettes",
+      "D": "Homer Wright rosettes"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with lethargy and unilateral weakness. MRI of the brain showed a tumor crossing the midline with necrotic features and mass effect. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "Homer Wright rosettes are associated with which type of tumor?",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Medulloblastoma",
+      "C": "Oligodendroglioma",
+      "D": "Anaplastic astrocytoma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "",
+    "options": {
+      "A": "butterfly mass with necrosis in the center is observed. What is the most likely grade of this glioma?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "child has a 3-week history of lower limb weakness. MRI of the spine shows T4 and T8 intramedullary irregular non-enhanced lesions. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "brain MRI shows a mass originating from the fourth ventricle with histology showing pseudorosettes. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "",
+    "options": {
+      "A": "scenario describes a lady with a cerebellopontine angle mass. Pathology showed psammoma bodies. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "In a patient with Neurofibromatosis type 1 who presented with syncopal attacks and a lateral ventricular mass, what is the most likely tumor?",
+    "options": {
+      "A": "Subependymal Giant Cell Astrocytoma (SEGA)",
+      "B": "Central Neurocytoma",
+      "C": "Choroid Plexus Papilloma",
+      "D": "Ependymoma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "In which case would steroids have an effect?",
+    "options": {
+      "A": "Brain cancer with vasogenic edema",
+      "B": "Multiple sclerosis during remission",
+      "C": "Parkinson\u2019s disease with tremor",
+      "D": "Alzheimer\u2019s disease with memory loss"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "Which of the following tumors is characterized by the presence of Rosenthal fibers?",
+    "options": {
+      "A": "Pilocytic Astrocytoma",
+      "B": "Meningioma",
+      "C": "Medulloblastoma",
+      "D": "Glioblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "patient with CNS tumor pathology shows a Fried egg appearance. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "",
+    "options": {
+      "A": "right brain lesion with pathology showing a fried egg appearance is noted. What is the next step? There is no mass effect on imaging."
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "What are the most common posterior fossa tumors in children?",
+    "options": {
+      "A": "Medulloblastoma",
+      "B": "Pilocytic astrocytoma",
+      "C": "Ependymoma",
+      "D": "Brainstem glioma"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with headache and bilateral 6th nerve palsy with papilledema. A red mass is seen from the nostril, and MRI shows a cystic lesion arising from the clivus. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "5-year-old male with renal cell carcinoma was brought to the ED with confusion and seizures. Brain MRI shows a single mass with vasogenic edema. What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "patient with only skull and dural metastases, what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "57-year-old male patient with renal cell carcinoma is brought to the emergency department with confusion and seizure. Brain MRI shows a single mass with vasogenic edema. Which of the following is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "What is the most common benign intracranial tumor?",
+    "options": {
+      "A": "Meningiomas",
+      "B": "Glioma",
+      "C": "Ependymoma",
+      "D": "Medulloblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "In which of the following scenarios does dexamethasone help?",
+    "options": {
+      "A": "Tumor with vasogenic edema",
+      "B": "Bacterial meningitis without increased intracranial pressure",
+      "C": "Viral encephalitis",
+      "D": "Ischemic stroke"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q283",
+    "question_text": "What is the treatment plan for a patient with a schwannoma?",
+    "options": {
+      "A": "Radiotherapy",
+      "B": "Chemotherapy",
+      "C": "De-bulking",
+      "D": "Observation"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  }
+]

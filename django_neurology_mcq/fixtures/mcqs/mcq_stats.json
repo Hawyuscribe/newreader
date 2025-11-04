@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-05-07T12:26:07.797521",
+  "total_processed": 3153,
+  "total_errors": 0,
+  "recovered_questions": 0,
+  "by_subspecialty": {
+    "Dementia": 117,
+    "Neuromuscular": 478,
+    "Critical Care Neurology": 128,
+    "Neuro-oncology": 170,
+    "Movement Disorders": 267,
+    "Sleep Neurology": 36,
+    "Neuroanatomy": 102,
+    "Neuroimmunology": 333,
+    "Epilepsy": 320,
+    "Neurogenetics": 108,
+    "Pediatric Neurology": 18,
+    "Neurotoxicology": 42,
+    "Headache": 175,
+    "Neuro-otology": 9,
+    "Neuro-infectious": 234,
+    "Vascular Neurology/Stroke": 383,
+    "Other/Unclassified": 92,
+    "Neuroophthalmology": 100,
+    "Neuropsychiatry": 41
+  },
+  "error_types": {}
+}

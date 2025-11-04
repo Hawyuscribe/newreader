@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q1",
+    "question_text": "Which condition is characterized by chorea, cognitive decline, and behavioral changes?",
+    "options": {
+      "A": "Huntington's disease",
+      "B": "Parkinson's disease",
+      "C": "Wilson's disease",
+      "D": "Multiple sclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q181",
+    "question_text": "",
+    "options": {
+      "A": "61-year-old male with a 2-year history of limb tremors and bradykinesia has postural instability and vertical jaw limitation on exam. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "An elderly patient with a history of coronary artery bypass grafting (CABG) two years ago presents with a six-month history of frequent falls and restricted upward gaze. What is the most likely diagnosis?",
+    "options": {
+      "A": "Vascular Parkinsonism",
+      "B": "Progressive Supranuclear Palsy (PSP)",
+      "C": "Parkinson\u2019s Disease",
+      "D": "Normal Pressure Hydrocephalus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "Oculopalatal myoclonus is caused by a lesion involving which pathway?",
+    "options": {
+      "A": "Dentate-rubro-olivary pathway",
+      "B": "Corticospinal tract",
+      "C": "Spinothalamic tract",
+      "D": "Medial lemniscus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "In a case of corticobasal degeneration, where is the involvement seen on MRI?",
+    "options": {
+      "A": "Association cortex of parietal and temporal lobe",
+      "B": "Association cortex of unilateral parietal lobe with asymmetrical finding",
+      "C": "Basal ganglia with symmetrical involvement",
+      "D": "Frontal lobe with diffuse atrophy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's Disease (PD) experiences excessive sleep and motor fluctuations. What medication should be considered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "What is the most common cause of hereditary chorea?",
+    "options": {
+      "A": "Huntington disease",
+      "B": "Sydenham chorea",
+      "C": "Benign hereditary chorea",
+      "D": "Wilson disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "patient with essential tremor and asthma, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "Regarding enhanced physiological tremor, which statement is correct?",
+    "options": {
+      "A": "Tremor attenuation with alcohol",
+      "B": "Tremor worsens with beta-blockers",
+      "C": "It is a resting tremor",
+      "D": "It is typically asymmetric"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "patient with recurrent unilateral eye twitching and sometimes mouth twitching, with no history of facial (Bell's) palsy, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "An elderly patient has a history of frequent falls, limited vertical gaze, and parkinsonian features. What is the diagnosis?",
+    "options": {
+      "A": "Progressive supranuclear palsy (PSP)",
+      "B": "Multiple system atrophy (MSA)",
+      "C": "Parkinson\u2019s disease",
+      "D": "Corticobasal degeneration"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q195",
+    "question_text": "In a patient with Parkinson's disease experiencing motor function issues and dyskinesia, what is the recommended adjustment to treatment?",
+    "options": {
+      "A": "Decrease Sinemet and add a dopamine agonist",
+      "B": "Increase Sinemet dosage",
+      "C": "Start amantadine",
+      "D": "Discontinue all medications"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q334",
+    "question_text": "",
+    "options": {
+      "A": "scenario suggests a diagnosis of dyt11. What type of myoclonus is associated with this condition, especially since her father has a similar condition that improves with alcohol?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "female patient reports throat discomfort and a \u201cclicking tinnitus\u201d that subsides during her sleep. On exam, there is an objective clicking sound, and otherwise, her exam is normal. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q335",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease for 7 years presents with severe disabling dyskinesia on medical therapy and mild cognitive impairment. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "In Progressive Supranuclear Palsy (PSP), which symptom will improve with treatment?",
+    "options": {
+      "A": "Rigidity",
+      "B": "Bradykinesia",
+      "C": "Postural instability",
+      "D": "Vertical gaze palsy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease presents with peak dose dyskinesia. What medication is commonly used to manage this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "patient with diabetes mellitus presents with tremor at rest, during action, and with kinetic movements. What type of tremor is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with bilateral upper limb dystonia that improves with alcohol. Which of the following treatments is most appropriate?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "For a patient with orthostatic tremor who is not tolerating clonazepam, what is the second-line treatment option?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Levodopa",
+      "C": "Pramipexole",
+      "D": "Trihexyphenidyl"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease is experiencing motor function issues and dyskinesia. What is the most appropriate adjustment to their medication?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "",
+    "options": {
+      "A": "34-year-old female was brought by her family due to a history of abnormal movements of her hands and legs, and difficulty in eating due to sustained contraction of her mouth. Her father had the same history and died early. On examination, she was found to have orolingual dystonia. What should be done next to reach a diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "14-year-old girl, medically free, has episodes of jerky movements of the right upper limb followed by dystonia with posturing, which occurs suddenly when she turns while running. There is also a family history of migraine. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "",
+    "options": {
+      "A": "62-year-old male has two episodes of asymmetric tremors in the left arm. What investigation should be done to determine the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "Which of the following statements is true regarding symptomatic palatal myoclonus?",
+    "options": {
+      "A": "It often disappears with sleep.",
+      "B": "It is idiopathic with or without a family history.",
+      "C": "It is most often due to a structural lesion such as a stroke.",
+      "D": "It is characterized by an ear-clicking sound."
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

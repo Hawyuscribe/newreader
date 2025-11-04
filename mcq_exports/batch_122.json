@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q391",
+    "question_text": "",
+    "options": {
+      "A": "Epidural hematoma"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q369",
+    "question_text": "",
+    "options": {
+      "A": "patient with severe stenosis of the intracranial MCA is being evaluated. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "Scenario of an elderly female with sudden onset left gaze preference. On examination, she has persistent left gaze preference that couldn't be overcome. What else might you find in her examination?",
+    "options": {
+      "A": "Right lower motor neuron facial palsy",
+      "B": "Left lower motor neuron facial palsy",
+      "C": "Right upper motor neuron facial palsy",
+      "D": "Left upper motor neuron facial palsy"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old lady has sudden onset headache following neck manipulation, with right-sided weakness. She has no other symptoms and no vascular risk factors. Attached imaging shows findings of which artery likely dissected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q393",
+    "question_text": "",
+    "options": {
+      "A": "patient suddenly explained to his wife that he is seeing animals and then fades away. After a while, the patient loses consciousness. Upon arrival, the emergency medical team intubates him and a CT scan shows a new left occipital stroke. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q209",
+    "question_text": "In a case of intracerebral hemorrhage (ICH) with midline shift greater than 10 mm and clinical deterioration, what is the recommended intervention?",
+    "options": {
+      "A": "Medical management",
+      "B": "Decompressive craniectomy",
+      "C": "Observation",
+      "D": "Anticoagulation therapy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "",
+    "options": {
+      "A": "patient has a right pontine stroke, his NIHSS was 8 and he was on aspirin prior to stroke onset. What is the best option to prevent recurrence of stroke?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "",
+    "options": {
+      "A": "patient developed an embolic stroke, and his routine workup is unremarkable. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "patient has recurrent headaches and transient ischemic attacks (TIAs). Cerebral angiography shows segmental vessel constriction. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male came with an acute stroke and was given tPA in the ER. After 6 hours, he was assessed and showed no change in vital signs, with a BP of 190/90. The patient appears anxious. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "The ACAS trial showed a reduction in the 5-year incidence of ipsilateral stroke or periprocedural stroke or death for which degree of ICA stenosis?",
+    "options": {
+      "A": "50% to 69%",
+      "B": "60% to 99%",
+      "C": "70% to 99%",
+      "D": "30% to 50%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "Based on the following brain CT findings, what is the most likely diagnosis?",
+    "options": {
+      "A": "Infection",
+      "B": "Malignancy",
+      "C": "Perimesencephalic hemorrhage",
+      "D": "Subarachnoid hemorrhage"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "female who just had an uneventful vaginal delivery one week ago presents with seizure and severe headache. Her vital signs are within normal limits, she is afebrile, and her blood electrolytes and renal function are normal. What will you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of acute subarachnoid hemorrhage (SAH) and CT angiography showing a posterior communicating aneurysm is being evaluated. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "In a patient with transient ischemic attack (TIA) and severe internal carotid artery (ICA) stenosis on the symptomatic side, what is the recommended management?",
+    "options": {
+      "A": "Angioplasty plus stenting",
+      "B": "Carotid endarterectomy",
+      "C": "Best medical treatment",
+      "D": "Observation only"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "In a scenario with a picture of an arteriovenous malformation (AVM), which of the following is a risk factor for bleeding?",
+    "options": {
+      "A": "Previous history of bleeding",
+      "B": "Deep AVM",
+      "C": "Presence of aneurysm",
+      "D": "Deep venous drain"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "young female developed severe headache and photophobia post-partum. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "patient developed ischemic stroke, and his echocardiogram showed a valvular hypokinesia lesion. How should this patient be treated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "In patients with blood pressure of 220/120 mmHg who did not receive IV alteplase or mechanical thrombectomy, what is the recommendation regarding the treatment of hypertension within the first 48 to 72 hours?",
+    "options": {
+      "A": "Initiate antihypertensive treatment immediately",
+      "B": "Lower blood pressure by 15% during the first 24 hours",
+      "C": "No need to lower blood pressure",
+      "D": "Treat only if symptomatic"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "",
+    "options": {
+      "A": "picture of a spine MRI for a patient with progressive myelopathy is presented. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "In patients with sickle cell disease and a history of ischemic stroke or TIA, what is the recommended approach to prevent recurrent strokes?",
+    "options": {
+      "A": "Chronic blood transfusions to reduce hemoglobin S to less than 30%",
+      "B": "Hydroxyurea therapy",
+      "C": "Regular physical therapy",
+      "D": "Increased hydration"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q176",
+    "question_text": "",
+    "options": {
+      "A": "62-year-old male patient with a history of diabetes mellitus presents to the ER with a left-sided weakness that lasted for 10 minutes and then resolved. His blood pressure is 150/60. What is the risk of stroke in the next 90 days?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q213",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypertension and diabetes mellitus, with a history of CABG, presents with bilateral lower limb slowing and parkinsonism. MRI shows leukoaraiosis and hydrocephalus ex vacuo. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q216",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady had a headache, and her CT showed an intracranial hemorrhage (ICH). What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q209",
+    "question_text": "An MRI shows dissection. What is the recommended management?",
+    "options": {
+      "A": "Medical Therapy",
+      "B": "Surgical Repair",
+      "C": "Endovascular Stenting",
+      "D": "Observation Only"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

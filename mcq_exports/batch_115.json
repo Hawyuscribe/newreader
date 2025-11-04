@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q141",
+    "question_text": "",
+    "options": {
+      "A": "36-year-old male sustained a motor vehicle accident and presented with acute blurred vision. Examination shows right homonymous hemianopia. His brain CT revealed left occipital acute infarction. What could explain the stroke mechanism in this case?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "What is an expected finding in a patient with a superior cerebellar artery (SCA) infarction?",
+    "options": {
+      "A": "Ipsilateral Horner's syndrome",
+      "B": "Ipsilateral hearing loss",
+      "C": "Contralateral sensory disturbance",
+      "D": "Nystagmus toward the impaired side"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q236",
+    "question_text": "An elderly patient presents with temporal pain, jaw claudication, and visual symptoms, along with a high ESR. What is the next step in management?",
+    "options": {
+      "A": "IV methylprednisolone",
+      "B": "Aspirin",
+      "C": "Prednisone",
+      "D": "Temporal artery biopsy"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q234",
+    "question_text": "",
+    "options": {
+      "A": "young lady with two miscarriages and livedo reticularis is being evaluated. What laboratory test should be ordered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "For patients with ICH whose INR is elevated because of VKAs, what should be done?",
+    "options": {
+      "A": "Withhold VKA and administer vitamin K",
+      "B": "Continue VKA therapy",
+      "C": "Administer rFVIIa",
+      "D": "Administer fresh frozen plasma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "",
+    "options": {
+      "A": "61-year-old female presented with sudden severe headache, worsened with double vision. Examination shows a 6 mm right pupil that is non-reactive to light. Which artery is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "brain MRI shows unilateral watershed infarction. What is the likely mechanism?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "lady with a two-day history of malignant left middle cerebral artery (MCA) stroke and midline shift (CT was attached) was transferred from another hospital. What will you do for her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q226",
+    "question_text": "What is the first-line treatment for warfarin-related intracerebral hemorrhage (ICH) to achieve rapid reversal of coagulopathy?",
+    "options": {
+      "A": "Fresh frozen plasma (FFP)",
+      "B": "Prothrombin complex concentrate (PCC)",
+      "C": "Recombinant activated factor VII (rFVIIa)",
+      "D": "Vitamin K alone"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q294",
+    "question_text": "",
+    "options": {
+      "A": "case of right ICA dissection presented with left-sided weakness. What is the treatment in the acute setting?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "An 82-year-old female with a history of diabetes, hypertension, and dyslipidemia presents with sudden left gaze preference and aphasia. Her basic labs are fine. She has no contraindications for a brain CT. What is the time from symptom onset to ER arrival?",
+    "options": {
+      "A": "30 minutes",
+      "B": "60 minutes",
+      "C": "90 minutes",
+      "D": "120 minutes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q244",
+    "question_text": "An elderly patient presented to the ER with a history of visual disturbances. On examination, she has right homonymous hemianopia. She can write but is unable to read. A CT brain was performed. What is the location of the infarction?",
+    "options": {
+      "A": "Splenium of the corpus callosum",
+      "B": "Right occipital lobe",
+      "C": "Left occipital lobe",
+      "D": "Left angular gyrus"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q222",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male patient with a patent foramen ovale (PFO), diabetes mellitus (DM), hypertension (HTN), and a history of lacunar stroke in the posterior limb of the internal capsule, with CTA showing extracranial atherosclerosis, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "",
+    "options": {
+      "A": "patient with an acute stroke in the left occipital lobe will exhibit which of the following in their visual fields?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q276",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with right-sided weakness; a CT scan shows left basal ganglia hemorrhage with a 3mm midline shift. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q225",
+    "question_text": "What is the mechanism of the following antiplatelet agent: Ticagrelor?",
+    "options": {
+      "A": "Antagonist of P2Y12",
+      "B": "Cyclooxygenase-1 inhibitor",
+      "C": "Glycoprotein IIb/IIIa receptor blocker",
+      "D": "Phosphodiesterase inhibitor"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a lady in the postpartum period presented with headache and seizure, with a normal brain CT. What should be done next? (No magnesium in the choices)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with an intracranial bleed. What is the recommended blood pressure management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q230",
+    "question_text": "",
+    "options": {
+      "A": "64-year-old diabetic patient presents with weakness that lasted 25 minutes and then resolved. What medication regimen should be started?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "scenario of an 82-year-old lady with ischemic stroke presented within 1 hour and has no contraindications. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q180",
+    "question_text": "",
+    "options": {
+      "A": "case of malignant MCA stroke with mass effect and decreased level of consciousness is found unresponsive. What intervention will change outcomes?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "An image of diffusion-weighted imaging (DWI) shows a watershed infarction on one side. What should be done next?",
+    "options": {
+      "A": "CT angiography (CTA)",
+      "B": "Initiate intravenous thrombolysis",
+      "C": "Perform lumbar puncture",
+      "D": "Start high-dose corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "In the context of acute ischemic stroke, which visual field defect is commonly observed?",
+    "options": {
+      "A": "Bitemporal hemianopia",
+      "B": "Homonymous hemianopia",
+      "C": "Central scotoma",
+      "D": "Quadrantanopia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In a case of intracerebral hemorrhage (ICH), what is the target blood pressure (BP) for treatment?",
+    "options": {
+      "A": "140/90",
+      "B": "160/90",
+      "C": "180/105",
+      "D": "120/80"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q283",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient has livedo reticularis. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

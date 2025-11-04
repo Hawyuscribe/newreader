@@ -1,0 +1,1002 @@
+{% extends 'base.html' %}
+
+{% block title %}🔧 Admin Debug Console - MCQ Case Conversion{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h1 class="h3">🔧 Admin Debug Console</h1>
+                <small class="text-muted">MCQ Case Conversion Session Tracking</small>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="row mb-4">
+                <div class="col-md-4">
+                    <div class="card border-primary">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="mb-0">Quick Actions</h5>
+                        </div>
+                        <div class="card-body">
+                            <button class="btn btn-warning mb-2 w-100" onclick="clearSessionCache()">
+                                🧹 Clear Session Cache
+                            </button>
+                            <button class="btn btn-info mb-2 w-100" onclick="refreshIntegrityCheck()">
+                                🔍 Refresh Integrity Check
+                            </button>
+                            <button class="btn btn-success w-100" onclick="loadRecentTrackingData()">
+                                📊 Load Recent Tracking
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card border-info">
+                        <div class="card-header bg-info text-white">
+                            <h5 class="mb-0">Trace Specific MCQ</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="input-group mb-2">
+                                <input type="number" class="form-control" id="traceMcqId" placeholder="MCQ ID">
+                                <button class="btn btn-primary" onclick="traceMcqConversion()">
+                                    🔍 Trace Conversion
+                                </button>
+                            </div>
+                            <div class="input-group">
+                                <input type="text" class="form-control" id="trackingId" placeholder="Tracking ID (from console logs)">
+                                <button class="btn btn-success" onclick="viewTrackingReport()">
+                                    📊 View Tracking Report
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card border-warning">
+                        <div class="card-header bg-warning text-dark">
+                            <h5 class="mb-0">Live Tracking Monitor</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="mb-2">
+                                <label class="form-label small">Monitor MCQ:</label>
+                                <input type="number" class="form-control form-control-sm" id="monitorMcqId" placeholder="MCQ ID">
+                            </div>
+                            <button class="btn btn-warning w-100 mb-2" onclick="startLiveMonitoring()">
+                                🔴 Start Live Monitor
+                            </button>
+                            <button class="btn btn-secondary w-100" onclick="stopLiveMonitoring()" id="stopMonitorBtn" style="display: none;">
+                                ⏹️ Stop Monitor
+                            </button>
+                            <div id="liveMonitorStatus" class="mt-2 small text-muted"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tracking Dashboard -->
+            <div class="row mb-4">
+                <div class="col-12">
+                    <div class="card border-success">
+                        <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
+                            <h5 class="mb-0">🔍 Conversion Tracking Dashboard</h5>
+                            <div>
+                                <button class="btn btn-light btn-sm" onclick="exportTrackingData()">
+                                    📥 Export Data
+                                </button>
+                                <button class="btn btn-outline-light btn-sm" onclick="toggleTrackingDashboard()">
+                                    👁️ Toggle View
+                                </button>
+                            </div>
+                        </div>
+                        <div class="card-body" id="trackingDashboard">
+                            <!-- Tracking Search -->
+                            <div class="row mb-3">
+                                <div class="col-md-3">
+                                    <label class="form-label small">Filter by MCQ ID:</label>
+                                    <input type="number" class="form-control form-control-sm" id="filterMcqId" placeholder="MCQ ID">
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label small">Filter by User ID:</label>
+                                    <input type="number" class="form-control form-control-sm" id="filterUserId" placeholder="User ID">
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label small">Filter by Status:</label>
+                                    <select class="form-select form-select-sm" id="filterStatus">
+                                        <option value="">All</option>
+                                        <option value="success">Success</option>
+                                        <option value="error">Errors</option>
+                                        <option value="mismatch">MCQ ID Mismatch</option>
+                                        <option value="incomplete">Incomplete</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="form-label small">&nbsp;</label>
+                                    <button class="btn btn-primary btn-sm w-100" onclick="searchTrackingData()">
+                                        🔍 Search Tracking Data
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- Tracking Results Table -->
+                            <div id="trackingResults" style="display: none;">
+                                <div class="table-responsive" style="max-height: 500px;">
+                                    <table class="table table-striped table-sm">
+                                        <thead class="table-dark sticky-top">
+                                            <tr>
+                                                <th>Tracking ID</th>
+                                                <th>MCQ ID</th>
+                                                <th>User ID</th>
+                                                <th>Steps</th>
+                                                <th>Status</th>
+                                                <th>Issues</th>
+                                                <th>Started</th>
+                                                <th>Actions</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="trackingTableBody">
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <!-- Live Tracking Monitor Display -->
+                            <div id="liveTrackingDisplay" style="display: none;">
+                                <h6 class="text-primary mb-3">🔴 Live Tracking Monitor</h6>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="card border-info">
+                                            <div class="card-header bg-info text-white">
+                                                Current Conversion Steps
+                                            </div>
+                                            <div class="card-body">
+                                                <div id="liveStepsDisplay">
+                                                    <p class="text-muted">No active conversion...</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="card border-warning">
+                                            <div class="card-header bg-warning text-dark">
+                                                Detected Issues
+                                            </div>
+                                            <div class="card-body">
+                                                <div id="liveIssuesDisplay">
+                                                    <p class="text-muted">No issues detected...</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Detailed Tracking Report Display -->
+                            <div id="detailedTrackingReport" style="display: none;">
+                                <h6 class="text-success mb-3">📊 Detailed Tracking Report</h6>
+                                <div id="trackingReportContent"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Summary Statistics -->
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <div class="card text-white bg-success">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ recent_successful_conversions }}</h5>
+                            <p class="card-text">Successful Conversions (24h)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-white bg-danger">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ session_mismatches|length }}</h5>
+                            <p class="card-text">Session Mismatches</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-white bg-warning">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ total_django_sessions }}</h5>
+                            <p class="card-text">Active Django Sessions</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-white bg-info">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ overall_integrity_score }}%</h5>
+                            <p class="card-text">Integrity Score</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Session Mismatches -->
+            {% if session_mismatches %}
+            <div class="card border-danger mb-4">
+                <div class="card-header bg-danger text-white">
+                    <h5 class="mb-0">🚨 Session Mismatches Detected</h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Session ID</th>
+                                    <th>Expected MCQ</th>
+                                    <th>Actual MCQ</th>
+                                    <th>User</th>
+                                    <th>Created</th>
+                                    <th>Status</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for mismatch in session_mismatches %}
+                                <tr>
+                                    <td>{{ mismatch.id }}</td>
+                                    <td><span class="badge bg-primary">{{ mismatch.mcq_id }}</span></td>
+                                    <td><span class="badge bg-danger">{{ mismatch.case_mcq_id }}</span></td>
+                                    <td>{{ mismatch.user_username }}</td>
+                                    <td>{{ mismatch.created_at|date:"M d, H:i" }}</td>
+                                    <td>
+                                        {% if mismatch.status == 'READY' %}
+                                            <span class="badge bg-success">{{ mismatch.status }}</span>
+                                        {% else %}
+                                            <span class="badge bg-warning">{{ mismatch.status }}</span>
+                                        {% endif %}
+                                    </td>
+                                    <td>
+                                        <button class="btn btn-sm btn-info" onclick="traceMcqConversion({{ mismatch.mcq_id }})">
+                                            🔍 Trace
+                                        </button>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- Recent Conversion Sessions -->
+            <div class="card border-success mb-4">
+                <div class="card-header bg-success text-white">
+                    <h5 class="mb-0">✅ Recent Successful Conversions</h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Session ID</th>
+                                    <th>MCQ ID</th>
+                                    <th>User</th>
+                                    <th>Subspecialty</th>
+                                    <th>Created</th>
+                                    <th>Validation Score</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for session in recent_sessions %}
+                                <tr>
+                                    <td>{{ session.id }}</td>
+                                    <td><span class="badge bg-primary">{{ session.mcq_id }}</span></td>
+                                    <td>{{ session.user_username }}</td>
+                                    <td>{{ session.subspecialty }}</td>
+                                    <td>{{ session.created_at|date:"M d, H:i" }}</td>
+                                    <td>
+                                        {% if session.validation_score >= 90 %}
+                                            <span class="badge bg-success">{{ session.validation_score }}%</span>
+                                        {% elif session.validation_score >= 70 %}
+                                            <span class="badge bg-warning">{{ session.validation_score }}%</span>
+                                        {% else %}
+                                            <span class="badge bg-danger">{{ session.validation_score }}%</span>
+                                        {% endif %}
+                                    </td>
+                                    <td>
+                                        <button class="btn btn-sm btn-info" onclick="traceMcqConversion({{ session.mcq_id }})">
+                                            🔍 Trace
+                                        </button>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Django Sessions Analysis -->
+            <div class="card border-warning mb-4">
+                <div class="card-header bg-warning">
+                    <h5 class="mb-0">🔍 Django Sessions Analysis</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6>Session Statistics</h6>
+                            <ul class="list-group">
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Total Sessions with Case Data</span>
+                                    <span class="badge bg-primary rounded-pill">{{ case_session_count }}</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Sessions with Integrity Issues</span>
+                                    <span class="badge bg-danger rounded-pill">{{ sessions_with_issues }}</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Clean Sessions</span>
+                                    <span class="badge bg-success rounded-pill">{{ clean_sessions }}</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h6>Quick Actions</h6>
+                            <button class="btn btn-warning btn-sm mb-2" onclick="clearSessionCache('conversions_only')">
+                                🧹 Clear Old Conversions Only
+                            </button>
+                            <button class="btn btn-danger btn-sm mb-2" onclick="clearSessionCache('all')">
+                                🗑️ Clear All Session Data
+                            </button>
+                            <button class="btn btn-info btn-sm mb-2" onclick="checkSessionIntegrity()">
+                                🔍 Run Full Integrity Check
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Session Integrity Results -->
+            <div id="integrityResults" style="display: none;" class="card border-info mb-4">
+                <div class="card-header bg-info text-white">
+                    <h5 class="mb-0">🔍 Session Integrity Check Results</h5>
+                </div>
+                <div class="card-body">
+                    <div id="integrityContent"></div>
+                </div>
+            </div>
+
+            <!-- MCQ Trace Results -->
+            <div id="traceResults" style="display: none;" class="card border-secondary mb-4">
+                <div class="card-header bg-secondary text-white">
+                    <h5 class="mb-0">🔍 MCQ Conversion Trace Results</h5>
+                </div>
+                <div class="card-body">
+                    <div id="traceContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+function clearSessionCache(action = 'cache_only') {
+    if (!confirm('Are you sure you want to clear session cache? This action cannot be undone.')) {
+        return;
+    }
+    
+    fetch('{% url "debug_clear_session_cache" %}', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'X-CSRFToken': '{{ csrf_token }}'
+        },
+        body: JSON.stringify({action: action})
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            alert('Cache cleared successfully!\n' + JSON.stringify(data.cleared, null, 2));
+            location.reload();
+        } else {
+            alert('Error: ' + data.error);
+        }
+    })
+    .catch(error => {
+        alert('Error: ' + error);
+    });
+}
+
+function checkSessionIntegrity() {
+    fetch('{% url "debug_session_integrity" %}', {
+        method: 'GET',
+        headers: {
+            'X-CSRFToken': '{{ csrf_token }}'
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        const resultsDiv = document.getElementById('integrityResults');
+        const contentDiv = document.getElementById('integrityContent');
+        
+        let html = '<h6>Integrity Check Summary</h6>';
+        html += '<div class="row">';
+        
+        data.checks.forEach(check => {
+            const statusClass = check.passed ? 'success' : 'danger';
+            html += `
+                <div class="col-md-6 mb-3">
+                    <div class="card border-${statusClass}">
+                        <div class="card-body">
+                            <h6 class="card-title">${check.name}</h6>
+                            <p class="card-text">${check.description}</p>
+                            <span class="badge bg-${statusClass}">${check.passed ? 'PASSED' : 'FAILED'}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+        
+        html += '</div>';
+        html += `<div class="alert alert-info">Overall Score: ${data.overall_score}%</div>`;
+        
+        contentDiv.innerHTML = html;
+        resultsDiv.style.display = 'block';
+    })
+    .catch(error => {
+        alert('Error running integrity check: ' + error);
+    });
+}
+
+function traceMcqConversion(mcqId = null) {
+    if (!mcqId) {
+        mcqId = document.getElementById('traceMcqId').value;
+    }
+    
+    if (!mcqId) {
+        alert('Please enter an MCQ ID to trace');
+        return;
+    }
+    
+    fetch(`{% url "debug_trace_mcq_conversion" mcq_id=0 %}`.replace('0', mcqId), {
+        method: 'GET',
+        headers: {
+            'X-CSRFToken': '{{ csrf_token }}'
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        const resultsDiv = document.getElementById('traceResults');
+        const contentDiv = document.getElementById('traceContent');
+        
+        let html = `<h6>MCQ ${data.mcq.id} Conversion Trace</h6>`;
+        html += `<p><strong>Subspecialty:</strong> ${data.mcq.subspecialty}</p>`;
+        html += `<p><strong>Question Preview:</strong> ${data.mcq.question_preview}</p>`;
+        
+        html += '<h6>Conversion Sessions</h6>';
+        if (data.conversion_sessions.length === 0) {
+            html += '<p class="text-muted">No conversion sessions found for this MCQ.</p>';
+        } else {
+            data.conversion_sessions.forEach(session => {
+                const statusClass = session.status === 'READY' ? 'success' : session.status === 'FAILED' ? 'danger' : 'warning';
+                
+                html += `
+                    <div class="card mb-3 border-${statusClass}">
+                        <div class="card-header bg-${statusClass} text-white">
+                            <h6 class="mb-0">Session ${session.id} - ${session.status}</h6>
+                            <small>Created: ${new Date(session.created_at).toLocaleString()}</small>
+                        </div>
+                        <div class="card-body">
+                `;
+                
+                // Error message if failed
+                if (session.error_message) {
+                    html += `
+                        <div class="alert alert-danger">
+                            <strong>Error:</strong> ${session.error_message}
+                        </div>
+                    `;
+                }
+                
+                // Validation details
+                if (session.validation_details) {
+                    const val = session.validation_details;
+                    const scoreClass = val.score >= 80 ? 'success' : val.score >= 60 ? 'warning' : 'danger';
+                    
+                    html += `
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <h6>Validation Details</h6>
+                                <p><strong>Passed:</strong> ${val.passed ? '✅ Yes' : '❌ No'}</p>
+                                <p><strong>Score:</strong> <span class="badge bg-${scoreClass}">${val.score}/100</span></p>
+                                <p><strong>Reason:</strong> ${val.reason}</p>
+                            </div>
+                            <div class="col-md-6">
+                                <h6>Issue Summary</h6>
+                                <p><strong>Warnings:</strong> ${val.warning_count}</p>
+                                <p><strong>Critical Issues:</strong> ${val.critical_issues.length}</p>
+                                <p><strong>Has Warnings:</strong> ${val.has_warnings ? '⚠️ Yes' : '✅ No'}</p>
+                            </div>
+                        </div>
+                    `;
+                    
+                    // Display all validation issues
+                    if (val.issues && val.issues.length > 0) {
+                        html += `
+                            <div class="alert alert-warning">
+                                <strong>Validation Issues/Warnings:</strong>
+                                <ul class="mb-0">
+                                    ${val.issues.map(issue => `<li>${issue}</li>`).join('')}
+                                </ul>
+                            </div>
+                        `;
+                    }
+                }
+                
+                // Case details
+                if (session.case_details) {
+                    const details = session.case_details;
+                    html += `
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <h6>Generated Case Details</h6>
+                                <p><strong>Patient:</strong> ${details.patient_demographics}</p>
+                                <p><strong>Specialty:</strong> ${details.specialty}</p>
+                                <p><strong>Core Concept:</strong> ${details.core_concept}</p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><strong>Question Type:</strong> ${details.question_type}</p>
+                                <p><strong>Difficulty:</strong> ${details.difficulty}</p>
+                            </div>
+                        </div>
+                    `;
+                }
+                
+                // Case preview
+                if (session.case_preview) {
+                    html += `
+                        <div class="mb-3">
+                            <h6>Case Preview</h6>
+                            <div class="alert alert-info">
+                                ${session.case_preview}
+                            </div>
+                        </div>
+                    `;
+                }
+                
+                // Debug log
+                if (session.debug_log && session.debug_log.length > 0) {
+                    html += `
+                        <div class="mb-3">
+                            <h6>Debug Log (Last 5 entries)</h6>
+                            <div class="bg-light p-2 small" style="max-height: 200px; overflow-y: auto;">
+                    `;
+                    session.debug_log.forEach(entry => {
+                        html += `<div><strong>[${entry.step}]</strong> ${typeof entry.data === 'object' ? JSON.stringify(entry.data, null, 2) : entry.data}</div>`;
+                    });
+                    html += `</div></div>`;
+                }
+                
+                html += `
+                        </div>
+                    </div>
+                `;
+            });
+        }
+        
+        html += '<h6>Django Sessions</h6>';
+        if (data.django_sessions.length === 0) {
+            html += '<p class="text-muted">No Django sessions found with case data for this MCQ.</p>';
+        } else {
+            html += '<div class="table-responsive"><table class="table table-sm">';
+            html += '<thead><tr><th>Session Key</th><th>Case Key</th><th>MCQ ID</th><th>Expires</th></tr></thead><tbody>';
+            
+            data.django_sessions.forEach(session => {
+                html += `
+                    <tr>
+                        <td>${session.session_key.substring(0, 12)}...</td>
+                        <td>${session.case_key}</td>
+                        <td><span class="badge bg-primary">${session.data.mcq_id}</span></td>
+                        <td>${new Date(session.expire_date).toLocaleString()}</td>
+                    </tr>
+                `;
+            });
+            
+            html += '</tbody></table></div>';
+        }
+        
+        contentDiv.innerHTML = html;
+        resultsDiv.style.display = 'block';
+    })
+    .catch(error => {
+        alert('Error tracing MCQ conversion: ' + error);
+    });
+}
+
+function refreshIntegrityCheck() {
+    location.reload();
+}
+
+function viewTrackingReport() {
+    const trackingId = document.getElementById('trackingId').value.trim();
+    
+    if (!trackingId) {
+        alert('Please enter a tracking ID');
+        return;
+    }
+    
+    fetch(`/admin/debug/tracking-report/${trackingId}/`)
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            showTrackingReportModal(data.report);
+        } else {
+            alert('Error: ' + data.error);
+        }
+    })
+    .catch(error => {
+        alert('Error fetching tracking report: ' + error);
+    });
+}
+
+function showTrackingReportModal(report) {
+    const modalHtml = `
+        <div class="modal fade" id="trackingReportModal" tabindex="-1">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">📊 MCQ-to-Case Conversion Tracking Report</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <h6>Tracking Summary</h6>
+                                <table class="table table-sm">
+                                    <tr><td><strong>Tracking ID:</strong></td><td>${report.tracking_summary.tracking_id}</td></tr>
+                                    <tr><td><strong>MCQ ID:</strong></td><td>${report.tracking_summary.mcq_id}</td></tr>
+                                    <tr><td><strong>User ID:</strong></td><td>${report.tracking_summary.user_id}</td></tr>
+                                    <tr><td><strong>Total Steps:</strong></td><td>${report.tracking_summary.total_steps}</td></tr>
+                                    <tr><td><strong>Start Time:</strong></td><td>${new Date(report.tracking_summary.start_time).toLocaleString()}</td></tr>
+                                </table>
+                            </div>
+                            <div class="col-md-6">
+                                <h6>Potential Issues</h6>
+                                <div class="alert ${report.potential_issues.length > 0 ? 'alert-warning' : 'alert-success'}">
+                                    ${report.potential_issues.length > 0 ? 
+                                        '<ul class="mb-0">' + report.potential_issues.map(issue => '<li>' + issue + '</li>').join('') + '</ul>' :
+                                        '✅ No issues detected'
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <h6>Detailed Steps</h6>
+                        <div class="table-responsive" style="max-height: 400px;">
+                            <table class="table table-sm table-striped">
+                                <thead class="table-dark sticky-top">
+                                    <tr>
+                                        <th>Step</th>
+                                        <th>Type</th>
+                                        <th>Time</th>
+                                        <th>Duration</th>
+                                        <th>Details</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${report.detailed_steps.map((step, index) => `
+                                        <tr>
+                                            <td>${index + 1}</td>
+                                            <td><span class="badge bg-${getStepTypeBadgeColor(step.step_type)}">${step.step_type}</span></td>
+                                            <td>${new Date(step.timestamp).toLocaleTimeString()}</td>
+                                            <td>${step.time_since_previous_ms ? step.time_since_previous_ms + 'ms' : '-'}</td>
+                                            <td>
+                                                <small>${step.data.message || 'No message'}</small>
+                                                ${Object.keys(step.data).length > 1 ? 
+                                                    '<br><details><summary>View Data</summary><pre>' + JSON.stringify(step.data, null, 2) + '</pre></details>' : 
+                                                    ''
+                                                }
+                                            </td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary" onclick="downloadTrackingReport()">Download JSON</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    // Remove existing modal if any
+    const existingModal = document.getElementById('trackingReportModal');
+    if (existingModal) {
+        existingModal.remove();
+    }
+    
+    document.body.insertAdjacentHTML('beforeend', modalHtml);
+    
+    // Store report data for download
+    window.currentTrackingReport = report;
+    
+    // Show modal
+    const modal = new bootstrap.Modal(document.getElementById('trackingReportModal'));
+    modal.show();
+}
+
+function getStepTypeBadgeColor(stepType) {
+    const colorMap = {
+        'TRACKING_START': 'primary',
+        'SESSION_CREATION': 'info',
+        'BACKGROUND_TASK_START': 'warning',
+        'CASE_GENERATION': 'success',
+        'CASE_VALIDATION': 'secondary',
+        'DATABASE_STORAGE': 'dark',
+        'DJANGO_SESSION_TRANSFER': 'primary',
+        'DJANGO_SESSION_RETRIEVAL': 'info',
+        'CASE_BOT_REQUEST': 'warning',
+        'CASE_BOT_RESPONSE': 'success',
+        'FRONTEND_RESPONSE': 'primary'
+    };
+    
+    if (stepType.startsWith('ERROR_')) {
+        return 'danger';
+    }
+    
+    return colorMap[stepType] || 'secondary';
+}
+
+function downloadTrackingReport() {
+    if (window.currentTrackingReport) {
+        const dataStr = JSON.stringify(window.currentTrackingReport, null, 2);
+        const dataBlob = new Blob([dataStr], {type: 'application/json'});
+        const url = URL.createObjectURL(dataBlob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = `tracking_report_${window.currentTrackingReport.tracking_summary.tracking_id}.json`;
+        link.click();
+        URL.revokeObjectURL(url);
+    }
+}
+
+// Live monitoring variables
+let liveMonitorInterval = null;
+let monitoringMcqId = null;
+
+function startLiveMonitoring() {
+    const mcqId = document.getElementById('monitorMcqId').value;
+    if (!mcqId) {
+        alert('Please enter an MCQ ID to monitor');
+        return;
+    }
+    
+    monitoringMcqId = mcqId;
+    document.getElementById('stopMonitorBtn').style.display = 'block';
+    document.getElementById('liveMonitorStatus').innerHTML = `<span class="text-success">🔴 Monitoring MCQ ${mcqId}</span>`;
+    document.getElementById('liveTrackingDisplay').style.display = 'block';
+    
+    // Poll for updates every 2 seconds
+    liveMonitorInterval = setInterval(() => {
+        fetchLiveTrackingData(mcqId);
+    }, 2000);
+}
+
+function stopLiveMonitoring() {
+    if (liveMonitorInterval) {
+        clearInterval(liveMonitorInterval);
+        liveMonitorInterval = null;
+    }
+    document.getElementById('stopMonitorBtn').style.display = 'none';
+    document.getElementById('liveMonitorStatus').innerHTML = '<span class="text-muted">Monitor stopped</span>';
+    document.getElementById('liveTrackingDisplay').style.display = 'none';
+}
+
+function fetchLiveTrackingData(mcqId) {
+    fetch(`/admin/debug/live-tracking/${mcqId}/`)
+    .then(response => response.json())
+    .then(data => {
+        if (data.success && data.active_tracking) {
+            updateLiveTrackingDisplay(data.active_tracking);
+        }
+    })
+    .catch(error => console.error('Live tracking error:', error));
+}
+
+function updateLiveTrackingDisplay(trackingData) {
+    const stepsDiv = document.getElementById('liveStepsDisplay');
+    const issuesDiv = document.getElementById('liveIssuesDisplay');
+    
+    // Update steps
+    let stepsHtml = '<ul class="list-unstyled">';
+    trackingData.steps.forEach((step, index) => {
+        const badgeColor = getStepTypeBadgeColor(step.step_type);
+        stepsHtml += `
+            <li class="mb-2">
+                <span class="badge bg-${badgeColor}">${step.step_type}</span>
+                <small class="text-muted">${new Date(step.timestamp).toLocaleTimeString()}</small>
+                <br><small>${step.data.message || 'No message'}</small>
+            </li>
+        `;
+    });
+    stepsHtml += '</ul>';
+    stepsDiv.innerHTML = stepsHtml;
+    
+    // Update issues
+    if (trackingData.potential_issues && trackingData.potential_issues.length > 0) {
+        let issuesHtml = '<ul class="mb-0">';
+        trackingData.potential_issues.forEach(issue => {
+            issuesHtml += `<li class="text-danger">${issue}</li>`;
+        });
+        issuesHtml += '</ul>';
+        issuesDiv.innerHTML = issuesHtml;
+    } else {
+        issuesDiv.innerHTML = '<p class="text-success">✅ No issues detected</p>';
+    }
+}
+
+function toggleTrackingDashboard() {
+    const dashboard = document.getElementById('trackingDashboard');
+    dashboard.style.display = dashboard.style.display === 'none' ? 'block' : 'none';
+}
+
+function exportTrackingData() {
+    fetch('/admin/debug/export-tracking/')
+    .then(response => response.blob())
+    .then(blob => {
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = `tracking_data_${new Date().toISOString()}.json`;
+        link.click();
+        URL.revokeObjectURL(url);
+    })
+    .catch(error => alert('Error exporting tracking data: ' + error));
+}
+
+function loadRecentTrackingData() {
+    fetch('/admin/debug/recent-tracking/')
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            displayTrackingResults(data.tracking_data);
+        } else {
+            alert('Error loading recent tracking data: ' + data.error);
+        }
+    })
+    .catch(error => alert('Error: ' + error));
+}
+
+function searchTrackingData() {
+    const params = new URLSearchParams();
+    
+    const mcqId = document.getElementById('filterMcqId').value;
+    const userId = document.getElementById('filterUserId').value;
+    const status = document.getElementById('filterStatus').value;
+    
+    if (mcqId) params.append('mcq_id', mcqId);
+    if (userId) params.append('user_id', userId);
+    if (status) params.append('status', status);
+    
+    fetch(`/admin/debug/search-tracking/?${params}`)
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            displayTrackingResults(data.tracking_data);
+        } else {
+            alert('Error searching tracking data: ' + data.error);
+        }
+    })
+    .catch(error => alert('Error: ' + error));
+}
+
+function displayTrackingResults(trackingData) {
+    const resultsDiv = document.getElementById('trackingResults');
+    const tableBody = document.getElementById('trackingTableBody');
+    
+    if (!trackingData || trackingData.length === 0) {
+        tableBody.innerHTML = '<tr><td colspan="8" class="text-center text-muted">No tracking data found</td></tr>';
+        resultsDiv.style.display = 'block';
+        return;
+    }
+    
+    let html = '';
+    trackingData.forEach(track => {
+        const status = determineTrackingStatus(track);
+        const statusBadge = getStatusBadge(status);
+        const issues = track.potential_issues || [];
+        
+        html += `
+            <tr>
+                <td><small>${track.tracking_id}</small></td>
+                <td>${track.mcq_id}</td>
+                <td>${track.user_id}</td>
+                <td>${track.steps ? track.steps.length : 0}</td>
+                <td>${statusBadge}</td>
+                <td>
+                    ${issues.length > 0 ? 
+                        `<span class="badge bg-warning">${issues.length} issues</span>` : 
+                        '<span class="badge bg-success">Clean</span>'
+                    }
+                </td>
+                <td><small>${new Date(track.start_time).toLocaleString()}</small></td>
+                <td>
+                    <button class="btn btn-sm btn-info" onclick="viewDetailedTrackingReport('${track.tracking_id}')">
+                        👁️ View
+                    </button>
+                </td>
+            </tr>
+        `;
+    });
+    
+    tableBody.innerHTML = html;
+    resultsDiv.style.display = 'block';
+}
+
+function determineTrackingStatus(track) {
+    const steps = track.steps || [];
+    const stepTypes = steps.map(s => s.step_type);
+    
+    // Check for errors
+    if (stepTypes.some(type => type.startsWith('ERROR_'))) {
+        return 'error';
+    }
+    
+    // Check for MCQ ID mismatch
+    if (track.potential_issues && track.potential_issues.some(issue => issue.includes('MCQ ID mismatch'))) {
+        return 'mismatch';
+    }
+    
+    // Check if conversion completed
+    if (stepTypes.includes('CASE_BOT_RESPONSE')) {
+        return 'success';
+    }
+    
+    return 'incomplete';
+}
+
+function getStatusBadge(status) {
+    const badges = {
+        'success': '<span class="badge bg-success">Success</span>',
+        'error': '<span class="badge bg-danger">Error</span>',
+        'mismatch': '<span class="badge bg-warning">Mismatch</span>',
+        'incomplete': '<span class="badge bg-secondary">Incomplete</span>'
+    };
+    return badges[status] || '<span class="badge bg-secondary">Unknown</span>';
+}
+
+function viewDetailedTrackingReport(trackingId) {
+    document.getElementById('trackingId').value = trackingId;
+    viewTrackingReport();
+}
+
+// Auto-refresh every 30 seconds
+setInterval(function() {
+    // Only auto-refresh if no modals or forms are open
+    if (!document.querySelector('.modal.show') && !document.activeElement.matches('input, textarea') && !liveMonitorInterval) {
+        location.reload();
+    }
+}, 30000);
+</script>
+
+<style>
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.badge {
+    font-size: 0.875em;
+}
+
+.table-responsive {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.container-fluid {
+    max-width: 1400px;
+}
+</style>
+{% endblock %}

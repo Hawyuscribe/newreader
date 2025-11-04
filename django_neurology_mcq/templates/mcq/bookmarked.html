@@ -1,0 +1,292 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+
+{% block title %}Bookmarked MCQs - Neurology MCQ Reader{% endblock %}
+
+{% block extra_css %}
+<style>
+    .answer-option {
+        cursor: pointer;
+        border-left: 3px solid transparent;
+        transition: all 0.2s;
+    }
+    .answer-option:hover {
+        background-color: rgba(0, 123, 255, 0.1);
+    }
+    .answer-option.correct {
+        border-left: 3px solid #28a745;
+        background-color: rgba(40, 167, 69, 0.1);
+    }
+    .answer-option.incorrect {
+        border-left: 3px solid #dc3545;
+        background-color: rgba(220, 53, 69, 0.1);
+    }
+    .bookmark-navigation {
+        margin-top: 20px;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>Bookmarked MCQs {% if current_subspecialty %}- {{ current_subspecialty }}{% endif %}</h1>
+        <p class="text-muted">{{ bookmarks_count }} MCQs bookmarked{% if current_subspecialty %} in this subspecialty{% endif %}</p>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <div class="btn-group">
+            <a href="{% url 'dashboard' %}" class="btn btn-outline-primary">
+                <i class="bi bi-arrow-left"></i> Back to Dashboard
+            </a>
+            {% if current_subspecialty %}
+            <a href="{% url 'review_bookmarked' %}" class="btn btn-outline-danger">
+                <i class="bi bi-bookmarks"></i> All Bookmarks
+            </a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-danger text-white">
+                <h3 class="card-title mb-0">{{ mcq.question_number }}</h3>
+            </div>
+            <div class="card-body">
+                <p class="lead">{{ mcq.question_text }}</p>
+                
+                <div id="answer-section" class="mt-4">
+                    <div id="answer-options">
+                        {% if mcq.options.items %}
+                            {% for option, text in mcq.options.items %}
+                            <div class="card mb-2 answer-option" data-option="{{ option }}">
+                                <div class="card-body py-2 px-3">
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <strong>{{ option }}.</strong> {{ text }}
+                                        </div>
+                                        <div id="option-check-{{ option }}" class="d-none">
+                                            <i class="bi bi-check-circle-fill text-success fs-5"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        {% else %}
+                            <div class="alert alert-warning">
+                                <p>Options format issue. Please contact an administrator.</p>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-light">
+                <div class="d-flex justify-content-between align-items-center small text-muted">
+                    <div>{{ mcq.subspecialty }}</div>
+                    <div>
+                        {% if mcq.exam_type %}{{ mcq.exam_type }}{% endif %}
+                        {% if mcq.exam_year %}{{ mcq.exam_year }}{% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="explanation-section" class="card shadow-sm mb-4 d-none">
+            <div class="card-header bg-info text-white">
+                <h3 class="card-title mb-0">Explanation</h3>
+            </div>
+            <div class="card-body">
+                {% if mcq.explanation %}
+                <div class="explanation-content">{{ mcq.explanation|safe }}</div>
+                {% else %}
+                <p class="text-muted">No explanation available yet.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-danger text-white">
+                <h3 class="card-title mb-0">Review Options</h3>
+            </div>
+            <div class="card-body">
+                <div id="check-container">
+                    <div class="d-grid">
+                        <button id="check-answer-btn" class="btn btn-primary">Check Answer</button>
+                    </div>
+                </div>
+                
+                <div id="result-container" class="mt-4 d-none">
+                    <div class="alert alert-success d-none" id="correct-alert">
+                        <i class="bi bi-check-circle-fill me-2"></i> Correct!
+                    </div>
+                    <div class="alert alert-danger d-none" id="incorrect-alert">
+                        <i class="bi bi-x-circle-fill me-2"></i> Incorrect! The correct answer is <span id="correct-answer"></span>.
+                    </div>
+                </div>
+                
+                <div class="bookmark-navigation mt-4">
+                    <div class="d-grid gap-2">
+                        <a href="{% url 'view_mcq' mcq_id=mcq.id %}" class="btn btn-outline-primary">
+                            <i class="bi bi-eye"></i> View Full MCQ
+                        </a>
+                        {% if current_subspecialty %}
+                        <a href="{% url 'review_bookmarked' %}?subspecialty={{ current_subspecialty|urlencode }}" class="btn btn-outline-danger">
+                            <i class="bi bi-skip-forward"></i> Next Bookmarked MCQ in {{ current_subspecialty }}
+                        </a>
+                        {% else %}
+                        <a href="{% url 'review_bookmarked' %}" class="btn btn-outline-danger">
+                            <i class="bi bi-skip-forward"></i> Next Bookmarked MCQ
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-secondary text-white">
+                <h3 class="card-title mb-0">Actions</h3>
+            </div>
+            <div class="card-body">
+                <div class="d-grid gap-2">
+                    <form action="{% url 'toggle_bookmark' mcq_id=mcq.id %}" method="post">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-outline-danger w-100">
+                            <i class="bi bi-bookmark-dash"></i> Remove Bookmark
+                        </button>
+                    </form>
+                    
+                    {% if not mcq.explanation %}
+                    <form action="{% url 'create_explanation' mcq_id=mcq.id %}" method="post" id="explainForm">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-outline-info w-100" id="generateExplanation">
+                            <i class="bi bi-robot"></i> Generate Explanation
+                        </button>
+                    </form>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const answerOptions = document.querySelectorAll('.answer-option');
+    const checkAnswerBtn = document.getElementById('check-answer-btn');
+    const resultContainer = document.getElementById('result-container');
+    const correctAlert = document.getElementById('correct-alert');
+    const incorrectAlert = document.getElementById('incorrect-alert');
+    const correctAnswerSpan = document.getElementById('correct-answer');
+    const explanationSection = document.getElementById('explanation-section');
+    
+    // Check Answer functionality
+    checkAnswerBtn.addEventListener('click', function() {
+        const selectedOption = document.querySelector('.answer-option.selected');
+        if (!selectedOption) {
+            alert('Please select an answer first');
+            return;
+        }
+        
+        const option = selectedOption.dataset.option;
+        const formData = new FormData();
+        formData.append('answer', option);
+        formData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+        
+        fetch('{% url "check_answer" mcq_id=mcq.id %}', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            resultContainer.classList.remove('d-none');
+            
+            if (data.is_correct) {
+                correctAlert.classList.remove('d-none');
+                incorrectAlert.classList.add('d-none');
+                selectedOption.classList.add('correct');
+            } else {
+                correctAlert.classList.add('d-none');
+                incorrectAlert.classList.remove('d-none');
+                correctAnswerSpan.textContent = data.correct_answer;
+                selectedOption.classList.add('incorrect');
+                
+                // Highlight correct answer
+                answerOptions.forEach(option => {
+                    if (option.dataset.option === data.correct_answer) {
+                        option.classList.add('correct');
+                        const checkIcon = document.getElementById(`option-check-${data.correct_answer}`);
+                        if (checkIcon) {
+                            checkIcon.classList.remove('d-none');
+                        }
+                    }
+                });
+            }
+            
+            // Show explanation
+            explanationSection.classList.remove('d-none');
+        });
+    });
+    
+    // Select answer option
+    answerOptions.forEach(option => {
+        option.addEventListener('click', function() {
+            answerOptions.forEach(opt => opt.classList.remove('selected'));
+            this.classList.add('selected');
+        });
+    });
+    
+    // AJAX explanation generation
+    const explainForm = document.getElementById('explainForm');
+    if (explainForm) {
+        explainForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Update button text
+            const generateExplanationBtn = document.getElementById('generateExplanation');
+            const originalText = generateExplanationBtn.innerHTML;
+            generateExplanationBtn.innerHTML = `
+                <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                Generating...
+            `;
+            generateExplanationBtn.disabled = true;
+            
+            // Prepare form data
+            const formData = new FormData(explainForm);
+            
+            // Send AJAX request
+            fetch(explainForm.action, {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Refresh the page to show the new explanation
+                    window.location.reload();
+                } else {
+                    // Show error and reset button
+                    generateExplanationBtn.innerHTML = originalText;
+                    generateExplanationBtn.disabled = false;
+                    alert('Error generating explanation. Please try again.');
+                }
+            })
+            .catch(error => {
+                // Show error and reset button
+                generateExplanationBtn.innerHTML = originalText;
+                generateExplanationBtn.disabled = false;
+                alert('Error generating explanation. Please try again.');
+            });
+        });
+    }
+});
+</script>
+{% endblock %}

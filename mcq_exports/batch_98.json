@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q6",
+    "question_text": "What imaging is needed for the evaluation of a suspected diabetic 3rd nerve palsy?",
+    "options": {
+      "A": "MRI spine",
+      "B": "MRV",
+      "C": "Orbital MRI",
+      "D": "MR Spectroscopy"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "case scenario describes a patient with a history of blurry vision and headache. She has acne, is taking vitamin A, has papilledema, and a BMI of 35. The MRI report is normal. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "picture was attached of a patient post-RTA (road traffic accident), and the general exam is normal. What is your localization? (Implicitly about a pupillary/ptosis issue like Horner's, based on common post-RTA scenarios and options)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with binocular diplopia, with a vertical image from the right eye. The diplopia worsens with reading or when looking down to the right side. Which cranial nerve is affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "In a patient with bilateral papilledema, which cranial nerve is most likely to be affected?",
+    "options": {
+      "A": "3rd cranial nerve",
+      "B": "4th cranial nerve",
+      "C": "5th cranial nerve",
+      "D": "6th cranial nerve"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q212",
+    "question_text": "Which visual field defect is associated with damage to the optic chiasm?",
+    "options": {
+      "A": "Central scotoma",
+      "B": "Monocular vision loss",
+      "C": "Bitemporal hemianopia",
+      "D": "Contralateral homonymous hemianopia"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "patient has left eye hypertropia and improves with a head tilt to the left. Where is the lesion? (Implies Bielschowsky head tilt test for CN IV palsy)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with restricted vertical gaze and convergence nystagmus, with an intact pupillary response to light. Where is the localization of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with impaired adduction on the right gaze and nystagmus in the other eye. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with impaired adduction on right gaze and nystagmus in the other eye. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "Impaired adduction of the ipsilateral eye with nystagmus of the abducting contralateral eye"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of blurry vision and headache has acne and is taking vitamin A. Examination showed papilledema, BMI 35, and MRI report: normal. Which of the following is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "Acetazolamide therapy to reduce cerebrospinal fluid production",
+      "B": "High-dose intravenous corticosteroids",
+      "C": "Immediate ventriculoperitoneal shunting",
+      "D": "Oral beta-blockers to reduce intraocular pressure"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with vision loss in the right eye with rapid onset. Where is the lesion likely located? (Options imply junctional scotoma)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with a relative afferent pupillary defect and right homonymous hemianopia. Where is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "patient with right optic neuritis will show what in visual evoked potential?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "In a case scenario, a patient experiences diplopia that worsens when looking toward his left hand down and to the left, more than toward his right hand, and even more than when looking horizontally. Where is the lesion located? (Describes pattern of CN IV palsy)",
+    "options": {
+      "A": "Right trochlear nerve",
+      "B": "Left trochlear nerve",
+      "C": "Right trochlear nucleus",
+      "D": "Left trochlear nucleus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "For the following visual field defect, where do you localize the lesions? (Picture missing, but options relate to visual pathway)",
+    "options": {
+      "A": "Optic nerve where it joins the chiasm (anterior chiasm)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "What is true about popping nystagmus?",
+    "options": {
+      "A": "Slow downward deviation and rapid upward return of the eyes to the primary position",
+      "B": "Rapid downward deviation and slow upward return of the eyes to the primary position",
+      "C": "Rapid upward deviation and slow downward return of the eyes to the primary position",
+      "D": "Horizontal oscillations with equal speed in both directions"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q237",
+    "question_text": "Downbeat Nystagmus is most commonly associated with which of the following lesions?",
+    "options": {
+      "A": "Cervico-medullary junction",
+      "B": "Cerebellar vermis",
+      "C": "Pons",
+      "D": "Midbrain"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q401",
+    "question_text": "For each patient with visual loss, select the most likely loss area from the list below. (Incomplete question, but options relate to visual pathway)",
+    "options": {
+      "A": "Optic radiations",
+      "B": "Optic tract",
+      "C": "Vitreous",
+      "D": "Optic nerve"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "patient with headache and papilledema, the headache increased when she lies down and she had mild visual obscuration. What is the next management step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "Immediate lumbar puncture to reduce intracranial pressure",
+      "B": "Weight loss and acetazolamide therapy",
+      "C": "High-dose corticosteroids to reduce inflammation",
+      "D": "Surgical decompression of the optic nerve sheath"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with horizontal nystagmus in primary gaze that reverses every 90 seconds. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "What suggests central nystagmus?",
+    "options": {
+      "A": "Lack of latency",
+      "B": "Presence of latency",
+      "C": "Direction-changing nystagmus",
+      "D": "Fixation suppression"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  }
+]

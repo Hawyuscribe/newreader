@@ -1,0 +1,142 @@
+{
+  "total_mcqs": 3153,
+  "proper_explanation_count": 3153,
+  "placeholder_count": 0,
+  "no_explanation_count": 0,
+  "timestamp": "2025-05-09 11:10:01",
+  "subspecialty_stats": [
+    {
+      "subspecialty": "Neuromuscular",
+      "total": 478,
+      "proper": 478,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Vascular Neurology/Stroke",
+      "total": 383,
+      "proper": 383,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuroimmunology",
+      "total": 333,
+      "proper": 333,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Epilepsy",
+      "total": 320,
+      "proper": 320,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Movement Disorders",
+      "total": 267,
+      "proper": 267,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuro-infectious",
+      "total": 234,
+      "proper": 234,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Headache",
+      "total": 175,
+      "proper": 175,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuro-oncology",
+      "total": 170,
+      "proper": 170,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Critical Care Neurology",
+      "total": 128,
+      "proper": 128,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Dementia",
+      "total": 117,
+      "proper": 117,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neurogenetics",
+      "total": 108,
+      "proper": 108,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuroanatomy",
+      "total": 102,
+      "proper": 102,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuroophthalmology",
+      "total": 100,
+      "proper": 100,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Other/Unclassified",
+      "total": 92,
+      "proper": 92,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neurotoxicology",
+      "total": 42,
+      "proper": 42,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuropsychiatry",
+      "total": 41,
+      "proper": 41,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Sleep Neurology",
+      "total": 36,
+      "proper": 36,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Pediatric Neurology",
+      "total": 18,
+      "proper": 18,
+      "placeholder": 0,
+      "none": 0
+    },
+    {
+      "subspecialty": "Neuro-otology",
+      "total": 9,
+      "proper": 9,
+      "placeholder": 0,
+      "none": 0
+    }
+  ]
+}

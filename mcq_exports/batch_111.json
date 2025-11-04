@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q279",
+    "question_text": "For the same patient [referring to Q273, hemorrhage with fluid level], what is the recommended treatment?",
+    "options": {
+      "A": "Osmotic therapy",
+      "B": "Surgery",
+      "C": "Blood pressure control",
+      "D": "Supportive care"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "In the same case scenario [likely related to Q68, spinal cord infarction], what investigation should be performed?",
+    "options": {
+      "A": "MRI",
+      "B": "MRV (to rule out CVT)",
+      "C": "Lumbar puncture",
+      "D": "CT scan"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q269",
+    "question_text": "",
+    "options": {
+      "A": "similar case presents with left frontal focal hyperintensity mainly subcortical, with cortical diffusion restriction on DWI/ADC. MRV shows transverse and superior sagittal filling defects. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "In a scenario of superior cerebellar artery (SCA) infarction, what additional finding would you expect?",
+    "options": {
+      "A": "Right ptosis ipsilateral to the ataxia",
+      "B": "Ipsilateral Horner's syndrome associated with ataxia",
+      "C": "Contralateral hemiparesis",
+      "D": "Bilateral visual field defects"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with subarachnoid hemorrhage. Which artery is most likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "patient two weeks postpartum presents with a headache and left-sided weakness. MRI shows a right cortical intracerebral hemorrhage with surrounding edema. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "An elderly patient presents with 6 hours of right-sided weakness affecting the arm, leg, and face, along with mild dysarthria. A brain CT shows an acute left internal capsule infarction. What is the earliest finding of brain cell ischemia?",
+    "options": {
+      "A": "Astrocyte fragmentation",
+      "B": "Cellular or neuronal swelling",
+      "C": "Microglial proliferation",
+      "D": "Neuronal eosinophilic necrosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "",
+    "options": {
+      "A": "patient with a transient ischemic attack (TIA) is found to have atrial flutter, but the echocardiogram is normal. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with hemianopia and alexia without agraphia. What is the likely location of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "patient underwent carotid endarterectomy due to severe symptomatic stenosis and the next day he deteriorated. A brain CT shows right frontal cortical subarachnoid hemorrhage (SAH). What is the likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "patient with Horner\u2019s syndrome (ptosis, miosis) presents with a thunderclap headache. A CT brain and lumbar puncture were performed within 4 hours and were normal. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q251",
+    "question_text": "An AIS patient within the window with a platelet count of 45,000 was given tPA which resulted in intracranial hemorrhage. What violation to the AIS treatment protocol was done?",
+    "options": {
+      "A": "Out of the tPA window",
+      "B": "Platelet count 45,000",
+      "C": "Recent major surgery",
+      "D": "Uncontrolled hypertension"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "An 83-year-old man presents with a 3-hour history of stroke. What is the next best step in management?",
+    "options": {
+      "A": "CTA",
+      "B": "tPA",
+      "C": "Warfarin",
+      "D": "CEA"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a post-RTA patient presents with brain stem symptoms and findings. What is the most likely mechanism of injury?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "Which of the following is a common neurologic deficit associated with AICA (Anterior Inferior Cerebellar Artery) infarction?",
+    "options": {
+      "A": "Headache",
+      "B": "Unilateral hearing loss",
+      "C": "Nausea/vomiting",
+      "D": "Vertigo"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "In a patient post motor vehicle accident (MVA) presenting with symptoms of lateral medullary syndrome, what is the likely mechanism of stroke?",
+    "options": {
+      "A": "Vertebral artery thrombosis",
+      "B": "Artery-to-artery thrombus",
+      "C": "Embolic stroke",
+      "D": "Lacunar infarct"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "patient had multiple TIAs, underwent investigations that were unremarkable except for a Holter which showed paroxysmal atrial flutter. What to give?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q272",
+    "question_text": "",
+    "options": {
+      "A": "young lady with SLE nephritis on dialysis presents with seizures and confusion. MRI shows venous thrombosis in the transverse sinus. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q239",
+    "question_text": "In a patient with CADASIL, what is the role of aspirin in secondary prevention?",
+    "options": {
+      "A": "It is effective and recommended",
+      "B": "It has no role",
+      "C": "It is contraindicated",
+      "D": "It is only effective in combination with other medications"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "In a case of subacute stroke with a CT brain showing no abnormalities, a normal transthoracic echocardiogram (TTE), and a normal 48-hour Holter monitor, what is the next best step in management?",
+    "options": {
+      "A": "Prolonged cardiac monitoring",
+      "B": "Carotid ultrasound",
+      "C": "Coagulation workup",
+      "D": "Brain MRI"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "scenario with a post-partum lady presenting with severe post-partum headache and weakness, with angiography showing RCVS and a plain CT revealing convex SAH. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q278",
+    "question_text": "",
+    "options": {
+      "A": "patient with a stroke and fibromuscular dysplasia is being evaluated. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "",
+    "options": {
+      "A": "young female postpartum presents with headache associated with new onset generalized tonic-clonic seizures. Her exam shows bilateral papilledema, and a CT was unremarkable. What is the best next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "patient with Sickle Cell Anemia presents with symptoms of infarction and is found to have severe intracranial MCA stenosis. What would be the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q296",
+    "question_text": "What are the effects caused by SCA? [Referring to Superior Cerebellar Artery infarction]",
+    "options": {
+      "A": "Ipsilateral Horner's syndrome/ptosis",
+      "B": "Ipsilateral fourth nerve palsy",
+      "C": "Contralateral hemiparesis",
+      "D": "Ataxia and dysmetria"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q73",
+    "question_text": "In a case with continuous headache and episodes of more intense headache, which treatment is indicated?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Valproic acid",
+      "C": "Lamictal",
+      "D": "Naproxen"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "Which of the following neurotransmitters has a role in the pathogenesis of migraine headache?",
+    "options": {
+      "A": "Serotonin",
+      "B": "Acetylcholine",
+      "C": "Norepinephrine",
+      "D": "Glutamate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "patient came for a third opinion, diagnosed with Cluster Headache and another trigeminal autonomic cephalgia. How can you distinguish between them?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "Which medication is considered safe for use in the 1st and 2nd trimester of pregnancy for treating migraine?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "NSAID",
+      "C": "Hydrocodone",
+      "D": "Sumatriptan"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "In a patient with occipital seizures and migraine with aura, which feature is in favor of a visual aura?",
+    "options": {
+      "A": "Circular coloring",
+      "B": "Typical migraine headache",
+      "C": "Scintillating",
+      "D": "30s-1min in duration"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "young lady post uneventful delivery by cesarean section came with a history of positional headache that worsens with standing and improves with lying on her back for more than 2 weeks. MRI of the brain was done (image attached). Which of the following is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "What is the attack duration for SUNCT?",
+    "options": {
+      "A": "1 to 5 seconds",
+      "B": "5 to 240 seconds",
+      "C": "1 to 10 minutes",
+      "D": "10 to 30 minutes"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a history of severe unilateral headache lasting less than 5 minutes, stabbing in nature, associated with tearing and conjunctival injection. Which of the following is the best treatment for him?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "According to the International Classification of Headache Disorders 3rd edition (ICHD-3), how many attacks are required for the diagnosis of short-lasting unilateral neuralgiform headache attacks?",
+    "options": {
+      "A": "At least 10 attacks",
+      "B": "At least 15 attacks",
+      "C": "At least 20 attacks",
+      "D": "At least 25 attacks"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "In a scenario of intracranial hypotension, which of the following is the most common MRI brain finding?",
+    "options": {
+      "A": "Leptomeningeal enhancement",
+      "B": "Enlarged pituitary gland",
+      "C": "Decreased venous sinus size",
+      "D": "Decreased anterior-posterior diameter of the brainstem"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine headache has white matter changes that are not typical for multiple sclerosis lesions. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "Which of the following statements is true regarding medication overuse headache?",
+    "options": {
+      "A": "It is worse when waking up from sleep",
+      "B": "It is mild in intensity",
+      "C": "It shows normal MRI findings",
+      "D": "It improves with continued use of the overused medication"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with recurrent attacks of headache lasting 4 days, accompanied by ptosis and ophthalmoplegia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "How does pediatric migraine compare to adult migraine?",
+    "options": {
+      "A": "Bilateral and shorter",
+      "B": "Less vomiting",
+      "C": "Less aura",
+      "D": "More frequent attacks"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "In a scenario of nummular headache, what is the recommended treatment?",
+    "options": {
+      "A": "Gabapentin",
+      "B": "Acetaminophen",
+      "C": "Topiramate",
+      "D": "Amitriptyline"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q328",
+    "question_text": "Which medication is absolutely contraindicated in pregnancy for the treatment of migraine?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "NSAIDs",
+      "C": "Opioids",
+      "D": "Ergotamine"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q285",
+    "question_text": "What is the first-line treatment for migraine in pregnancy?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "NSAIDs",
+      "C": "Opioids",
+      "D": "Triptans"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q248",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with trigeminal neuralgia. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q513",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences unilateral severe periorbital headache with autonomic features lasting 10-15 minutes, occurring up to 10 times per day. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q236",
+    "question_text": "Which branch of the trigeminal nerve is most commonly affected in trigeminal neuralgia?",
+    "options": {
+      "A": "V1 (ophthalmic)",
+      "B": "V2 (maxillary)",
+      "C": "V3 (mandibular)",
+      "D": "All branches equally"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q367",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with a headache and occasional blurring of vision when leaning forward. She has papilledema but no visual field defects or decrease in visual acuity. This presentation is suggestive of idiopathic intracranial hypertension (IIH). What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q219",
+    "question_text": "Prior to prescribing oral contraceptive pills, evaluating for potential hypercoagulable states is most necessary in which of the following populations?",
+    "options": {
+      "A": "Women with basilar migraine",
+      "B": "Women with chronic daily headache",
+      "C": "Women with menstrual migraine",
+      "D": "Women with migraine with aura"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q217",
+    "question_text": "In a scenario of hemicrania continua, what is the first line treatment?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Amitriptyline",
+      "C": "Topiramate",
+      "D": "Valproate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "",
+    "options": {
+      "A": "known case of migraine in a female patient who is pregnant in her first trimester came to the ER with a headache; what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q209",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old woman is seen in consultation for chronic daily headaches. She takes acetaminophen twice daily and oral sumatriptan 3 to 4 times per week. A medication-overuse headache (MOH) is suspected. Which of the following associated features would be most supportive of a diagnosis of MOH in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

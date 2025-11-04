@@ -1,0 +1,2676 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "4266f64f-2a86-4020-8fa9-a0a722c799af",
+    "fields": {
+      "question_number": "49",
+      "question_text": "Clear scenario of old man presented within the window of tpa about what to give:",
+      "options": {
+        "A": "Tpa"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820611",
+      "updated_at": "2025-05-15T20:25:21.820611"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "97b6879a-2877-429d-8856-173d48a2262b",
+    "fields": {
+      "question_number": "51",
+      "question_text": "Patient with weakness hemianesthesia and tongue deviation (? medial medullary syndrome):",
+      "options": {
+        "A": "Vertebral artery",
+        "B": "Anterior spinal artery (was not in options)"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820619",
+      "updated_at": "2025-05-15T20:25:21.820620"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "facc3152-6f79-4a73-9150-476b77db19de",
+    "fields": {
+      "question_number": "50",
+      "question_text": "Long scenario for patient with obesity and HTN and high BMI asking about best way for stroke prevention, vital signs and labs provided showed high b/p and hba1c around 6.9. And he is taking ant HTN and statin but not any dm medication:",
+      "options": {
+        "A": "Perindopril",
+        "B": "Metformin",
+        "C": "Or weight reduction",
+        "D": "Aspirin"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820629",
+      "updated_at": "2025-05-15T20:25:21.820629"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "ec0ce581-9358-4b12-9df6-e5396aeaff80",
+    "fields": {
+      "question_number": "127",
+      "question_text": "lady who has symptoms of peripheral neuropathy (among other symptoms), and electrophoresis showed the presence of IgM antibody, what is the treatment",
+      "options": {
+        "A": "Prednisolone",
+        "B": "periodic plasma exchange",
+        "C": "periodic IVIG"
+      },
+      "correct_answer": "B",
+      "explanation": "MGUS neuropathy.\n- IgM is the monoclonal gammopathy most often associated with neuropathy.\n- The specific neuropathy phenotype of IgM has been referred to as DADS-M which is considered a variant of CIDP.\n- Typically affects men in the 6th – 9th decade\n- The IgM is typically kappa light chain.\n- 50% of patients have antibodies to (MAG)\n- Treatment trials for IgM-associated neuropathy (DADS-M) have shown no reliable evidence to support the use of immunotherapy.\n- However, case series trials of (IVIg), plasma exchange, cytotoxic alkylating agents, and nucleoside analogues (fludarabine) have demonstrated a response in individual patients\n- Most recently, rituximab has been considered because of its anti-CD20 activity.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820638",
+      "updated_at": "2025-05-15T20:25:21.820639"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "e18ce176-bd5f-492f-88f7-8eb24d25bc9d",
+    "fields": {
+      "question_number": "45",
+      "question_text": "A woman presented with acute left sided weakness and dysarthria a right ICH was found on CT (image shown without mentioning the diagnosis) patient vital signs as follows BP 167 systolic, what is the most appropriate management:",
+      "options": {
+        "A": "labetalol",
+        "B": "factor 7 infusion",
+        "C": "referral for NS for (minimally invasive?) evacuation"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820647",
+      "updated_at": "2025-05-15T20:25:21.820648"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "f8938809-cd94-4bed-8156-029d0924ebce",
+    "fields": {
+      "question_number": "56",
+      "question_text": "Scenario about TIA management:",
+      "options": {
+        "A": "Dual antiplatelet"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820658",
+      "updated_at": "2025-05-15T20:25:21.820659"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "46fdbb7b-c21b-42aa-8cb5-83b155dc9318",
+    "fields": {
+      "question_number": "58",
+      "question_text": "Scenario of PRES with MRI provided what is mechanism:",
+      "options": {
+        "A": "Autoregulation",
+        "B": "Hypertension"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820668",
+      "updated_at": "2025-05-15T20:25:21.820668"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "d5b48da7-fef1-4505-ace6-933515490f46",
+    "fields": {
+      "question_number": "59",
+      "question_text": "Scenario about a patient with A.COM aneurysm, which of the following factor is the most predictive of aneurysm rupture:",
+      "options": {
+        "A": "Size",
+        "B": "Acom location less likely to rupture",
+        "C": "Uncontrolled b/p"
+      },
+      "correct_answer": "A",
+      "explanation": "Increase risk for aneurysm formation: HTN + smoking + female gender. Increase risk for rupture: Size and location.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820677",
+      "updated_at": "2025-05-15T20:25:21.820678"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "eb966fe3-8a0c-4be6-a8c8-941fff672d4b",
+    "fields": {
+      "question_number": "55",
+      "question_text": "Patient with sickle cell anemia wants to check on himself because his brother is also sickler and had previous stroke. How to predict:",
+      "options": {
+        "A": "Transcranial doppler",
+        "B": "CTA"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820686",
+      "updated_at": "2025-05-15T20:25:21.820687"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "10ce472e-5d03-4900-b55e-b3388f42cfe9",
+    "fields": {
+      "question_number": "54",
+      "question_text": "What resembles thalamus aphasia:",
+      "options": {
+        "A": "Transcortical sensory"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820695",
+      "updated_at": "2025-05-15T20:25:21.820696"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "a8043ae5-a258-4ca6-866e-57fb36d5256d",
+    "fields": {
+      "question_number": "57",
+      "question_text": "Scenario of stroke with normal CT what do next (not thrombolysis):",
+      "options": {
+        "A": "CTA"
+      },
+      "correct_answer": "A",
+      "explanation": "Check if not for thrombolysis",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820704",
+      "updated_at": "2025-05-15T20:25:21.820704"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "a6bd54e3-d768-432f-a715-6e3d5d4ff35e",
+    "fields": {
+      "question_number": "53",
+      "question_text": "Scenario about Wernicke what is most commonly to be seen:",
+      "options": {
+        "A": "Hemianopia",
+        "B": "Anomia",
+        "C": "Weakness",
+        "D": "Hemianesthesia"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820713",
+      "updated_at": "2025-05-15T20:25:21.820714"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "e57fb4d9-c119-4e6c-aa83-8f681695d01a",
+    "fields": {
+      "question_number": "52",
+      "question_text": "Scenario about Wernicke aphasia which artery:",
+      "options": {
+        "A": "Inferior division of MCA"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820722",
+      "updated_at": "2025-05-15T20:25:21.820723"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "25ff7a78-911f-4f6f-b533-178e7d88db66",
+    "fields": {
+      "question_number": "16",
+      "question_text": "Young man who went to sleep at 10 PM woke up at midnight with weakness in his whole body and SOB attack resolved after few hours. What is the mechanism of action of treatment of this condition (same previous scenario that was asking about what test to do)?",
+      "options": {
+        "A": "Cholinesterase.",
+        "B": "Carbonic anhydrase.",
+        "C": "Hypokalemic",
+        "D": "Rest",
+        "E": "Severe attack"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820732",
+      "updated_at": "2025-05-15T20:25:21.820733"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "4555650e-1e23-46ff-9946-21c450bf2083",
+    "fields": {
+      "question_number": "29",
+      "question_text": "Scenario of cmt2 what you will find:",
+      "options": {
+        "A": "Decrease amplitude of sensory",
+        "B": "Other choices going with demyelinating not axonal"
+      },
+      "correct_answer": "A",
+      "explanation": "CMT2: motor NCV normal or Miley reduced, SNAPs are absent or reduced in amplitude.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820741",
+      "updated_at": "2025-05-15T20:25:21.820742"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "a4ba6e19-a9ad-4c0d-aae3-65f3be1c330f",
+    "fields": {
+      "question_number": "17",
+      "question_text": "Paramyotonia congenita scenario: what is the channel (key is worsened by cold while patient eating ice cream! and induced/worsened by exercise)?",
+      "options": {
+        "A": "SCN4A"
+      },
+      "correct_answer": "A",
+      "explanation": "Paramyotonia congenital: caused by SCNA4A. May or may not be weakness. In this disorder the myotonia worsens with exercise not following repeated opening and closing eyelids. This myotonia is worsened by weather as cold does not only worsen myotonia can also provoke weakness.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820750",
+      "updated_at": "2025-05-15T20:25:21.820751"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "b721bd46-b9d4-41c0-934b-39f5b3efd60e",
+    "fields": {
+      "question_number": "18",
+      "question_text": "Congenital myopathy scenario (details of dysmorphic feature of neonate) biopsy provided showed central core, what is the gene?",
+      "options": {
+        "A": "RYR1",
+        "B": "neublin",
+        "C": "?",
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "A",
+      "explanation": "Central core disease: AD mutation in ryanodine receptor gene which is allergic to hereditary hyperthermia. CK normal EMG myopathy changes. Biopsy is diagnostic showing fiber 1 predominance with hypotrophy of central core",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820760",
+      "updated_at": "2025-05-15T20:25:21.820761"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5e99e5da-397f-411b-8cd4-0492b365891a",
+    "fields": {
+      "question_number": "32",
+      "question_text": "Patient with Sickle Cell Anemia who with symptoms of infarction, in investigation he was found to have severe intracranial MCA stenosis what would you do",
+      "options": {
+        "A": "ASA",
+        "B": "Stenting",
+        "C": "DAPT",
+        "D": "Exchange transfusion"
+      },
+      "correct_answer": "D",
+      "explanation": "The most common underlying structural cause of stroke in SCA is intracranial arterial stenosis or occlusion seen in MCA and ACA leading to vasculopathy and moyamoya. Long term transfusion decreases HGB S decrease stroke. Screening by TCD every 6 months 2-16 year of age followed by regular transfusion therapy when TCD is above threshold. Encephaloduroarteriosynagiosis is effective option for moyamoya. Partial exchange is standard for ischemic injury. Anticoagulation for dissection and CVT.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820769",
+      "updated_at": "2025-05-15T20:25:21.820770"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "2015421b-c2f6-4c26-8f71-1ddffc4c8fcd",
+    "fields": {
+      "question_number": "30",
+      "question_text": "Vague scenario going with CIDP of old female with neuropathy and paraproteinemia. WHAT IS THE RX:",
+      "options": {
+        "A": "Monthly IVIg",
+        "B": "Dr Muteb monthly IVIG",
+        "C": "Periodic Plex ?",
+        "D": "Afaf read >",
+        "E": "Prednisolone"
+      },
+      "correct_answer": "A",
+      "explanation": "Waldenstrom macroglobulinemia: IgM gammopathy. Neurological complications include: progressive sensorimotor polyneuropathy due to binding of IgM to nerves. Other complications: encephalopathy, bleeding or hyperviscosity, seizures, visual, auditory and vestibular disturbance. Plasma exchange and rituximab.\n\nMonoclonal gammopathy of undetermined significance: distal symmetric sensorimotor polyneuropathy, PE, steroids or IVIG.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820778",
+      "updated_at": "2025-05-15T20:25:21.820779"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5f04bf1e-3904-4bd3-b1e6-d7aaf8b7b5f5",
+    "fields": {
+      "question_number": "2",
+      "question_text": "Mode of inheritance for of adult familial ALS:",
+      "options": {
+        "A": "AD",
+        "B": "AR",
+        "C": "Juvenile > AR",
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820789",
+      "updated_at": "2025-05-15T20:25:21.820790"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "9f55ef99-0ef0-40ed-b8fc-fd87d8f54503",
+    "fields": {
+      "question_number": "31",
+      "question_text": "Scenario of Miller Fisher what is the antibody:",
+      "options": {
+        "A": "GQ1b"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820798",
+      "updated_at": "2025-05-15T20:25:21.820799"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "79f627ab-2d2e-4b17-88a1-d4e6a99b742c",
+    "fields": {
+      "question_number": "20",
+      "question_text": "Dysferlinopathy scenario (mentioned GASTROCNEMIUS MUSCLE ATROPHY):",
+      "options": {
+        "A": "Dysferlinopathy"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820807",
+      "updated_at": "2025-05-15T20:25:21.820808"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5e33c64d-35d7-4fee-bb1b-7b19f8c57705",
+    "fields": {
+      "question_number": "19",
+      "question_text": "Calpinopathy scenario. 16 years old presented with calf hypertrophy",
+      "options": {
+        "A": "FSH",
+        "B": "LGMD2A",
+        "C": "LGMD1B",
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820816",
+      "updated_at": "2025-05-15T20:25:21.820817"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "4def76ae-95ad-4152-907d-55dfe8bf7e55",
+    "fields": {
+      "question_number": "1",
+      "question_text": "Most common cause of polyradiculoneuropathy:",
+      "options": {
+        "A": "CMV",
+        "B": "West Nile",
+        "C": "In HIV",
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820825",
+      "updated_at": "2025-05-15T20:25:21.820826"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "b4539ce7-5c5c-40ea-8500-9406e76e75b1",
+    "fields": {
+      "question_number": "21",
+      "question_text": "Picture of autonomic dysfunction (with pupillary changes? miosis) what is the antibody:",
+      "options": {
+        "A": "Anti Ganglionic Acetylcholine antibody"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820834",
+      "updated_at": "2025-05-15T20:25:21.820835"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "902c9dad-9e96-4447-b80d-4f1b0e12ccac",
+    "fields": {
+      "question_number": "4",
+      "question_text": "For same previous scenario in lesion distal to a nerve root what is most useful in localization:",
+      "options": {
+        "A": "decreased Sensory nerve amplitude in superficial peroneal nerve supplied area",
+        "B": "impaired NCS parameter in common peroneal supplied muscle (can’t remember which parameter, which muscle)",
+        "C": "impaired parameter for tibial innervated muscle (can’t remember which muscle which parameter)",
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820843",
+      "updated_at": "2025-05-15T20:25:21.820844"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "11838243-dc8d-4680-88f2-3c016da7fcd7",
+    "fields": {
+      "question_number": "5",
+      "question_text": "Nerve supply to sartorius muscle:",
+      "options": {
+        "A": "femoral",
+        "B": "obturator",
+        "C": "genitofemoral",
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820852",
+      "updated_at": "2025-05-15T20:25:21.820853"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "2299b98c-dbb0-4e89-a731-89de433f2d18",
+    "fields": {
+      "question_number": "7",
+      "question_text": "Which is femoral nerve function:",
+      "options": {
+        "A": "hip flexion, knee extension, medial area of thigh decreased sensation",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820861",
+      "updated_at": "2025-05-15T20:25:21.820862"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "93c7089f-0367-437d-a0ee-8b3d6f74bba0",
+    "fields": {
+      "question_number": "3",
+      "question_text": "A patient presented with falling down with acetabulum fracture after admission he still has very painful right leg however, he noticed that he could not dorsiflex his right foot along with decreased sensation of the dorsum of right feet, what is most likely injured in this patient:",
+      "options": {
+        "A": "Sciatic nerve main trunk",
+        "B": "medial portion of sciatic nerve",
+        "C": "lateral portion of sciatic nerve (common peroneal)",
+        "D": "Lateral > common",
+        "E": "Medial > tibial"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820871",
+      "updated_at": "2025-05-15T20:25:21.820871"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "0f82c457-880f-4db5-99b5-d04b248e3752",
+    "fields": {
+      "question_number": "63",
+      "question_text": "Scenario about CVT what will confirm diagnosis:",
+      "options": {
+        "A": "CTV",
+        "B": "If mri choose it"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820879",
+      "updated_at": "2025-05-15T20:25:21.820880"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "3be1ca89-bb97-489b-b833-46c6334171ec",
+    "fields": {
+      "question_number": "8",
+      "question_text": "A young man came to ER who went to sleep at 10 Pm woke up at midnight with weakness in his whole body and resolved after few hours, hx is recurrent with sparing of cranial nerves and respiratory muscles what is the most useful test to be done? (? periodic paralysis scenario no hx of carbohydrate of potassium or exercise in the q)",
+      "options": {
+        "A": "short exercise test",
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820889",
+      "updated_at": "2025-05-15T20:25:21.820889"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "a8d530a0-e696-4dd5-b00d-388ec31da469",
+    "fields": {
+      "question_number": "61",
+      "question_text": "Scenario with a post-partum lady with severe post-partum headache and weakness Angio of RCVS with plain CT showing convex SAH what is the diagnosis:",
+      "options": {
+        "A": "Rcvs"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820897",
+      "updated_at": "2025-05-15T20:25:21.820898"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "c91f6940-753e-4623-ba1a-71f63fe3eecb",
+    "fields": {
+      "question_number": "6",
+      "question_text": "In congenital myasthenic syndromes What is the gene defect that causes worsening of symptoms with Acetylcholinesterase inhibitors (long scenario with details about the pt. including intrinsic hand atrophy, external ophthalmoplegia and weakness further details not known):",
+      "options": {
+        "A": "DOK7",
+        "B": "Rapsyn",
+        "C": "slow channel",
+        "D": "fast channel",
+        "E": null
+      },
+      "correct_answer": "C",
+      "explanation": "DOK7: proximal weakness + stridor (use salbutamol) - worsen with AChE inhibitor. Slow: distal hand weakness and atrophy + ophthalmoplegia without pupil involvement - worsen with AChE inhibitor. AChE deficiency: with pupil involvement - worsen with AChE inhibitor.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820906",
+      "updated_at": "2025-05-15T20:25:21.820907"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "ec0a2620-abbf-4611-aac6-b285b3d32d74",
+    "fields": {
+      "question_number": "60",
+      "question_text": "Scenario with attached Angio (suggestive of FM-DYSPLASIA) what to do:",
+      "options": {
+        "A": "Renal angio",
+        "B": "Alpha 1 antitrypsin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820915",
+      "updated_at": "2025-05-15T20:25:21.820916"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "ebbae047-40d0-4fad-a640-e2a8fa0ce71c",
+    "fields": {
+      "question_number": "37",
+      "question_text": "with destruction of the anterior hypothalamic nucleus you will find:",
+      "options": {
+        "A": "Insomnia And hyperthermia",
+        "B": "hypersomnolence",
+        "C": "REM sleep behavior"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820924",
+      "updated_at": "2025-05-15T20:25:21.820925"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "b3d9e42b-7244-4895-a1f5-f838daed69b0",
+    "fields": {
+      "question_number": "64",
+      "question_text": "Scenario of lateral medullary:",
+      "options": {
+        "A": "PICA",
+        "B": "no vertebral artery in options"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820933",
+      "updated_at": "2025-05-15T20:25:21.820933"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "bf08f657-d2ac-45f0-9469-fa6f998f9b5a",
+    "fields": {
+      "question_number": "66",
+      "question_text": "Scenario resembling cavernous sinus thrombosis but without proptosis what is dx:",
+      "options": {
+        "A": "Carotid cavernous fistula",
+        "B": "Thyroid eye?",
+        "C": "CVT"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820942",
+      "updated_at": "2025-05-15T20:25:21.820942"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "175e435b-1690-4fc7-8627-db23881911cb",
+    "fields": {
+      "question_number": "67",
+      "question_text": "Woman who is post-partum (gave birth through CS) presented with headache, MRI done is shown (coronal T1 with pachymeningeal enhancement) headache increase when she sits, what is the best management:",
+      "options": {
+        "A": "blood patch",
+        "B": "MRV/MRI"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820950",
+      "updated_at": "2025-05-15T20:25:21.820951"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "dd2b9799-4392-4453-b240-4ca9900882f1",
+    "fields": {
+      "question_number": "67",
+      "question_text": "CSF finding in RCVS:",
+      "options": {
+        "A": "slightly high protein",
+        "B": "other choices was clearly wrong"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820959",
+      "updated_at": "2025-05-15T20:25:21.820960"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "905039b9-4496-4274-a874-e5c066368e17",
+    "fields": {
+      "question_number": "62",
+      "question_text": "Scenario about CADASIL:",
+      "options": {
+        "A": "CADASIL"
+      },
+      "correct_answer": "A",
+      "explanation": "Fibromuscular Dysplasia is a nonatherosclerotic, noninflammatory arteriopathy leading to arterial stenosis and occlusion and predisposing to dissection. This condition is more common in women and white persons. It affects the renal vessels most commonly (60%-75%); the extracranial carotid or vertebral arteries are the second most common site (20%-30%). Intracranial vessels and the iliac, femoral, subclavian, and visceral arteries may also be affected. Patients may be asymptomatic, have pulsatile tinnitus, or present with focal cerebral ischemia. Patients may also have hypertension due to involvement of the renal arteries. The diagnosis is based on the angiographic appearance of a “string of beads” or “beading” (ie, alternating constricted and dilated segments generally of the distal cervical carotid). Conventional angiography is superior to MRA; however, gadolinium-enhanced MRA may show changes as well. Treatment involves antiplatelet agents and management of concomitant hypertension if present.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820967",
+      "updated_at": "2025-05-15T20:25:21.820968"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "18184c13-66e1-459b-9b62-84c15f8e52a1",
+    "fields": {
+      "question_number": "65",
+      "question_text": "Common question, SCENARIO about progressive symptoms of spinal fistula with attached MRI for spine:",
+      "options": {
+        "A": "DAVF",
+        "B": "Cavernoma",
+        "C": "AVM"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820976",
+      "updated_at": "2025-05-15T20:25:21.820977"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "06e21d42-d693-46ed-b348-0e8e3f9d2375",
+    "fields": {
+      "question_number": "38",
+      "question_text": "a man who presented with rotation vertigo that is increased when he gets out of bed or rotate his head what is the most appropriate to investigate the condition:",
+      "options": {
+        "A": "dix-Hallpike maneuver"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820985",
+      "updated_at": "2025-05-15T20:25:21.820986"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "0f91ff5a-a7a0-4397-bebb-245da2432783",
+    "fields": {
+      "question_number": "36",
+      "question_text": "a man who developed acute vertigo and dysphagia along with right side ataxia on examination the following was also found (picture of uvula deviated to left) what is the most common finding:",
+      "options": {
+        "A": "right ptosis",
+        "B": "left facial hemianesthesia",
+        "C": "left dysmetria",
+        "D": "right up going planter"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.820994",
+      "updated_at": "2025-05-15T20:25:21.820995"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "53110adb-9cb4-451b-8f3e-9abd9fab9b23",
+    "fields": {
+      "question_number": "39",
+      "question_text": "a woman who was being investigated for stroke, was found to have high titer of anti-beta II glycoprotein AB, and anticardiolipin AB. She was diagnosed with antiphospholipid syndrome. she has a history of a prior LL DVT, a small PFO was also found. what is the appropriate management?",
+      "options": {
+        "A": "DAPT",
+        "B": "warfarin",
+        "C": "closure of PFO",
+        "D": "ASA"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821003",
+      "updated_at": "2025-05-15T20:25:21.821004"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "8a771167-f0fb-4fbb-aab6-2be08cb07bfd",
+    "fields": {
+      "question_number": "10",
+      "question_text": "A young man who had abdominal pain around 1 week back and had flu vaccine recently presented with 5 days history of progressive distal dysesthesias and facial hyperhidrosis later on he was tripping while walking and had weakness with decreased DTR on examination what is the diagnosis?",
+      "options": {
+        "A": "AIDP"
+      },
+      "correct_answer": "A",
+      "explanation": "Abdominal pain 1 week back maybe same scenario as the other one",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821012",
+      "updated_at": "2025-05-15T20:25:21.821013"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "da4d1963-a61f-47f6-87a9-1174b41b7a9f",
+    "fields": {
+      "question_number": "11",
+      "question_text": "Scenario about dermatomyositis (they mentioned pt. With weakness and typical skin lesion, and cough) ??? (Not sure about details and choices) Which antibody:",
+      "options": {
+        "A": "Anti synthetase",
+        "B": "Anti mda5",
+        "C": "Anti SRP",
+        "D": "ANTI TIF"
+      },
+      "correct_answer": "B",
+      "explanation": "Blood test: antibody against tRNA synthetases (antisynthetases) of these anti Jo-1 seems to have association with interstitial lung disease. Anti Mi2 is specific to dermatomyositis.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821023",
+      "updated_at": "2025-05-15T20:25:21.821024"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "20e053f0-9127-44ff-9921-7cc63203544e",
+    "fields": {
+      "question_number": null,
+      "question_text": "Which of the following electrodiagnostic tests is most helpful in the diagnosis of periodic paralysis?",
+      "options": {
+        "A": "high-frequency repetitive stimulation",
+        "B": "long exercise testing",
+        "C": "low-frequency repetitive stimulation",
+        "D": "short exercise testing",
+        "E": "single fiber EMG"
+      },
+      "correct_answer": "B",
+      "explanation": "The preferred response is B (long exercise testing). Patients with potassium-sensitive or hypokalemic periodic paralysis may show a marked decrement in amplitude during long exercise testing, in which repeated stimuli are delivered over the course of a 40- to 50-minute test period after 5 minutes of isometric exercise. Short exercise testing is most useful in the diagnosis of nondystrophic myotonias. High-frequency and low-frequency repetitive stimulation are most useful in the diagnosis of neuromuscular junction disorders.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821032",
+      "updated_at": "2025-05-15T20:25:21.821033"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "cc75e60c-cf70-445a-bc21-745b979a18d9",
+    "fields": {
+      "question_number": "12",
+      "question_text": "A man who developed progressive weakness of right hand. On physical examination, a severe weakness and muscle atrophy was found in right arm along with decreased reflexes and fasciculation, left arm hyporeflexia was also found. Lower limb was not affected and sensory examination was normal. What is the most appropriate treatment :(scenario with impression of Hirayama but MMN) is the expected diagnosis?",
+      "options": {
+        "A": "riluzole",
+        "B": "IVIG",
+        "C": "prednisolone",
+        "D": "plasma exchange"
+      },
+      "correct_answer": "B",
+      "explanation": "Brachioradialis sparing in Hirayama + do flexi - clinically unilateral but in NCS bilaterally.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821041",
+      "updated_at": "2025-05-15T20:25:21.821041"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "a1b197ff-4683-409e-9213-0f8c1458633e",
+    "fields": {
+      "question_number": "22",
+      "question_text": "Scenario of CMT with episodic dysarthria, ataxia (CNS involvement), NCS done shows severely affected amplitudes for motor and sensory but preserved velocity and latency (axonal) what is the type:",
+      "options": {
+        "A": "Cmt 1",
+        "B": "cmt 2",
+        "C": "cmt 3",
+        "D": "cmtx"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821050",
+      "updated_at": "2025-05-15T20:25:21.821050"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "d1c08c05-6170-46b2-8798-f8f763f72538",
+    "fields": {
+      "question_number": "9",
+      "question_text": "A young man who had abdominal pain around 1 week back and had flu vaccine 2 weeks ago presented with a 5 days history of progressive distal dysesthesias and facial hyperhidrosis later on he was tripping while walking and weakness with decreased DTR on examination what is the management? (Difficult long scenario? gbs)",
+      "options": {
+        "A": "IV IG",
+        "B": "prednisolone"
+      },
+      "correct_answer": "A",
+      "explanation": "IgA deficiency do not give IVIG. Plexs not with coagulopathy.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821058",
+      "updated_at": "2025-05-15T20:25:21.821059"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "e9b9f223-2b88-4254-8da4-1cdb5e93250f",
+    "fields": {
+      "question_number": "23",
+      "question_text": "Scenario of LGM1B (laminopathy) with heart enzyme, what is the expected finding:",
+      "options": {
+        "A": "Contracture of elbow and ankle"
+      },
+      "correct_answer": "A",
+      "explanation": "LGMD1B (AD) late contracture / Emery-dreifuss dystrophy (X-linked) early contracture",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821067",
+      "updated_at": "2025-05-15T20:25:21.821068"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "2081f816-4e08-4d43-bb81-fa4b470a9bcf",
+    "fields": {
+      "question_number": "116",
+      "question_text": "a patient with seizure semiology that suggest MSTLE with epigastric sensation and also hearing hallucination (However the diagnosis is not mentioned and very confusion gave picture of both type (medial and lateral temporal epilepsy) what is the responsible gene:",
+      "options": {
+        "A": "LG1 gene",
+        "B": "others gene I don’t remember"
+      },
+      "correct_answer": "A",
+      "explanation": "Familial lateral temporal lobe comes with lgi gene",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821076",
+      "updated_at": "2025-05-15T20:25:21.821077"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "73d9401f-b50f-465c-9310-d4fd06cb83fb",
+    "fields": {
+      "question_number": "13",
+      "question_text": "A young woman who was recently diagnosed with DM which was not controlled at all after admission to hospital with DKA and HBA1c of 14, then his RBS reading became around 100 (well controlled) patient discharged and her blood sugar was controlled adequately however she developed peripheral painful neuropathy, what is the rx:",
+      "options": {
+        "A": "gabapentin",
+        "B": "steroid"
+      },
+      "correct_answer": "A",
+      "explanation": "Carbamazepine and amitriptyline. Steroids given for lumbosacral radiuloplecux neuropathy (continuum).",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821084",
+      "updated_at": "2025-05-15T20:25:21.821085"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5e75ba7c-da39-4b4e-b157-8646892bba57",
+    "fields": {
+      "question_number": "118",
+      "question_text": "scenario of old pt. With comorbidity renal stone, heart failure and Atrial fibrillation and post stroke seizure best AED:",
+      "options": {
+        "A": "Lamictal",
+        "B": "phenytoin",
+        "C": "Topamax"
+      },
+      "correct_answer": "A",
+      "explanation": "Elderly lamictal or Gabapentin",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821093",
+      "updated_at": "2025-05-15T20:25:21.821094"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "349d4968-6c3e-4534-95e2-c1e1c901dd49",
+    "fields": {
+      "question_number": "119",
+      "question_text": "scenario of old pt. with comorbidity and polypharmacy having frequent seizures in the last 2 years best drug for him (interaction):",
+      "options": {
+        "A": "Lamictal",
+        "B": "Levetiracetam"
+      },
+      "correct_answer": "B",
+      "explanation": "Needs time for titration > frequent seizures",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821102",
+      "updated_at": "2025-05-15T20:25:21.821103"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "81263769-48aa-42ee-a0f5-084f6f93e259",
+    "fields": {
+      "question_number": "117",
+      "question_text": "a patient with JME on a single AED and had been seizure free for the last 2 years. they came to clinic and ask about possibility of stopping the medication, what would you do?",
+      "options": {
+        "A": "stop the AED (or start tapering?",
+        "B": "order EEG to aid in the management",
+        "C": "educate the patient on the need of life long medication for JME"
+      },
+      "correct_answer": "C",
+      "explanation": "Juvenile myoclonic epilepsy: recurs in 33-78%, only 25-26% can undergo treatment withdrawal",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821111",
+      "updated_at": "2025-05-15T20:25:21.821111"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "aa350415-2495-4599-a89e-5154359545b7",
+    "fields": {
+      "question_number": "129",
+      "question_text": "Scenario of a pregnant lady with MS received methylprednisolone, what is the risk on her pregnancy?",
+      "options": {
+        "A": "cleft palate",
+        "B": "premature labor"
+      },
+      "correct_answer": "B",
+      "explanation": "Because a slight increased risk of adverse fetal outcomes, including cleft palate and low birth weight from corticosteroid exposure, cannot be excluded, the author recommends their use only for clinically significant relapses and first trimester exposure should be avoided, if possible.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821120",
+      "updated_at": "2025-05-15T20:25:21.821121"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "19796eac-c254-405e-90ba-ac379827a663",
+    "fields": {
+      "question_number": "25",
+      "question_text": "scenario of old pt. With neuropathy and weakness (?asking about amyloidosis) what to do:",
+      "options": {
+        "A": "fat aspiration",
+        "B": "immunofixation",
+        "C": "plasma electrophoresis"
+      },
+      "correct_answer": "B,C",
+      "explanation": "TTR gene",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821129",
+      "updated_at": "2025-05-15T20:25:21.821130"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "ac5cac0d-74ad-4adf-b931-3495702303db",
+    "fields": {
+      "question_number": "24",
+      "question_text": "? scenario of HSAN 1 (painful ulcer and mutilation) what is the gene:",
+      "options": {
+        "A": "SPTCL1",
+        "B": "IKABh",
+        "C": "TRKA",
+        "D": "RAB7"
+      },
+      "correct_answer": "D",
+      "explanation": "HSAN I: AD, 9q22, SPTLC1, small > large myelinated fibers, distal weakness",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821138",
+      "updated_at": "2025-05-15T20:25:21.821139"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "e77c9a32-fdfd-4bc0-b3c9-35e97c07b237",
+    "fields": {
+      "question_number": "27",
+      "question_text": "scenario of IBM 1 about rx:",
+      "options": {
+        "A": "Supportive care",
+        "B": "Prednisone"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821147",
+      "updated_at": "2025-05-15T20:25:21.821148"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5ced3157-c908-4aec-962f-bb83658e8661",
+    "fields": {
+      "question_number": "83",
+      "question_text": "All of the following are seen in primary dysautonomia except:",
+      "options": {
+        "A": "Postural hypotension",
+        "B": "urinary frequency",
+        "C": "Anisocoria",
+        "D": "Diarrhea/constipation",
+        "E": "Hyperhidrosis"
+      },
+      "correct_answer": "E",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821156",
+      "updated_at": "2025-05-15T20:25:21.821157"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "6216c757-bd4d-45b6-9089-db54ab280986",
+    "fields": {
+      "question_number": "14",
+      "question_text": "Stab wound with ulnar neuropathy what you will find in NCS after 5 days:",
+      "options": {
+        "A": "Decrease recruitment",
+        "B": "Fibrillations",
+        "C": "Insertional activity",
+        "D": "Complex repetitive discharges"
+      },
+      "correct_answer": "B",
+      "explanation": "Immediately after: reduced recruitment. 7-14 days: positive sharp waves and fibrillation potentials. Months after; change in morphology.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821165",
+      "updated_at": "2025-05-15T20:25:21.821166"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "bbf10d1c-3c96-4d84-bec4-d3cf8816ca32",
+    "fields": {
+      "question_number": "84",
+      "question_text": "a female patient who report throat discomfort and a “clicking tinnitus” subside during her sleep, on exam there is an objective clicking sound and other wise her exam is normal what is the diagnosis:",
+      "options": {
+        "A": "palatal tremor"
+      },
+      "correct_answer": "A",
+      "explanation": "Alaa cognitive 53",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821174",
+      "updated_at": "2025-05-15T20:25:21.821174"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "d411258c-e6de-48cf-ac4b-67ab8bc9edf6",
+    "fields": {
+      "question_number": "81",
+      "question_text": "a middle age lady who presented with problem with attention and tremor and progressive ataxia what is the most likely diagnosis (? Wilson) what are you going to do next?",
+      "options": {
+        "A": "paraneoplastic",
+        "B": "Alzheimer type 2 (or 3)",
+        "C": "24-hour urine copper"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821182",
+      "updated_at": "2025-05-15T20:25:21.821183"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "241b2bb4-09e6-4101-b588-065f768dc23f",
+    "fields": {
+      "question_number": "82",
+      "question_text": "Antipsychotic medication with highest risk of weight gain",
+      "options": {
+        "A": "olanzapine",
+        "B": "haloperidol",
+        "C": "quetiapine",
+        "D": "clozapine???"
+      },
+      "correct_answer": "D",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821191",
+      "updated_at": "2025-05-15T20:25:21.821192"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "e98267f4-000a-42a2-9cbb-70de4b5ba59d",
+    "fields": {
+      "question_number": "83",
+      "question_text": "Scenario about a patient with parkinsonism, Urinary symptoms? Falls What would you find on MRI??",
+      "options": {
+        "A": "HUMMING BIRD",
+        "B": "HOT CROSS BUN",
+        "C": "PANDA face",
+        "D": "TIGER eyes"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821200",
+      "updated_at": "2025-05-15T20:25:21.821201"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "1b9b370d-cade-4a9d-b83c-3b2f5a9e9c24",
+    "fields": {
+      "question_number": "100",
+      "question_text": "Scenario of cervical dystonia rx:",
+      "options": {
+        "A": "Botox"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821210",
+      "updated_at": "2025-05-15T20:25:21.821210"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "17ff3b88-1646-4d67-8a51-dec81cded104",
+    "fields": {
+      "question_number": "86",
+      "question_text": "a young female patient present to clinic with head tremor and neck pain, on exam she has latricollis and report improvement with her symptoms when she face the wall what is the most accurate statement:",
+      "options": {
+        "A": "she has good response for sensory trick",
+        "B": "treatment with Botox is contraindicated"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821219",
+      "updated_at": "2025-05-15T20:25:21.821220"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "2c8a7690-3ac7-4427-b5b2-affdb005e770",
+    "fields": {
+      "question_number": "99",
+      "question_text": "Scenario of Wilson rx:",
+      "options": {
+        "A": "D-penicillamine"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821228",
+      "updated_at": "2025-05-15T20:25:21.821228"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "177f2a4b-058f-472b-865d-aff000a16a31",
+    "fields": {
+      "question_number": "103",
+      "question_text": "Scenario about essential myoclonus relieved by alcohol asking about dx.",
+      "options": {
+        "A": "Cortical myoclonus",
+        "B": "Essential myoclonus",
+        "C": "Physiological myoclonus",
+        "D": "Epileptic myoclonus"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821237",
+      "updated_at": "2025-05-15T20:25:21.821238"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "da8dede4-678b-4f74-932d-2293e494b684",
+    "fields": {
+      "question_number": "85",
+      "question_text": "Question described symptomatic palatal myoclonus and asked what to do (not improved with sleep)?",
+      "options": {
+        "A": "MRI brain",
+        "B": "EEG",
+        "C": "CT jaw"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821247",
+      "updated_at": "2025-05-15T20:25:21.821248"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "73f1e324-11ec-45c7-8375-a9fa92983e81",
+    "fields": {
+      "question_number": "104",
+      "question_text": "Peduncular hallucinosis:",
+      "options": {
+        "A": "Midbrain",
+        "B": "thalamus"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821256",
+      "updated_at": "2025-05-15T20:25:21.821257"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "64f8fcc9-ff42-4f79-9913-7c35c811d964",
+    "fields": {
+      "question_number": "98",
+      "question_text": "Pt is impulsive and drug seeker with scenario of RLS what is the Rx:",
+      "options": {
+        "A": "Clonazepam",
+        "B": "Gabapentin",
+        "C": "Pramipexole"
+      },
+      "correct_answer": "C",
+      "explanation": "Out of these Gabapentin but check last choice\nconfusing because if she is impulsive, you can't give her pramipexole and if she is a drug seeker u can't give her gabapentin",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821265",
+      "updated_at": "2025-05-15T20:25:21.821266"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "eaf3c551-74f7-4e80-b729-a923bd853d76",
+    "fields": {
+      "question_number": "105",
+      "question_text": "Scenario of Orthostatic tremor what will do:",
+      "options": {
+        "A": "NCS and EMG",
+        "B": "Other choices?"
+      },
+      "correct_answer": "A",
+      "explanation": "Helicopter sign in EMG",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821274",
+      "updated_at": "2025-05-15T20:25:21.821275"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "9e61485d-af47-432c-a574-8f26917e900c",
+    "fields": {
+      "question_number": "101",
+      "question_text": "Scenario of orthostatic tremor not responding to clonazepam:",
+      "options": {
+        "A": "Levodopa",
+        "B": "propranolol",
+        "C": "gabapentin"
+      },
+      "correct_answer": "C",
+      "explanation": "(both levodopa and propranolol can be given)",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821284",
+      "updated_at": "2025-05-15T20:25:21.821285"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "90825c83-3d81-4238-a6bd-2ede5254183f",
+    "fields": {
+      "question_number": "112",
+      "question_text": "a patient whose epileptic and on Topamax and CBZ CR patient presented with breakthrough seizures and EEG done shows epileptiform discharges and MRI showed mesial temporal sclerosis what is the cause of seizure for this patient:",
+      "options": {
+        "A": "missed dose of carbamazepine",
+        "B": "missed dose of Topamax",
+        "C": "mesial temporal sclerosis",
+        "D": "bilateral interictal discharges"
+      },
+      "correct_answer": "C",
+      "explanation": "Didn’t mention compliance. Mstle causes bad seizure. Dr Mubarak question missing",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821293",
+      "updated_at": "2025-05-15T20:25:21.821294"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "2e453e9e-d7bf-44ca-b242-4a46fca53962",
+    "fields": {
+      "question_number": "111",
+      "question_text": "what’s the EEG finding of JME:",
+      "options": {
+        "A": "3 Hz spike and wave",
+        "B": "4 - 6Hz poly spike and wave",
+        "C": "generalized slow wave"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821302",
+      "updated_at": "2025-05-15T20:25:21.821303"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5ece8d1d-de3b-4c3b-ae3a-6fabfc179c29",
+    "fields": {
+      "question_number": "102",
+      "question_text": "Scenario of rubral tremor in MS pt. Rx:",
+      "options": {
+        "A": "Levodopa"
+      },
+      "correct_answer": "A",
+      "explanation": "Usually surgical treatment, because pharmacological treatment is not effective\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC1915650/",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821312",
+      "updated_at": "2025-05-15T20:25:21.821312"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "33ab7725-cc32-44c4-b28c-be0bef37ef61",
+    "fields": {
+      "question_number": "113",
+      "question_text": "a patient who has MTLE and on 2 AED and presented to clinic for follow up, he has around 1-2 attacks every few months what would you do next:",
+      "options": {
+        "A": "add a third medication",
+        "B": "send patient for Video EEG",
+        "C": "change nothing and give appointment for follow up in 6 months",
+        "D": "anterior temporal lobectomy"
+      },
+      "correct_answer": "B",
+      "explanation": "Video EEG (dr Asiri)",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821321",
+      "updated_at": "2025-05-15T20:25:21.821322"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "571b0a60-1dd3-4ad3-aea2-b0a51917c538",
+    "fields": {
+      "question_number": "115",
+      "question_text": "after moderate traumatic brain injury and episode of transient global amnesia risk of seizure persist for how long?",
+      "options": {
+        "A": "up to 5 years",
+        "B": "up to 10 years",
+        "C": "up to 15 years",
+        "D": "up to 20 years"
+      },
+      "correct_answer": "A",
+      "explanation": "the risk is highest in first year but: for moderate brain injury risk markedly increase up to 10 years for sever brain injury risk is markedly increase up to 15 years for penetrating head injury or depressed skull injury post, traumatic epilepsy can occur 15 years after injury…",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821331",
+      "updated_at": "2025-05-15T20:25:21.821331"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "35cf88d7-2e77-4f5f-a946-3cc475db314c",
+    "fields": {
+      "question_number": "171",
+      "question_text": "A child who presented with ADHD and multiple light brown macula on skin, what is the diagnosis",
+      "options": {
+        "A": "NF1",
+        "B": "TS"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821340",
+      "updated_at": "2025-05-15T20:25:21.821341"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "7c87ea4a-b8c0-4acc-93cc-131106a2e5f0",
+    "fields": {
+      "question_number": "34",
+      "question_text": "IV drug user came with acute stroke in 2 hours, CT image attached (good aspect) Was febrile and had a pan systolic murmur. What is the treatment?",
+      "options": {
+        "A": "antibiotics",
+        "B": "thrombolysis",
+        "C": "thrombectomy"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821349",
+      "updated_at": "2025-05-15T20:25:21.821350"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "d3ccfbfd-9b37-40a5-837c-b9d0c4f31d9b",
+    "fields": {
+      "question_number": "35",
+      "question_text": "Patient who cannot recognize faces even though he can name each feature in a face such as nose and mouth so on, often he recognizes people by other clues such as their voices or clothes, where is the lesion:",
+      "options": {
+        "A": "parietal",
+        "B": "frontal",
+        "C": "callosal",
+        "D": "occipital (no mention for fusiform gyrus nor temporo-occipital junction)"
+      },
+      "correct_answer": "D",
+      "explanation": "Prosopagnosia: bilateral temporal-occipital lesions involving fusiform or occipitotemporal gyri, there is an occipital face area involved in face perception, a fusiform gyrus area involved in recognition of faces.",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821359",
+      "updated_at": "2025-05-15T20:25:21.821360"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "c6254769-1a00-4f0e-a7ad-8bb962c2fc33",
+    "fields": {
+      "question_number": "114",
+      "question_text": "scenario of uncontrolled epilepsy on 2 AED asking for next:",
+      "options": {
+        "A": "Refer to surgery",
+        "B": "Vagal nerve",
+        "C": "Add AED"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821370",
+      "updated_at": "2025-05-15T20:25:21.821371"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "2f24e903-bd7c-44da-854b-d9c07c3e65cc",
+    "fields": {
+      "question_number": "172",
+      "question_text": "A boy who presented with early morning headache and suprasellar mass found on imaging with hormonal changes what is the most likely tumor:",
+      "options": {
+        "A": "genomic",
+        "B": "medulloblastoma",
+        "C": "germinoma",
+        "D": "DNET"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821380",
+      "updated_at": "2025-05-15T20:25:21.821381"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "c6d1994e-0f5c-437e-a004-6a91a2d4c1f9",
+    "fields": {
+      "question_number": "173",
+      "question_text": "Dexamethasone is helpful in which of the following clinical scenario:",
+      "options": {
+        "A": "TBI",
+        "B": "brain tumor with surrounding vasogenic edema"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821390",
+      "updated_at": "2025-05-15T20:25:21.821391"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "395f8dbb-e178-49eb-bb71-9c545e442d0a",
+    "fields": {
+      "question_number": "33",
+      "question_text": "Stroke and diagnosed with acute ischemic stroke, patient undergone work up and her vessels imaging showed atherosclerotic disease however no critical stenosis, ECHO is normal except for an EF of 55%, 8-hour Holter did not show any arrhythmia, HBA1C and lipid profile was accepted. What is the most likely mechanism of her stroke?",
+      "options": {
+        "A": "embolism (most likely it wasn’t clear)",
+        "B": "hypoperfusion",
+        "C": "vessel stenosis",
+        "D": "thrombosis"
+      },
+      "correct_answer": "D",
+      "explanation": "Dr souda embolism",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821400",
+      "updated_at": "2025-05-15T20:25:21.821401"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "58cd8437-90a0-48d1-a267-4c7fad51814d",
+    "fields": {
+      "question_number": "69",
+      "question_text": "Scenario about hemicrania pt with continuous headache since 4 months and she have episodic increase in pain intensity what is rx:",
+      "options": {
+        "A": "Indomethacin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821409",
+      "updated_at": "2025-05-15T20:25:21.821410"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "97254766-5ece-4bb8-9058-c33f7c7825e5",
+    "fields": {
+      "question_number": "68",
+      "question_text": "Percentage of migraine patients reporting the attack in ER as disabling after 24 hr after er visit or like:",
+      "options": {
+        "A": "10%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%"
+      },
+      "correct_answer": "C",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821419",
+      "updated_at": "2025-05-15T20:25:21.821420"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "6d057add-8f7a-4ada-9c78-eca9bb3d5ecb",
+    "fields": {
+      "question_number": "174",
+      "question_text": "Patient with only skull and Dural Mets what to do:",
+      "options": {
+        "A": "Chest ct",
+        "B": "Mri abdomen"
+      },
+      "correct_answer": "A",
+      "explanation": "Prostate ca metastasizes to skull and dura. Go with prostate US if there is",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821428",
+      "updated_at": "2025-05-15T20:25:21.821429"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "df24627c-7dc5-4af7-9441-efbb79b45ee2",
+    "fields": {
+      "question_number": "71",
+      "question_text": "Unilateral headache in mid aged female associated with tearing and ptosis, what to give:",
+      "options": {
+        "A": "Indomethacin"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821437",
+      "updated_at": "2025-05-15T20:25:21.821438"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "f541c5b2-bbe9-4e0a-969f-21baecb37c94",
+    "fields": {
+      "question_number": "73",
+      "question_text": "Obese lady with asthma and migraine:",
+      "options": {
+        "A": "Topamax"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821446",
+      "updated_at": "2025-05-15T20:25:21.821447"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "052534c9-fd66-4823-9486-6f5bceb5616d",
+    "fields": {
+      "question_number": "70",
+      "question_text": "Picture of stabbing eye headache for 100 times a day, what is the ttt:",
+      "options": {
+        "A": "Lamictal"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821456",
+      "updated_at": "2025-05-15T20:25:21.821457"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "b1e75b46-ef04-45ad-96d8-2d5412d53fed",
+    "fields": {
+      "question_number": "175",
+      "question_text": "Most common trochlear nerve palsy",
+      "options": {
+        "A": "TRAUMA",
+        "B": "CONGENITAL"
+      },
+      "correct_answer": "B",
+      "explanation": "congenital, then trauma",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821465",
+      "updated_at": "2025-05-15T20:25:21.821466"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "5e262a4b-4dd1-4655-91e4-8d1e889fa258",
+    "fields": {
+      "question_number": "72",
+      "question_text": "Continuous headache for 3 months with some increase in a base line as an attack (side locked): -medication overuse headache",
+      "options": {
+        "A": "hemicrania continua"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821474",
+      "updated_at": "2025-05-15T20:25:21.821475"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "7b0f7e96-9695-48f6-adb6-15740956f464",
+    "fields": {
+      "question_number": "26",
+      "question_text": "vague scenario for young with neuropathy, headache and visual symptoms MRI provided showing anterior temporal and occipital changes vs atrophy what to do :",
+      "options": {
+        "A": "skin biopsy",
+        "B": "muscle biopsy"
+      },
+      "correct_answer": "A",
+      "explanation": "? Mitochondrial melas Muscle biopsy",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821483",
+      "updated_at": "2025-05-15T20:25:21.821484"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "6f34fd7f-083f-487c-84b8-79e31ad0e2bb",
+    "fields": {
+      "question_number": "75",
+      "question_text": "Scenario about ophthalmic migraine (third or six nerve palsy) asking about dx.",
+      "options": {
+        "A": "ophthalmic migraine"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "",
+      "created_at": "2025-05-15T20:25:21.821493",
+      "updated_at": "2025-05-15T20:25:21.821494"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "b744e467-1319-4a51-b989-4e3fbc1b0b20",
+    "fields": {
+      "question_number": "120",
+      "question_text": "young pt. With 10-year hx of focal seizures on Rx has been seizure free for 2 years best predict seizure remission:",
+      "options": {
+        "A": "Long duration of active disease",
+        "B": "Short duration of seizure remission",
+        "C": "Having one type seizure"
+      },
+      "correct_answer": "B",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821503",
+      "updated_at": "2025-05-15T20:25:21.821503"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "f9e1725a-f5c2-4289-b466-f0b22b095b0e",
+    "fields": {
+      "question_number": "131",
+      "question_text": "A woman who had an episode of N/V, and had visual changes in both eye with some time apart, now she presented with symptoms of TM what is the diagnosis (same question) but what is the treatment?",
+      "options": {
+        "A": "Pulse steroid"
+      },
+      "correct_answer": "A",
+      "explanation": null,
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "",
+      "created_at": "2025-05-15T20:25:21.821512",
+      "updated_at": "2025-05-15T20:25:21.821513"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "dfbba1bc-6191-49e4-ac4e-f2b10cbbe4ad",
+    "fields": {
+      "question_number": "28",
+      "question_text": "short scenario with attached image of NCS showing drop of amplitude:",
+      "options": {
+        "A": "Conduction block",
+        "B": "Temporal dispersion"
+      },
+      "correct_answer": "A",
+      "explanation": "Conduction block: 20% decrease in amplitude with proximal stimulation compared to distal stimulation Temporal dispersion: amplitude represent the sum of amplitudes of individual potentials which depends on the integrity of muscle fibers, axons and conduction velocity of fibers. If some axons are slow and other fast will have increased duration of conduction and lower amplitude",
+      "explanation_sections": {
+        "error": "Explanation could not be generated after multiple attempts. Please try again later."
+      },
+      "subspecialty": "Other/Unclassified",
+      "primary_category": "",
+      "secondary_category": "",
+      "source_file": "Part 2 2020 copy_mcqs_20250514_221036.json",
+      "exam_type": "Part II",
+      "exam_year": 2020,
+      "verification_confidence": "high",
+      "created_at": "2025-05-15T20:25:21.821521",
+      "updated_at": "2025-05-15T20:25:21.821522"
+    }
+  }
+]

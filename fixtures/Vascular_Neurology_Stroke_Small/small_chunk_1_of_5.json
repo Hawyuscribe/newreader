@@ -1,0 +1,152 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "99993230",
+    "fields": {
+      "question_number": "3",
+      "question_text": "A lady in her 30s was presented to the ER with history of headache and neck pain started after her visit to the dentist. She has left sided Horner syndrome and ataxia.\n\nMRI done (image attached).\nWhich of the following is the most appropriate management?\n(Left vertebral artery dissection; lateral medullary syndrome)",
+      "options": {
+        "A": "Stenting",
+        "B": "Angioplasty",
+        "C": "Aspirin",
+        "D": "Dual antiplatelets"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation_sections": {
+        "conceptual_foundation": "Vertebral artery dissection is a tear in the wall of the vertebral artery that may lead to thrombus formation and subsequent ischemia in the posterior circulation, manifesting as lateral medullary (Wallenberg) syndrome. Classic clinical findings include ipsilateral Horner syndrome, ataxia, dysphagia, and vertigo.",
+        "pathophysiology": "A disruption in the intimal layer of the vertebral artery allows blood to enter and split the arterial wall, forming an intramural hematoma. This process can either narrow the vessel or generate emboli that cause infarcts, particularly in areas supplied by the vertebrobasilar system such as the lateral medulla. Current evidence shows that both antiplatelet and anticoagulant therapies produce similar outcomes.",
+        "clinical_correlation": "The patient\u2019s presentation with headache and neck pain after a minor traumatic event (dental manipulation) along with left-sided Horner syndrome and ataxia is typical for a lateral medullary syndrome secondary to vertebral artery dissection.",
+        "diagnostic_approach": "Diagnosis is based on imaging \u2013 MRI (including diffusion-weighted imaging) reveals infarction patterns, while MR angiography or CT angiography can demonstrate the dissection. Differential diagnoses include other causes of posterior circulation stroke such as cardioembolic events and vertebrobasilar insufficiency.",
+        "classification_and_neurology": "Vertebral artery dissection is classified under cervicocephalic arterial dissections, a subset of arterial dissections causing ischemic stroke. It belongs to the broader category of non-atherosclerotic vasculopathies. The classification of ischemic strokes by TOAST criteria recognizes arterial dissection as a distinct etiology under 'stroke of other determined etiology.' Lateral medullary syndrome is a subtype of posterior circulation stroke involving the medulla oblongata. Nosologically, arterial dissections can be spontaneous or traumatic, and may affect carotid or vertebral arteries. Over time, classification systems have evolved to emphasize imaging-based diagnosis and etiological categorization, aiding in tailored management. Controversies remain regarding the optimal antithrombotic strategy, reflecting incomplete consensus in guidelines.",
+        "classification_and_nosology": "Vertebral artery dissection falls under cervical artery dissections, which are classified based on their involvement (vertebral versus carotid) and can lead to ischemic stroke syndromes such as lateral medullary syndrome.",
+        "management_principles": "According to current guidelines, first-line management is antithrombotic therapy. Most studies support the use of antiplatelet agents (such as aspirin) over anticoagulation for cervical artery dissections. In selected cases where there are recurrent events or failure of medical management, endovascular techniques (stenting, angioplasty) may be considered. In pregnancy and lactation, low-dose aspirin is generally considered safe.",
+        "option_analysis": "Option A (Stenting) and Option B (Angioplasty) are typically reserved for refractory cases or when there is evidence of worsening hemodynamic compromise. Option D (Dual antiplatelets) poses a higher bleeding risk and is not proven to be superior to monotherapy. Option C (Aspirin) is the standard and appropriate first-line management for vertebral artery dissection.",
+        "clinical_pearls": "1. A history of recent minor trauma (even dental procedures) can precipitate arterial dissection. 2. Horner syndrome in the context of posterior circulation infarct is highly suggestive of vertebral artery involvement.",
+        "current_evidence": "Recent randomized studies have found no significant difference in outcomes between antiplatelet and anticoagulation therapies for cervical artery dissection. Current guidelines favor antiplatelet therapy because of its simplicity and safety profile, with ongoing research into optimal duration of therapy."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993231",
+    "fields": {
+      "question_number": "4",
+      "question_text": "Patient post RTA, image attached. Where is the localization of the lesion?",
+      "options": {
+        "A": "Internal carotid artery",
+        "B": "Vertebral artery"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation_sections": {
+        "conceptual_foundation": "In traumatic settings such as a road traffic accident (RTA), vascular injuries can occur secondary to cervical trauma. The vertebral artery, owing to its tortuous course through the transverse foramina of the cervical spine, is particularly vulnerable.",
+        "pathophysiology": "Trauma can cause stretching or tearing of the vertebral arterial wall, leading to dissection, pseudoaneurysm formation, or complete occlusion. This mechanism can result in local ischemia or embolic events, contributing to neurological deficits.",
+        "clinical_correlation": "Following an RTA, if a patient exhibits signs of posterior circulation compromise (which might include dizziness, ataxia, or other focal neurological deficits), a vertebral artery injury should be suspected. Imaging findings on CT angiography or MR angiography typically confirm the lesion's location.",
+        "diagnostic_approach": "A combination of clinical examination and imaging studies (CT angiography/MR angiography) is essential for localizing vascular injuries. Differentials include carotid artery injury, which is more common after hyperextension injuries but has a different clinical and imaging profile.",
+        "classification_and_neurology": "Traumatic cerebrovascular injuries are classified based on vessel involved (anterior vs posterior circulation), type of injury (dissection, occlusion, pseudoaneurysm), and severity. The Denver criteria and Biffl grading system are commonly used to classify blunt cerebrovascular injuries, including those affecting the internal carotid and vertebral arteries. These systems help stratify risk and guide management. The vertebral artery injury falls under posterior circulation vascular trauma, a subset of blunt cerebrovascular injury (BCVI). Over time, classification systems have evolved with better imaging modalities, improving the detection and grading of vascular injuries. Controversies remain regarding screening indications and management thresholds, but consensus supports early identification of vertebral artery injuries due to their stroke risk.",
+        "classification_and_nosology": "Traumatic vascular injuries are categorized based on the involved vessel (vertebral vs. carotid) and the type of vascular pathology (dissection, pseudoaneurysm, complete transection). The vertebral artery is a recognized site for such trauma-induced injuries.",
+        "management_principles": "Management is usually conservative with antithrombotic therapy (antiplatelets or anticoagulants) unless there is evidence of progression or significant hemodynamic compromise. For pregnant patients or lactating mothers with similar injuries, low-dose aspirin is generally acceptable, though decisions must be individualized.",
+        "option_analysis": "Option A (Internal carotid artery) is a possible site for traumatic dissection but does not match the imaging and clinical scenario provided. The presented image and history (post RTA) support a vertebral artery lesion as indicated by Option B.",
+        "clinical_pearls": "1. In trauma, always consider cervical artery dissection even in the absence of overt neck injury. 2. CT angiography is the gold standard for evaluating suspected traumatic vascular injuries in the neck.",
+        "current_evidence": "Updated trauma protocols emphasize early vascular imaging in patients with high-risk mechanisms of injury. Recent literature supports the use of antithrombotic therapy for vertebral artery injuries, with outcomes similar to those seen in spontaneous dissections."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993394",
+    "fields": {
+      "question_number": "423",
+      "question_text": "A 20s-year-old male with history of learning difficulty presented to the clinic with his father due to repeated history of stroke like symptoms, dysarthria, and hearing loss. MRI brain done (image attached). What is the most likely diagnosis?",
+      "options": {
+        "A": "MELAS",
+        "B": "CADSAIL"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation_sections": {
+        "conceptual_foundation": "CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy) is a hereditary small vessel disease that typically presents with migraine with aura, recurrent ischemic strokes, cognitive impairment, and sometimes psychiatric symptoms. A family history with autosomal dominant inheritance is a hallmark.",
+        "pathophysiology": "Mutations in the NOTCH3 gene result in abnormal protein deposition and degeneration of vascular smooth muscle cells, leading to thickening and fibrosis of small penetrating arteries. This process causes chronic white matter ischemia and lacunar infarcts. Although MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes) also causes stroke-like events, its mitochondrial (maternal) inheritance pattern and different imaging characteristics help differentiate it from CADASIL.",
+        "clinical_correlation": "The patient\u2019s history of early learning difficulties, recurrent stroke-like episodes (manifested by dysarthria and other focal neurological deficits), and hearing loss, combined with the fact that his father is affected, points toward a familial disorder with autosomal dominant inheritance. In MELAS, the maternal inheritance pattern is key, and hearing loss, though common, would not typically appear with a paternal transmission.",
+        "diagnostic_approach": "Diagnosis of CADASIL involves a combination of clinical history, characteristic MRI findings (such as white matter hyperintensities in the anterior temporal lobes), and genetic testing for NOTCH3 mutations. The differential includes MELAS (which demonstrates stroke-like lesions not confined to vascular territories and is maternally inherited) and other hereditary leukoencephalopathies.",
+        "classification_and_neurology": "MELAS is classified among mitochondrial cytopathies, a subgroup of mitochondrial disorders characterized by defects in oxidative phosphorylation. According to the current consensus (e.g., the 2015 Mitochondrial Disease Criteria), MELAS is defined by specific clinical and genetic criteria including stroke-like episodes, lactic acidosis, and mtDNA mutations.  CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy), in contrast, is a hereditary small vessel disease caused by NOTCH3 mutations affecting vascular smooth muscle cells. It presents with recurrent lacunar infarcts, migraine with aura, and cognitive decline but does not typically involve hearing loss or lactic acidosis.  The nosological distinction is critical: MELAS is a metabolic encephalopathy with stroke-like episodes due to mitochondrial dysfunction, while CADASIL is a genetic arteriopathy causing ischemic strokes through vascular pathology.",
+        "classification_and_nosology": "CADASIL is classified as a hereditary arteriopathy under the group of cerebral small vessel diseases. The autosomal dominant pattern distinguishes it from mitochondrial disorders like MELAS.",
+        "management_principles": "There is no definitive disease-modifying therapy for CADASIL. Management is largely supportive and focuses on controlling vascular risk factors, preventing ischemic events with antiplatelet therapy when indicated, and providing symptomatic treatment for migraines and cognitive dysfunction. Genetic counseling is essential. In pregnancy and lactation, risk factor management is critical, and therapies such as low-dose aspirin can be used with caution.",
+        "option_analysis": "Option A (MELAS) is incorrect due to its maternal inheritance pattern and typically different MRI findings (stroke-like lesions that do not conform to vascular territories). Option B (CADSAIL, a representation of CADASIL) is correct due to the autosomal dominant inheritance (the father\u2019s involvement), characteristic clinical presentation, and appropriate imaging findings. Options C and D are not provided and thus not applicable.",
+        "clinical_pearls": "1. A family history involving affected male relatives strongly suggests an autosomal dominant disorder such as CADASIL. 2. Characteristic MRI findings (anterior temporal white matter lesions) are a key diagnostic clue for CADASIL.",
+        "current_evidence": "Recent advances have improved the understanding of NOTCH3 mutations in CADASIL, and while no curative treatment exists, research is focusing on potential targeted therapies. Updated guidelines emphasize the importance of controlling vascular risk factors and genetic counseling in management."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993232",
+    "fields": {
+      "question_number": "5",
+      "question_text": "A 70-year-old male, known case of hypertension. He went to sleep then woke up in the morning with left sided weakness and dysarthria.\n\nMRI brain done (image attached).\nWhat is the most likely pathophysiology involved in his condition?",
+      "options": {
+        "A": "Amyloid angiopathy",
+        "B": "Hemorrhagic stroke",
+        "C": "Hypertensive hemorrhage",
+        "D": "Autoregulation dysfunction"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation_sections": {
+        "conceptual_foundation": "Hypertensive hemorrhage refers to intracerebral hemorrhage resulting from long-standing high blood pressure. Chronic hypertension leads to changes in the small vessels (arterioles) that predispose them to rupture, typically in deep brain structures.",
+        "pathophysiology": "Chronic hypertension causes lipohyalinosis and the formation of Charcot-Bouchard microaneurysms in small penetrating arteries. This weakening of vessel walls leads to rupture and hemorrhage, most frequently in areas such as the basal ganglia, thalamus, pons, or cerebellum. The sudden rupture accounts for the acute onset of symptoms.",
+        "clinical_correlation": "The elderly male with a known history of hypertension who wakes with sudden left-sided weakness and dysarthria is highly suggestive of an intracerebral hemorrhage due to hypertensive small vessel disease. The focal deficits correlate with the location of the hemorrhage, likely involving motor pathways.",
+        "diagnostic_approach": "Non-contrast CT scan is the preferred initial diagnostic tool to differentiate hemorrhagic from ischemic stroke. MRI can provide additional details regarding the location and extent of the hemorrhage. Differential diagnoses include lobar hemorrhages due to amyloid angiopathy (which typically affect cortical/subcortical regions) and ischemic stroke with hemorrhagic conversion.",
+        "classification_and_neurology": "Intracerebral hemorrhage is classified under hemorrhagic strokes, distinct from ischemic strokes. Within ICH, etiologies are subclassified as:  - **Hypertensive hemorrhage:** Due to chronic hypertension-related small vessel disease. - **Cerebral amyloid angiopathy:** Common in elderly, causing lobar hemorrhages. - **Other causes:** Vascular malformations, coagulopathies, trauma.  The current stroke classification systems, such as the TOAST criteria, primarily address ischemic stroke subtypes but recognize hemorrhagic strokes as a separate entity. The Boston criteria are used to diagnose cerebral amyloid angiopathy clinically and radiologically. Understanding this nosology is essential for tailoring management and prognostication. Controversies exist regarding the overlap of small vessel disease manifestations and the role of mixed pathologies in elderly patients.",
+        "classification_and_nosology": "Hypertensive hemorrhage is a subset of intracerebral hemorrhage, which itself is classified by etiology into hypertensive, amyloid angiopathy-related, anticoagulant-related, and other less common causes.",
+        "management_principles": "Management includes rapid blood pressure control, supportive care, and neurosurgical evaluation if indicated. First-line management involves lowering blood pressure to prevent hematoma expansion. Secondary prevention includes strict control of hypertension and other vascular risk factors. In patients who are pregnant or lactating, blood pressure management should be tailored with agents that are safe in these populations (e.g., labetalol, hydralazine), though this scenario is less applicable in a 70-year-old male.",
+        "option_analysis": "Option A (Amyloid angiopathy) is more common in non-hypertensive elderly patients and typically produces lobar hemorrhages rather than deep hemorrhages seen in hypertension. Option B (Hemorrhagic stroke) is a broad term that includes hypertensive hemorrhage; however, Option C specifically identifies hypertensive hemorrhage, which is the most precise answer. Option D (Autoregulation dysfunction) describes a mechanism that may contribute to hemorrhage but is not the primary diagnosis.",
+        "clinical_pearls": "1. Deep intracerebral hemorrhages in hypertensive patients are most commonly due to small vessel lipohyalinosis. 2. Rapid blood pressure management is critical in the acute phase to minimize hematoma expansion.",
+        "current_evidence": "Recent guidelines emphasize early and aggressive blood pressure control in hypertensive hemorrhage. Ongoing research focuses on neuroprotective strategies and minimally invasive surgical techniques to improve outcomes in intracerebral hemorrhage."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993233",
+    "fields": {
+      "question_number": "6",
+      "question_text": "Female patient with ESRD on regular hemodialysis complaining of recurrent TIAs last for less than 10 minutes inform of left sided weakness and dysarthria then resolved completely. These symptoms occur during the dialysis sessions. CT brain done and showed evidence of old ischemic stroke. Carotid US done and showed left ICA atherosclerotic changes with no visualized stenosis or occlusion. Which of the following is important to order during evaluation of this patient?",
+      "options": {
+        "A": "CT angiography",
+        "B": "MRI brain",
+        "C": "CT Venogram"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation_sections": {
+        "conceptual_foundation": "Transient ischemic attacks (TIAs) are brief episodes of neurological dysfunction resulting from temporary cerebral ischemia. In this patient with end\u2010stage renal disease (ESRD) on hemodialysis, recurrent TIAs occurring during dialysis sessions raise suspicion for an underlying vascular pathology potentially compounded by intradialytic hypotension. Although the carotid ultrasound showed non\u2010stenotic atherosclerotic changes in the left internal carotid artery (ICA), the episodes suggest the possibility of intracranial vascular abnormalities that need further evaluation.",
+        "pathophysiology": "ESRD patients are prone to vascular calcifications and atherosclerosis. During hemodialysis, rapid fluid removal can lead to hypotensive episodes, compromising cerebral perfusion. Atherosclerotic changes\u2014even without significant stenosis on extracranial imaging\u2014may coexist with intracranial vascular disease, microembolism, or flow alterations. CT angiography (CTA) is sensitive in detecting subtle abnormalities (e.g., non\u2010critical intracranial stenosis, small vessel irregularities) that might explain these recurrent transient ischemic events.",
+        "clinical_correlation": "The patient\u2019s presentation of transient left-sided weakness with dysarthria, which resolves completely, is typical for TIA. The temporal association of symptoms with dialysis sessions suggests a hemodynamic component possibly compounded by vascular pathology. The old ischemic stroke seen on CT and the carotid ultrasound findings prompt further investigation of the intracranial vasculature.",
+        "diagnostic_approach": "After a normal carotid ultrasound (for significant stenosis), the next step is to assess intracranial vasculature. Differential diagnoses include intracranial atherosclerosis, embolic phenomena related to vascular access, or phenomena related to hypoperfusion. CTA is the most appropriate non-invasive test to evaluate both extracranial and intracranial arterial anatomy, helping differentiate between these causes.",
+        "classification_and_neurology": "TIAs are classified under the broader spectrum of cerebrovascular diseases. According to the American Heart Association/American Stroke Association (AHA/ASA), TIAs are defined clinically by transient neurological deficits without infarction on imaging, differentiating them from ischemic strokes which show infarction.  Within stroke classification systems such as TOAST (Trial of ORG 10172 in Acute Stroke Treatment), TIAs are further categorized based on etiology: large-artery atherosclerosis, cardioembolism, small vessel occlusion, stroke of other determined etiology, or undetermined etiology. In this patient, the likely subtype is large-artery atherosclerosis with hemodynamic compromise.  The classification has evolved with advances in neuroimaging, emphasizing tissue-based definitions where MRI diffusion-weighted imaging (DWI) can detect infarction even when symptoms resolve. This has important implications for diagnosis and management. Controversies remain regarding the optimal imaging modality and timing for TIA evaluation, especially in patients with comorbidities such as ESRD.",
+        "classification_and_nosology": "TIA falls under cerebrovascular diseases and can be categorized based on etiology such as embolic, hemodynamic, or small vessel disease. In dialysis patients, hemodynamic instability and atypical embolic sources (e.g., from a fistula) add complexity to the classification.",
+        "management_principles": "While the immediate management often involves antiplatelet therapy and risk factor modification, identifying the underlying vascular cause is paramount. Guidelines recommend prompt vascular imaging with CTA in patients with TIA, particularly when clinical suspicion for intracranial involvement is high. In ESRD patients, contrast use is a consideration; however, current protocols help minimize risks. Adjustments during dialysis (e.g., managing blood pressure) are also important. If the patient were pregnant, radiation exposure and contrast type would be carefully weighed but in ESRD patients, the risk of contrast is managed by hydration protocols and using contrast agents with low nephrotoxicity when possible.",
+        "option_analysis": "Option A (CT angiography) is correct because it provides detailed visualization of the intracranial vessels. Option B (MRI brain) is less ideal in this setting because while it is excellent for parenchymal detail, it may not adequately delineate vascular stenoses in an ESRD patient and may require gadolinium, which is contraindicated in advanced renal disease. Option C (CT Venogram) is used for evaluating the venous system and is not indicated when looking for arterial pathologies causing TIAs.",
+        "clinical_pearls": "1. TIAs in patients on hemodialysis can be precipitated by hypotensive episodes during the session. 2. Carotid ultrasound only evaluates extracranial vessels; intracranial vascular imaging (CTA) is necessary when suspicion remains high. 3. Early vascular imaging leads to more targeted management, preventing potential strokes.",
+        "current_evidence": "Recent AHA/ASA guidelines emphasize the importance of early vascular imaging (preferably CTA) in TIA patients to identify both extracranial and intracranial pathologies. In patients with ESRD, strategies to minimize contrast exposure are in place, but CTA remains the imaging modality of choice when clinical concern for intracranial stenosis exists."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  }
+]

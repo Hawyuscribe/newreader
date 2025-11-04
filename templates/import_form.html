@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+
+{% block title %}Import MCQs - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>Import MCQs</h1>
+        <p>Import MCQs from your source directory.</p>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <a href="{{ url_for('dashboard') }}" class="btn btn-outline-primary">
+            <i class="bi bi-arrow-left"></i> Back to Dashboard
+        </a>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0">MCQ Import Settings</h3>
+    </div>
+    <div class="card-body">
+        <form action="{{ url_for('run_import') }}" method="post">
+            <div class="mb-3">
+                <label for="mcqPath" class="form-label">MCQ Directory Path</label>
+                <input type="text" class="form-control" id="mcqPath" name="mcqPath" 
+                       value="/Users/tariqalmatrudi/Documents/MCQs for the board/Classified MCQs/reclassified">
+                <div class="form-text">Path to the directory containing your MCQ text files.</div>
+            </div>
+            
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="clearExisting" name="clearExisting" checked>
+                <label class="form-check-label" for="clearExisting">Clear existing MCQs before import</label>
+                <div class="form-text">If checked, all existing MCQs will be removed before importing.</div>
+            </div>
+            
+            <div class="mb-3">
+                <label for="subspecialties" class="form-label">Subspecialties to Import</label>
+                <select class="form-select" id="subspecialties" name="subspecialties" multiple size="10">
+                    <option value="all" selected>All Subspecialties</option>
+                    <option value="Critical_Care_Neurology">Critical Care Neurology</option>
+                    <option value="Dementia">Dementia</option>
+                    <option value="Epilepsy">Epilepsy</option>
+                    <option value="Headache">Headache</option>
+                    <option value="Movement_Disorders">Movement Disorders</option>
+                    <option value="Neuroanatomy">Neuroanatomy</option>
+                    <option value="Neurogenetics">Neurogenetics</option>
+                    <option value="Neuroimmunology">Neuroimmunology</option>
+                    <option value="Neuro_infectious">Neuro-infectious</option>
+                    <option value="Neuro_oncology">Neuro-oncology</option>
+                    <option value="Neuro_otology">Neuro-otology</option>
+                    <option value="Neuroophthalmology">Neuroophthalmology</option>
+                    <option value="Neuropsychiatry">Neuropsychiatry</option>
+                    <option value="Neurotoxicology">Neurotoxicology</option>
+                    <option value="Neuromuscular">Neuromuscular</option>
+                    <option value="Pediatric_Neurology">Pediatric Neurology</option>
+                    <option value="Sleep_Neurology">Sleep Neurology</option>
+                    <option value="Vascular_neurology_stroke">Vascular Neurology/Stroke</option>
+                    <option value="Other_Unclassified">Other/Unclassified</option>
+                </select>
+                <div class="form-text">Hold Ctrl/Cmd to select multiple subspecialties.</div>
+            </div>
+            
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary btn-lg">
+                    <i class="bi bi-cloud-upload"></i> Start Import
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,434 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+
+{% block title %}{{ specialty.name }} - High-Yield Reviews{% endblock %}
+
+{% block extra_css %}
+<style>
+    .specialty-container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    
+    .content-layout {
+        display: flex;
+        gap: 30px;
+        margin-top: 30px;
+    }
+    
+    .main-content {
+        flex: 1;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+    }
+    
+    .sidebar {
+        width: 280px;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        height: fit-content;
+        position: sticky;
+        top: 20px;
+    }
+    
+    .sidebar h3 {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        color: #333;
+        border-bottom: 2px solid #007bff;
+        padding-bottom: 10px;
+    }
+    
+    .topic-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .topic-list li {
+        margin-bottom: 10px;
+    }
+    
+    .topic-list a {
+        display: block;
+        padding: 10px 15px;
+        text-decoration: none;
+        color: #333;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+    
+    .topic-list a:hover {
+        background-color: #f8f9fa;
+    }
+    
+    .topic-list a.active {
+        background-color: #007bff;
+        color: white;
+    }
+    
+    .specialty-header {
+        margin-bottom: 30px;
+    }
+    
+    .specialty-header h1 {
+        color: #333;
+        margin-bottom: 20px;
+    }
+    
+    .overview-section {
+        margin-bottom: 40px;
+    }
+    
+    .overview-section h2 {
+        color: #007bff;
+        margin-bottom: 15px;
+        font-size: 1.5rem;
+    }
+    
+    .overview-section p {
+        line-height: 1.8;
+        color: #555;
+        white-space: pre-wrap;
+    }
+    
+    .section-image {
+        margin: 20px 0;
+        text-align: center;
+    }
+    
+    .section-image img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    .topic-content {
+        margin-top: 40px;
+    }
+    
+    .content-section {
+        margin-bottom: 30px;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+    }
+    
+    .content-section h3 {
+        color: #007bff;
+        margin-bottom: 15px;
+        font-size: 1.3rem;
+    }
+    
+    .content-section p {
+        line-height: 1.8;
+        color: #555;
+        white-space: pre-wrap;
+    }
+    
+    .section-images {
+        margin-top: 15px;
+    }
+    
+    .image-item {
+        margin: 15px 0;
+        text-align: center;
+    }
+    
+    .image-item img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    .image-caption {
+        margin-top: 8px;
+        font-style: italic;
+        color: #666;
+        font-size: 0.9rem;
+    }
+    
+    @media (max-width: 768px) {
+        .content-layout {
+            flex-direction: column;
+        }
+        
+        .sidebar {
+            width: 100%;
+            position: static;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="specialty-container">
+    <div class="specialty-header">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{% url 'high_yield_home' %}">High-Yield Reviews</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{ specialty.name }}</li>
+            </ol>
+        </nav>
+        <h1>{{ specialty.name }}</h1>
+    </div>
+    
+    <div class="content-layout">
+        <div class="main-content">
+            <!-- Specialty Overview Section -->
+            {% if not selected_topic %}
+            <div class="overview-section">
+                <h2>Introduction</h2>
+                <div>{{ specialty.introduction|safe }}</div>
+                {% if specialty.introduction_image %}
+                <div class="section-image">
+                    <img src="{{ specialty.introduction_image }}" alt="Introduction">
+                </div>
+                {% endif %}
+            </div>
+            
+            <div class="overview-section">
+                <h2>Historical Overview</h2>
+                <div>{{ specialty.historical_overview|safe }}</div>
+            </div>
+            
+            <div class="overview-section">
+                <h2>Important Concepts</h2>
+                <div>{{ specialty.important_concepts|safe }}</div>
+            </div>
+            
+            <div class="overview-section">
+                <h2>Related Anatomy</h2>
+                <div>{{ specialty.related_anatomy|safe }}</div>
+                {% if specialty.anatomy_image %}
+                <div class="section-image">
+                    <img src="{{ specialty.anatomy_image }}" alt="Anatomy">
+                </div>
+                {% endif %}
+            </div>
+            {% endif %}
+            
+            <!-- Topic Content Section -->
+            {% if selected_topic %}
+            <div class="topic-content">
+                <h2>{{ selected_topic.title }}</h2>
+                
+                {% if selected_topic.introduction_classification %}
+                <div class="content-section">
+                    <h3>Introduction and Classification</h3>
+                    <div>{{ selected_topic.introduction_classification|safe }}</div>
+                    {% if section_images.introduction_classification %}
+                    <div class="section-images">
+                        {% for image in section_images.introduction_classification %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.pathology_pathophysiology %}
+                <div class="content-section">
+                    <h3>Pathology and Pathophysiology</h3>
+                    <div>{{ selected_topic.pathology_pathophysiology|safe }}</div>
+                    {% if section_images.pathology_pathophysiology %}
+                    <div class="section-images">
+                        {% for image in section_images.pathology_pathophysiology %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.epidemiology %}
+                <div class="content-section">
+                    <h3>Epidemiology</h3>
+                    <div>{{ selected_topic.epidemiology|safe }}</div>
+                    {% if section_images.epidemiology %}
+                    <div class="section-images">
+                        {% for image in section_images.epidemiology %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.clinical_presentation %}
+                <div class="content-section">
+                    <h3>Clinical Presentation and Physical Examination</h3>
+                    <div>{{ selected_topic.clinical_presentation|safe }}</div>
+                    {% if section_images.clinical_presentation %}
+                    <div class="section-images">
+                        {% for image in section_images.clinical_presentation %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.paraclinical_testing %}
+                <div class="content-section">
+                    <h3>Para Clinical Testing</h3>
+                    <div>{{ selected_topic.paraclinical_testing|safe }}</div>
+                    {% if section_images.paraclinical_testing %}
+                    <div class="section-images">
+                        {% for image in section_images.paraclinical_testing %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.diagnostic_criteria %}
+                <div class="content-section">
+                    <h3>Diagnostic Criteria</h3>
+                    <div>{{ selected_topic.diagnostic_criteria|safe }}</div>
+                    {% if section_images.diagnostic_criteria %}
+                    <div class="section-images">
+                        {% for image in section_images.diagnostic_criteria %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.differential_diagnosis %}
+                <div class="content-section">
+                    <h3>Differential Diagnosis</h3>
+                    <div>{{ selected_topic.differential_diagnosis|safe }}</div>
+                    {% if section_images.differential_diagnosis %}
+                    <div class="section-images">
+                        {% for image in section_images.differential_diagnosis %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.management_guidelines %}
+                <div class="content-section">
+                    <h3>Management Guidelines</h3>
+                    <div>{{ selected_topic.management_guidelines|safe }}</div>
+                    {% if section_images.management_guidelines %}
+                    <div class="section-images">
+                        {% for image in section_images.management_guidelines %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.prognosis %}
+                <div class="content-section">
+                    <h3>Prognosis</h3>
+                    <div>{{ selected_topic.prognosis|safe }}</div>
+                    {% if section_images.prognosis %}
+                    <div class="section-images">
+                        {% for image in section_images.prognosis %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.common_pitfalls %}
+                <div class="content-section">
+                    <h3>Common Pitfalls</h3>
+                    <div>{{ selected_topic.common_pitfalls|safe }}</div>
+                    {% if section_images.common_pitfalls %}
+                    <div class="section-images">
+                        {% for image in section_images.common_pitfalls %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                {% if selected_topic.latest_guidelines %}
+                <div class="content-section">
+                    <h3>Latest Guidelines and Evidence</h3>
+                    <div>{{ selected_topic.latest_guidelines|safe }}</div>
+                    {% if section_images.latest_guidelines %}
+                    <div class="section-images">
+                        {% for image in section_images.latest_guidelines %}
+                        <div class="image-item">
+                            <img src="{{ image.image_url }}" alt="{{ image.caption }}">
+                            {% if image.caption %}<div class="image-caption">{{ image.caption }}</div>{% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+        
+        <div class="sidebar">
+            <h3>Topics</h3>
+            <ul class="topic-list">
+                <li>
+                    <a href="{% url 'high_yield_specialty' specialty.slug %}" 
+                       {% if not selected_topic %}class="active"{% endif %}>
+                        Specialty Overview
+                    </a>
+                </li>
+                {% for topic in topics %}
+                <li>
+                    <a href="?topic={{ topic.slug }}"
+                       {% if selected_topic and selected_topic.slug == topic.slug %}class="active"{% endif %}>
+                        {{ topic.title }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

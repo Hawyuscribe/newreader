@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q243",
+    "question_text": "MTS seizure with normal MRI; EEG showed right frontotemporal discharge; what is the next step?",
+    "options": {
+      "A": "Scalp EEG",
+      "B": "Interictal PET",
+      "C": "Interictal SPECT",
+      "D": "Video EEG monitoring"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "What is the most common cause of sudden unexpected death in epilepsy (SUDEP)?",
+    "options": {
+      "A": "Uncontrolled seizure",
+      "B": "Cardiac arrhythmia",
+      "C": "Respiratory depression",
+      "D": "Status epilepticus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q207",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female patient diagnosed with epilepsy is currently on Lacosamide 200 mg BID and Levetiracetam 1500 mg BID. She presented to the epilepsy outpatient clinic for evaluation. She reported a history of generalized seizure preceded by feelings of fear and palpitation. While in the clinic, she had a seizure episode that started with chewing spells and right hand automatism followed by bilateral generalized tonic-clonic seizure. She doesn\u2019t recall the event. What is the pathophysiology responsible for this case?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "patient with MTLE is on two anti-seizure medications but still experiences monthly seizures. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q272",
+    "question_text": "Patient came with absence seizure with rare GTC; EEG showed 3Hz; what are the other associated symptoms this patient can have?",
+    "options": {
+      "A": "Eyelid myotonia",
+      "B": "Myoclonic jerks",
+      "C": "Ataxia",
+      "D": "Sensory loss"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "Which of the following cranial nerves is primarily responsible for controlling the muscles of facial expression?",
+    "options": {
+      "A": "Trigeminal nerve (CN V)",
+      "B": "Facial nerve (CN VII)",
+      "C": "Glossopharyngeal nerve (CN IX)",
+      "D": "Vagus nerve (CN X)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q290",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have epilepsy for more than 10 years, who reports no aura, arrives at the emergency department unwitnessed with tonic-clonic seizures. What is the classification of his seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q292",
+    "question_text": "In a case of palpitation and sweating, what is the localization of the seizure?",
+    "options": {
+      "A": "Insula",
+      "B": "Amygdala",
+      "C": "Temporal lobe",
+      "D": "Hypothalamus"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q213",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old pregnant lady with epilepsy is currently on Valproic acid 500 mg daily. She has had no seizures in the last 3 years, and her last EEG and brain MRI were normal. Which of the following is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with epilepsy started on antiepileptic medication and was later found to have aplastic anemia. What is the likely cause of the aplastic anemia?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "In a case of generalized tonic-clonic (GTC) seizures, what is the percentage of recurrence within 2 years?",
+    "options": {
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "",
+    "options": {
+      "A": "child with developmental delay has an EEG that shows hypsarrhythmia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q226",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's disease",
+      "B": "Multiple sclerosis",
+      "C": "Amyotrophic lateral sclerosis",
+      "D": "Huntington's disease"
+    },
+    "correct_answer": "C",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q197",
+    "question_text": "",
+    "options": {
+      "A": "61-year-old male with diabetes, hypertension, dyslipidemia, osteoporosis, and epilepsy is being evaluated. Which medication is suitable for him?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with a right arm focal clonic seizure lasting for 1 hour, triggered by stress, and has been on 4 antiepileptic drugs (AEDs) with normal prolonged video EEG results. What finding supports the diagnosis of psychogenic non-epileptic seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "",
+    "options": {
+      "A": "patient has been on levetiracetam (LEV) for a long time. What is a possible side effect?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "",
+    "options": {
+      "A": "young patient with developmental delay and multiple seizure types is on Clobazam 10 mg BID, Levetiracetam 1500 mg BID, and Valproic acid. The EEG report shows slow spikes and waves at 1-1.5 Hz. Which of the following is the best management for this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q205",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old male presented to the emergency room with a cluster of seizures a few hours ago. He is on Lacosamide 100 mg BID and reported good compliance with the medication. He has a history of congenital heart disease. Which of the following is the next step in the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q206",
+    "question_text": "",
+    "options": {
+      "A": "young patient presented to the neurology outpatient clinic for epilepsy evaluation. He has seizure semiology in the form of right upper limb tonic posturing followed by limb jerking with lack of awareness, then bilateral tonic-clonic seizure. He doesn\u2019t recall the episode. He has a history of 4 car accidents, one of which required ICU admission for 3 days. What is the likely localization for his seizure semiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q172",
+    "question_text": "",
+    "options": {
+      "A": "patient presented to the emergency department with a first onset seizure. The examination was normal, and brain MRI and EEG were normal. What is the risk of recurrence of seizure in 3 years?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q287",
+    "question_text": "",
+    "options": {
+      "A": "young female with epilepsy wants to start oral contraceptive pills (OCP). What is the response?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q218",
+    "question_text": "Which of the following cranial nerves is primarily responsible for controlling the muscles of facial expression?",
+    "options": {
+      "A": "Trigeminal nerve (CN V)",
+      "B": "Facial nerve (CN VII)",
+      "C": "Glossopharyngeal nerve (CN IX)",
+      "D": "Vagus nerve (CN X)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q220",
+    "question_text": "",
+    "options": {
+      "A": "patient with seizures who is on antiepileptic drugs (AEDs) develops aplastic anemia. What is the medication associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "Which of the following cranial nerves is primarily responsible for the sense of smell?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Facial nerve (CN VII)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with no aura but has focal aware seizure presentations and is uncontrolled on two ASM. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

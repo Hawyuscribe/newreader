@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q547",
+    "question_text": "In a scenario of facioscapulohumeral muscular dystrophy (FSH), what is the likely diagnosis?",
+    "options": {
+      "A": "Facioscapulohumeral muscular dystrophy",
+      "B": "Duchenne muscular dystrophy",
+      "C": "Myotonic dystrophy",
+      "D": "Becker muscular dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "In paramyotonia congenita, what happens to the amplitude of the compound muscle action potential (CMAP) with exposure to cold?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains unchanged",
+      "D": "Fluctuates"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q418",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with symmetrical proximal and distal weakness, numbness in toes and fingers, fasciculations, and foot drop during the course of the disease. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q425",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with ocular muscle weakness, ptosis, mild facial weakness, and proximal weakness. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with progressive inability to drink with a straw, proximal weakness, scapular winging, and impaired foot dorsiflexion. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q472",
+    "question_text": "Anti-striatal antibody in Myasthenia Gravis (MG) indicates:",
+    "options": {
+      "A": "Thymoma",
+      "B": "Ocular MG",
+      "C": "Resistance to steroid therapy",
+      "D": "Early onset MG"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "What is the medication that causes neuropathy and myopathy?",
+    "options": {
+      "A": "Dapsone",
+      "B": "Chloroquine",
+      "C": "Hydralazine",
+      "D": "Colchicine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "",
+    "options": {
+      "A": "Filipino patient has muscle stiffness and intermittent weakness. What should be tested for him?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "In a scenario involving amyloidosis, what is the next step in management?",
+    "options": {
+      "A": "Fat aspiration",
+      "B": "Bone marrow biopsy",
+      "C": "Serum protein electrophoresis",
+      "D": "Echocardiography"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q188",
+    "question_text": "In a patient with sensory and autonomic neuropathy, a family history of restricted cardiomyopathy is noted. What is the likely diagnosis?",
+    "options": {
+      "A": "Amyloidosis",
+      "B": "CIDP",
+      "C": "DADS",
+      "D": "Charcot-Marie-Tooth disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q239",
+    "question_text": "",
+    "options": {
+      "A": "case presents with stiffness induced by exercise, and the patient experiences forced eye closure when sneezing, along with percussion myotonia and eyelid myotonia. Which channel is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged female has a history of diarrhea two weeks prior to presentation and now has paresthesia and weakness. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "In a case scenario of a patient with findings suggestive of hereditary motor and sensory neuropathy type 1 (HMSN1) who has a PMP22 duplication, what would the biopsy findings most likely show?",
+    "options": {
+      "A": "Onion bulb",
+      "B": "Sausage-like demyelination",
+      "C": "Axonal injury",
+      "D": "Normal findings"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hand extension weakness but no sensory loss. Which nerve is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "",
+    "options": {
+      "A": "patient has difficulty blowing air in the mouth and presents with an asymmetrical right foot drop. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "What is the typical recovery pattern following an episode of Hereditary Neuropathy with Liability to Pressure Palsies (HNPP)?",
+    "options": {
+      "A": "Gradual worsening over months",
+      "B": "Complete recovery within days or weeks",
+      "C": "Permanent weakness",
+      "D": "Progressive disability"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q346",
+    "question_text": "An adult presents with a history of gait issues. Examination shows significant weakness and atrophy of the gastrocnemius muscle with mild weakness in the upper limbs. What is the diagnosis?",
+    "options": {
+      "A": "Dysferlin 2B",
+      "B": "Becker muscular dystrophy",
+      "C": "Charcot-Marie-Tooth disease",
+      "D": "Inclusion body myositis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with distal myopathy (posterior calf) and a high creatine kinase level of 7000. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "Which cranial nerve is primarily responsible for the sense of smell?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Facial nerve (CN VII)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q241",
+    "question_text": "Dermatomyositis is associated with which of the following findings?",
+    "options": {
+      "A": "Rimmed vacuoles",
+      "B": "Perifascular inflammation",
+      "C": "Endomysial inflammation",
+      "D": "Neurogenic atrophy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "What is the most common gene associated with familial Amyotrophic Lateral Sclerosis (ALS)?",
+    "options": {
+      "A": "C9orf72",
+      "B": "SOD1",
+      "C": "TARDBP",
+      "D": "FUS"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q556",
+    "question_text": "In a scenario with congenital myasthenia gravis (MG), the patient has hand involvement and proximal upper and lower limb weakness. What is the likely diagnosis?",
+    "options": {
+      "A": "Slow channel myasthenic syndrome",
+      "B": "End-plate acetylcholinesterase deficiency",
+      "C": "Dok-7 myasthenia",
+      "D": "Choline acetyltransferase deficiency"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "Case scenario of a patient with inner arm and forearm tingling sensation, thenar muscle weakness, and pain when raising the arm. Where is the localization?",
+    "options": {
+      "A": "C8-T1",
+      "B": "C7, C8",
+      "C": "C5-C6",
+      "D": "T1-T2"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "In ulnar neuropathy, what will you find on day 5 in nerve conduction studies (NCS)?",
+    "options": {
+      "A": "Decreased recruitment",
+      "B": "Fibrillation",
+      "C": "Complex repetitive discharges",
+      "D": "Conduction block"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "In the context of Inclusion Body Myositis (IBM), what is the primary treatment approach?",
+    "options": {
+      "A": "Supportive care",
+      "B": "Prednisone",
+      "C": "Physical therapy",
+      "D": "Immunosuppressants"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

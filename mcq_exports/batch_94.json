@@ -1,0 +1,374 @@
+[
+  {
+    "question_number": "Q199",
+    "question_text": "",
+    "options": {
+      "A": "Type IIa",
+      "B": "Type IIb",
+      "C": "Type I",
+      "D": "Type IIx"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q317",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with right hand pain, left leg pain, absent brachioradialis tendon reflex, and absent bilateral knee reflexes, along with a high ESR. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q340",
+    "question_text": "",
+    "options": {
+      "A": "Kearns-Sayre syndrome",
+      "B": "Leber's Hereditary Optic Neuropathy (LHON)",
+      "C": "Chronic Progressive External Ophthalmoplegia (CPEO)",
+      "D": "Myasthenia Gravis"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "IVIG"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q346",
+    "question_text": "Mitochondrial myopathy (MINGE) *Classification Reason: Although incomplete, the term points towards a mitochondrial muscle disease (myopathy). Reclassified as Neuromuscular.* ---------- Q355 (Source: Neuroimmunology) Which of the following is the most characteristic feature of mitochondrial myopathy?",
+    "options": {
+      "A": "Demyelination of peripheral nerves",
+      "B": "Ragged red fibers on muscle biopsy",
+      "C": "Autoantibody-mediated neuromuscular junction dysfunction",
+      "D": "Upper motor neuron signs without muscle atrophy",
+      "E": "Pure sensory neuropathy without weakness"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q355",
+    "question_text": "Muscle biopsy *Classification Reason: Refers to a diagnostic procedure primarily used in neuromuscular disorders. Too incomplete for specific classification, but best fit is Neuromuscular.* ---------- Q44 (Source: Neuroimmunology) What is the primary diagnostic use of a muscle biopsy?",
+    "options": {
+      "A": "To diagnose central nervous system tumors",
+      "B": "To evaluate neuromuscular disorders",
+      "C": "To assess cognitive decline in dementia",
+      "D": "To measure intracranial pressure",
+      "E": "To detect peripheral vascular disease"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "What is the typical serum potassium level in Hypokalemic Periodic Paralysis?",
+    "options": {
+      "A": "Low",
+      "B": "Normal",
+      "C": "High",
+      "D": "Variable"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with progressive proximal weakness and an autosomal recessive pattern in siblings. Creatine kinase is elevated, and EMG shows motor unit action potentials (MUAP). What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with progressive proximal weakness and an autosomal recessive pattern in siblings. Creatine kinase is elevated, and EMG shows motor unit action potentials (MUAP). What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q324",
+    "question_text": "",
+    "options": {
+      "A": "female patient with myasthenia gravis (MG) and thymus hyperplasia (grade 4) shows no improvement in her symptoms. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "Limb weakness and sensory loss",
+      "B": "Ophthalmoplegia, gait ataxia, areflexia",
+      "C": "Severe headache and fever",
+      "D": "Visual disturbances and seizures"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q383",
+    "question_text": "",
+    "options": {
+      "A": "Rituximab",
+      "B": "IVIG",
+      "C": "Plasma exchange",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "",
+    "options": {
+      "A": "Cryoglobulinemia",
+      "B": "Guillain-Barr\u00e9 syndrome",
+      "C": "Diabetic neuropathy",
+      "D": "Vitamin B12 deficiency"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "",
+    "options": {
+      "A": "Normal SNAPs, reduced CMAP amplitude",
+      "B": "Increased SNAPs, normal CMAP amplitude",
+      "C": "Reduced SNAPs, increased CMAP amplitude",
+      "D": "Normal SNAPs and CMAP amplitude"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q200",
+    "question_text": "",
+    "options": {
+      "A": "48-year-old male presents with toe walking and weakness. His family history reveals normal parents (cousin) and one affected sister. Which of the following conditions is least likely to be the cause of his symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old male presented to the outpatient clinic with a history of progressive bilateral upper and lower limb proximal weakness. There are no cranial nerve or bulbar symptoms, and no other systemic symptoms. On examination, there is muscle tenderness but no skin manifestation. Lab investigations showed CK of 40,000. Muscle biopsy showed perifascicular atrophy. Which antibody is associated with the patient's diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old male presented to the outpatient clinic with a history of progressive bilateral upper and lower limb proximal weakness. There are no cranial nerve or bulbar symptoms, and no other systemic symptoms. On examination, there is muscle tenderness but no skin manifestation. Lab investigations showed CK of 40,000. Muscle biopsy showed perifascicular atrophy. Which antibody is associated with the patient's diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "Which of the following genetic mutations is associated with myotonic dystrophy type 1 (DM1)?",
+    "options": {
+      "A": "CTG",
+      "B": "CCTG",
+      "C": "GAA",
+      "D": "CGG"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "What is the inheritance pattern of paramyotonia congenita?",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "X-linked",
+      "D": "Sporadic"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "In a scenario of a patient with cardiomegaly, bilateral carpal tunnel syndrome, peripheral sensory polyneuropathy, and autonomic symptoms with a family history of similar symptoms, what would you order?",
+    "options": {
+      "A": "Transthyretin",
+      "B": "Genetic testing",
+      "C": "Echocardiogram",
+      "D": "Nerve conduction studies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "In a case scenario of a patient with an androgen receptor gene defect suggestive of Kennedy syndrome, what associated findings should be expected?",
+    "options": {
+      "A": "Diabetes Mellitus (DM)",
+      "B": "Hepatomegaly",
+      "C": "Testicular atrophy",
+      "D": "Gynecomastia"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "In a scenario of Hereditary Sensory and Autonomic Neuropathy type 1 (HSAN 1) characterized by painful ulcers and mutilation, which gene is implicated?",
+    "options": {
+      "A": "SPTLC1",
+      "B": "IKABh",
+      "C": "TRKA",
+      "D": "RAB7"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "In a case of Kennedy disease (imbalance, muscle cramps and perioral fasciculation, proximal weakness, bulbar weakness, shin twitching, no mention of gynecomastia), what will be found on genetic test?",
+    "options": {
+      "A": "CTG",
+      "B": "GAA",
+      "C": "CGG",
+      "D": "CAG"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with recurrent neuropathy after minor trauma. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male has severe demyelinating neuropathy with palpable nerves and a biopsy showing onion bulbs and elevated CSF protein. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "4-year-old sickle cell disease patient had a stroke with significant MCA stenosis. What will determine the stroke risk?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "In the same scenario as the previous question, but with a CT angiogram not attached, what is the best treatment to achieve full recanalization? [Implicitly a large vessel occlusion stroke scenario]",
+    "options": {
+      "A": "IV tPA"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "According to the NASCET trial, what was the reduction in stroke rate at 18 months for patients with 70% to 99% ICA stenosis who underwent carotid endarterectomy (CEA) compared to best medical treatment?",
+    "options": {
+      "A": "From 26% to 9%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "patient with sickle cell disease developed an ischemic stroke. What is the recommended secondary prevention strategy?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "patient developed an ischemic stroke, and his echocardiogram showed an intracardiac thrombus as part of the stroke workup. What is the best option for secondary prevention of stroke?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with a chronic headache and no other neurological symptoms, found to have a 3 mm unruptured aneurysm. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "patient had head trauma and developed spontaneous perimesencephalic subarachnoid hemorrhage (SAH) 10 days later. After two digital subtraction imaging studies two weeks apart, which were unremarkable, what is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "In a patient with ischemic stroke, imaging shows bilateral anterior and posterior circulation strokes. What is the best step for management of this patient if transthoracic echocardiogram (TTE) and transesophageal echocardiogram (TEE) were negative?",
+    "options": {
+      "A": "Prolonged cardiac monitoring",
+      "B": "Administer thrombolytics",
+      "C": "Start antiplatelet therapy",
+      "D": "Perform carotid endarterectomy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "patient with cardioembolic stroke, ECG showed atrial fibrillation, and echocardiogram indicated nonvalvular cardiac disease. What should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "In a patient presenting with headache, what is the most likely diagnosis based on the MRI findings?",
+    "options": {
+      "A": "PRES",
+      "B": "RCVS",
+      "C": "HSV",
+      "D": "Lupus cerebritis"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "young patient presented with acute severe headache associated with nausea and vomiting. He was recently diagnosed with depression and started on escitalopram. Neurological examination was unremarkable. Cerebral angiography was done. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a headache and recurrent thunderclap headaches, with normal MRI and MRV. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "4-year-old sickle cell disease patient had a stroke with significant MCA stenosis. What will determine the stroke risk?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "73-year-old female patient presented with decreased level of consciousness showing hemorrhage with fluid level. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male presents to the emergency room with a coital headache (very severe). The headache has improved but only slightly. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "patient who underwent revascularization for severe external carotid stenosis is found confused one day later. A CT brain scan is attached. What is the mechanism behind this confusion?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a history of vertigo and nausea. Diffusion-weighted imaging (DWI) showed abnormalities. Which of the following findings might be observed?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "An 82-year-old female with good functional status, although she has mild osteoporosis in her knees related to her age, presents with an NIHSS score of 20, exhibiting aphasia and right side weakness. She presented within 60 minutes, and a CT was done within 30 minutes. With a blood pressure of 220/110, what is the next step in management?",
+    "options": {
+      "A": "Administer tPA",
+      "B": "Blood pressure management",
+      "C": "CTA",
+      "D": "Mechanical Thrombectomy"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "In a scenario about cavernous sinus thrombosis, what imaging study is recommended?",
+    "options": {
+      "A": "MRI with MRV",
+      "B": "CTA",
+      "C": "Angiography",
+      "D": "CT orbit"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with third nerve palsy, tremor, and hearing loss. Which artery is likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "In a scenario resembling cavernous sinus thrombosis but without proptosis, what is the likely diagnosis?",
+    "options": {
+      "A": "Carotid cavernous fistula",
+      "B": "Thyroid eye disease",
+      "C": "CVT",
+      "D": "Orbital cellulitis"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "An IV drug user presented with an acute stroke within 2 hours. A CT image was attached (showing a good aspect). The patient was febrile and had a pansystolic murmur. What is the treatment?",
+    "options": {
+      "A": "Antibiotics",
+      "B": "Thrombolysis",
+      "C": "Thrombectomy",
+      "D": "Supportive care and monitoring"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged patient presented with sudden severe headache associated with blurred vision. On examination, she has right eye ptosis with decreased visual acuity bilaterally, right eye pupil 6 mm in diameter and left eye pupil 3 mm in diameter, both reactive to light. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "Based on the following visual field defect in picture B, which artery is involved? (Picture missing, but assumes a defect localizable to a vascular territory)",
+    "options": {
+      "A": "Anterior choroidal artery",
+      "B": "Posterior choroidal artery",
+      "C": "Ophthalmic artery",
+      "D": "Posterior cerebral artery"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q407",
+    "question_text": "",
+    "options": {
+      "A": "patient with a left middle cerebral artery (MCA) aneurysm underwent clipping and subsequently experienced loss of vision in the left eye. Fundoscopy showed no obvious retinal or optic disc abnormalities, and there was mild hemorrhage. Where is the likely localization of the issue?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

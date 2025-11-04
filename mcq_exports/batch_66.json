@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q134",
+    "question_text": "",
+    "options": {
+      "A": "24-year-old female developed abrupt vision loss (not specified as painful or painless) in the left eye 5 days ago, then the right eye was affected after two to three days and was static thereafter. Exam showed decreased visual acuity, what to do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have Neuromyelitis Optica (NMO) after a long episode of cervical myelitis reported experiencing pain in her upper limbs triggered by sudden movement. What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "Which of the following is considered a red flag for Multiple Sclerosis (or demyelinating disease)?",
+    "options": {
+      "A": "Persistent enhancement for 3 months",
+      "B": "Presence of Dawson\u2019s fingers on MRI",
+      "C": "Oligoclonal bands in cerebrospinal fluid",
+      "D": "Lesions involving periventricular white matter"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "Patient was diagnosed with Multiple Sclerosis and suffers from lower limb tonic spasm. What is the treatment?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Baclofen",
+      "C": "Diazepam",
+      "D": "Tizanidine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "To prevent PML in patients receiving Tysabri, what is the best approach?",
+    "options": {
+      "A": "Check JC virus before starting treatment",
+      "B": "Serial MRI",
+      "C": "CT without contrast",
+      "D": "Periods of drug wash out"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "An MS patient on natalizumab started to have shortness of breath, tachycardia, and tachypnea after the 3rd dose. What will you do next?",
+    "options": {
+      "A": "Stop the dose and start prophylaxis management",
+      "B": "Continue the medication",
+      "C": "Give half the dose next time",
+      "D": "Send her for desensitization"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with symptoms of bilateral lower limb weakness, loss of all sensory modalities up to the umbilicus, and bladder involvement. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "",
+    "options": {
+      "A": "young female treated for confirmed HSV presents with behavioral changes, a normal MRI of the brain, and focal facial myoclonic seizures. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "",
+    "options": {
+      "A": "22-year-old female presented with acute confusion and later developed seizures and orofacial dyskinesia. CSF analysis was suggestive of autoimmune encephalitis. What is the most common paraneoplastic antibody to look for?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a 1-month history of fever, headache, and personality changes. Brain MRI shows bilateral cortical/subcortical hypodensities involving frontal, parietal, and occipital lobes. CSF analysis shows elevated protein. Which diagnosis can be demonstrated by T2 lesions in at least two areas of the CNS?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "",
+    "options": {
+      "A": "young lady presents with acute right diplopia. No previous attacks. Brain MRI shows enhancement of lesions. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q174",
+    "question_text": "",
+    "options": {
+      "A": "young male patient with isolated optic neuritis is concerned that he may have multiple sclerosis. What is the most appropriate next step investigation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q175",
+    "question_text": "",
+    "options": {
+      "A": "young male is brought by his father with complaints of catatonia, psychosis, seizure, and dysautonomia. Which of the following antibodies is most likely associated with his condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q185",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with symptoms of stiff person syndrome. What is the most likely antibody associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q186",
+    "question_text": "What is the most appropriate diagnostic method for primary CNS angiitis (PACNS)?",
+    "options": {
+      "A": "CTA",
+      "B": "Biopsy",
+      "C": "MRI",
+      "D": "Color duplex sonography"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q197",
+    "question_text": "Opsoclonus-myoclonus syndrome presents with subacute opsoclonus (irregular, rapid eye movements) and multifocal or generalized myoclonus. In adults, this syndrome may be due to which of the following aetiologies?",
+    "options": {
+      "A": "Infectious",
+      "B": "Autoimmune",
+      "C": "Paraneoplastic",
+      "D": "Drug-induced"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q218",
+    "question_text": "Which of the following MRI characteristics is the best predictor of future disability in patients with multiple sclerosis?",
+    "options": {
+      "A": "Baseline enhancing lesion number",
+      "B": "Baseline T2 lesion number",
+      "C": "Baseline T2 lesion volume",
+      "D": "Number of new enhancing lesions"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q219",
+    "question_text": "Which medication is used to improve MS-related fatigue?",
+    "options": {
+      "A": "Pemoline",
+      "B": "Modafinil",
+      "C": "Amantadine",
+      "D": "Dalfampridine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q242",
+    "question_text": "In a case of transverse myelitis, MRI reveals multiple enhancing lesions in the brain and spinal cord. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Clinically isolated syndrome (CIS)",
+      "B": "Multiple sclerosis (MS)",
+      "C": "Neuromyelitis optica (NMO)",
+      "D": "Radiologically isolated syndrome (RIS)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q244",
+    "question_text": "Which MRI feature is most closely associated with the progression of disability in multiple sclerosis patients?",
+    "options": {
+      "A": "Gadolinium-enhancing plaques",
+      "B": "T1 hypointensities",
+      "C": "T2 lesions",
+      "D": "Cerebral atrophy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q254",
+    "question_text": "What is the estimated risk of developing multiple sclerosis (MS) in patients with normal brain MRI and transverse myelitis?",
+    "options": {
+      "A": "10%",
+      "B": "30%",
+      "C": "60%",
+      "D": "70%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q256",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old woman with a greater-than-20-year history of multiple sclerosis is nonambulatory and dependent for all activities of daily living. She is taking 100 mg of baclofen daily. Which of the following therapies is most likely to improve this patient's quality of life?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q260",
+    "question_text": "What does the absence of brain lesions predict regarding the risk of MS over the next 15 years?",
+    "options": {
+      "A": "High risk (>50%)",
+      "B": "Moderate risk (20-50%)",
+      "C": "Low risk (<20%)",
+      "D": "No risk"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q262",
+    "question_text": "In idiopathic partial transverse myelitis, what is the likelihood of evolving multiple sclerosis at 15-44%?",
+    "options": {
+      "A": "10%",
+      "B": "30%",
+      "C": "60%",
+      "D": "70%"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q274",
+    "question_text": "",
+    "options": {
+      "A": "19-year-old man presents with confusion. MRI shows right thalamic hyperintensity on FLAIR and around the 3rd ventricle, suggestive of diencephalic syndrome. He has no fever. What should be checked?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

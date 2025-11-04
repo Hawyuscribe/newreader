@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q276",
+    "question_text": "",
+    "options": {
+      "A": "female patient with optic neuritis has one periventricular MRI lesion. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q303",
+    "question_text": "Which of the following infections is more common with a B-cell lysis agent compared to interferon?",
+    "options": {
+      "A": "Upper respiratory infections",
+      "B": "Oral herpes",
+      "C": "Genital herpes",
+      "D": "Urinary tract infections"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q304",
+    "question_text": "What is the risk of malignancies associated with the use of a B-cell lysis agent?",
+    "options": {
+      "A": "0.8%",
+      "B": "1.3%",
+      "C": "1.5%",
+      "D": "2.0%"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q305",
+    "question_text": "",
+    "options": {
+      "A": "young female with bilateral optic neuritis, brain MRI showed enhanced contrast in the posterior segment of the optic nerve extending to the optic chiasm, partially improved after pulse steroid after 5 days but visual acuity still 20/200. What is the best next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q314",
+    "question_text": "",
+    "options": {
+      "A": "case of relapsing-remitting multiple sclerosis (RRMS) with a history of type 1 diabetes mellitus and depression is presented. What is the best treatment for her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q315",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with painful visual loss in one eye with disc edema. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q319",
+    "question_text": "In a scenario involving a patient with multiple sclerosis, what criteria are applied for diagnosis?",
+    "options": {
+      "A": "Time and space criteria",
+      "B": "McDonald criteria",
+      "C": "Revised criteria",
+      "D": "Clinical criteria"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q326",
+    "question_text": "",
+    "options": {
+      "A": "female patient is admitted to the psychiatric ward with delusions and hallucinations, and then develops seizures and fever. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q334",
+    "question_text": "",
+    "options": {
+      "A": "28-year-old female with a history of multiple sclerosis (MS) on natalizumab presents with left-sided weakness and visual disturbances. She received 5 days of methotrexate with no response and was found to have positive neutralizing antibodies against natalizumab. MRI shows evidence of new lesions. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q336",
+    "question_text": "",
+    "options": {
+      "A": "32-year-old female presents with bilateral blurry vision and decreased visual acuity. Initial MRI of the brain is normal. Later, she develops paraplegia, numbness, and sphincter dysfunction. ANA is positive, AQP-4 antibody is negative, and CSF shows negative OCB. MRI reveals increased signal from T6 to T10. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q353",
+    "question_text": "",
+    "options": {
+      "A": "young female with subacute behavioral change is admitted under psychiatric care. An MRI shows mesial temporal hyperintensity. The suspected condition is associated with which tumor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q360",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old female patient, medically free, came with heat intolerance, lower limb weakness, and sensory symptoms, along with urinary incontinence. Her symptoms increased after stress at work. What will you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q363",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis (MS) presents with tonic spasms. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q366",
+    "question_text": "In a typical scenario of a stiff person, an EMG showed continuous contractions. What is the antibody associated with this condition?",
+    "options": {
+      "A": "Anti-GAD",
+      "B": "Anti-AChR",
+      "C": "Anti-Hu",
+      "D": "Anti-NMDA"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q367",
+    "question_text": "",
+    "options": {
+      "A": "patient came with bilateral optic neuritis; MRI showed high signal intensity in the bilateral optic nerves. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q377",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have multiple sclerosis (MS) but also has psoriasis. What disease-modifying therapy (DMT) should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q382",
+    "question_text": "What is the pathophysiology of sarcoidosis?",
+    "options": {
+      "A": "Granuloma formation",
+      "B": "Demyelination of peripheral nerves",
+      "C": "Autoimmune antibody-mediated neuronal damage",
+      "D": "Vascular occlusion and ischemia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q238",
+    "question_text": "",
+    "options": {
+      "A": "patient with type 1 diabetes mellitus presents with a history of stiffness. What is the most likely antibody associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "VEP",
+      "B": "Brain MRI",
+      "C": "Lumbar puncture",
+      "D": "Visual field testing"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "Clinically Isolated Syndrome (CIS)",
+      "B": "Multiple Sclerosis (MS)",
+      "C": "Optic neuritis",
+      "D": "Neuromyelitis Optica"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "Anti-GM1",
+      "B": "Anti-GQ1B",
+      "C": "Anti-MAG",
+      "D": "Anti-PLA2R"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "Extensive spinal lesion",
+      "B": "Bilateral internuclear ophthalmoplegia (INO)",
+      "C": "Enhancing lesions for more than 3 months / complete ophthalmoplegia",
+      "D": "Rapidly progressive dementia"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "Papillitis with papilledema",
+      "B": "Bilateral optic neuritis",
+      "C": "Pain with eye movement, unilateral, central and partial visual blurring; normal disc",
+      "D": "Star shape in the retina"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old female patient known to have multiple sclerosis is on interferon therapy. She had right-sided weakness and was managed with methylprednisolone, improving significantly. A few days later, her symptoms returned but were milder. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "female patient came in with encephalitis (history of seizure, fever, psychosis). What is the likely antibody involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

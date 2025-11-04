@@ -1,0 +1,28 @@
+{
+  "total_mcqs": 3046,
+  "chunk_size": 150,
+  "total_chunks": 21,
+  "chunks": [
+    "rere_chunk_01.json",
+    "rere_chunk_02.json",
+    "rere_chunk_03.json",
+    "rere_chunk_04.json",
+    "rere_chunk_05.json",
+    "rere_chunk_06.json",
+    "rere_chunk_07.json",
+    "rere_chunk_08.json",
+    "rere_chunk_09.json",
+    "rere_chunk_10.json",
+    "rere_chunk_11.json",
+    "rere_chunk_12.json",
+    "rere_chunk_13.json",
+    "rere_chunk_14.json",
+    "rere_chunk_15.json",
+    "rere_chunk_16.json",
+    "rere_chunk_17.json",
+    "rere_chunk_18.json",
+    "rere_chunk_19.json",
+    "rere_chunk_20.json",
+    "rere_chunk_21.json"
+  ]
+}

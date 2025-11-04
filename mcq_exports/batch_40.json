@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q183",
+    "question_text": "What test is associated with Sydenham chorea in a girl?",
+    "options": {
+      "A": "ASO titer",
+      "B": "Anti-DNAse B antibody",
+      "C": "ESR (Erythrocyte Sedimentation Rate)",
+      "D": "ANA (Antinuclear Antibody)"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease presents with hallucinations and forgetfulness. What is the most appropriate management option?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "In a clear scenario of vascular Parkinson's disease, what should be done?",
+    "options": {
+      "A": "Control hypertension",
+      "B": "Start L-Dopa therapy",
+      "C": "Refer for surgery",
+      "D": "No intervention"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q241",
+    "question_text": "An elderly female patient wakes up with abnormal left arm and leg involuntary movements. Before she slept, she had no complaints. She presented to the ER, where a CT brain was normal, and an MRI stroke protocol was done. Later, the involuntary movement improved. Where do you expect to find the abnormality in the MRI?",
+    "options": {
+      "A": "Midbrain",
+      "B": "Sub-thalamic",
+      "C": "Pons",
+      "D": "Medulla"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "patient with schizophrenia on antipsychotics presents with orolingual dystonia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "patient with schizophrenia is unable to sit and is on antipsychotic medication. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q181",
+    "question_text": "",
+    "options": {
+      "A": "patient who was in a psychiatric hospital developed abnormal movements. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "patient with features of Whipple's disease and oculomasticatory myorhythmia is being evaluated. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "patient with CSF showing lymphocytosis and eosinophilia due to schistosomiasis. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "Young lady with SLE, seizures, and vitals: temperature 39\u00b0C with image of temporal lobe involvement. What is your diagnosis?",
+    "options": {
+      "A": "HSV encephalitis",
+      "B": "Cerebral venous thrombosis",
+      "C": "PRES",
+      "D": "Lupus Cerebritis"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "",
+    "options": {
+      "A": "patient with meningitis from Alhaj is found to have meningococcal meningitis. What prophylaxis should be given to close contacts (excluding rifampin)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "case scenario presents a patient with a history of oculomasticatory myorhythmia. What is the most appropriate diagnostic procedure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "patient with CSF showing lymphocytosis and eosinophilia is diagnosed with schistosomiasis. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "patient who is returning from Sudan had fever, confusion, and headache. What test should you perform?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "Which of the following infections is more common to cause internuclear ophthalmoplegia (INO)?",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "HIV",
+      "C": "Cysticercosis",
+      "D": "Syphilis"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "What is the most common organism responsible for bacterial meningitis?",
+    "options": {
+      "A": "Pneumococcus",
+      "B": "Neisseria meningitidis",
+      "C": "Haemophilus influenzae",
+      "D": "Listeria monocytogenes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "In a scenario of cavernous sinus thrombosis, what is the diagnosis?",
+    "options": {
+      "A": "Cavernous sinus thrombosis",
+      "B": "Superior sagittal sinus thrombosis",
+      "C": "Meningitis",
+      "D": "Brain abscess"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "In a scenario of an HIV patient presented with new neurological focality and brain MRI showing two non-enhancing white matter lesions, what is the likely diagnosis?",
+    "options": {
+      "A": "Progressive Multifocal Leukoencephalopathy (PML)",
+      "B": "Toxoplasmosis",
+      "C": "Primary CNS lymphoma",
+      "D": "HIV-associated neurocognitive disorder"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q182",
+    "question_text": "Patient came with neurosyphilis, VDRL positive; what are the symptoms associated with the disease?",
+    "options": {
+      "A": "Erythema nodosum",
+      "B": "Hypomelatonic macule",
+      "C": "Constricted pupils",
+      "D": "Ataxia"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "An HIV patient presents with confusion and blurry vision. Imaging shows non-enhancing lesions on contrast. What is the recommended management?",
+    "options": {
+      "A": "Plasma exchange (PLEX)",
+      "B": "Highly active antiretroviral therapy (HAART)",
+      "C": "Intravenous corticosteroids",
+      "D": "Empiric antifungal therapy"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "Lady presented with fever, headache and neck stiffness, she had occipital decompression for Chiari malformation last week, what is the most common organism? (No pseudomonas aeruginosa)",
+    "options": {
+      "A": "Staphylococci",
+      "B": "Streptococci",
+      "C": "Escherichia coli",
+      "D": "Klebsiella pneumoniae"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV has a brain MRI showing a single ring-enhancing lesion. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "In a case of meningitis, what prophylactic treatment should be given to family members?",
+    "options": {
+      "A": "Rifampin",
+      "B": "Ciprofloxacin",
+      "C": "Ceftriaxone",
+      "D": "No prophylaxis required"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "An HIV patient on HAART is not compliant and presents with confusion. A brain MRI shows patchy cortical and cerebellar signal enhancement. What is the best treatment?",
+    "options": {
+      "A": "Pyrimethamine",
+      "B": "Acyclovir",
+      "C": "Steroids",
+      "D": "Antifungal therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "In the scenario of an HIV patient presenting with new neurological focality and brain MRI showing two non-enhancing white matter lesions, what is the most likely diagnosis?",
+    "options": {
+      "A": "Progressive multifocal leukoencephalopathy (PML)",
+      "B": "Cerebral toxoplasmosis",
+      "C": "Primary CNS lymphoma",
+      "D": "HIV-associated neurocognitive disorder (HAND)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

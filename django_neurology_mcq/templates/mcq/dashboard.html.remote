@@ -1,0 +1,466 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+{% load mcq_filters %}
+
+{% block title %}Dashboard - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<!-- Mock Examination Modal -->
+<div class="modal fade" id="mockExamModal" tabindex="-1" aria-labelledby="mockExamModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header bg-warning text-dark">
+                <h5 class="modal-title" id="mockExamModalLabel"><i class="bi bi-alarm"></i> Configure Mock Examination</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="mockExamForm" action="{% url 'dashboard' %}" method="post">
+                    {% csrf_token %}
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <label for="examType" class="form-label fw-bold">Examination Type</label>
+                            <select class="form-select" id="examType" name="exam_type">
+                                <option value="Part I">Part I</option>
+                                <option value="Part II">Part II</option>
+                                <option value="Promotion">Promotion</option>
+                                <option value="mixed" selected>Mixed</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="mcqCount" class="form-label fw-bold">Number of MCQs</label>
+                            <div class="mb-2">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="mcq_count_option" id="limitedCount" value="limited" checked>
+                                    <label class="form-check-label" for="limitedCount">Limited number</label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="mcq_count_option" id="allMCQs" value="all">
+                                    <label class="form-check-label" for="allMCQs">All MCQs that apply</label>
+                                </div>
+                            </div>
+                            <div id="limitedCountControls">
+                                <input type="range" class="form-range" id="mcqCount" name="mcq_count" min="5" max="100" step="5" value="20">
+                                <div class="d-flex justify-content-between">
+                                    <span>5</span>
+                                    <span id="mcqCountValue">20</span>
+                                    <span>100</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <label for="timeLimit" class="form-label fw-bold">Time Limit (minutes)</label>
+                            <input type="number" class="form-control" id="timeLimit" name="time_limit" min="5" max="240" step="5" value="60">
+                            <div class="form-text">Recommended: 90 seconds per question</div>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label fw-bold">Options Display</label>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="display_options" id="displayAll" value="all" checked>
+                                <label class="form-check-label" for="displayAll">Show all at once</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="display_options" id="displayOne" value="one">
+                                <label class="form-check-label" for="displayOne">One question at a time</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-12">
+                            <label class="form-label fw-bold">Year Range</label>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label for="startYear" class="form-label">From Year</label>
+                                    <select class="form-select" id="startYear" name="start_year">
+                                        <option value="">Any year</option>
+                                        {% for year in "2018,2019,2020,2021,2022,2023,2024,2025"|split:"," %}
+                                            <option value="{{ year }}" {% if year == "2018" %}selected{% endif %}>{{ year }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="endYear" class="form-label">To Year</label>
+                                    <select class="form-select" id="endYear" name="end_year">
+                                        <option value="">Any year</option>
+                                        {% for year in "2018,2019,2020,2021,2022,2023,2024,2025"|split:"," %}
+                                            <option value="{{ year }}" {% if year == "2025" %}selected{% endif %}>{{ year }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">Subspecialties</label>
+                        <div class="alert alert-info">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="allSubspecialties" checked>
+                                <label class="form-check-label fw-bold" for="allSubspecialties">Select all subspecialties</label>
+                            </div>
+                        </div>
+                        <div class="row subspecialty-options">
+                            {% for stat in subspecialty_stats %}
+                            <div class="col-md-4">
+                                <div class="form-check">
+                                    <input class="form-check-input subspecialty-checkbox" type="checkbox" name="subspecialties" id="subspecialty-{{ stat.db_name|slugify }}" value="{{ stat.db_name }}" checked>
+                                    <label class="form-check-label" for="subspecialty-{{ stat.db_name|slugify }}">
+                                        {{ stat.name }}
+                                    </label>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="submit" form="mockExamForm" class="btn btn-warning" id="startExamBtn">Start Examination</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card shadow mb-4">
+            <div class="card-header bg-primary text-white">
+                <h5 class="mb-0">Neurology Subspecialties</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    {% for stat in subspecialty_stats %}
+                    <div class="col-md-6 mb-3">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ stat.name }}</h5>
+                                <div class="progress mb-2">
+                                    <div class="progress-bar bg-success" role="progressbar" style="width: {{ stat.percentage }}%;" 
+                                        aria-valuenow="{{ stat.percentage }}" aria-valuemin="0" aria-valuemax="100">
+                                        {{ stat.percentage }}%
+                                    </div>
+                                </div>
+                                <p class="card-text">
+                                    <small class="text-muted">
+                                        {{ stat.completed }} / {{ stat.total }} MCQs completed
+                                    </small>
+                                </p>
+                                <div class="btn-group btn-group-sm">
+                                    <a href="{% url 'subspecialty' stat.db_name|urlencode %}" class="btn btn-primary">View MCQs</a>
+                                    <a href="{% url 'review_bookmarked' %}?subspecialty={{ stat.db_name|urlencode }}" class="btn btn-danger">
+                                        <i class="bi bi-bookmark"></i> Bookmarked
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card shadow mb-4">
+            <div class="card-header bg-info text-white">
+                <h5 class="mb-0">Flashcard Status</h5>
+            </div>
+            <div class="card-body">
+                <div class="d-flex justify-content-center mb-4">
+                    <canvas id="flashcardChart" width="200" height="200"></canvas>
+                </div>
+                
+                <div class="list-group">
+                    <a href="{% url 'review_flashcards' %}?type=today" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                        Due today
+                        <span class="badge bg-primary rounded-pill">{{ flashcards_due }}</span>
+                    </a>
+                    <a href="{% url 'review_flashcards' %}?type=week" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                        Due this week
+                        <span class="badge bg-info rounded-pill">{{ flashcards_due_week }}</span>
+                    </a>
+                    <a href="{% url 'review_bookmarked' %}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                        Bookmarked MCQs
+                        <span class="badge bg-danger rounded-pill">{{ bookmarked_count }}</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card shadow mb-4">
+            <div class="card-header bg-success text-white">
+                <h5 class="mb-0">Quick Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="d-grid gap-2">
+                    <a href="{% url 'review_flashcards' %}?type=today" class="btn btn-outline-primary">
+                        <i class="bi bi-card-list me-2"></i> Review Today's Flashcards
+                    </a>
+                    <a href="{% url 'review_bookmarked' %}" class="btn btn-outline-danger">
+                        <i class="bi bi-bookmark-check me-2"></i> Review Bookmarked MCQs
+                    </a>
+                    <button type="button" class="btn btn-outline-warning" data-bs-toggle="modal" data-bs-target="#mockExamModal">
+                        <i class="bi bi-alarm me-2"></i> Take Mock Examination
+                    </button>
+                    <button type="button" class="btn btn-outline-danger" id="testWeaknessBtn">
+                        <i class="bi bi-exclamation-triangle me-2"></i> Test My Weakness
+                    </button>
+                    <a href="{% url 'import_mcqs_form' %}" class="btn btn-outline-success">
+                        <i class="bi bi-file-earmark-arrow-up me-2"></i> Import MCQs
+                    </a>
+                    <a href="{% url 'add_image' %}" class="btn btn-outline-info">
+                        <i class="bi bi-image me-2"></i> Add Images to MCQs
+                    </a>
+                    <a href="{% url 'search' %}?query=" class="btn btn-outline-secondary">
+                        <i class="bi bi-search me-2"></i> Browse All MCQs
+                    </a>
+                    <a href="{% url 'view_hidden_mcqs' %}" class="btn btn-outline-dark">
+                        <i class="bi bi-eye-slash me-2"></i> View Hidden MCQs <span class="badge bg-secondary">{{ hidden_mcq_count }}</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recent Mistake Analysis Card -->
+        <div class="card shadow">
+            <div class="card-header bg-danger text-white">
+                <h5 class="mb-0">Mistake Analysis</h5>
+            </div>
+            <div class="card-body">
+                <p class="small text-muted mb-2">Your recent incorrect answers by topic:</p>
+                <div class="mistake-chart-container" style="height: 120px;">
+                    <canvas id="mistakeChart"></canvas>
+                </div>
+                <div class="d-grid gap-2 mt-3">
+                    <button class="btn btn-sm btn-outline-danger">
+                        <i class="bi bi-graph-up"></i> View Detailed Analytics
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Flashcard Chart
+    const flashcardCtx = document.getElementById('flashcardChart').getContext('2d');
+    
+    const flashcardChart = new Chart(flashcardCtx, {
+        type: 'doughnut',
+        data: {
+            labels: ['Due Today', 'Due This Week', 'Later'],
+            datasets: [{
+                data: [{{ flashcards_due }}, {{ flashcards_due_week|add:"-"|add:flashcards_due }}, 0], // Placeholder for total
+                backgroundColor: [
+                    '#0d6efd', // Primary
+                    '#0dcaf0', // Info
+                    '#6c757d'  // Secondary
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'bottom'
+                }
+            },
+            cutout: '70%'
+        }
+    });
+    
+    // Mistakes Analysis Chart
+    const mistakeCtx = document.getElementById('mistakeChart').getContext('2d');
+    const mistakeChart = new Chart(mistakeCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Movement', 'Vascular', 'Neuro-onc', 'Epilepsy', 'Neuromuscular'],
+            datasets: [{
+                label: 'Mistakes',
+                data: [8, 5, 4, 3, 2],
+                backgroundColor: [
+                    'rgba(220, 53, 69, 0.7)',
+                    'rgba(220, 53, 69, 0.6)',
+                    'rgba(220, 53, 69, 0.5)',
+                    'rgba(220, 53, 69, 0.4)',
+                    'rgba(220, 53, 69, 0.3)'
+                ],
+                borderColor: [
+                    'rgb(220, 53, 69)',
+                    'rgb(220, 53, 69)',
+                    'rgb(220, 53, 69)',
+                    'rgb(220, 53, 69)',
+                    'rgb(220, 53, 69)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    grid: {
+                        display: false
+                    }
+                },
+                y: {
+                    grid: {
+                        display: false
+                    }
+                }
+            }
+        }
+    });
+    
+    // Mock Exam Range Input Value Display and Options
+    const mcqCountInput = document.getElementById('mcqCount');
+    const mcqCountValue = document.getElementById('mcqCountValue');
+    const limitedCount = document.getElementById('limitedCount');
+    const allMCQs = document.getElementById('allMCQs');
+    const limitedCountControls = document.getElementById('limitedCountControls');
+
+    // Function to toggle count controls visibility
+    function toggleCountControls() {
+        if (limitedCount && limitedCount.checked) {
+            limitedCountControls.style.display = 'block';
+        } else {
+            limitedCountControls.style.display = 'none';
+        }
+    }
+
+    // Initialize the controls
+    if (limitedCount && allMCQs && limitedCountControls) {
+        // Set initial state
+        toggleCountControls();
+
+        // Add event listeners for radio buttons
+        limitedCount.addEventListener('change', toggleCountControls);
+        allMCQs.addEventListener('change', toggleCountControls);
+    }
+
+    if (mcqCountInput && mcqCountValue) {
+        // Update the displayed value when the range input changes
+        mcqCountInput.addEventListener('input', function() {
+            mcqCountValue.textContent = this.value;
+
+            // Update time limit recommendation (90s per question)
+            const recommendedTime = Math.ceil((parseInt(this.value) * 90) / 60);
+            const timeLimit = document.getElementById('timeLimit');
+            if (timeLimit) {
+                timeLimit.value = recommendedTime;
+            }
+        });
+    }
+
+    // Year range validation
+    const startYear = document.getElementById('startYear');
+    const endYear = document.getElementById('endYear');
+
+    if (startYear && endYear) {
+        // Ensure end year is never less than start year
+        startYear.addEventListener('change', function() {
+            // If empty, don't validate
+            if (!this.value) return;
+
+            // If end year is less than start year, update end year
+            if (endYear.value && parseInt(endYear.value) < parseInt(this.value)) {
+                endYear.value = this.value;
+            }
+        });
+
+        // Ensure start year is never greater than end year
+        endYear.addEventListener('change', function() {
+            // If empty, don't validate
+            if (!this.value) return;
+
+            // If start year is greater than end year, update start year
+            if (startYear.value && parseInt(startYear.value) > parseInt(this.value)) {
+                startYear.value = this.value;
+            }
+        });
+    }
+    
+    // Subspecialty Checkbox Management
+    const allSubspecialtiesCheckbox = document.getElementById('allSubspecialties');
+    const subspecialtyCheckboxes = document.querySelectorAll('.subspecialty-checkbox');
+    
+    if (allSubspecialtiesCheckbox) {
+        // Toggle all subspecialty checkboxes
+        allSubspecialtiesCheckbox.addEventListener('change', function() {
+            const isChecked = this.checked;
+            subspecialtyCheckboxes.forEach(function(checkbox) {
+                checkbox.checked = isChecked;
+            });
+        });
+        
+        // Update "All" checkbox when individual checkboxes change
+        subspecialtyCheckboxes.forEach(function(checkbox) {
+            checkbox.addEventListener('change', function() {
+                const allChecked = Array.from(subspecialtyCheckboxes).every(cb => cb.checked);
+                const noneChecked = Array.from(subspecialtyCheckboxes).every(cb => !cb.checked);
+                
+                if (allChecked) {
+                    allSubspecialtiesCheckbox.checked = true;
+                    allSubspecialtiesCheckbox.indeterminate = false;
+                } else if (noneChecked) {
+                    allSubspecialtiesCheckbox.checked = false;
+                    allSubspecialtiesCheckbox.indeterminate = false;
+                } else {
+                    allSubspecialtiesCheckbox.indeterminate = true;
+                }
+            });
+        });
+    }
+    
+    // Test My Weakness Button
+    const testWeaknessBtn = document.getElementById('testWeaknessBtn');
+    if (testWeaknessBtn) {
+        testWeaknessBtn.addEventListener('click', function() {
+            // Redirect to test_weakness page
+            window.location.href = '/test_weakness/';
+        });
+    }
+    
+    // Mock Exam Form Handler
+    const mockExamForm = document.getElementById('mockExamForm');
+    const startExamBtn = document.getElementById('startExamBtn');
+    
+    if (mockExamForm && startExamBtn) {
+        // Add specific click handler for the button
+        startExamBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Validate form
+            const subspecialtyChecks = document.querySelectorAll('input[name="subspecialties"]:checked');
+            if (subspecialtyChecks.length === 0) {
+                alert("Please select at least one subspecialty for the mock exam.");
+                return;
+            }
+            
+            // Show loading state
+            startExamBtn.disabled = true;
+            startExamBtn.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Preparing Exam...';
+            
+            // Submit the form
+            mockExamForm.submit();
+        });
+    }
+});
+</script>
+{% endblock %}

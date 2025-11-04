@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Patient with acute stroke brain MRI found dorsal cerebellar infarction (superior cerebellar artery) what will you find in exam:",
+    "options": {
+      "option_a": "Ipsilateral truncal Hyperalgesia",
+      "option_b": "Ipsilateral Horner",
+      "option_c": "Hearing loss",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with polycystic kidney disease with history suggestive of SAH:",
+    "options": {
+      "option_a": "AVM",
+      "option_b": "Intracranial aneurysm",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with acute stroke in the left occipital lobe what will you see in his visual fields:",
+    "options": {
+      "option_a": "Congruent homonymous hemianopia with macular sparing",
+      "option_b": "Incongruent homonymous hemianopia with macular sparing",
+      "option_c": "Non-Macular sparing with congruent homonymous hemianopia",
+      "option_d": "Non-Macular sparing with incongruent homonymous hemianopia",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "case of subacute stroke CT brain attached, TTE: normal, 48 hours Holter normal what to do next:",
+    "options": {
+      "option_a": "Prolonged cardiac monitoring",
+      "option_b": "Carotid US",
+      "option_c": "Coagulation workup",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with history severe headache, right eye pupils 6mm and non-reactive, left is 3 mm and reactive, where is the lesion:",
+    "options": {
+      "option_a": "Anterior communicating",
+      "option_b": "Posterior communicating",
+      "option_c": "Anterior cerebral artery",
+      "option_d": "Posterior cerebral artery",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of patient with left eye amaurosis fugax and transient dysarthria, what is your next step?",
+    "options": {
+      "option_a": "US carotid doppler",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "70-year-old male came with acute stroke was given tPA in ER after 6 hours he was assessed nothing change vital signs showed BP 190/90, the patient looks anxious, what to do?",
+    "options": {
+      "option_a": "Amlodipine",
+      "option_b": "Nicardipine",
+      "option_c": "Observation",
+      "option_d": "Diazepam.",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Symptoms of TIA for 10 minutes Echocardiogram negative, Holter was negative what to do next:",
+    "options": {
+      "option_a": "Neck CTA",
+      "option_b": "Brain MRI",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "70 something female with DM, HTN and fully independent came with 90 minutes onset of dense right hemiparesis and aphasia, 30 minutes after arrival CT brain done and showed (picture no hemorrhage), when she was on her way to ER her symptoms became slightly better what to do next:",
+    "options": {
+      "option_a": "IV tpa",
+      "option_b": "CT angiogram",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female just had uneventful vaginal delivery one week ago, severe headache, vital signs within normal, afebrile, blood electrolytes and renal function normal. What will you do next:",
+    "options": {
+      "option_a": "Angiogram",
+      "option_b": "CT venogram",
+      "option_c": "Urine protein and liver function",
+      "option_d": "LP",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient 50 male, has DM, HTN, smoker, 3 days he has acute stroke at home, what is the artery involved?",
+    "options": {
+      "option_a": "ICA stenosis",
+      "option_b": "Aortic atheroma",
+      "option_c": "Hypercoagulable state",
+      "option_d": "Lenticulostriate arteries",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of acute stroke patient has left gaze preference when he tries to look to the right cannot cross, what other finding in exam:",
+    "options": {
+      "option_a": "Right upper motor neuron facial palsy",
+      "option_b": "Right lower motor neuron facial palsy",
+      "option_c": "Left upper motor neuron facial palsy",
+      "option_d": "Oculomotor nerve",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with history of acute SAH, (no mention of hydrocephalus) CT angiography showed posterior communicating aneurysm what to do next:",
+    "options": {
+      "option_a": "Craniotomy with clipping",
+      "option_b": "Endovascular coiling",
+      "option_c": "Observation",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "ICH case in basal ganglia regarding target blood pressure:",
+    "options": {
+      "option_a": "160/100",
+      "option_b": "140/90",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female Patient with left side weakness, diagnose by carotid doppler, With right carotid stenosis 50% and the left 80%, management:",
+    "options": {
+      "option_a": "Medical therapy",
+      "option_b": "Left carotid stent",
+      "option_c": "Left endarterectomy",
+      "option_d": "Right carotid stent",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "42 y/o female founded unconscious? CT attached:",
+    "options": {
+      "option_a": "Amyloid angiopathy.",
+      "option_b": "Aneurysmal hemorrhage.",
+      "option_c": "Hypertensive hemorrhage.",
+      "option_d": "Traumatic hemorrhage.",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Wernicke Aphasia where is the lesion:",
+    "options": {
+      "option_a": "Posteroinferior perisylvian.",
+      "option_b": "Posterior perisylvian.",
+      "option_c": "Frontoparietal Operculum",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with stroke for physiotherapy and speech therapy what is the type of prevention:",
+    "options": {
+      "option_a": "Primary",
+      "option_b": "Secondary",
+      "option_c": "Tertiary",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient has right pontine stroke, his NIHSS was 8 and he was on aspirin prior to stroke onset, what is the best option to prevent recurrence of stroke?",
+    "options": {
+      "option_a": "Add clopidogrel to aspirin",
+      "option_b": "Keep on aspirin",
+      "option_c": "Change aspirin to clopidogrel",
+      "option_d": "Start anticoagulation",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario about AICA syndrome, which artery involved?",
+    "options": {
+      "option_a": "AICA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  }
+]

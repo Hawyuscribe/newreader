@@ -1,0 +1,155 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "99993271",
+    "fields": {
+      "question_number": "133",
+      "question_text": "22 YO, F, medically free, on Combined OCB, came with headache, CTV showed SSS thrombosis, what is true.",
+      "options": {
+        "A": "She has clear cause and no need workup",
+        "B": "Do thrombophilia workup"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Cerebral venous sinus thrombosis (CVST) is a type of stroke resulting from thrombosis in the dural venous sinuses. In young women, the use of combined oral contraceptive pills (COCP) is a well\u2010recognized, reversible risk factor.",
+        "pathophysiology": "Exogenous estrogen from COCPs can increase the production of coagulation factors and reduce anticoagulant proteins, tipping the hemostatic balance toward thrombosis. When thrombosis occurs in the superior sagittal sinus, it results in impaired venous drainage and increased intracranial pressure.",
+        "clinical_correlation": "CVST commonly presents in young women with headache, seizures, and possibly focal neurological deficits. In this case, a 22\u2010year\u2010old female on COCPs with headache and imaging evidence of superior sagittal sinus thrombosis demonstrates a classic clinical scenario.",
+        "diagnostic_approach": "The diagnosis is confirmed through imaging studies such as CT venography (CTV) or MR venography (MRV). Differential diagnoses include migraine, idiopathic intracranial hypertension, and other causes of headache. A thorough history often reveals a provoking factor like COCP use.",
+        "classification_and_neurology": "CVST is classified under cerebrovascular diseases in the International Classification of Diseases (ICD-11) and recognized as a distinct subtype of stroke by the American Heart Association/American Stroke Association (AHA/ASA). It belongs to the broader category of venous thromboembolic disorders and is differentiated from arterial ischemic stroke and hemorrhagic stroke.  Etiologically, CVST can be classified into:  - **Provoked CVST:** Associated with identifiable risk factors such as pregnancy, puerperium, OCP use, infection, malignancy, or trauma. - **Unprovoked CVST:** No obvious risk factors, often warranting extensive thrombophilia workup.  This classification guides diagnostic and therapeutic strategies. The classification systems have evolved with advances in imaging and thrombophilia understanding, emphasizing the importance of identifying underlying causes to prevent recurrence.",
+        "classification_and_nosology": "CVST is classified as a form of cerebrovascular venous thrombosis and is often categorized based on the presence of provoking factors. When a transient risk factor (such as COCP use) is identified, the event is considered provoked.",
+        "management_principles": "The mainstay of treatment for CVST is anticoagulation (typically with low-molecular-weight heparin initially, followed by oral anticoagulants). It is advisable to defer extensive thrombophilia testing during the acute phase because acute phase reactants and anticoagulation can alter results. In pregnant or lactating women, low-molecular-weight heparin is favored due to its safety profile.",
+        "option_analysis": "Option A states that because there is a clear provoking factor (COCP use), no further workup is immediately necessary, which is in line with many guidelines. Option B (perform a thrombophilia workup) might be considered in cases with no clear cause or a family history of thrombosis, but in this scenario, the COCP is a sufficient explanation. Testing for thrombophilia is usually deferred until after the acute phase (often several months later) to avoid confounding results.",
+        "clinical_pearls": "1. In a young female with CVST and COCP use, the contraceptive is typically the provocative risk factor, and routine thrombophilia screening can usually be deferred. 2. Repeat thrombophilia testing may be performed after the acute phase has resolved, as initial tests can be inaccurate due to the acute event and anticoagulant effects. 3. Anticoagulation remains the cornerstone of CVST management despite any hemorrhagic transformation on imaging.",
+        "current_evidence": "Current guidelines, including those from the American Heart Association, suggest that in the setting of a clear provoking factor, extensive thrombophilia evaluation is not mandatory during the acute phase of CVST. This approach helps avoid unnecessary interventions and misinterpretation of results."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993272",
+    "fields": {
+      "question_number": "134",
+      "question_text": "Lady on OCP came with seizure, headache, CT normal, next.",
+      "options": {
+        "A": "LP",
+        "B": "EEG",
+        "C": "CTV"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "In women on oral contraceptives presenting with headache and seizures, cerebral venous sinus thrombosis (CVST) is a prime consideration\u2014even when the initial non-contrast CT scan is normal. CVST often requires advanced imaging for diagnosis.",
+        "pathophysiology": "CVST results from clot formation in the cerebral venous sinuses, leading to impaired venous drainage, increased intracranial pressure, and potential venous infarctions or hemorrhages. OCP use is a risk factor because it creates a hypercoagulable state that predisposes to thrombosis.",
+        "clinical_correlation": "Clinically, patients may present with headache, seizures, focal neurological deficits, or papilledema. A normal CT scan does not exclude CVST; therefore, further imaging with dedicated venographic techniques is warranted.",
+        "diagnostic_approach": "When suspicion for CVST remains high despite a normal CT, CT venography (CTV) or MR venography (MRV) should be performed to visualize the venous system and detect the presence of thrombi. Differential diagnoses in such cases include primary seizure disorders and meningitis, but the OCP history directs attention toward thrombotic causes.",
+        "classification_and_neurology": "CVST is classified under cerebrovascular diseases affecting venous rather than arterial circulation. It belongs to the broader category of stroke syndromes but differs in pathophysiology and management. The International Classification of Diseases (ICD-11) classifies CVST under 'Cerebral venous thrombosis and sinus thrombosis.' CVST can be idiopathic or secondary to risk factors like prothrombotic states, infections, or trauma. It is distinct from arterial ischemic stroke and hemorrhagic stroke but may cause secondary hemorrhagic infarctions. Classification also considers the location of thrombosis (e.g., superior sagittal sinus, transverse sinus) and clinical severity. Nosological frameworks emphasize the importance of recognizing CVST as a distinct entity due to its unique therapeutic implications. Some controversy exists regarding the best imaging modality for diagnosis, but consensus supports venous imaging in suspected cases.",
+        "classification_and_nosology": "CVST is categorized under venous strokes and is further classified based on the involved sinus (in this case, likely the superior sagittal sinus is suspected).",
+        "management_principles": "Once CVST is diagnosed, the first-line treatment is anticoagulation (typically with low-molecular-weight heparin followed by warfarin or a direct oral anticoagulant). In cases where the patient is pregnant or lactating, LMWH is the preferred treatment due to its established safety profile in these populations.",
+        "option_analysis": "Option A (LP) is not indicated in this scenario because lumbar puncture would not visualize venous clot and may risk herniation if intracranial pressure is high. Option B (EEG) is used to evaluate seizure activity but does not address the underlying etiology. Option C (CTV) is the correct next step to evaluate for CVST. The absence of a fourth option confirms that CTV is the most sensitive and specific noninvasive test in this context.",
+        "clinical_pearls": "1. A normal non-contrast CT does not rule out CVST; always consider venography in high-risk patients. 2. In patients on OCPs with new-onset headache and seizures, CVST is a critical diagnosis to exclude. 3. Early diagnosis and management of CVST with appropriate imaging can substantially improve outcomes.",
+        "current_evidence": "Recent guidelines emphasize the use of CT venography as a critical tool in the evaluation of suspected CVST, given its high sensitivity and rapid availability. Studies continue to support early anticoagulation as the cornerstone of treatment even if initial CT imaging appears normal."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993273",
+    "fields": {
+      "question_number": "135",
+      "question_text": "This pic patient will came with (image of brain MRI) (Similar but not the same).",
+      "options": {
+        "A": "Pure motor",
+        "B": "Pure sensory",
+        "C": "Mixed",
+        "D": "Clumsy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Lacunar strokes are small subcortical infarctions typically caused by occlusion of small perforating arteries. One well\u2010recognized lacunar syndrome is the pure sensory stroke, which is usually due to an infarct in the ventral posterolateral (VPL) nucleus of the thalamus.",
+        "pathophysiology": "Chronic hypertension and diabetes can lead to lipohyalinosis of small penetrating arteries. When one of these vessels supplying the thalamus becomes occluded, it disrupts the sensory pathways without affecting motor fibers. This results in an infarct that produces isolated sensory deficits in the contralateral hemibody.",
+        "clinical_correlation": "Patients with a pure sensory stroke typically present with sudden onset contralateral numbness or loss of sensory modalities (pain, temperature, proprioception) without motor weakness. An MRI demonstrating a small lacunar infarct in the thalamus correlates with these clinical findings.",
+        "diagnostic_approach": "Magnetic resonance imaging (especially DWI) is highly sensitive for detecting lacunar infarcts. Differential diagnoses include: (a) infarcts in the posterior limb of the internal capsule (which cause pure motor deficits), (b) sensorimotor strokes (when both motor and sensory functions are affected) and (c) demyelinating diseases. Detailed clinical history and risk factor assessment help differentiate these entities.",
+        "classification_and_neurology": "Lacunar strokes are classified under ischemic stroke subtypes in the TOAST (Trial of ORG 10172 in Acute Stroke Treatment) classification system as 'small vessel occlusion.' This category distinguishes lacunar infarcts from large artery atherosclerosis, cardioembolism, and other causes.  Within lacunar syndromes, the clinical classification includes pure motor, pure sensory, sensorimotor, ataxic hemiparesis, and clumsy hand dysarthria. These syndromes reflect the anatomical location of the infarct and the fiber tracts involved.  Historically, lacunar strokes were first characterized by C. Miller Fisher in the 1960s based on clinical-radiological correlation. Modern imaging with MRI has refined the classification by confirming lesion size and location.  Controversies exist regarding the exact pathophysiological mechanisms, with some arguing microatheroma versus lipohyalinosis predominance, but consensus remains that small vessel disease underlies these strokes. The classification continues to evolve with advances in neuroimaging and molecular pathology.",
+        "classification_and_nosology": "Lacunar strokes are classified under small vessel disease. They are further subdivided into pure motor stroke, pure sensory stroke, sensorimotor stroke, and ataxic hemiparesis. A pure sensory stroke is a distinct category typically linked to an infarct of the thalamic VPL region.",
+        "management_principles": "Acute management includes antiplatelet therapy (e.g., aspirin), aggressive blood pressure and risk factor control, and secondary prevention strategies. In pregnant or lactating patients with stroke, low-dose aspirin is generally considered safe with careful monitoring, and risk factor modification is essential.",
+        "option_analysis": "Option A (Pure motor) is seen with lacunar infarcts in areas like the posterior limb of the internal capsule. Option B (Pure sensory) is correct because a thalamic lacunar infarct typically leads to isolated sensory deficits. Option C (Mixed) would be expected with sensorimotor strokes where both motor and sensory areas are involved. Option D (Clumsy) hints at ataxic hemiparesis, which involves a combination of motor weakness and clumsiness \u2013 not isolated sensory loss.",
+        "clinical_pearls": "1. A pure sensory stroke is most commonly due to a lacunar infarct in the thalamic VPL nucleus. 2. Appropriate blood pressure control is crucial in preventing subsequent small vessel damage.",
+        "current_evidence": "Recent guidelines emphasize the importance of managing vascular risk factors to prevent lacunar strokes. High-resolution MRI and DWI are the imaging modalities of choice for early detection, and evidence supports the use of antiplatelet agents as part of secondary prevention."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_15.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993274",
+    "fields": {
+      "question_number": "136",
+      "question_text": "82 YO female with good functional status although she has mild osteoporosis in her knees related to her age, came with NIHSS = 20 in term of aphasia, right side weakness, she presented within 60 min, CT done within 30 min, BP 220/110, next step.",
+      "options": {
+        "A": "Give tpa",
+        "B": "BP management",
+        "C": "CTA",
+        "D": "Mechanical Thrombectomy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Acute ischemic stroke management follows a time\u2010sensitive approach with reperfusion therapy (IV tPA and/or mechanical thrombectomy) being standard treatments. However, proper patient selection \u2013 including blood pressure control \u2013 is critical to avoid complications.",
+        "pathophysiology": "Extremely elevated blood pressure in the acute stroke setting increases the risk of hemorrhagic conversion, especially if thrombolytic therapy is administered while BP exceeds recommended thresholds. The concern is that high intravascular pressures can disrupt the blood\u2013brain barrier integrity during reperfusion.",
+        "clinical_correlation": "In this elderly patient with a high NIHSS score (indicative of a significant ischemic stroke) and severely elevated blood pressure (220/110 mm Hg), immediate control of BP is mandatory before any reperfusion therapy can be initiated. Elevated BP is both a physiological response to stroke and a modifiable risk factor.",
+        "diagnostic_approach": "After non-contrast CT rules out hemorrhage, further vascular imaging like CTA is often used to identify large vessel occlusions. Differential considerations include hypertensive encephalopathy and other causes of intracranial hemorrhage; however, the clinical picture along with CT findings supports ischemic stroke. Blood pressure must be addressed promptly to meet criteria for IV thrombolysis.",
+        "classification_and_neurology": "Acute ischemic stroke is classified under cerebrovascular diseases (ICD-10 I63) and further subclassified by etiology (e.g., large artery atherosclerosis, cardioembolism, small vessel occlusion). The NIHSS score stratifies severity and guides management urgency. The American Heart Association/American Stroke Association (AHA/ASA) guidelines classify ischemic stroke management into hyperacute (within hours), acute (days), and subacute/chronic phases, with specific interventions for each. Blood pressure management in acute ischemic stroke is a well-defined category within stroke care protocols, emphasizing threshold-based decisions for thrombolysis eligibility.",
+        "classification_and_nosology": "This case falls under acute ischemic stroke due to large vessel occlusion within the therapeutic window. The patient\u2019s condition is complicated by malignant hypertension, which must be managed prior to reperfusion strategies.",
+        "management_principles": "The first step is to lower the BP to at most 185/110 mm Hg using fast-acting intravenous agents (such as labetalol or nicardipine), as per American Heart Association guidelines. Once BP is controlled, IV thrombolysis (if criteria are met) or mechanical thrombectomy (if a large vessel occlusion is present) can be considered. In pregnancy or lactation, choice of antihypertensive agents requires careful consideration; labetalol is often preferred due to its relatively safe profile in these settings.",
+        "option_analysis": "Option A (Give tPA) is contraindicated until BP is lowered below the recommended threshold. Option B (BP management) is correct as immediate blood pressure reduction is essential before reperfusion therapies are safe. Option C (CTA) is important in the evaluation process, but with BP at 220/110 mm Hg, the priority is to manage BP first. Option D (Mechanical Thrombectomy) might be considered later, but only after BP is adequately controlled and vascular imaging confirms eligibility.",
+        "clinical_pearls": "1. For IV tPA eligibility, blood pressure must be below 185/110 mm Hg. 2. Rapid control of hypertension in acute stroke is crucial to minimize the risk of hemorrhagic transformation.",
+        "current_evidence": "Updated stroke guidelines reinforce that severe hypertension is a contraindication for immediate thrombolysis until it is brought under control. Recent studies support the use of intravenous antihypertensives to safely lower BP in eligible patients."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993275",
+    "fields": {
+      "question_number": "137",
+      "question_text": "Patient came with left side weakness MRI showed right lacunar stroke, CTA showed severe intracranial right MCA stenosis.",
+      "options": {
+        "A": "ASA",
+        "B": "IV thrombolysis",
+        "C": "DAPT",
+        "D": "Stent"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation_sections": {
+        "conceptual_foundation": "Management of intracranial atherosclerotic disease, especially when it is symptomatic, centers on aggressive medical therapy. Dual antiplatelet therapy (DAPT) has been shown to reduce the risk of early recurrent stroke in patients with high-grade stenosis.",
+        "pathophysiology": "Intracranial stenosis is primarily due to atherosclerotic plaque buildup, leading to luminal narrowing and an increased risk for thromboembolism. In the setting of a small infarct (here described as a lacunar infarct) with severe MCA stenosis, the culprit lesion is likely due to branch occlusion from atherosclerotic disease.",
+        "clinical_correlation": "The patient with left-sided weakness and MRI findings of a right lacunar infarct, in conjunction with CTA showing severe right MCA stenosis, is at high risk for further ischemic events. This scenario requires medical management rather than procedural intervention in the acute phase.",
+        "diagnostic_approach": "Diagnosis is achieved through MRI (confirming infarction) and CTA (demonstrating vascular stenosis). Differential diagnoses include cardioembolic stroke, other large vessel atherosclerotic strokes, or small vessel lipohyalinosis without significant stenosis. The comparative evaluation of imaging findings differentiates intracranial atherosclerotic disease from pure lacunar disease.",
+        "classification_and_neurology": "Ischemic strokes are classified by etiology using systems such as the TOAST classification, which categorizes stroke into large artery atherosclerosis, cardioembolism, small vessel occlusion (lacunar), other determined, and undetermined causes. This patient\u2019s stroke fits into the 'large artery atherosclerosis' category given the severe MCA stenosis and radiographic lacunar infarct. Intracranial large artery disease is a subset of large artery atherosclerosis distinct from extracranial carotid disease. The lacunar infarct is a small vessel stroke subtype, but here it occurs in the context of large artery stenosis, illustrating overlap. Classification guides treatment decisions and prognosis. Over time, classification systems have evolved to incorporate imaging and vascular studies for precision.",
+        "classification_and_nosology": "Intracranial atherosclerotic disease (ICAD) is a subset of large artery atherosclerosis. When symptomatic, it is classified based on the degree of stenosis and has been predominantly managed medically rather than with interventional procedures.",
+        "management_principles": "Based on current guidelines and the SAMMPRIS trial, first-line management for symptomatic intracranial stenosis is aggressive medical therapy with dual antiplatelet treatment (typically aspirin plus clopidogrel) for a defined period along with intensive risk factor management (e.g., blood pressure, lipids, diabetes control). Stenting is generally reserved for cases refractory to medical therapy. In pregnant or lactating patients, antiplatelet choices may be modified; low-dose aspirin is acceptable, although clopidogrel use requires careful risk-benefit evaluation.",
+        "option_analysis": "Option A (ASA alone) may be insufficient to prevent recurrence in this high-risk scenario. Option B (IV thrombolysis) applies to acute ischemic stroke intervention but does not address the underlying intracranial stenosis once the acute event has passed. Option C (DAPT) is correct, as it aligns with current recommendations for managing symptomatic intracranial stenosis. Option D (Stent) is not the first-line treatment given that studies such as SAMMPRIS have shown that intensive medical management is superior to stenting in the initial management phase.",
+        "clinical_pearls": "1. In symptomatic intracranial atherosclerosis, DAPT plays a crucial role in preventing early recurrent strokes. 2. Stenting is typically reserved for patients who have failed optimal medical management.",
+        "current_evidence": "Recent landmark trials, including SAMMPRIS, strongly support an initial management strategy of dual antiplatelet therapy combined with risk factor modification in cases of symptomatic intracranial stenosis."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  }
+]

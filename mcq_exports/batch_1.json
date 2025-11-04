@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q408",
+    "question_text": "What is a poor prognostic indicator after cardiac arrest at 24 hours?",
+    "options": {
+      "A": "Bilateral absent N20 response",
+      "B": "Pupillary light reflex present",
+      "C": "Early myoclonus status epilepticus",
+      "D": "Normal EEG background activity"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "",
+    "options": {
+      "A": "patient with a 3 mm hemorrhage in the putamen is stable but has increased edema and decreased level of consciousness. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "In a Guillain-Barr\u00e9 syndrome scenario, what is the predicting factor for intubation?",
+    "options": {
+      "A": "Presence of dysautonomia",
+      "B": "Age over 60",
+      "C": "Rapid progression of symptoms",
+      "D": "Presence of respiratory failure"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "An elderly male presents with decreased oral intake for one week and is inattentive during examination. What would you expect to find on EEG?",
+    "options": {
+      "A": "Generalized slowing",
+      "B": "Normal",
+      "C": "PLEDs",
+      "D": "Focal spikes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "What is the threshold of intracranial pressure (ICP) that is considered abnormal?",
+    "options": {
+      "A": "20 mmHg",
+      "B": "22 mmHg",
+      "C": "25 mmHg",
+      "D": "30 mmHg"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "Assessment of blood-brain barrier (BBB) in traumatic brain injury (TBI) is best indicated by which of the following markers?",
+    "options": {
+      "A": "S100B",
+      "B": "Myelin basic protein",
+      "C": "Serum specific enolase",
+      "D": "Glial fibrillary acidic protein"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "",
+    "options": {
+      "A": "patient with ventricular hemorrhage is being evaluated for ventriculostomy. Which one of the following statements is true?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "What is assessed to evaluate the blood-brain barrier (BBB) in traumatic brain injury (TBI)?",
+    "options": {
+      "A": "S100",
+      "B": "Myelin basic protein",
+      "C": "Serum specific enolase",
+      "D": "Glial fibrillary acidic protein"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "What is the most appropriate test to order next for an elderly patient admitted with cardiac arrest who is intubated and sedated?",
+    "options": {
+      "A": "Beta 2 glycoprotein antibody",
+      "B": "Cholesterol, triglycerides, LDL",
+      "C": "NOTCH 3",
+      "D": "Brain death assessment"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "What is the most important diagnostic factor in hypoxic post-cardiac arrest in comatose patients?",
+    "options": {
+      "A": "Serum lactate levels",
+      "B": "Neurological examination findings",
+      "C": "Electroencephalogram (EEG)",
+      "D": "Imaging studies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "patient is brought unconscious to the emergency department. A CT of the brain shows multiple hemorrhages at the anterior and posterior aspects. What is the likely mechanism of these intracranial hemorrhages?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with visual symptoms, confusion, and is taking immunosuppressants for renal transplantation. Brain MRI showed PRESS. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "",
+    "options": {
+      "A": "patient had an accident and presents with a Glasgow Coma Scale (GCS) score of 5. What is the role of corticosteroids in this case?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "patient with SAH presents with low sodium levels and high urine osmolarity. The patient is hypotensive and tachycardic. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "An elderly patient with a history of inability to care for himself presents with decreased level of consciousness. What would you expect to find on EEG?",
+    "options": {
+      "A": "Diffuse slowing",
+      "B": "Periodic lateralized epileptiform discharges (PLED)",
+      "C": "Sharp and wave complexes",
+      "D": "Normal alpha rhythm"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "An elderly female is brought to the ER with a level of consciousness that is altered. Her labs show INR of 3. A Brain CT is attached. What is the best next step?",
+    "options": {
+      "A": "Vitamin K",
+      "B": "TPA",
+      "C": "Daratumumab",
+      "D": "FFP"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "In the same scenario, what is the diagnosis based on the EEG findings?",
+    "options": {
+      "A": "Nonconvulsive status",
+      "B": "Brain death",
+      "C": "Vegetative state",
+      "D": "Encephalopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "63-year-old male admitted with left hemiparesis underwent CABG. He was successfully extubated off sedatives. In the ICU, it was noticed that the patient is awake but not communicating and not following commands. His neurological examination showed no focal deficits. What is the best sensitive test to order?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q158",
+    "question_text": "In a case scenario of an elderly patient post-cardiac arrest who was put on hypothermic measures and experienced shivering, sedation, and muscle blockers were administered. After 24 to 48 hours, brainstem reflexes were absent. What is the next step?",
+    "options": {
+      "A": "EEG",
+      "B": "SEPs",
+      "C": "Stop sedation",
+      "D": "Stop muscle blockers"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "Following a road traffic accident (RTA), the patient developed post-concussion syndrome. What is the reason for this condition?",
+    "options": {
+      "A": "Shear injury",
+      "B": "Cerebral contusion",
+      "C": "Epidural hematoma",
+      "D": "Subarachnoid hemorrhage"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "In a patient with liver failure, what will you see on EEG?",
+    "options": {
+      "A": "Triphasic wave",
+      "B": "Periodic lateralized epileptiform discharges",
+      "C": "Generalized slowing",
+      "D": "Alpha coma pattern"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "Which of the following is the most important predictor of outcome in cardiac arrest?",
+    "options": {
+      "A": "Time to defibrillation",
+      "B": "Age of the patient",
+      "C": "Initial rhythm",
+      "D": "Bystander CPR"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q492",
+    "question_text": "What is a potential risk associated with the use of mannitol in patients?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Renal failure",
+      "C": "Pulmonary edema",
+      "D": "Volume overload"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with confusion and recurrent seizures two days after hemodialysis, with normal imaging. What is the likely reason?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "",
+    "options": {
+      "A": "29-year-old male is found unconscious on the street. What do you expect as the mechanism of injury based on the attached CT scan?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  }
+]

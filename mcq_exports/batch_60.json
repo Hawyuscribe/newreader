@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q26",
+    "question_text": "Where is prosopagnosia localized in the brain?",
+    "options": {
+      "A": "Occipito-temporal",
+      "B": "Occipito-parietal",
+      "C": "Temporal lobe",
+      "D": "Parietal lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "lady presents with abnormal eye movements characterized by large amplitude and low frequency toward the right. What is the likely location of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with right-sided ptosis and deviation of the uvula. Which of the following could be the underlying cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q193",
+    "question_text": "Where is the localization of internuclear ophthalmoplegia (INO)?",
+    "options": {
+      "A": "Pons (MLF)",
+      "B": "Medulla",
+      "C": "Midbrain",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "An elderly man with a one-month history of right-side weakness and confusion has a brain CT attached. What is the mechanism of this lesion (Subdural hematoma)?",
+    "options": {
+      "A": "Bridging veins rupture",
+      "B": "Middle meningeal artery rupture",
+      "C": "Rupture of cortical veins",
+      "D": "Rupture of dural arteries"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "What favors central nystagmus over peripheral nystagmus?",
+    "options": {
+      "A": "Absence of latency",
+      "B": "Direction-changing nystagmus",
+      "C": "Nystagmus suppressed by visual fixation",
+      "D": "Severe vertigo"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q174",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of posterior inferior cerebellar artery (PICA) infarction presents with vertical and torsional oscillation. Where is the lesion likely located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of pica infarction two years ago presents with oscillopsia. Where is the lesion likely located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "patient with restricted vertical gaze and convergence nystagmus, with pupillary response to light intact, what is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "patient has impaired adduction of the right eye and nystagmus in the left eye when looking to the left. What is the likely localization of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with one-and-a-half syndrome (unable to move both eyes to the left and cannot adduct the left eye). What is the likely localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "In a case of internuclear ophthalmoplegia (INO) with left impaired adduction and right abduction nystagmus, what is the localization?",
+    "options": {
+      "A": "Left medial longitudinal fasciculus (MLF)",
+      "B": "Right medial longitudinal fasciculus (MLF)",
+      "C": "Left oculomotor nucleus",
+      "D": "Right abducens nucleus"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "In a case of ocular bobbing (eyes fast downward then slowly return to primary position), which area of the brain is likely affected?",
+    "options": {
+      "A": "Pons",
+      "B": "Medulla",
+      "C": "Midbrain",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "In a scenario about Parinaud's syndrome, where is the lesion located?",
+    "options": {
+      "A": "Midbrain tectum (dorsal midbrain)",
+      "B": "Thalamus",
+      "C": "Cerebral cortex",
+      "D": "Brainstem"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "patient with Neuromyelitis Optica (NMO) presents with intractable vomiting. Which area of the brain is likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "In a scenario of an elderly patient who had a stroke and became hyperactive with flight of ideas and pressured speech (mania), where would you expect the lesion to be located?",
+    "options": {
+      "A": "Caudate",
+      "B": "Thalamus",
+      "C": "Frontal lobe",
+      "D": "Temporal lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "",
+    "options": {
+      "A": "patient is diagnosed with a rostral vermis defect. What is a common clinical presentation associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "What is the resulting lesion due to a lesion in the splenium of the corpus callosum?",
+    "options": {
+      "A": "Alexia without agraphia",
+      "B": "Agraphia without alexia",
+      "C": "Alexia with agraphia",
+      "D": "Pure word deafness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "What brain structures are involved in peduncular hallucinosis?",
+    "options": {
+      "A": "Midbrain and thalamus",
+      "B": "Cerebellum and pons",
+      "C": "Cortex and basal ganglia",
+      "D": "Hippocampus and amygdala"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "In a patient experiencing hallucinations, where is the lesion likely located?",
+    "options": {
+      "A": "Midbrain",
+      "B": "Temporal lobe",
+      "C": "Occipital lobe",
+      "D": "Frontal lobe"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q309",
+    "question_text": "Pendular hallucination is associated with which type of lesion?",
+    "options": {
+      "A": "Midbrain lesion",
+      "B": "Occipital lobe lesion",
+      "C": "Temporal lobe lesion",
+      "D": "Parietal lobe lesion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with nystagmus at primary gaze and a slow amplitude fast beat to the right. Which area is most likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "Patients presented with symptoms suggestive of mitochondrial disorder. What investigation will be most helpful?",
+    "options": {
+      "A": "Acylcarnitine profile",
+      "B": "Lactate/pyruvate profile",
+      "C": "Thymidine level",
+      "D": "Muscle biopsy for mitochondrial DNA analysis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "Which of the following brain MRI findings is characteristic of Kearns-Sayre Syndrome?",
+    "options": {
+      "A": "Increased T2W signal in the periventricular region",
+      "B": "Increased T2W signal in the thalamus and globus pallidus",
+      "C": "Decreased T2W signal in the subcortical white matter",
+      "D": "No significant findings"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with neuropathy, headache, and visual symptoms. An MRI shows anterior temporal and occipital changes versus atrophy. What is the most appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  }
+]

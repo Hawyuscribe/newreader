@@ -1,0 +1,2042 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 66930349,
+    "fields": {
+      "question_number": "Q291",
+      "question_text": "Between the optic tract and the visual cortex, which structure is located?",
+      "options": {
+        "A": "Lateral geniculate body",
+        "B": "Medial geniculate body",
+        "C": "Superior colliculus",
+        "D": "Pulvinar nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly tests knowledge of the anatomical structures within the visual pathway between the optic tract and cortex."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51177952,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "Prosopagnosia is primarily associated with which brain region?",
+      "options": {
+        "A": "Temporo-occipital gyrus",
+        "B": "Prefrontal cortex",
+        "C": "Parietal lobe",
+        "D": "Hippocampus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the specific brain region (fusiform gyrus within the temporo-occipital area) associated with facial recognition deficits (prosopagnosia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80958039,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "A patient presented with 3rd nerve palsy and ipsilateral ataxia. Where is the localization?",
+      "options": {
+        "A": "Weber",
+        "B": "Claude",
+        "C": "Nothangle",
+        "D": "Bendekit"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localizing a lesion within the brainstem (midbrain) based on specific cranial nerve (CN III) and cerebellar pathway signs (ataxia), referencing classic named syndromes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86460039,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "A patient has tongue deviation to the left. Which area of the brain is likely affected?",
+      "options": {
+        "A": "Right medulla",
+        "B": "Left medulla",
+        "C": "Right midbrain",
+        "D": "Left midbrain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of cranial nerve (Hypoglossal, CN XII) pathway localization based on the clinical sign of tongue deviation and its relation to brainstem nuclei."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89354218,
+    "fields": {
+      "question_number": "Q49",
+      "question_text": "Which area of the brain is primarily associated with prosopagnosia, the inability to recognize faces?",
+      "options": {
+        "A": "Temporal",
+        "B": "Parietal",
+        "C": "Frontal",
+        "D": "Occipito-temporal"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly asks for the brain region (occipitotemporal, specifically fusiform gyrus) primarily responsible for facial recognition, the function lost in prosopagnosia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24001467,
+    "fields": {
+      "question_number": "Q96",
+      "question_text": "What is the localization of prosopagnosia?",
+      "options": {
+        "A": "Frontal lobe",
+        "B": "Parietal lobe",
+        "C": "Corpus callosum",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests localization of prosopagnosia, requiring identification of the most relevant lobe (occipital part of the occipitotemporal fusiform gyrus) among the limited choices provided."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37871376,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "In a case of Gerstmann syndrome, where is the lesion typically found?",
+      "options": {
+        "A": "Angular gyrus",
+        "B": "Supramarginal gyrus",
+        "C": "Precentral gyrus",
+        "D": "Postcentral gyrus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of functional neuroanatomy, specifically the localization of Gerstmann syndrome to the dominant angular gyrus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68504279,
+    "fields": {
+      "question_number": "Q123",
+      "question_text": "Which of the following embryogenic cells gives rise to the cerebral cortex?",
+      "options": {
+        "A": "Telencephalon",
+        "B": "Mesencephalon",
+        "C": "Diencephalon",
+        "D": "Rhombencephalon"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of basic neuroembryology, specifically the developmental origin (telencephalon) of the cerebral cortex, which is a core neuroanatomy topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78085238,
+    "fields": {
+      "question_number": "Q103",
+      "question_text": "A patient presents with fluent speech, impaired comprehension, naming, and repetition. Where is the lesion?",
+      "options": {
+        "A": "Frontoparietal operculum",
+        "B": "Posterior perisylvian temporal",
+        "C": "Posterior-inferior temporal",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks to localize a specific aphasia type (Wernicke's aphasia) based on clinical language features, testing knowledge of language network anatomy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56693575,
+    "fields": {
+      "question_number": "Q102",
+      "question_text": "A patient presented with ipsilateral tremor and Horner syndrome, and contralateral complete loss of pain and temperature sensation. Normal vibration and position sensation were noted. Where is the localization?",
+      "options": {
+        "A": "Upper Pons",
+        "B": "Lower Pons",
+        "C": "Dorsolateral Midbrain",
+        "D": "Ventral Midbrain"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks to localize a brainstem lesion based on a complex combination of neurological signs involving motor control pathways (tremor), sympathetic pathways (Horner's), and sensory tracts (spinothalamic)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4189318,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "Prosopagnosia is localized to which area?",
+      "options": {
+        "A": "Dominant occipital lobe",
+        "B": "Dominant parietal lobe",
+        "C": "Right temporal lobe",
+        "D": "Occipitotemporal"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly tests knowledge of the neuroanatomical localization (occipitotemporal region, often bilateral or right-sided fusiform gyrus) of prosopagnosia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22146137,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "A patient has impaired fluency and repetition but intact comprehension. Where is the localization?",
+      "options": {
+        "A": "Frontoparietal operculum",
+        "B": "Inferior perisylvian",
+        "C": "Parietotemporal perisylvian",
+        "D": "Posterior superior temporal gyrus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the specific brain region (typically Broca's area in the frontal operculum/inferior frontal gyrus) responsible for a described language deficit pattern (Broca's or potentially conduction aphasia), testing knowledge of functional neuroanatomy related to language."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88299027,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Impaired immediate recall is associated with lesions of:",
+      "options": {
+        "A": "Prefrontal cortex",
+        "B": "Medial temporal",
+        "C": "Occipital",
+        "D": "Mediodorsal thalamus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly tests knowledge of the neuroanatomical structures (medial temporal lobes, including hippocampus) crucial for a specific memory function (immediate recall/encoding)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65423644,
+    "fields": {
+      "question_number": "Q110",
+      "question_text": "How can one differentiate between conus medullaris syndrome and cauda equina syndrome?",
+      "options": {
+        "A": "Upper and lower motor neuron signs",
+        "B": "Loss of reflexes",
+        "C": "Loss of sphincter control",
+        "D": "Sensory level on the trunk"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the clinical differentiation between two syndromes based on the anatomical location of the lesion (spinal cord terminus vs nerve roots) and the resulting pattern of neurological signs (UMN vs LMN features, reflex changes, sphincter involvement)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45542522,
+    "fields": {
+      "question_number": "Q241",
+      "question_text": "Which of the following is suggestive of a dominant parietal lobe lesion?",
+      "options": {
+        "A": "Neglect",
+        "B": "Finger agnosia",
+        "C": "Right-left disorientation",
+        "D": "Agraphia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of cortical localization, specifically identifying the components of Gerstmann syndrome (finger agnosia, R-L disorientation, agraphia, acalculia) associated with dominant parietal lobe lesions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29894552,
+    "fields": {
+      "question_number": "Q258",
+      "question_text": "Case about Gasterman syndrome (I did not remember the choices).",
+      "options": {
+        "A": "Agraphia",
+        "B": "Acalculia",
+        "C": "Hemispatial neglect",
+        "D": "Prosopagnosia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Refers to Gerstmann (likely misspelled as Gasterman) syndrome, which involves deficits related to dominant parietal lobe function, thus testing neuroanatomical localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42937337,
+    "fields": {
+      "question_number": "Q98",
+      "question_text": "A patient presents with loss of sensation in the bilateral upper extremities, with later involvement of the lower extremities. What condition is most likely?",
+      "options": {
+        "A": "Central Cord Syndrome",
+        "B": "Syringomyelia",
+        "C": "Brown-S\u00e9quard Syndrome",
+        "D": "Anterior Cord Syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Requires identifying a neurological syndrome (Central Cord Syndrome or Syringomyelia) based on a specific pattern of sensory loss related to the anatomy of the spinal cord tracts (crossing spinothalamic fibers)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68199471,
+    "fields": {
+      "question_number": "Q63",
+      "question_text": "A patient exhibits agraphia, acalculia, and finger agnosia (Gerstmann Syndrome). What type of aphasia is typically associated with this condition?",
+      "options": {
+        "A": "Anomia",
+        "B": "Broca's aphasia",
+        "C": "Wernicke's aphasia",
+        "D": "Conduction aphasia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of cortical localization by associating a specific neurological syndrome (Gerstmann syndrome) with its typical location (dominant parietal lobe, near language areas) and related language deficits (often anomia or fluent aphasia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49131538,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "In a patient with obstructive hydrocephalus, which cranial nerve is most likely involved?",
+      "options": {
+        "A": "CN 6",
+        "B": "CN 3",
+        "C": "CN 4",
+        "D": "CN 7"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the anatomical relationship between cranial nerves and brain structures, specifically identifying the cranial nerve (CN VI) most vulnerable to stretching or compression due to increased intracranial pressure from hydrocephalus because of its long intracranial course."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40030956,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "A patient presents with right-sided weakness, non-fluent speech, impaired repetition and naming, but intact comprehension. Which area of the brain is likely affected in this case of Broca's aphasia?",
+      "options": {
+        "A": "Supramarginal Gyrus",
+        "B": "Frontal Perisylvian",
+        "C": "Temporal posterior, superior",
+        "D": "Wernicke's area"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the neuroanatomical localization of specific language functions, associating the clinical features of Broca's aphasia with the corresponding brain region (frontal perisylvian area/Broca's area)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21805900,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "What is colpocephaly?",
+      "options": {
+        "A": "Enlarged lateral ventricle",
+        "B": "Enlarged occipital ventricle",
+        "C": "Narrowing of the third ventricle",
+        "D": "Enlargement of the temporal horn of the lateral ventricle"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the definition of colpocephaly, which is a specific morphological/neuroanatomical finding describing the disproportionate enlargement of the occipital horns of the lateral ventricles."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73311213,
+    "fields": {
+      "question_number": "Q435",
+      "question_text": "A picture shows left tongue deviation and left Horner's syndrome. What type of lesion is indicated?",
+      "options": {
+        "A": "Postganglionic",
+        "B": "Preganglionic",
+        "C": "Intermediolateral",
+        "D": "Central (first-order neuron)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires anatomical localization of a lesion based on combined neurological signs involving a cranial nerve (Hypoglossal nerve, CN XII) and the sympathetic pathway (Horner's syndrome), focusing on differentiating levels within the sympathetic chain."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37050659,
+    "fields": {
+      "question_number": "Q155",
+      "question_text": "A female presents with decreased sensation to pinprick in bilateral upper limbs. What is the likely diagnosis?",
+      "options": {
+        "A": "Syringomyelia",
+        "B": "Multiple sclerosis",
+        "C": "Peripheral neuropathy",
+        "D": "Cervical radiculopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the diagnosis (Syringomyelia) based on a characteristic pattern of sensory loss (\"cape-like\" distribution) related to a central lesion affecting crossing spinothalamic fibers within the spinal cord anatomy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72275676,
+    "fields": {
+      "question_number": "Q390",
+      "question_text": "In a long scenario of a patient with trigeminal neuralgia involving V1, which artery is likely causing vascular compression?",
+      "options": {
+        "A": "PCA",
+        "B": "SCA",
+        "C": "MCA",
+        "D": "AICA"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the neurovascular anatomy, specifically the anatomical relationship between the trigeminal nerve (near its root entry zone relevant for V1 fibers) and adjacent blood vessels (like branches of SCA or PCA) potentially causing compression."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89612653,
+    "fields": {
+      "question_number": "Q83",
+      "question_text": "A patient presents with Horner's syndrome and a left deviated uvula. What other finding would you expect?",
+      "options": {
+        "A": "Right ptosis",
+        "B": "Left tongue deviation",
+        "C": "Right facial droop",
+        "D": "Left hemiparesis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests localization within the brainstem (likely lateral medulla for Wallenberg syndrome) based on combined cranial nerve (Vagus - X causing uvula deviation away from lesion) and sympathetic pathway involvement (Horner's), asking for associated signs based on adjacent anatomical structures."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86077618,
+    "fields": {
+      "question_number": "Q272",
+      "question_text": "What is the localization of postganglionic Horner's syndrome?",
+      "options": {
+        "A": "Preganglionic",
+        "B": "Postganglionic",
+        "C": "Central (first-order neuron)",
+        "D": "Sympathetic chain trunk lesion"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests understanding of the anatomical pathway of oculosympathetic innervation and the ability to define or recognize the location corresponding to a postganglionic lesion (distal to the superior cervical ganglion)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75626636,
+    "fields": {
+      "question_number": "Q376",
+      "question_text": "Localization of down-beating nystagmus is most commonly associated with which anatomical region?",
+      "options": {
+        "A": "Cervicomedullary junction",
+        "B": "Midbrain",
+        "C": "Thalamus",
+        "D": "Basal ganglia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the specific neuroanatomical localization (typically the cervicomedullary junction or cerebellum) associated with a specific neurological sign (downbeat nystagmus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51588633,
+    "fields": {
+      "question_number": "Q351",
+      "question_text": "Syringomyelia (SCA) is commonly associated with which of the following?",
+      "options": {
+        "A": "Ipsilateral Horner's syndrome",
+        "B": "Fourth cranial nerve palsy",
+        "C": "Bilateral lower limb spasticity",
+        "D": "Loss of pain and temperature sensation in a cape-like distribution"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of neurological signs (like Horner's syndrome) commonly associated with syringomyelia due to the anatomical proximity and potential involvement of nearby structures like the sympathetic pathway in the spinal cord."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13607610,
+    "fields": {
+      "question_number": "Q162",
+      "question_text": "A patient presents with upper limb numbness and pinprick sensation around the shoulder. The preserved position sense and weakness suggest which diagnosis?",
+      "options": {
+        "A": "Syringomyelia",
+        "B": "Myoshi disease",
+        "C": "CIDP",
+        "D": "DADS"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests localization based on a dissociated sensory loss pattern (loss of pain/temperature with preserved proprioception/vibration) in a \"cape-like\" distribution, characteristic of a central cord syndrome like syringomyelia related to spinal cord anatomy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6650324,
+    "fields": {
+      "question_number": "Q218",
+      "question_text": "Which imaging study is indicated in virtually all patients suspected of having glossopharyngeal neuralgia?",
+      "options": {
+        "A": "Plain skull films",
+        "B": "MRI/MRA",
+        "C": "CT scan",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the appropriate neuroimaging modality (MRI/MRA) required to visualize the relevant neurovascular anatomy (glossopharyngeal nerve root entry zone, adjacent vessels) when investigating potential structural causes like vascular compression."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24561146,
+    "fields": {
+      "question_number": "Q259",
+      "question_text": "Frontal operculum",
+      "options": {
+        "A": "Is part of the primary visual cortex",
+        "B": "Contains Broca\u2019s area involved in speech production",
+        "C": "Is located in the occipital lobe",
+        "D": "Is primarily responsible for balance and coordination"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Refers to a specific anatomical brain region, testing basic neuroanatomical knowledge."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74454370,
+    "fields": {
+      "question_number": "Q213",
+      "question_text": "Which type of aphasia is similar to that seen in thalamic lesions?",
+      "options": {
+        "A": "Transcortical sensory aphasia",
+        "B": "Broca's aphasia",
+        "C": "Wernicke's aphasia",
+        "D": "Global aphasia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of aphasia classification and its relation to anatomical lesion sites, specifically linking thalamic lesions (disrupting cortico-thalamic pathways) to certain aphasia profiles (often transcortical types)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31137433,
+    "fields": {
+      "question_number": "Q414",
+      "question_text": "An 18-year-old female presents with hearing loss and vision loss. What will you see on MRI?",
+      "options": {
+        "A": "Corpus callosum lesion",
+        "B": "Cerebellar atrophy",
+        "C": "Temporal lobe sclerosis",
+        "D": "Brainstem demyelination"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Correlates clinical symptoms (hearing and vision loss suggestive of certain syndromes like Susac) with expected neuroanatomical findings on MRI (e.g., characteristic corpus callosum lesions), testing knowledge of imaging correlates of clinical syndromes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42937337,
+    "fields": {
+      "question_number": "Q98",
+      "question_text": "In a scenario of Broca's aphasia, where is the lesion typically located?",
+      "options": {
+        "A": "Frontal lobe",
+        "B": "Frontoparietal operculum",
+        "C": "Temporal lobe",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the specific neuroanatomical location (inferior frontal gyrus/frontal operculum) associated with a defined neurological deficit (Broca's aphasia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78085238,
+    "fields": {
+      "question_number": "Q103",
+      "question_text": "What is the localization of laryngeal spasms?",
+      "options": {
+        "A": "Insula",
+        "B": "Amygdala",
+        "C": "Frontal lobe",
+        "D": "Temporal lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of functional neuroanatomy, specifically localizing potential origins (e.g., seizure focus, autonomic control centers) related to laryngeal function/spasms to brain regions like the insula or temporal lobe."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37188754,
+    "fields": {
+      "question_number": "Q92",
+      "question_text": "In a case scenario about Weber's syndrome, where is the lesion located?",
+      "options": {
+        "A": "Midbrain basis",
+        "B": "Medulla",
+        "C": "Pons",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the precise anatomical localization (ventral midbrain/basis pedunculi) of a classic, named brainstem stroke syndrome (Weber's syndrome)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87072244,
+    "fields": {
+      "question_number": "Q238",
+      "question_text": "A patient with headache, MRI showed a picture of Arnold Chiari malformation. What is the next step?",
+      "options": {
+        "A": "Spine MRI",
+        "B": "Start acetazolamide",
+        "C": "Immediate posterior fossa decompression",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the appropriate diagnostic workup following the identification of a structural brain abnormality (Chiari malformation), specifically recommending further imaging (spine MRI) based on the known high anatomical association with syringomyelia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86460039,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "A patient presents with Broca\u2019s aphasia. What is the localization of the affected area?",
+      "options": {
+        "A": "Frontoparietal operculum",
+        "B": "Temporal lobe",
+        "C": "Occipital lobe",
+        "D": "Frontal lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of classical neuroanatomy, specifically the localization of Broca's area (typically in the inferior frontal gyrus/frontal operculum) responsible for expressive language function."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42937337,
+    "fields": {
+      "question_number": "Q98",
+      "question_text": "A 40-year-old man developed ankle dorsiflexion weakness, and sensation over the dorsum of the foot was decreased. What structure is most likely affected?",
+      "options": {
+        "A": "Lateral portion of the sciatic nerve",
+        "B": "Medial portion of the sciatic nerve",
+        "C": "Tibial nerve",
+        "D": "Femoral nerve"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of peripheral nerve anatomy (specifically the origin of the common peroneal nerve from the sciatic nerve) based on clinical localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18816959,
+    "fields": {
+      "question_number": "Q15",
+      "question_text": "In a case of alexia without agraphia with a visual field defect, the lesion is located in:",
+      "options": {
+        "A": "Angular gyrus",
+        "B": "Splenium of corpus callosum",
+        "C": "Left occipital lobe",
+        "D": "Posterior limb of internal capsule"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the specific anatomical localization (splenium and likely left occipital lobe) required to produce the syndrome of alexia without agraphia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50892851,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "Prosopagnosia localization is associated with which area of the brain?",
+      "options": {
+        "A": "Frontal lobe",
+        "B": "Parietal lobe",
+        "C": "Corpus callosum",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the brain region (typically fusiform gyrus in the occipitotemporal cortex) responsible for a specific neurological function (facial recognition)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32720264,
+    "fields": {
+      "question_number": "Q281",
+      "question_text": "What is the location of the olfactory gyrus?",
+      "options": {
+        "A": "Parahippocampal gyrus",
+        "B": "Hippocampus",
+        "C": "Cingulate gyrus",
+        "D": "Fusiform gyrus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of basic gross brain anatomy, specifically the location of the olfactory structures."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29874446,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "Which language disorder is associated with Gerstmann syndrome?",
+      "options": {
+        "A": "Broca's aphasia",
+        "B": "Anomia",
+        "C": "Transcortical motor aphasia",
+        "D": "Alexia without agraphia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: While involving a syndrome, the core question relates components of the syndrome (agraphia, acalculia) often associated with language deficits like anomia/alexia, linking function to the known anatomical location (angular gyrus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80495127,
+    "fields": {
+      "question_number": "Q512",
+      "question_text": "Which of the following thalamic structures connects the optic tracts to the visual cortex?",
+      "options": {
+        "A": "Lateral geniculate",
+        "B": "Pulvinar nucleus",
+        "C": "Medial geniculate",
+        "D": "Ventral posterior nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the visual pathway anatomy, specifically the role of the lateral geniculate nucleus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8316231,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "A patient presents with a clear description of left fourth cranial nerve palsy and a head tilted to the right. Where is the lesion located in the brainstem?",
+      "options": {
+        "A": "Two choices in medulla",
+        "B": "Right rostral midbrain",
+        "C": "Left rostral midbrain",
+        "D": "Left pons"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires localizing a lesion within the brainstem based on a specific cranial nerve palsy and compensatory head posture, focusing on the anatomical pathway of the trochlear nerve."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34972169,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "A 20-year-old female presented to the clinic with a history of progressive bilateral upper limb decrease in pain sensation, with no weakness. Examination was significant for decreased pinprick sensation bilaterally over the upper limbs. Motor and vibration sensation were intact. What is the most likely diagnosis?",
+      "options": {
+        "A": "Syringomyelia",
+        "B": "Multiple sclerosis",
+        "C": "Peripheral neuropathy",
+        "D": "Brown-S\u00e9quard syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The diagnosis (Syringomyelia) is directly inferred from the clinical signs which reflect damage to a specific anatomical structure (crossing spinothalamic tracts in the central spinal cord)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4102518,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "What is the characteristic feature of syringomyelia?",
+      "options": {
+        "A": "Fluid-filled cyst in the spinal cord parenchyma",
+        "B": "Cystic expansion of the central canal with ependymal lining preserved",
+        "C": "Disruption of the ependyma",
+        "D": "Cavitation within the spinal cord without ependymal lining"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the defining anatomical or pathological characteristic of syringomyelia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94381111,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "In the lateral geniculate nucleus (LGN), visual information from the ipsilateral eye synapses in which layers?",
+      "options": {
+        "A": "1, 4, 6",
+        "B": "2, 3, 5",
+        "C": "1, 2, 3",
+        "D": "4, 5, 6"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests detailed knowledge of the laminar structure and connections within the lateral geniculate nucleus, part of the visual pathway."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2199545,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "In Wernicke's Aphasia, the lesion is located in:",
+      "options": {
+        "A": "Posteroinferior perisylvian",
+        "B": "Posterior perisylvian",
+        "C": "Frontoparietal operculum",
+        "D": "Broca's area"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the specific anatomical location associated with Wernicke's aphasia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18234158,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "What is the Schaffer collateral?",
+      "options": {
+        "A": "Entorhinal cortex to CA1.",
+        "B": "CA3 pyramidal neurons to CA1 pyramidal neurons.",
+        "C": "Dentate gyrus granule cells to CA3 pyramidal neurons.",
+        "D": "CA1 pyramidal neurons to subiculum."
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of specific intra-hippocampal pathways."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4743546,
+    "fields": {
+      "question_number": "Q84",
+      "question_text": "A lesion of the facial nerve in the stylomastoid foramen leads to which of the following?",
+      "options": {
+        "A": "Absent gag reflex",
+        "B": "Paralysis of facial muscles",
+        "C": "Altered taste in the anterior 2/3 of the tongue",
+        "D": "Decreased salivary flow"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of functional neuroanatomy by asking for the specific deficit resulting from a facial nerve lesion at a precise anatomical point (distal to chorda tympani branching)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97271059,
+    "fields": {
+      "question_number": "Q177",
+      "question_text": "Which muscle is supplied by the 12th cranial nerve?",
+      "options": {
+        "A": "Hyoid muscle",
+        "B": "Iliopsoas",
+        "C": "Quadriceps",
+        "D": "Obturator internus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of cranial nerve function, specifically the motor innervation of the hypoglossal nerve (tongue muscles, some extrinsic muscles like hyoglossus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49131538,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "A patient came with Broca\u2019s aphasia. What is the localization?",
+      "options": {
+        "A": "Frontoparietal operculum",
+        "B": "Wernicke\u2019s area",
+        "C": "Angular gyrus",
+        "D": "Primary auditory cortex"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the specific anatomical location associated with Broca's aphasia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6217074,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A young female presents with symptoms of bilateral lower limb weakness, loss of all sensory modalities up to the umbilicus, and bladder involvement. Where is the lesion?",
+      "options": {
+        "A": "Thoracic",
+        "B": "Lumbosacral",
+        "C": "Cervical",
+        "D": "Lumbar"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Requires localization of a spinal cord lesion level based on the pattern of motor, sensory (sensory level at T10), and autonomic deficits."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42147347,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A patient presents with third nerve palsy and ipsilateral ataxia. Which of the following syndromes is most likely?",
+      "options": {
+        "A": "Claude syndrome",
+        "B": "Weber syndrome",
+        "C": "Benedikt syndrome",
+        "D": "Nothnagel syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of classic brainstem syndromes defined by specific combinations of cranial nerve deficits and long tract signs, requiring anatomical localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88299027,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Which structure is involved in vision and not in pupillary responses?",
+      "options": {
+        "A": "Optic nerves",
+        "B": "Inferior parietal",
+        "C": "Lateral geniculate body",
+        "D": "Chiasma"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests understanding of the anatomical pathways for vision versus pupillary light reflex, identifying a structure unique to the visual pathway (LGN)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42915402,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "A patient presents with third nerve palsy and contralateral weakness. Where is the likely localization of the lesion?",
+      "options": {
+        "A": "Pons",
+        "B": "Medulla",
+        "C": "Base of midbrain",
+        "D": "Thalamus"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires localization within the brainstem (specifically midbrain basis pedunculi for Weber syndrome) based on a combination of cranial nerve palsy and contralateral motor deficit."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61791565,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "A patient with headache, MRI showed a picture of Arnold Chiari malformation. What is the next step?",
+      "options": {
+        "A": "Spine MRI",
+        "B": "Start corticosteroids",
+        "C": "Refer for immediate neurosurgery",
+        "D": "EEG monitoring"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: While presenting with a symptom (headache), the core of the question is about the appropriate diagnostic workup for a specific structural/anatomical abnormality (Chiari) and its common association (syringomyelia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88852566,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "Gerstmann syndrome is linked to which area of the brain?",
+      "options": {
+        "A": "Angular gyrus",
+        "B": "Broca\u2019s area",
+        "C": "Hippocampus",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the direct anatomical localization of a named neurological syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46525077,
+    "fields": {
+      "question_number": "Q89",
+      "question_text": "Which of the following arteries arise from the internal carotid artery?",
+      "options": {
+        "A": "AICA",
+        "B": "PICA",
+        "C": "PCA",
+        "D": "SCA"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of cerebrovascular anatomy, specifically the origins of major cerebral arteries. (Note: Options provided are mostly posterior circulation; PComm connecting ICA to PCA might be the intended link, or Anterior Choroidal/Ophthalmic artery are expected ICA branches)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37594536,
+    "fields": {
+      "question_number": "Q46",
+      "question_text": "What is the nerve supply for shoulder adduction and internal rotation?",
+      "options": {
+        "A": "Axillary nerve",
+        "B": "Suprascapular nerve",
+        "C": "Subscapular nerve",
+        "D": "Musculocutaneous nerve"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of peripheral nerve innervation of specific muscles/actions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48999744,
+    "fields": {
+      "question_number": "Q88",
+      "question_text": "A patient presents with upper limb numbness, loss of pain sensation, and is burning her hands. What is the diagnosis?",
+      "options": {
+        "A": "Syringomyelia",
+        "B": "Multiple sclerosis",
+        "C": "Peripheral neuropathy",
+        "D": "Cervical radiculopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Similar to Q19, the diagnosis is directly inferred from symptoms reflecting damage to specific anatomical pathways (central cord/spinothalamic tracts)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88525095,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "In Gerstmann syndrome, which area of the brain is typically involved in localization?",
+      "options": {
+        "A": "Temporal",
+        "B": "Parietal",
+        "C": "Occipital",
+        "D": "Frontal"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the primary anatomical lobe associated with Gerstmann syndrome (dominant parietal lobe)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73705803,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A patient presents with a visual field defect, impaired reading, and intact writing. This is a case of alexia without agraphia. What is the localization?",
+      "options": {
+        "A": "Splenium of the corpus callosum",
+        "B": "Left angular gyrus",
+        "C": "Left occipital cortex",
+        "D": "Left inferior frontal gyrus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the specific anatomical localization required to produce the syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73781478,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "Which of the following paired muscles is supplied by L5?",
+      "options": {
+        "A": "Tibialis anterior & tibialis posterior",
+        "B": "Tibialis anterior & abductor hallucis longus",
+        "C": "Tibialis anterior & adductor digiti minimi",
+        "D": "Extensor hallucis longus & gluteus medius"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of spinal nerve root innervation (myotomes)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30028498,
+    "fields": {
+      "question_number": "Q93",
+      "question_text": "A patient with C5-C6 radiculopathy. What muscle is involved?",
+      "options": {
+        "A": "Infraspinatus",
+        "B": "Biceps brachii",
+        "C": "Deltoid",
+        "D": "Triceps brachii"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of muscle innervation by specific cervical nerve roots."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33373590,
+    "fields": {
+      "question_number": "Q288",
+      "question_text": "One of the branches of the Internal Carotid Artery (ICA) is:",
+      "options": {
+        "A": "SCA",
+        "B": "Posterior Communicating",
+        "C": "Anterior Choroidal",
+        "D": "AICA"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of cerebrovascular anatomy, specifically branches of the ICA. Both B and C are correct."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92385156,
+    "fields": {
+      "question_number": "Q290",
+      "question_text": "An elderly patient with quadriplegia presents with horizontal gaze palsy but has spared vertical gaze. What is the likely localization of the lesion?",
+      "options": {
+        "A": "Pons",
+        "B": "Thalamus",
+        "C": "Basis pontis",
+        "D": "Midbrain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Requires localizing a neurological lesion (likely pons) based on specific brainstem signs (horizontal gaze palsy with spared vertical gaze)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26494174,
+    "fields": {
+      "question_number": "Q224",
+      "question_text": "Which area of the brain is primarily associated with prosopagnosia?",
+      "options": {
+        "A": "Parietal",
+        "B": "Fronto-temporal",
+        "C": "Inferior occipital temporal",
+        "D": "Mid-temporal"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of functional neuroanatomy, specifically the localization of facial recognition (prosopagnosia) to the fusiform gyrus (inferior occipito-temporal region)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93491669,
+    "fields": {
+      "question_number": "Q132",
+      "question_text": "A patient known to have multiple sclerosis presents with double vision. Examination showed left impaired adduction and right abduction nystagmus. Where is the localization?",
+      "options": {
+        "A": "Left MLF",
+        "B": "Right MLF",
+        "C": "Left oculomotor nerve nucleus",
+        "D": "Right abducens nerve nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the ability to localize a neurological deficit (internuclear ophthalmoplegia - INO) to a specific anatomical structure (Medial Longitudinal Fasciculus - MLF) based on clinical signs, even though it occurs in an MS patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93491669,
+    "fields": {
+      "question_number": "Q132",
+      "question_text": "Which condition is characterized by ipsilateral Horner's syndrome due to dorsal cerebellar SCA?",
+      "options": {
+        "A": "Multiple sclerosis",
+        "B": "Amyotrophic lateral sclerosis",
+        "C": "Chiari malformation",
+        "D": "Cerebellar ataxia"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: This question tests the neuroanatomical localization of Horner's syndrome to potential lesions, including vascular territories like the Superior Cerebellar Artery (SCA), although the options are broad conditions rather than specific locations."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2199545,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A patient with a CT scan showing a \"molar tooth\" appearance is suspected to have which condition?",
+      "options": {
+        "A": "Joubert syndrome",
+        "B": "Dandy-Walker malformation",
+        "C": "Arnold-Chiari malformation",
+        "D": "Sturge-Weber syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the recognition of a specific neuroanatomical sign (molar tooth appearance) on imaging and its association with Joubert syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75787568,
+    "fields": {
+      "question_number": "Q23",
+      "question_text": "In a scenario about AICA syndrome, which artery is involved?",
+      "options": {
+        "A": "AICA",
+        "B": "PCA",
+        "C": "SCA",
+        "D": "PICA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly tests knowledge of the vascular territory associated with a specific named stroke syndrome (AICA syndrome), linking clinical neurology to vascular neuroanatomy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4102518,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "A patient with trigeminal neuralgia, what artery is usually involved?",
+      "options": {
+        "A": "PCA",
+        "B": "AICA",
+        "C": "SCA",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The core of the question is identifying the specific vascular structure (SCA) most commonly associated with neurovascular compression causing trigeminal neuralgia, testing anatomical knowledge related to the condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12200539,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "A patient diagnosed with trigeminal neuralgia, what artery is the cause?",
+      "options": {
+        "A": "Superior Cerebellar",
+        "B": "Inferior Cerebellar",
+        "C": "Posterior Cerebellar",
+        "D": "Posterior communicating"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks to identify the specific artery (SCA) typically responsible for vascular compression in trigeminal neuralgia, focusing on the underlying anatomical relationship."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98754150,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "What are the signs of intracranial hypotension observed in brain MRI?",
+      "options": {
+        "A": "Enlargement of the pituitary gland",
+        "B": "Leptomeningeal enhancement",
+        "C": "Pachymeningeal enhancement (most common finding)",
+        "D": "Increased venous blood volume"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of specific neuroimaging findings (e.g., pachymeningeal enhancement) associated with intracranial hypotension, focusing on the interpretation of anatomical/radiological signs."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91369308,
+    "fields": {
+      "question_number": "Q60",
+      "question_text": "In a case of trigeminal neuralgia involving the V2 distribution with decreased sensation in V3, which artery is likely involved?",
+      "options": {
+        "A": "SCA",
+        "B": "PCA",
+        "C": "Pcom",
+        "D": "AICA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: While related to trigeminal neuralgia, the question requires correlating clinical signs (distribution, sensory loss) with the likely underlying anatomical cause (vascular compression, often SCA), emphasizing the neuroanatomical aspect."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31402599,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "A patient with trigeminal neuralgia, what artery is usually involved?",
+      "options": {
+        "A": "PCA",
+        "B": "AICA",
+        "C": "SCA",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly asks for the identification of the most common artery (SCA) causing trigeminal neuralgia via neurovascular compression, testing knowledge of relevant neurovascular anatomy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47657233,
+    "fields": {
+      "question_number": "Q184",
+      "question_text": "What is the most common artery to cause trigeminal neuralgia (TN)?",
+      "options": {
+        "A": "Superior cerebellar artery (SCA)",
+        "B": "Anterior inferior cerebellar artery (AICA)",
+        "C": "Posterior inferior cerebellar artery (PICA)",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the specific anatomical structure (SCA) responsible for the most common cause of trigeminal neuralgia, testing neurovascular anatomical knowledge."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68199471,
+    "fields": {
+      "question_number": "Q63",
+      "question_text": "What is the commonest presentation in Arnold-Chiari malformation?",
+      "options": {
+        "A": "Ataxia",
+        "B": "Hydrocephalus",
+        "C": "Headache",
+        "D": "Visual disturbances"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the most frequent clinical manifestation (headache) associated with a specific structural brain malformation (Chiari I malformation)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34796629,
+    "fields": {
+      "question_number": "Q26",
+      "question_text": "Where is prosopagnosia localized in the brain?",
+      "options": {
+        "A": "Occipito-temporal",
+        "B": "Occipito-parietal",
+        "C": "Temporal lobe",
+        "D": "Parietal lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of functional neuroanatomy, specifically the localization of facial recognition (prosopagnosia) to the fusiform gyrus in the occipito-temporal region."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37871376,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "A lady presents with abnormal eye movements characterized by large amplitude and low frequency toward the right. What is the likely location of the lesion?",
+      "options": {
+        "A": "Cervicomedullary junction",
+        "B": "Cerebellopontine angle",
+        "C": "Medial longitudinal fasciculus",
+        "D": "Paramedian pontine reticular formation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localization of a lesion based on the description of nystagmus, linking specific eye movement patterns to neuroanatomical structures."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93177538,
+    "fields": {
+      "question_number": "Q32",
+      "question_text": "A patient presents with right-sided ptosis and deviation of the uvula. Which of the following could be the underlying cause?",
+      "options": {
+        "A": "Pre-ganglionic lesion",
+        "B": "Post-ganglionic lesion",
+        "C": "Lesion of the hypoglossal nerve",
+        "D": "Lesion of the facial nerve"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: This question requires localization based on cranial nerve signs (CN III for ptosis, CN X for uvula deviation) and understanding autonomic pathways (pre- vs post-ganglionic sympathetic involvement for ptosis), focusing purely on anatomical localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40695293,
+    "fields": {
+      "question_number": "Q193",
+      "question_text": "Where is the localization of internuclear ophthalmoplegia (INO)?",
+      "options": {
+        "A": "Pons (MLF)",
+        "B": "Medulla",
+        "C": "Midbrain",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly tests knowledge of the specific neuroanatomical structure (Medial Longitudinal Fasciculus - MLF) and its location (pons) responsible for INO."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22146137,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "An elderly man with a one-month history of right-side weakness and confusion has a brain CT attached. What is the mechanism of this lesion (Subdural hematoma)?",
+      "options": {
+        "A": "Bridging veins rupture",
+        "B": "Middle meningeal artery rupture",
+        "C": "Rupture of cortical veins",
+        "D": "Rupture of dural arteries"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses specifically on the anatomical structure (bridging veins) and mechanism (rupture due to shear forces/atrophy) responsible for the formation of a subdural hematoma, testing knowledge of cranial anatomy and pathophysiology rather than clinical stroke management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42915402,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "What favors central nystagmus over peripheral nystagmus?",
+      "options": {
+        "A": "Absence of latency",
+        "B": "Direction-changing nystagmus",
+        "C": "Nystagmus suppressed by visual fixation",
+        "D": "Severe vertigo"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the distinguishing clinical characteristics (latency) used to differentiate central versus peripheral causes of nystagmus, relating directly to neuroanatomical localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48718546,
+    "fields": {
+      "question_number": "Q174",
+      "question_text": "A patient with a history of posterior inferior cerebellar artery (PICA) infarction presents with vertical and torsional oscillation. Where is the lesion likely located?",
+      "options": {
+        "A": "Interstitial nucleus of Cajal",
+        "B": "Inferior cerebellar peduncle",
+        "C": "Inferior olive",
+        "D": "Medial longitudinal fasciculus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires localizing the neuroanatomical structure responsible for specific eye movement abnormalities (vertical/torsional nystagmus/oscillopsia) within the context of a known vascular territory (PICA)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70585683,
+    "fields": {
+      "question_number": "Q4",
+      "question_text": "A patient with a history of pica infarction two years ago presents with oscillopsia. Where is the lesion likely located?",
+      "options": {
+        "A": "Interstitial nucleus of Cajal",
+        "B": "Inferior cerebellar peduncle",
+        "C": "Inferior olive",
+        "D": "Medial longitudinal fasciculus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Similar to Q174, this requires localizing the anatomical correlate (likely involving vestibular pathways/cerebellum affected by PICA territory) for a specific symptom (oscillopsia) following a stroke."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60582382,
+    "fields": {
+      "question_number": "Q97",
+      "question_text": "A patient with restricted vertical gaze and convergence nystagmus, with pupillary response to light intact, what is the localization?",
+      "options": {
+        "A": "Red nucleus",
+        "B": "Midbrain tectum",
+        "C": "Medial thalami",
+        "D": "Oculomotor nucleus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the precise neuroanatomical localization (dorsal midbrain/tectum) based on the classic signs of Parinaud's syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73832800,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A patient has impaired adduction of the right eye and nystagmus in the left eye when looking to the left. What is the likely localization of the lesion?",
+      "options": {
+        "A": "Left MLF",
+        "B": "Right MLF",
+        "C": "Right occipital lobe",
+        "D": "Left frontal lobe"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires identifying the specific neuroanatomical structure (right Medial Longitudinal Fasciculus - MLF) responsible for a classic Internuclear Ophthalmoplegia (INO)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70585683,
+    "fields": {
+      "question_number": "Q4",
+      "question_text": "A patient presents with one-and-a-half syndrome (unable to move both eyes to the left and cannot adduct the left eye). What is the likely localization?",
+      "options": {
+        "A": "Ipsilateral frontal eye field",
+        "B": "Ipsilateral paramedian pontine reticular formation (PPRF) and medial longitudinal fasciculus (MLF)",
+        "C": "Contralateral superior colliculus",
+        "D": "Ipsilateral oculomotor nucleus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the specific brainstem neuroanatomical localization (ipsilateral PPRF/CN VI nucleus + ipsilateral MLF) of a named complex eye movement disorder.* (Localization structure missing from options)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14792305,
+    "fields": {
+      "question_number": "Q100",
+      "question_text": "In a case of internuclear ophthalmoplegia (INO) with left impaired adduction and right abduction nystagmus, what is the localization?",
+      "options": {
+        "A": "Left medial longitudinal fasciculus (MLF)",
+        "B": "Right medial longitudinal fasciculus (MLF)",
+        "C": "Left oculomotor nucleus",
+        "D": "Right abducens nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the precise anatomical localization (left MLF) of a clearly described left INO."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40787938,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "In a case of ocular bobbing (eyes fast downward then slowly return to primary position), which area of the brain is likely affected?",
+      "options": {
+        "A": "Pons",
+        "B": "Medulla",
+        "C": "Midbrain",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links a specific abnormal eye movement pattern (ocular bobbing) to its typical neuroanatomical localization within the brainstem (pons)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22146137,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "In a scenario about Parinaud's syndrome, where is the lesion located?",
+      "options": {
+        "A": "Midbrain tectum (dorsal midbrain)",
+        "B": "Thalamus",
+        "C": "Cerebral cortex",
+        "D": "Brainstem"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the specific neuroanatomical localization (dorsal midbrain/tectum) of Parinaud's syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6217074,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A patient with Neuromyelitis Optica (NMO) presents with intractable vomiting. Which area of the brain is likely involved?",
+      "options": {
+        "A": "Area postrema",
+        "B": "Cerebellum",
+        "C": "Thalamus",
+        "D": "Medulla oblongata"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of functional neuroanatomy, specifically the location of the area postrema (vomiting center) in the brainstem, relevant to understanding symptoms in conditions like NMO."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52611954,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "In a scenario of an elderly patient who had a stroke and became hyperactive with flight of ideas and pressured speech (mania), where would you expect the lesion to be located?",
+      "options": {
+        "A": "Caudate",
+        "B": "Thalamus",
+        "C": "Frontal lobe",
+        "D": "Temporal lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the neuroanatomical localization (caudate/thalamus circuits involved in mood/behavior) of post-stroke mania, linking behavior to specific brain regions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34586322,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "A patient is diagnosed with a rostral vermis defect. What is a common clinical presentation associated with this condition?",
+      "options": {
+        "A": "Wide base gait",
+        "B": "Intention tremor",
+        "C": "Dysarthria",
+        "D": "Nystagmus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of structure-function correlation in the cerebellum, linking a specific anatomical defect (rostral vermis) to its typical clinical sign (gait ataxia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56812758,
+    "fields": {
+      "question_number": "Q111",
+      "question_text": "What is the resulting lesion due to a lesion in the splenium of the corpus callosum?",
+      "options": {
+        "A": "Alexia without agraphia",
+        "B": "Agraphia without alexia",
+        "C": "Alexia with agraphia",
+        "D": "Pure word deafness"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Assesses knowledge of functional neuroanatomy and disconnection syndromes, specifically the clinical syndrome resulting from a splenial lesion."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78476263,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "What brain structures are involved in peduncular hallucinosis?",
+      "options": {
+        "A": "Midbrain and thalamus",
+        "B": "Cerebellum and pons",
+        "C": "Cortex and basal ganglia",
+        "D": "Hippocampus and amygdala"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Connects a specific clinical phenomenon (peduncular hallucinosis) to its underlying neuroanatomical substrates (midbrain/thalamus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12138674,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "In a patient experiencing hallucinations, where is the lesion likely located?",
+      "options": {
+        "A": "Midbrain",
+        "B": "Temporal lobe",
+        "C": "Occipital lobe",
+        "D": "Frontal lobe"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks for general neuroanatomical localization associated with hallucinations, linking a symptom to potential brain regions (though localization can be complex and varied)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59739855,
+    "fields": {
+      "question_number": "Q309",
+      "question_text": "Pendular hallucination is associated with which type of lesion?",
+      "options": {
+        "A": "Midbrain lesion",
+        "B": "Occipital lobe lesion",
+        "C": "Temporal lobe lesion",
+        "D": "Parietal lobe lesion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Links a specific type of visual hallucination (peduncular hallucinosis) to its typical lesion location (midbrain/thalamus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53501631,
+    "fields": {
+      "question_number": "Q20",
+      "question_text": "A patient presented with nystagmus at primary gaze and a slow amplitude fast beat to the right. Which area is most likely affected?",
+      "options": {
+        "A": "Tectal midbrain",
+        "B": "Cerebellar hemisphere",
+        "C": "Pontocerebellar angle",
+        "D": "Medulla"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroanatomy",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires localization of a specific neurological sign (nystagmus) to a particular CNS region based on its clinical characteristics, testing knowledge of functional neuroanatomy."
+    }
+  }
+]

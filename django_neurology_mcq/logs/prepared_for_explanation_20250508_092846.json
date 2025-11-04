@@ -1,0 +1,266 @@
+{
+  "timestamp": "2025-05-08T09:28:46.070556",
+  "total_prepared": 52,
+  "prepared_mcqs": [
+    {
+      "id": 100021933,
+      "question_number": "Q2c3f7b",
+      "subspecialty": "Neuropsychiatry"
+    },
+    {
+      "id": 100021935,
+      "question_number": "Q4e9f21",
+      "subspecialty": "Neuropsychiatry"
+    },
+    {
+      "id": 100021948,
+      "question_number": "Qca0cce",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021955,
+      "question_number": "Q54adc7",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021956,
+      "question_number": "Q9a16ae",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021957,
+      "question_number": "Qd15d46",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021959,
+      "question_number": "Qf84165",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021961,
+      "question_number": "Q9399ce",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021963,
+      "question_number": "Q387a49",
+      "subspecialty": "Sleep Neurology"
+    },
+    {
+      "id": 100021969,
+      "question_number": "Qfd1b6a",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021971,
+      "question_number": "Qc6c4fa",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021973,
+      "question_number": "Qe7f025",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021977,
+      "question_number": "Q810ee5",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021980,
+      "question_number": "Q11de0d",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021984,
+      "question_number": "Q0bc7aa",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021985,
+      "question_number": "Q20a519",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021987,
+      "question_number": "Qe5702b",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021989,
+      "question_number": "Q1987c6",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021990,
+      "question_number": "Q0b2d41",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021996,
+      "question_number": "Q970883",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021997,
+      "question_number": "Q01cbc8",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100021999,
+      "question_number": "Q695aa8",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022003,
+      "question_number": "Q006a88",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022004,
+      "question_number": "Qe57f71",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022006,
+      "question_number": "Q6542c7",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022009,
+      "question_number": "Qb5b2e6",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022014,
+      "question_number": "Q658ea4",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022018,
+      "question_number": "Qbb9337",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022020,
+      "question_number": "Q34028e",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022025,
+      "question_number": "Q46acda",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022031,
+      "question_number": "Q171970",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022034,
+      "question_number": "Q35b7ae",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022036,
+      "question_number": "Q45977f",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022037,
+      "question_number": "Q8af697",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022038,
+      "question_number": "Qfa0957",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022041,
+      "question_number": "Qcd9b59",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022046,
+      "question_number": "Q1e7d13",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022047,
+      "question_number": "Q796052",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022049,
+      "question_number": "Qbddc27",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022050,
+      "question_number": "Q4c170f",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022051,
+      "question_number": "Q226ce1",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022052,
+      "question_number": "Q0dcb05",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022053,
+      "question_number": "Qe4f33e",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022054,
+      "question_number": "Qbacf4f",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022055,
+      "question_number": "Q5396a3",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022057,
+      "question_number": "Qc68147",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022060,
+      "question_number": "Qa48d19",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022065,
+      "question_number": "Q7c7b50",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022068,
+      "question_number": "Qcd5020",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022069,
+      "question_number": "Qc9cb6b",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022072,
+      "question_number": "Q347c23",
+      "subspecialty": "Headache"
+    },
+    {
+      "id": 100022073,
+      "question_number": "Q8539a0",
+      "subspecialty": "Headache"
+    }
+  ]
+}

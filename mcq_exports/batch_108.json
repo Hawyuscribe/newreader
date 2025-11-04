@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "1 hour",
+      "B": "3 to 4 hours",
+      "C": "12 hours",
+      "D": "24 hours"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "case scenario presents a patient with a CT brain scan showing multiple brain calcifications. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "young male presents with progressive external ophthalmoplegia. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "Is a diagnosis",
+      "B": "Is a description of cognitive impairment",
+      "C": "Is caused by a single gene defect",
+      "D": "Is always progressive"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q261",
+    "question_text": "Valproate is primarily used in the treatment of which of the following conditions?",
+    "options": {
+      "A": "Epilepsy",
+      "B": "Parkinson\u2019s disease",
+      "C": "Multiple sclerosis",
+      "D": "Alzheimer's disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q306",
+    "question_text": "",
+    "options": {
+      "A": "Used primarily for Parkinson's disease",
+      "B": "Used to treat epilepsy and neuropathic pain",
+      "C": "Used as a first-line treatment for multiple sclerosis",
+      "D": "Used exclusively for migraine prophylaxis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "Treatment for migraine prophylaxis",
+      "B": "Antibiotic therapy",
+      "C": "Antiepileptic drug",
+      "D": "Dopamine agonist"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "",
+    "options": {
+      "A": "Refer to surgery",
+      "B": "Initiate corticosteroid therapy",
+      "C": "Order MRI brain with contrast",
+      "D": "Begin physical rehabilitation"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "",
+    "options": {
+      "A": "nurse got a needle stick in her finger after blood extraction from a patient. She refuses to report it to infection control because the patient looks fine. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "Explain to the patient the purpose of the study."
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q264",
+    "question_text": "",
+    "options": {
+      "A": "Is a selective beta-1 blocker",
+      "B": "Is a non-selective beta blocker",
+      "C": "Is primarily used to treat epilepsy",
+      "D": "Has no effect on migraine prophylaxis"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "",
+    "options": {
+      "A": "To reduce the risk of ischemic stroke by inhibiting platelet aggregation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "",
+    "options": {
+      "A": "Secondary prevention after ischemic stroke or transient ischemic attack",
+      "B": "Management of acute coronary syndrome",
+      "C": "Treatment of hemorrhagic stroke",
+      "D": "Primary prevention of cardiovascular disease"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "Weakness is a common neurological symptom. Which of the following is the most likely cause of acute unilateral weakness?",
+    "options": {
+      "A": "Stroke",
+      "B": "Multiple sclerosis",
+      "C": "Peripheral neuropathy",
+      "D": "Myasthenia gravis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "Anomia is best described as which of the following?",
+    "options": {
+      "A": "Difficulty in naming objects or retrieving words",
+      "B": "Loss of ability to understand spoken language",
+      "C": "Inability to recognize faces",
+      "D": "Difficulty in coordinating voluntary movements"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q263",
+    "question_text": "",
+    "options": {
+      "A": "Levetiracetam",
+      "B": "Phenytoin",
+      "C": "Carbamazepine",
+      "D": "Valproate"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "In neonatal mild hypoxic ischemic encephalopathy, what is the most common presentation?",
+    "options": {
+      "A": "Seizures",
+      "B": "Apnea",
+      "C": "Hypotonia",
+      "D": "Irritability"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "case of a child with a rash on the face, contralateral hemiparesis, and radiographic findings of gyral calcifications giving a tram-track appearance is most likely:"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "case of a child with caf\u00e9 au lait spots, axillary freckling, and Lisch nodules is indicative of:"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "In a patient with tic disorder and ADHD, which medication is commonly used?",
+    "options": {
+      "A": "Atomoxetine",
+      "B": "Methylphenidate",
+      "C": "Clonidine",
+      "D": "Guanfacine"
+    },
+    "correct_answer": "D",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "In a case of Sturge-Weber syndrome (hint: port wine stain on the face), what associated condition is commonly asked about?",
+    "options": {
+      "A": "Renal Angiofibroma",
+      "B": "Cardiac Rhabdomyosarcoma",
+      "C": "Glaucoma",
+      "D": "Seizures"
+    },
+    "correct_answer": "C",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "An infant presented with choreoathetosis and hearing loss. Brain MRI reported globus pallidus hyperintensity. What is the most likely diagnosis?",
+    "options": {
+      "A": "Kernicterus",
+      "B": "Leigh syndrome",
+      "C": "Wilson disease",
+      "D": "Mitochondrial encephalopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "patient with facial weakness and seizures presents with what other condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "neonate developed seizures within 24 hours of birth and has high bilirubin. What would be the most affected area on MRI?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "",
+    "options": {
+      "A": "pregnant woman at 10 weeks is concerned about the side effects of steroids. Which of the following is a potential risk?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  }
+]

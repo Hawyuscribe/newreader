@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q244",
+    "question_text": "What is the treatment for Sydenham chorea?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Valproic acid",
+      "C": "Carbamazepine",
+      "D": "Prednisone"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "An elderly patient presents with imbalance that improves with walking. On examination, you find gait hesitancy that improves with walking. What should be the next step? (case of Orthostatic tremor)",
+    "options": {
+      "A": "NCS/EMG",
+      "B": "Brain MRI",
+      "C": "Dopamine transporter (DAT) scan",
+      "D": "Trial of levodopa"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "14-year-old girl, medically free, has episodes of jerky movements of the right upper limb followed by dystonia with posturing, which occurs suddenly when she turns while running. There is also a family history of migraine. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old female with a known case of Parkinson's disease has stable symptoms for the last 6 years. She now reports a \"wear-off\" effect of her medication after 1.5 hours and peak onset dyskinesia. She is taking Sinemet 250/25 every 4 hours and selegiline. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old female patient presented with jerking movements that improved with wine. Her father has the same symptoms. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "42-year-old female has gait difficulty and feels very dizzy, but when she wakes, she no longer has dizziness. An EMG shows subtle abnormalities. What is the best treatment for her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with lower limb tremor that starts when she stands up and does not improve when she starts walking. She mentions that she has a relative with hand tremor when he holds the newspaper. EMG shows orthostatic tremor. What will you give her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "man who presented with abnormal movement (from a psychiatry hospital) and is unable to sit still. On exam, he is fidgeting and moving back and forth, constantly crossing and uncrossing his legs. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "Thalamotomy in Parkinson's Disease (PD) is expected to improve which of the following symptoms?",
+    "options": {
+      "A": "Tremor",
+      "B": "Bradykinesia",
+      "C": "Rigidity",
+      "D": "Postural instability"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "Levodopa",
+    "options": {
+      "A": "Is a dopamine precursor used to treat Parkinson's disease",
+      "B": "Is an acetylcholinesterase inhibitor used in Alzheimer's disease",
+      "C": "Is a GABA agonist used to treat epilepsy",
+      "D": "Is a serotonin reuptake inhibitor used in depression"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q321",
+    "question_text": "In a patient with Progressive Supranuclear Palsy (PSP), which symptom is most likely to improve with levodopa treatment?",
+    "options": {
+      "A": "Bradykinesia",
+      "B": "Tremor",
+      "C": "Gait instability",
+      "D": "Urinary incontinence"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old male presented to the clinic with complaints of atonic jerks at age 10. He has a history of dystonia, depression, chorea, and ataxia. There is no family history of a similar condition. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q192",
+    "question_text": "",
+    "options": {
+      "A": "patient with schizophrenia is unable to sit and is on antipsychotic medication. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "An elderly patient presents with imbalance that improves with walking. On examination, you find gait hesitancy that improves with walking. What is the treatment? (case of Orthostatic tremor)",
+    "options": {
+      "A": "Clonazepam",
+      "B": "Gabapentin",
+      "C": "Levodopa",
+      "D": "Propranolol"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "In Huntington's disease, how many gene repeats are typically present?",
+    "options": {
+      "A": "More than 48 repeats",
+      "B": "Between 36 and 39 repeats",
+      "C": "Less than 26 repeats",
+      "D": "Between 27 and 35 repeats"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "In the scenario of orthostatic tremor, what diagnostic tests should be performed?",
+    "options": {
+      "A": "Nerve Conduction Study (NCS) and Electromyography (EMG)",
+      "B": "MRI of the brain",
+      "C": "Blood tests",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "In a scenario about essential myoclonus relieved by alcohol, which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Cortical myoclonus",
+      "B": "Essential myoclonus",
+      "C": "Physiological myoclonus",
+      "D": "Epileptic myoclonus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "",
+    "options": {
+      "A": "patient has dystonia of the lower limbs and a positive family history of similar symptoms. She was given Levodopa before and had a significant response. What is the treatment? (case of DYT5)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "",
+    "options": {
+      "A": "young lady presented to the outpatient clinic with a history of abnormal movement in the form of sudden abduction at the shoulder and tonic posturing of her hand noticed while writing. She has a family history of her father and brother with a similar condition. Which of the following is associated with this condition (Myoclonic dystonia)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q232",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's patient on medication developed wearing off phenomena; what is the mechanism?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient suggestive of Corticobasal Degeneration (CBD) is presented, with a hint of abnormal hand movements. What MRI finding is expected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "What is the site of deep brain stimulation (DBS) for tremor?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Globus Pallidus Interna (GPi)",
+      "C": "Subthalamic Nucleus (STN)",
+      "D": "Caudate Nucleus"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "Which of the following is a common trigger for paroxysmal kinesigenic dyskinesia?",
+    "options": {
+      "A": "Cold exposure",
+      "B": "Stress",
+      "C": "Alcohol",
+      "D": "Non-REM sleep"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "In refractory essential tremor, which structure is the target for deep brain stimulation (DBS)?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Hypothalamus",
+      "C": "Globus pallidus (GP)",
+      "D": "Subthalamic nucleus"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "In a patient with Parkinson's Disease (PD) on Sinemet, who has shown improvement in motor control and dyskinesia after adding pramipexole, but is experiencing cognitive impairment and mood changes, what is the best course of action?",
+    "options": {
+      "A": "Change the Sinemet to a combination with a COMT inhibitor",
+      "B": "Increase the Sinemet dosage",
+      "C": "Stop the pramipexole",
+      "D": "Start quetiapine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

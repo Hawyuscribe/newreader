@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "A lady in her 30s was presented to the ER with history of headache and neck pain started after her visit to the dentist. She has left sided Horner syndrome and ataxia.\n\nMRI done (image attached).\nWhich of the following is the most appropriate management?\n(Left vertebral artery dissection; lateral medullary syndrome)",
+    "options": {
+      "option_a": "Stenting",
+      "option_b": "Angioplasty",
+      "option_c": "Aspirin",
+      "option_d": "Dual antiplatelets",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient post RTA, image attached. Where is the localization of the lesion?",
+    "options": {
+      "option_a": "Internal carotid artery",
+      "option_b": "Vertebral artery",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A 20s-year-old male with history of learning difficulty presented to the clinic with his father due to repeated history of stroke like symptoms, dysarthria, and hearing loss. MRI brain done (image attached). What is the most likely diagnosis?",
+    "options": {
+      "option_a": "MELAS",
+      "option_b": "CADSAIL",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A 70-year-old male, known case of hypertension. He went to sleep then woke up in the morning with left sided weakness and dysarthria.\n\nMRI brain done (image attached).\nWhat is the most likely pathophysiology involved in his condition?",
+    "options": {
+      "option_a": "Amyloid angiopathy",
+      "option_b": "Hemorrhagic stroke",
+      "option_c": "Hypertensive hemorrhage",
+      "option_d": "Autoregulation dysfunction",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female patient with ESRD on regular hemodialysis complaining of recurrent TIAs last for less than 10 minutes inform of left sided weakness and dysarthria then resolved completely. These symptoms occur during the dialysis sessions. CT brain done and showed evidence of old ischemic stroke. Carotid US done and showed left ICA atherosclerotic changes with no visualized stenosis or occlusion. Which of the following is important to order during evaluation of this patient?",
+    "options": {
+      "option_a": "CT angiography",
+      "option_b": "MRI brain",
+      "option_c": "CT Venogram",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Elderly male in the 60s with hypertension and diabetes mellitus presented with sudden onset right sided weakness. Symptoms was started 5 hours ago. BP 180/100, HR 83. Examination showed aphasia with left gaze preference. NIHSS 16. CT brain done (image attached). ASPEC score is 8.\nWhich of the following is the appropriate management for this patient?",
+    "options": {
+      "option_a": "Intraarterial thrombolysis",
+      "option_b": "Mechanical thrombectomy",
+      "option_c": "IV thrombolysis",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Young patient presented with acute severe headache associated with nausea and vomiting. He recently diagnosed with depression and started on escitalopram. Neurological examination was unremarkable. Cerebral angiography done (imaged attached).\nWhich of the following is the most likely diagnosis?",
+    "options": {
+      "option_a": "Fibromuscular dysplasia At the level of carotid",
+      "option_b": "Isolated angiitis of central nervus system.",
+      "option_c": "Reversible cerebral vasoconstriction syndrome.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female patient in her 30s presented to the ER with history of progressive headache started 10 days ago, associated with nausea, vomiting, and blurry vision. She is currently on oral contraceptive pills. Physical examination was remarkable for bilateral papilledema. CT brain and CTV done (image attached). Which of the following is appropriate management? (CVT)",
+    "options": {
+      "option_a": "Antiplatelet",
+      "option_b": "Anticoagulant",
+      "option_c": "Intravascular thrombectomy",
+      "option_d": "Carbonic anhydrase",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with 3rd nerve palsy, tremor, hearing loss.",
+    "options": {
+      "option_a": "AICA",
+      "option_b": "PICA",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Intracranial bleed and asked about the blood pressure management.",
+    "options": {
+      "option_a": "140/90",
+      "option_b": "160/90",
+      "option_c": "130/90",
+      "option_d": "120/90",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "22 YO, F, medically free, on Combined OCB, came with headache, CTV showed SSS thrombosis, what is true.",
+    "options": {
+      "option_a": "She has clear cause and no need workup",
+      "option_b": "Do thrombophilia workup",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Lady on OCP came with seizure, headache, CT normal, next.",
+    "options": {
+      "option_a": "LP",
+      "option_b": "EEG",
+      "option_c": "CTV",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "This pic patient will came with (image of brain MRI) (Similar but not the same).",
+    "options": {
+      "option_a": "Pure motor",
+      "option_b": "Pure sensory",
+      "option_c": "Mixed",
+      "option_d": "Clumsy",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "82 YO female with good functional status although she has mild osteoporosis in her knees related to her age, came with NIHSS = 20 in term of aphasia, right side weakness, she presented within 60 min, CT done within 30 min, BP 220/110, next step.",
+    "options": {
+      "option_a": "Give tpa",
+      "option_b": "BP management",
+      "option_c": "CTA",
+      "option_d": "Mechanical Thrombectomy",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient came with left side weakness MRI showed right lacunar stroke, CTA showed severe intracranial right MCA stenosis.",
+    "options": {
+      "option_a": "ASA",
+      "option_b": "IV thrombolysis",
+      "option_c": "DAPT",
+      "option_d": "Stent",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient came with history of vertigo, nausea DWI showed (image of brain MRI). Which of the following is correct?",
+    "options": {
+      "option_a": "Right side ptosis",
+      "option_b": "Lt uvula deviation",
+      "option_c": "Rt uvula deviation",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "70 YO, M, Came with this MRI.",
+    "options": {
+      "option_a": "Watershed",
+      "option_b": "Cardioembolic",
+      "option_c": "Small Vessle Disease",
+      "option_d": "Vasculitis",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient after severe external carotid stenosis revascularization, 1 day later found confused, CT brain (image shown), what is the mechanism.",
+    "options": {
+      "option_a": "hypoperfusion",
+      "option_b": "Hyperperfusion",
+      "option_c": "Autoregulation",
+      "option_d": "Artery to artery",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient has 2 stroke, sensory peripheral neuropathy, skin rash with picture. What is the enzyme involved in this disease.",
+    "options": {
+      "option_a": "Alpha-Galactosidase",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of Sturge Weber (hint: bort wine on face) asked about what it comes with.",
+    "options": {
+      "option_a": "Renal Angiofibroma",
+      "option_b": "Cardiac Rhabdomyosarcoma",
+      "option_c": "Glaucoma",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part I"
+  }
+]

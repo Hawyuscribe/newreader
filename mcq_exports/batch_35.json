@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q158",
+    "question_text": "Corticobasal Degeneration (CBD)",
+    "options": {
+      "A": "Characterized by early and prominent autonomic failure",
+      "B": "Typically presents with asymmetric rigidity and apraxia",
+      "C": "Responds well to levodopa therapy",
+      "D": "Mainly affects the lower motor neurons"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q505",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's disease patient on Sinemet every 4 hours and selegiline complains of wearing off 2.5 hours before his next dose and peak dose dyskinesia. What is the best course of action?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease and dystonia is not improving with treatment. What is the most appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's patient on levodopa/carbidopa 25/250 Q4 and selegiline for 7 years has started to experience rigidity and wearing off symptoms for two and a half hours. What is the best management for peak dose dyskinesia?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "17-year-old boy has developed multiple verbal and motor tics since the age of 11. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "patient with orthostatic tremor not tolerating clonazepam, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "",
+    "options": {
+      "A": "young female has recurrent muscle (or neck) spasms triggered by sudden neck movement. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q182",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's Disease for 6 years on Sinemet and experiencing depressed mood, changes in issues, and worsening dyskinesia also shows slowness and bradykinesia. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q197",
+    "question_text": "",
+    "options": {
+      "A": "patient with orthostatic tremor not tolerating clonazepam, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "In a patient with Progressive Supranuclear Palsy (PSP) receiving Sinemet, which symptom is likely to improve?",
+    "options": {
+      "A": "Rigidity",
+      "B": "Bradykinesia",
+      "C": "Tremor",
+      "D": "Postural instability"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "What is the appropriate management for a Parkinson's disease patient on Sinemet 5 times daily who experiences wearing off 30 minutes before the next dose?",
+    "options": {
+      "A": "Add COMT inhibitors",
+      "B": "Increase Sinemet dose",
+      "C": "Add Selegiline",
+      "D": "Switch to a different medication"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "Which treatment is commonly used for paroxysmal exertion-induced dyskinesia?",
+    "options": {
+      "A": "L-Dopa",
+      "B": "Clonazepam",
+      "C": "Anticonvulsants",
+      "D": "Acetazolamide"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "An elderly patient presented with abnormal limb movement. He described that his left upper limb seems to move involuntarily. He reported some memory issues. On examination, he exhibited involuntary left upper limb movement and visuospatial dissociation. What is the most likely diagnosis?",
+    "options": {
+      "A": "Multiple system atrophy",
+      "B": "Corticobasal degeneration",
+      "C": "Progressive supranuclear palsy",
+      "D": "Lewy body dementia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old had dystonia that improved with wine, and her father has the same symptoms. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "In a patient with hemifacial spasm, what is the most common treatment option?",
+    "options": {
+      "A": "Botox",
+      "B": "Carbamazepine",
+      "C": "Clonazepam",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with dystonia, tremor, and Parkinsonism. MRI shows bilateral basal ganglia and brainstem hyperintensity. What treatment would you consider for Wilson's disease?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male patient presents with recurrent falls and gait imbalance over the last 6 months. On examination, he has a masked face, vertical gaze palsy, retrocollis, and bradykinesia. MRI findings are pending. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q225",
+    "question_text": "",
+    "options": {
+      "A": "patient with orthostatic tremor is not tolerating clonazepam. What is the second-line treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's disease patient on levodopa/Carbidopa every 4 hours experiences reoccurrence of rigidity and tremors half an hour before the next dose. What is this phenomenon called?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q223",
+    "question_text": "In a patient with essential tremor and asthma, which medication is commonly used?",
+    "options": {
+      "A": "Primidone",
+      "B": "Propranolol",
+      "C": "Gabapentin",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "What is the typical age of onset for paroxysmal nonkinesigenic dyskinesia?",
+    "options": {
+      "A": "Birth to early childhood",
+      "B": "1-40 years",
+      "C": "2-20 years",
+      "D": "0-40 years"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male patient has a history of urinary retention, syncope, and memory impairment. He later developed laryngeal stridor. MRI findings are pending. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "Pathology showed Lewy bodies. What is the diagnosis?",
+    "options": {
+      "A": "Lewy body dementia",
+      "B": "Alzheimer's disease",
+      "C": "Parkinson's disease",
+      "D": "Multiple system atrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits palatal abnormal movements that are fast, rhythmic, and persist during sleep. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "What is the PET finding in CBDG?",
+    "options": {
+      "A": "Specific finding not provided",
+      "B": "Generalized atrophy",
+      "C": "Increased glucose metabolism",
+      "D": "Decreased glucose metabolism"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

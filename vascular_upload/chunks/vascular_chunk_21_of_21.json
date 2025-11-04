@@ -1,0 +1,92 @@
+[
+  {
+    "question_text": "Which one is correct about anti thrombotic?",
+    "options": {
+      "option_a": "apixaban + rivaroxaban Ar direct thrombin inhibitor",
+      "option_b": "aspirin is adenosine diposphate inhibitor",
+      "option_c": "Ticagrelol is p2 y12 inhibitors",
+      "option_d": "Clopidogrel is working on factor 1-2-5-7",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "26 Young lady with SLE complained of seizures and confusion this time. SLE nephritis on dialysis. What is your diagnosis? MRV was venous thrombosis in transverse CVT",
+    "options": {
+      "option_a": "CVT",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Which of the following is the correct mechanism of action of these medications:\n- Aspirin inhibits adenosine deaminase\n- Ticagrelor inhibits P2Y12\n- Apixaban and rivaroxaban are direct thrombin inhibitors\n- Clopidogrel inhibits factor 7, 10, 11, 12",
+    "options": {
+      "option_a": "Aspirin inhibits adenosine deaminase",
+      "option_b": "Ticagrelor inhibits P2Y12",
+      "option_c": "Apixaban and rivaroxaban are direct thrombin inhibitors",
+      "option_d": "Clopidogrel inhibits factor 7, 10, 11, 12",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Patient had cerebellar ICH near 4th ventricle with dilated lateral ventricles and 3rd ventricle. Which of the following is next:",
+    "options": {
+      "option_a": "Insert EVD and release high ICP",
+      "option_b": "Do CT angio to look for posterior criculation aneurysm",
+      "option_c": "Other choices I forgot which were irrelevant",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "male elderly with left side weakness dysarthria on dabigatran underwent thrombectomy only no tpa given later has ct of bleeding what you will give that was the cause of increase bleeding",
+    "options": {
+      "option_a": "Osmotic therapy",
+      "option_b": "Idrucizumab",
+      "option_c": "Vit k",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "A patient had a head trauma, after 10 days developed spontaneous perimesencephalic SAH. Done 2 digital subtraction imaging 2 weeks apart which was unremarkable, which of the following is the appropriate management:",
+    "options": {
+      "option_a": "Send him home with F/U in the clinic",
+      "option_b": "Repeat digital subtraction imaging",
+      "option_c": "MR angiography",
+      "option_d": "CT angiography",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  }
+]

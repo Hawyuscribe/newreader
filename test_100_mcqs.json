@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": "Sample-1",
+    "question_text": "A 65-year-old man presents with unilateral resting tremor, bradykinesia, and rigidity. Which of the following is the most likely diagnosis?",
+    "options": "{\"A\": \"Multiple sclerosis\", \"B\": \"Parkinson's disease\", \"C\": \"Essential tremor\", \"D\": \"Huntington's disease\"}",
+    "correct_answer": "B",
+    "subspecialty": "Movement Disorders",
+    "source_file": null,
+    "exam_type": "Sample",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Sample-2",
+    "question_text": "A 32-year-old woman presents with recurrent episodes of severe, unilateral throbbing headaches associated with nausea, photophobia, and phonophobia. The pain typically lasts for 4-72 hours. What is the most likely diagnosis?",
+    "options": "{\"A\": \"Tension headache\", \"B\": \"Cluster headache\", \"C\": \"Migraine\", \"D\": \"Medication overuse headache\"}",
+    "correct_answer": "C",
+    "subspecialty": "Headache",
+    "source_file": null,
+    "exam_type": "Sample",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Sample-3",
+    "question_text": "A 55-year-old man presents with progressive weakness and atrophy of the hand and forearm muscles, along with fasciculations and hyperreflexia. Cognitive function is intact. What is the most likely diagnosis?",
+    "options": "{\"A\": \"Amyotrophic lateral sclerosis\", \"B\": \"Multiple sclerosis\", \"C\": \"Myasthenia gravis\", \"D\": \"Guillain-Barré syndrome\"}",
+    "correct_answer": "A",
+    "subspecialty": "Neuromuscular",
+    "source_file": null,
+    "exam_type": "Sample",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Sample-4",
+    "question_text": "A 28-year-old woman presents with recurrent episodes of diplopia, ptosis, and proximal limb weakness that worsen with repeated activity and improve with rest. What is the most appropriate diagnostic test?",
+    "options": "{\"A\": \"MRI brain\", \"B\": \"Electromyography (EMG)\", \"C\": \"Anti-acetylcholine receptor antibody test\", \"D\": \"Cerebrospinal fluid analysis\"}",
+    "correct_answer": "C",
+    "subspecialty": "Neuromuscular",
+    "source_file": null,
+    "exam_type": "Sample",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Sample-5",
+    "question_text": "A 70-year-old patient presents with new-onset seizures, progressive memory loss, and confusion. Brain MRI shows a solitary enhancing lesion with surrounding edema. What is the most likely diagnosis?",
+    "options": "{\"A\": \"Meningioma\", \"B\": \"Glioblastoma multiforme\", \"C\": \"Cerebral metastasis\", \"D\": \"Multiple sclerosis\"}",
+    "correct_answer": "C",
+    "subspecialty": "Neuro-oncology",
+    "source_file": null,
+    "exam_type": "Sample",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Test-1",
+    "question_text": "A 45-year-old patient presents with horizontal diplopia, facial weakness, and ataxia. MRI shows a lesion in the pons. What is the most likely diagnosis?",
+    "options": "{\"A\": \"Multiple sclerosis\", \"B\": \"Brainstem glioma\", \"C\": \"Stroke\", \"D\": \"Myasthenia gravis\"}",
+    "correct_answer": "C",
+    "subspecialty": "Vascular Neurology/Stroke",
+    "source_file": null,
+    "exam_type": "Test Batch",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Test-2",
+    "question_text": "A 62-year-old man with hypertension presents with acute onset of vertigo, nystagmus, ataxia, and dysarthria. Which vascular territory is most likely affected?",
+    "options": "{\"A\": \"Anterior cerebral artery\", \"B\": \"Middle cerebral artery\", \"C\": \"Posterior cerebral artery\", \"D\": \"Posterior inferior cerebellar artery\"}",
+    "correct_answer": "D",
+    "subspecialty": "Vascular Neurology/Stroke",
+    "source_file": null,
+    "exam_type": "Test Batch",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Test-3",
+    "question_text": "A 25-year-old woman presents with optic neuritis and has had two previous episodes of neurological symptoms affecting different areas of the CNS. MRI shows multiple periventricular white matter lesions. What is the most likely diagnosis?",
+    "options": "{\"A\": \"Multiple sclerosis\", \"B\": \"Neuromyelitis optica\", \"C\": \"Acute disseminated encephalomyelitis\", \"D\": \"Systemic lupus erythematosus\"}",
+    "correct_answer": "A",
+    "subspecialty": "Neuroimmunology",
+    "source_file": null,
+    "exam_type": "Test Batch",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Test-4",
+    "question_text": "A 30-year-old man develops severe headache, fever, and neck stiffness. CSF analysis shows 500 WBCs/mm³ with neutrophil predominance, elevated protein, and low glucose. Which organism is most likely responsible?",
+    "options": "{\"A\": \"Streptococcus pneumoniae\", \"B\": \"Neisseria meningitidis\", \"C\": \"Cryptococcus neoformans\", \"D\": \"Herpes simplex virus\"}",
+    "correct_answer": "A",
+    "subspecialty": "Neuro-infectious",
+    "source_file": null,
+    "exam_type": "Test Batch",
+    "exam_year": 2023,
+    "explanation": null
+  },
+  {
+    "question_number": "Test-5",
+    "question_text": "A 50-year-old woman presents with recurrent episodes of lancinating facial pain lasting seconds to minutes, triggered by brushing teeth. What is the most appropriate initial treatment?",
+    "options": "{\"A\": \"Carbamazepine\", \"B\": \"Amitriptyline\", \"C\": \"Botulinum toxin injections\", \"D\": \"Microvascular decompression surgery\"}",
+    "correct_answer": "A",
+    "subspecialty": "Headache",
+    "source_file": null,
+    "exam_type": "Test Batch",
+    "exam_year": 2023,
+    "explanation": null
+  }
+]

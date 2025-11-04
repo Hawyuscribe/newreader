@@ -1,0 +1,4682 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 23330998,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "A patient with features of Whipple's disease and oculomasticatory myorhythmia is being evaluated. What is the next best step in management?",
+      "options": {
+        "A": "Jejunum biopsy",
+        "B": "MRI of the brain",
+        "C": "Lumbar puncture",
+        "D": "Start antibiotics"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the diagnostic approach for Whipple's disease, a chronic bacterial infection with characteristic neurological signs (oculomasticatory myorhythmia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84739014,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "A patient with CSF showing lymphocytosis and eosinophilia due to schistosomiasis. What is the treatment?",
+      "options": {
+        "A": "Praziquantel",
+        "B": "Albendazole",
+        "C": "Ivermectin",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the specific treatment of neuroschistosomiasis, a parasitic infection of the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28478637,
+    "fields": {
+      "question_number": "Q166",
+      "question_text": "Young lady with SLE, seizures, and vitals: temperature 39\u00b0C with image of temporal lobe involvement. What is your diagnosis?",
+      "options": {
+        "A": "HSV encephalitis",
+        "B": "Cerebral venous thrombosis",
+        "C": "PRES",
+        "D": "Lupus Cerebritis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Presents a differential diagnosis scenario where HSV encephalitis (an infection) is a primary consideration due to fever, seizures, and specific temporal lobe localization, even in the context of SLE."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14091281,
+    "fields": {
+      "question_number": "Q125",
+      "question_text": "A patient with meningitis from Alhaj is found to have meningococcal meningitis. What prophylaxis should be given to close contacts (excluding rifampin)?",
+      "options": {
+        "A": "Ciprofloxacin",
+        "B": "Ceftriaxone",
+        "C": "Azithromycin",
+        "D": "Penicillin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the public health aspect (contact prophylaxis) of a specific bacterial CNS infection (meningococcal meningitis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27833206,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A case scenario presents a patient with a history of oculomasticatory myorhythmia. What is the most appropriate diagnostic procedure?",
+      "options": {
+        "A": "Biopsy from the jejunum",
+        "B": "MRI of the brain",
+        "C": "Lumbar puncture",
+        "D": "Electromyography"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the diagnostic procedure for Whipple's disease, indicated by the pathognomonic sign of oculomasticatory myorhythmia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88891913,
+    "fields": {
+      "question_number": "Q70",
+      "question_text": "A patient with CSF showing lymphocytosis and eosinophilia is diagnosed with schistosomiasis. What is the treatment?",
+      "options": {
+        "A": "Praziquantel",
+        "B": "Albendazole",
+        "C": "Ivermectin",
+        "D": "Amphotericin B"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the specific treatment of neuroschistosomiasis based on CSF findings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27913866,
+    "fields": {
+      "question_number": "Q84",
+      "question_text": "A patient who is returning from Sudan had fever, confusion, and headache. What test should you perform?",
+      "options": {
+        "A": "Thick blood film",
+        "B": "MRI",
+        "C": "Lumbar puncture",
+        "D": "Blood cultures"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Presents symptoms highly suggestive of cerebral malaria in a traveler from an endemic area and asks for the primary diagnostic test."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29903357,
+    "fields": {
+      "question_number": "Q133",
+      "question_text": "Which of the following infections is more common to cause internuclear ophthalmoplegia (INO)?",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "HIV",
+        "C": "Cysticercosis",
+        "D": "Syphilis"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Directly asks about the infectious etiologies known to cause a specific neurological sign (INO)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23342878,
+    "fields": {
+      "question_number": "Q89",
+      "question_text": "What is the most common organism responsible for bacterial meningitis?",
+      "options": {
+        "A": "Pneumococcus",
+        "B": "Neisseria meningitidis",
+        "C": "Haemophilus influenzae",
+        "D": "Listeria monocytogenes"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology (most common causative agent) of bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92496168,
+    "fields": {
+      "question_number": "Q92",
+      "question_text": "In a scenario of cavernous sinus thrombosis, what is the diagnosis?",
+      "options": {
+        "A": "Cavernous sinus thrombosis",
+        "B": "Superior sagittal sinus thrombosis",
+        "C": "Meningitis",
+        "D": "Brain abscess"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Although a thrombotic event, cavernous sinus thrombosis is frequently secondary to facial or sinus infections, making its diagnosis pertinent to neuro-infectious diseases."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53403943,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "In a scenario of an HIV patient presented with new neurological focality and brain MRI showing two non-enhancing white matter lesions, what is the likely diagnosis?",
+      "options": {
+        "A": "Progressive Multifocal Leukoencephalopathy (PML)",
+        "B": "Toxoplasmosis",
+        "C": "Primary CNS lymphoma",
+        "D": "HIV-associated neurocognitive disorder"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes the characteristic presentation and imaging findings of Progressive Multifocal Leukoencephalopathy (PML), an opportunistic viral infection (JC virus) common in HIV."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50061315,
+    "fields": {
+      "question_number": "Q182",
+      "question_text": "Patient came with neurosyphilis, VDRL positive; what are the symptoms associated with the disease?",
+      "options": {
+        "A": "Erythema nodosum",
+        "B": "Hypomelatonic macule",
+        "C": "Constricted pupils",
+        "D": "Ataxia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about the clinical manifestations (specifically Argyll Robertson pupils) of neurosyphilis, a bacterial infection affecting the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23330998,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "An HIV patient presents with confusion and blurry vision. Imaging shows non-enhancing lesions on contrast. What is the recommended management?",
+      "options": {
+        "A": "Plasma exchange (PLEX)",
+        "B": "Highly active antiretroviral therapy (HAART)",
+        "C": "Intravenous corticosteroids",
+        "D": "Empiric antifungal therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes a presentation consistent with PML in an HIV patient and asks for the primary management strategy (optimizing antiretroviral therapy)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28401439,
+    "fields": {
+      "question_number": "Q110",
+      "question_text": "Lady presented with fever, headache and neck stiffness, she had occipital decompression for Chiari malformation last week, what is the most common organism? (No pseudomonas aeruginosa)",
+      "options": {
+        "A": "Staphylococci",
+        "B": "Streptococci",
+        "C": "Escherichia coli",
+        "D": "Klebsiella pneumoniae"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Concerns the etiology (most common organism) of post-neurosurgical bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72380978,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "A patient with HIV has a brain MRI showing a single ring-enhancing lesion. What is the management?",
+      "options": {
+        "A": "Sulfadiazine and pyrimethamine",
+        "B": "Clindamycin and pyrimethamine",
+        "C": "Azithromycin and clarithromycin",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the standard empiric treatment for suspected CNS toxoplasmosis (most common cause of single ring-enhancing lesion in HIV)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24982876,
+    "fields": {
+      "question_number": "Q81",
+      "question_text": "In a case of meningitis, what prophylactic treatment should be given to family members?",
+      "options": {
+        "A": "Rifampin",
+        "B": "Ciprofloxacin",
+        "C": "Ceftriaxone",
+        "D": "No prophylaxis required"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the public health measure of post-exposure prophylaxis for close contacts of bacterial meningitis cases."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28583411,
+    "fields": {
+      "question_number": "Q130",
+      "question_text": "An HIV patient on HAART is not compliant and presents with confusion. A brain MRI shows patchy cortical and cerebellar signal enhancement. What is the best treatment?",
+      "options": {
+        "A": "Pyrimethamine",
+        "B": "Acyclovir",
+        "C": "Steroids",
+        "D": "Antifungal therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Deals with treatment options for neurological complications (likely opportunistic infections given imaging and non-compliance) in an HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70476437,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "In the scenario of an HIV patient presenting with new neurological focality and brain MRI showing two non-enhancing white matter lesions, what is the most likely diagnosis?",
+      "options": {
+        "A": "Progressive multifocal leukoencephalopathy (PML)",
+        "B": "Cerebral toxoplasmosis",
+        "C": "Primary CNS lymphoma",
+        "D": "HIV-associated neurocognitive disorder (HAND)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Repeats the classic PML presentation in HIV, asking for the diagnosis based on clinical and imaging features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58241098,
+    "fields": {
+      "question_number": "Q149",
+      "question_text": "A patient who underwent decompression for Chiari malformation two weeks ago presents with meningitis. What is the most common organism responsible for this condition?",
+      "options": {
+        "A": "Staphylococcus",
+        "B": "Pneumococcal",
+        "C": "Pseudomonas",
+        "D": "Streptococcus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Concerns the etiology (most common organism) of post-neurosurgical bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16803774,
+    "fields": {
+      "question_number": "Q97",
+      "question_text": "Patient came with neurosyphilis; VDRL positive. What are the symptoms associated with the disease?",
+      "options": {
+        "A": "Erythema nodosum",
+        "B": "Hypomelatonic macule",
+        "C": "Constricted pupils",
+        "D": "Argyll Robertson pupils"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about clinical manifestations of neurosyphilis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40937305,
+    "fields": {
+      "question_number": "Q155",
+      "question_text": "A scenario suggests subacute sclerosing panencephalitis (SSPE), and an EEG shows periodic bursts. What should be done next?",
+      "options": {
+        "A": "Brain MRI",
+        "B": "Brain biopsy",
+        "C": "Measles antibody test",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the diagnostic workup (confirmation via measles antibody testing) for SSPE, a chronic measles virus infection of the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18665089,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "A patient with HIV presents with a non-enhancing white matter mass on MRI and has not been compliant with HAART. What is the recommended treatment?",
+      "options": {
+        "A": "HAART",
+        "B": "Surgical intervention",
+        "C": "Observation",
+        "D": "Radiation therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the primary treatment (HAART) for PML, suggested by the clinical context and imaging findings in a non-compliant HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99986277,
+    "fields": {
+      "question_number": "Q136",
+      "question_text": "A patient diagnosed with HIV one month ago presents now with paraparesis. What is the most likely diagnosis?",
+      "options": {
+        "A": "HIV myelopathy",
+        "B": "HTLV-1 myelopathy",
+        "C": "CMV",
+        "D": "Toxoplasmosis"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the differential diagnosis of myelopathy in a recently diagnosed HIV patient, including direct HIV effects and opportunistic infections."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10293924,
+    "fields": {
+      "question_number": "Q98",
+      "question_text": "What is the most common bacterial meningitis?",
+      "options": {
+        "A": "Pneumococcus",
+        "B": "Meningococcal",
+        "C": "Haemophilus influenzae",
+        "D": "Listeria monocytogenes"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology (most common causative agent) of bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74910138,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "A patient presented with fever and confusion, was anemic, and had hypoglycemia, which was treated. CSF was normal along with labs. What medication should be used to treat this patient?",
+      "options": {
+        "A": "Acyclovir",
+        "B": "Artemisinin",
+        "C": "Vancomycin",
+        "D": "Ceftriaxone"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: The combination of fever, confusion, anemia, and hypoglycemia with normal CSF, potentially in a traveler (implied context from other questions), strongly suggests severe malaria, treated with Artemisinin."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11304447,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "A male from Africa presents to Saudi Arabia with fever and vague neurological symptoms, including encephalopathy. What is the most likely diagnosis?",
+      "options": {
+        "A": "Cerebral malaria",
+        "B": "Meningitis",
+        "C": "Encephalitis",
+        "D": "Stroke"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Presents a classic scenario (traveler from endemic area, fever, encephalopathy) highly suggestive of cerebral malaria."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32212025,
+    "fields": {
+      "question_number": "Q138",
+      "question_text": "In HIV-AIDS patients who are refractory to initial empiric treatment for CNS toxoplasmosis, what should be considered for a definitive diagnosis?",
+      "options": {
+        "A": "Immediate treatment with steroids.",
+        "B": "An early brain biopsy.",
+        "C": "Observation without intervention.",
+        "D": "Empiric treatment for primary CNS lymphoma."
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the diagnostic algorithm for CNS lesions in HIV, specifically the step required when empiric treatment for the most common infection (toxoplasmosis) fails."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29334919,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "What is the best management for neuro-brucellosis?",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Ceftriaxone",
+        "C": "Rifampin",
+        "D": "Streptomycin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the specific antibiotic treatment for neuro-brucellosis, a bacterial CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44312282,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "An HIV patient on highly active antiretroviral therapy (HAART) who is non-compliant developed PML, what should be done?",
+      "options": {
+        "A": "HAART",
+        "B": "Steroids",
+        "C": "Plasmapheresis",
+        "D": "Supportive care"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the management (re-initiation or optimization of HAART) of PML in the context of HIV non-compliance."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27536231,
+    "fields": {
+      "question_number": "Q123",
+      "question_text": "In a diabetic male older than 50 years, what kind of organisms do you expect to see if he develops meningitis?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Listeria monocytogenes",
+        "C": "Neisseria meningitidis",
+        "D": "Haemophilus influenzae"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of specific meningitis pathogens (Listeria) associated with certain host factors (age > 50, diabetes/immunocompromise)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24733460,
+    "fields": {
+      "question_number": "Q63",
+      "question_text": "A sickle cell patient presents with back pain and lower limb weakness. On examination, he has back tenderness. What is the most likely organism responsible for his condition?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Escherichia coli",
+        "D": "Salmonella spp."
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the likely infectious etiology (Salmonella spp.) of a suspected spinal epidural abscess or osteomyelitis in a patient with sickle cell disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80897855,
+    "fields": {
+      "question_number": "Q117",
+      "question_text": "Scenario of a diabetic patient with a history of sinusitis and focal neurological deficit. What is the diagnosis?",
+      "options": {
+        "A": "Mucormycosis",
+        "B": "Bacterial sinusitis",
+        "C": "Cerebral abscess",
+        "D": "Tuberculous meningitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Identifies the likely diagnosis (Mucormycosis) based on a classic presentation involving diabetes, sinusitis, and neurological deficits, indicating invasive fungal infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12142759,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "When should metronidazole be added to meningitis treatment?",
+      "options": {
+        "A": "Age > 50",
+        "B": "History of sinusitis, mastoiditis, or otitis media",
+        "C": "Presence of a ventriculoperitoneal shunt",
+        "D": "Recent neurosurgical procedure"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns specific antibiotic choices (adding anaerobic coverage with Metronidazole) in empiric meningitis therapy based on suspected source/risk factors."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67762088,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "What carries the worst prognosis for brain abscess?",
+      "options": {
+        "A": "Option A",
+        "D": "Option D",
+        "C": "Option C",
+        "B": "Option B"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Deals with factors influencing the prognosis of brain abscesses, an infectious condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87671513,
+    "fields": {
+      "question_number": "Q143",
+      "question_text": "In case of contact with a patient who has meningitis, what is the recommended prophylaxis?",
+      "options": {
+        "A": "Vancomycin",
+        "B": "Amoxicillin",
+        "C": "Ciprofloxacin",
+        "D": "Ceftriaxone"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns post-exposure prophylaxis recommendations for bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77018051,
+    "fields": {
+      "question_number": "Q108",
+      "question_text": "What is the primary mechanism of infection by Ameba bacteria?",
+      "options": {
+        "A": "Direct invasion through cribriform plate",
+        "B": "Hematogenous spread via the bloodstream",
+        "C": "Ingestion of contaminated food or water",
+        "D": "Transmission through insect vectors"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks about the pathophysiology (route of entry) for primary amoebic meningoencephalitis (e.g., Naegleria fowleri)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66347667,
+    "fields": {
+      "question_number": "Q148",
+      "question_text": "A patient with a long history presented with seizures and flaccid paralysis. What is the most likely cause?",
+      "options": {
+        "A": "West Nile virus (WNV)",
+        "B": "Herpes simplex virus",
+        "C": "Cytomegalovirus (CMV)",
+        "D": "Rabies virus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Presents a clinical syndrome (seizures and acute flaccid paralysis) characteristic of West Nile Virus neuroinvasive disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 3146821,
+    "fields": {
+      "question_number": "Q146",
+      "question_text": "A patient with HIV presents with deteriorated level of consciousness and a CT scan shows an enhancing mass. What is your next step in management?",
+      "options": {
+        "A": "Biopsy",
+        "B": "Start pyrimethamine + sulfadiazine",
+        "C": "Start high-dose corticosteroids",
+        "D": "Initiate antiretroviral therapy immediately"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the initial management step (empiric treatment for toxoplasmosis) for the most likely cause of an enhancing CNS mass in an HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20211022,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "What is the recommended prophylactic treatment for meningitis?",
+      "options": {
+        "A": "Rifampin",
+        "B": "Ciprofloxacin",
+        "C": "Ceftriaxone",
+        "D": "Azithromycin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about standard chemoprophylaxis for bacterial meningitis contacts."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22846650,
+    "fields": {
+      "question_number": "Q137",
+      "question_text": "A patient with schistosomiasis presents with lower limb weakness and high eosinophils in the CBC. What is the recommended treatment?",
+      "options": {
+        "A": "Praziquantel",
+        "B": "Albendazole",
+        "C": "Rifampicin",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the treatment of neuroschistosomiasis manifesting as myelopathy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53451868,
+    "fields": {
+      "question_number": "Q171",
+      "question_text": "A patient with encephalopathy, EEG showed slow bilateral synchronous high amplitude spikes. What is the likely cause?",
+      "options": {
+        "A": "Measles",
+        "B": "Herpes simplex virus",
+        "C": "Varicella zoster virus",
+        "D": "Cytomegalovirus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Associates a characteristic EEG pattern (periodic complexes) seen in SSPE with its underlying viral cause (Measles)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82336520,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "Corticosteroids with an antibiotic regimen for meningitis help with which of the following?",
+      "options": {
+        "A": "Decrease mortality",
+        "B": "Decrease deafness",
+        "C": "Reduce seizure frequency",
+        "D": "Shorten hospital stay"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Concerns the established benefit (reducing hearing loss) of adjunctive corticosteroid use in specific types of bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82217532,
+    "fields": {
+      "question_number": "Q142",
+      "question_text": "When suspicion for CNS toxoplasmosis is low based on brain imaging, CD4 count, and negative serology, what may be considered?",
+      "options": {
+        "A": "Proceeding directly for a brain biopsy.",
+        "B": "Starting empirical treatment for tuberculosis.",
+        "C": "Monitoring the patient without further action.",
+        "D": "Immediate referral to neurosurgery."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the diagnostic algorithm for CNS lesions in HIV when the most common cause (toxoplasmosis) is unlikely, necessitating biopsy for definitive diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99020711,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A patient with meningitis from Alhaj is found to have meningococcal meningitis. What prophylaxis should be given to close contacts?",
+      "options": {
+        "A": "Ciprofloxacin (adult)",
+        "B": "Ceftriaxone (age < 15)",
+        "C": "Rifampin",
+        "D": "Azithromycin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Specifies prophylaxis recommendations for meningococcal meningitis contacts based on age."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22397640,
+    "fields": {
+      "question_number": "Q129",
+      "question_text": "A young girl presents with a complaint of back pain, fever, and night sweats. She shows signs of stroke on examination. What is the best diagnostic test?",
+      "options": {
+        "A": "Blood Culture",
+        "B": "Brain CT",
+        "C": "Contrast brain CT",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The constellation of systemic infection symptoms (fever, night sweats, back pain possibly indicating vertebral osteo/discitis or endocarditis) plus stroke signs suggests an infectious source (like endocarditis with septic emboli). Blood cultures are essential."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24021849,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "In neuro-brucellosis, what is the recommended treatment?",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Ceftriaxone",
+        "C": "Rifampicin",
+        "D": "Streptomycin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the specific antibiotic treatment for neuro-brucellosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94401279,
+    "fields": {
+      "question_number": "Q158",
+      "question_text": "Tropical spastic paraparesis due to human T-lymphotropic virus type 1 (HTLV-1) typically occurs in which of the following regions?",
+      "options": {
+        "A": "Endemic regions (equatorial and South Africa, the Caribbean, parts of Asia, Central and South America)",
+        "B": "United States",
+        "C": "Europe",
+        "D": "Australia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the epidemiology and geographical distribution of HTLV-1 infection, the cause of TSP/HAM."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15654029,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "An HIV patient with a brain CT showing multiple ring-enhancing lesions, what is the next step?",
+      "options": {
+        "A": "CSF PCR",
+        "B": "Serology (most likely Toxoplasmosis) Ig",
+        "C": "Biopsy",
+        "D": "Empiric anti-toxoplasma therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the initial diagnostic considerations (serology often checked, though empiric treatment is standard) for suspected CNS toxoplasmosis in HIV based on typical imaging."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73794104,
+    "fields": {
+      "question_number": "Q176",
+      "question_text": "A diabetic patient came to the ER with a black lesion in her nostril. What is the treatment?",
+      "options": {
+        "A": "Amphotericin",
+        "B": "Fluconazole",
+        "C": "Voriconazole",
+        "D": "Itraconazole"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a classic sign of rhinocerebral mucormycosis in a diabetic patient and asks for the primary antifungal treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79154910,
+    "fields": {
+      "question_number": "Q144",
+      "question_text": "Which infection causes bilateral internuclear ophthalmoplegia (INO)?",
+      "options": {
+        "A": "TB",
+        "B": "HSV",
+        "C": "Cysticercosis",
+        "D": "HIV"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly asks about infectious etiologies known to cause bilateral INO."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79373135,
+    "fields": {
+      "question_number": "Q150",
+      "question_text": "What is the most common organism associated with polyradiculopathy in HIV patients?",
+      "options": {
+        "A": "Cytomegalovirus (CMV)",
+        "B": "Epstein-Barr virus (EBV)",
+        "C": "Human immunodeficiency virus (HIV)",
+        "D": "Varicella-zoster virus (VZV)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks for the specific common infectious cause (CMV) of polyradiculopathy in the context of HIV infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52082464,
+    "fields": {
+      "question_number": "Q156",
+      "question_text": "In the case of tuberculosis (TB), which artery is most commonly involved?",
+      "options": {
+        "A": "Middle cerebral artery (MCA)",
+        "B": "Anterior cerebral artery (ACA)",
+        "C": "Posterior cerebral artery (PCA)",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Deals with a specific complication (vasculitis/stroke, often affecting MCA territory) associated with tuberculous meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89440229,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "In a scenario about mucormycosis (nasal dark lesion and history of diabetes mellitus), what is the likely diagnosis?",
+      "options": {
+        "A": "Mucormycosis",
+        "B": "Aspergillosis",
+        "C": "Necrotizing fasciitis",
+        "D": "Wegener's granulomatosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the diagnosis based on a classic clinical description of mucormycosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41945752,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "An HIV patient comes to the clinic with a single ring-enhancing lesion in the brain. What is the next step in management?",
+      "options": {
+        "A": "CSF analysis",
+        "B": "Start antibiotics",
+        "C": "Toxoplasmosis management",
+        "D": "MRI"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the initial management strategy (\"Toxoplasmosis management,\" i.e., empiric therapy) for the most likely cause of a single ring-enhancing lesion in an HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22392776,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "What is the confirmation method for Whipple disease?",
+      "options": {
+        "A": "Jejunal biopsy",
+        "B": "Blood test",
+        "C": "MRI",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the gold standard diagnostic test (jejunal biopsy) for Whipple's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29321873,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "In a scenario about mucormycosis (nasal dark lesion and history of DM), what is the likely diagnosis?",
+      "options": {
+        "A": "Mucormycosis",
+        "B": "Aspergillosis",
+        "C": "Necrotizing fasciitis",
+        "D": "Wegener's granulomatosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the diagnosis based on a classic clinical description of mucormycosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53161915,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "A healthy individual returns from hiking in the USA and presents with radiculopathy. CSF analysis shows WBC count of 22 with 90% lymphocytes, high protein, and normal glucose. What is the most likely diagnosis?",
+      "options": {
+        "A": "Lyme disease",
+        "B": "Aspergillosis",
+        "C": "Tuberculosis",
+        "D": "Pneumococcal infection"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Presents a clinical scenario (hiking exposure, radiculopathy) and CSF findings (lymphocytic pleocytosis) characteristic of Lyme neuroborreliosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14094376,
+    "fields": {
+      "question_number": "Q174",
+      "question_text": "An HIV patient\u2019s MRI showed multiple brain abscesses. What is the causing organism?",
+      "options": {
+        "A": "Fungal",
+        "B": "Bacterial",
+        "C": "Parasite",
+        "D": "Viral"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about the typical category of pathogen causing multiple brain abscesses/ring-enhancing lesions in HIV (most commonly parasitic - Toxoplasma)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40830260,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "A patient with sickle cell anemia presents with low back pain and fever. What is the most likely organism responsible for these symptoms?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Salmonella species",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Escherichia coli"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the likely bacterial etiology (Staphylococcus aureus being the most common overall for osteomyelitis/epidural abscess, though Salmonella is also high risk in SCD) of spinal infection in a sickle cell patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11357958,
+    "fields": {
+      "question_number": "Q111",
+      "question_text": "An HIV patient on HAART has had a fever for a few days and confusion. After being diagnosed with possible meningitis and started on Ceftriaxone, CSF showed gram-positive rods. What else should be started?",
+      "options": {
+        "A": "Vancomycin",
+        "B": "Ampicillin",
+        "C": "Metronidazole",
+        "D": "Dexamethasone"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on adjusting empiric meningitis treatment based on Gram stain results (Gram-positive rods suggest Listeria, requiring Ampicillin) in an immunocompromised host."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41323975,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "Which of the following neuro manifestations is associated with Whipple disease?",
+      "options": {
+        "A": "Oculomasticatory myorhythmia",
+        "B": "Myasthenia gravis",
+        "C": "Multiple sclerosis",
+        "D": "Amyotrophic lateral sclerosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the specific, pathognomonic neurological sign associated with Whipple's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28187715,
+    "fields": {
+      "question_number": "Q151",
+      "question_text": "A male nurse was exposed to a patient with meningococcal meningitis. What should be done?",
+      "options": {
+        "A": "Give rifampin",
+        "B": "Immediate vaccination",
+        "C": "Administer ceftriaxone prophylaxis",
+        "D": "Observe for symptoms without prophylaxis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Concerns post-exposure prophylaxis for meningococcal meningitis in a healthcare setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35241510,
+    "fields": {
+      "question_number": "Q145",
+      "question_text": "In the case of cavernous mucormycosis, which statement is true?",
+      "options": {
+        "A": "Occurs through direct invasion",
+        "B": "Slowly progressive",
+        "C": "Occurs through haematological spread",
+        "D": "Very common infection"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the pathophysiology (mechanism of spread) of mucormycosis affecting the cavernous sinus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9087486,
+    "fields": {
+      "question_number": "Q104",
+      "question_text": "When should Metronidazole be added to a patient started on empirical anti-meningitis coverage?",
+      "options": {
+        "A": "History of Mastoiditis",
+        "B": "Presence of brain abscess",
+        "C": "Suspected anaerobic bacterial infection",
+        "D": "Recent neurosurgical procedure"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Concerns the indication (suspicion of anaerobic source like mastoiditis) for adding specific antibiotic coverage in empiric meningitis treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84238641,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "A diabetic patient comes to the ER with a black lesion in her nostril. What is the treatment?",
+      "options": {
+        "A": "Amphotericin",
+        "B": "Voriconazole",
+        "C": "Surgical debridement",
+        "D": "Clotrimazole"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes likely invasive fungal sinusitis (mucormycosis), a severe infection common in diabetics, and asks for treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55004148,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "In a scenario involving an HIV-positive patient with a low CD4 count and an MRI showing multiple ring-enhancing lesions, what is the most likely responsible organism?",
+      "options": {
+        "A": "Virus",
+        "B": "Parasite",
+        "C": "Bacteria",
+        "D": "Fungus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on identifying the pathogen causing CNS lesions in an immunocompromised (HIV) patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55004148,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "In a scenario involving an HIV-positive patient with a low CD4 count and an MRI showing multiple ring-enhancing lesions, what is the most likely responsible organism?",
+      "options": {
+        "A": "Virus",
+        "B": "Parasite",
+        "C": "Bacteria",
+        "D": "Fungus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on identifying the pathogen causing CNS lesions in an immunocompromised (HIV) patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80679568,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "A case scenario of a young male IV drug user presented with fever and hemiparesis. What will you do?",
+      "options": {
+        "A": "Start antibiotics",
+        "B": "Anti-platelets",
+        "C": "Anticoagulation",
+        "D": "tPA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: The combination of IV drug use, fever, and focal neurological deficit strongly suggests infective endocarditis with septic emboli causing a stroke or abscess. The primary management decision involves addressing the infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22563142,
+    "fields": {
+      "question_number": "Q115",
+      "question_text": "A patient presented with focal numbness on a skin lesion. Investigation revealed nerve enlargement around the lesion, and there is an attached picture of a reddish skin patch. What is the diagnosis?",
+      "options": {
+        "A": "Herpes zoster",
+        "B": "Erythema nodosum",
+        "C": "Leprosy (Hansen's disease)",
+        "D": "Psoriasis"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The description (numbness, skin lesion, nerve enlargement) is highly suggestive of leprosy (Hansen's disease), a chronic infectious disease primarily affecting peripheral nerves and skin."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70476179,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "An HIV patient has a brain CT showing multiple ring-enhancing lesions. What is the next step in management?",
+      "options": {
+        "A": "CSF PCR",
+        "B": "Serology",
+        "C": "Biopsy",
+        "D": "Empirical anti-toxoplasma therapy"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Concerns the diagnostic workup of CNS lesions (likely opportunistic infections like toxoplasmosis) in an HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56680139,
+    "fields": {
+      "question_number": "Q101",
+      "question_text": "A patient presented with fever and visual loss. Fundoscopic examination reported retinal whitening, orange discoloration of vessels, and multiple retinal hemorrhages. What is the diagnosis?",
+      "options": {
+        "A": "Malaria",
+        "B": "Syphilis",
+        "C": "Cytomegalovirus (CMV) retinitis",
+        "D": "Toxoplasmosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes symptoms and specific fundoscopic findings suggestive of infectious retinitis (e.g., CMV retinitis in immunocompromised, syphilitic retinitis, or potentially severe malaria)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14008452,
+    "fields": {
+      "question_number": "Q163",
+      "question_text": "A 30-year-old male patient with a history of lupus who is on steroids and has undergone a kidney transplant presents with fever and headache. MRI shows temporal enhancement. What is the most likely diagnosis?",
+      "options": {
+        "A": "Infection",
+        "B": "Tumor",
+        "C": "Vasculitis",
+        "D": "Stroke"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the differential diagnosis in an immunocompromised patient (transplant, steroids, lupus) with neurological symptoms and temporal enhancement, where opportunistic infection (like HSV encephalitis or fungal infection) is a prime concern."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83025175,
+    "fields": {
+      "question_number": "Q147",
+      "question_text": "In a case of Creutzfeldt-Jakob disease (CJD) regarding organ donation, which statement is correct?",
+      "options": {
+        "A": "You can take the kidney and liver but not the cornea",
+        "B": "If brain biopsy is negative, use the organs",
+        "C": "Do not take any organ",
+        "D": "Only corneal transplantation is contraindicated"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: CJD is a prion disease, often grouped under neuro-infectious/transmissible spongiform encephalopathies. The question directly addresses the transmissibility risk via organ donation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62542331,
+    "fields": {
+      "question_number": "Q159",
+      "question_text": "In an HIV patient with a non-enhancing lesion in the parietal lobe, which statement is true?",
+      "options": {
+        "A": "Prognosis is better if CD4 count increases and viral load is low.",
+        "B": "There is treatment for this condition.",
+        "C": "The lesion typically shows ring enhancement on MRI.",
+        "D": "It is most commonly caused by Toxoplasma gondii infection."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with the prognosis and management implications of a specific type of CNS lesion (likely PML) in an HIV patient, an opportunistic infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86851198,
+    "fields": {
+      "question_number": "Q135",
+      "question_text": "What is the most effective prevention method for post-herpetic neuralgia?",
+      "options": {
+        "A": "Steroids",
+        "B": "Carbamazepine (CMZ)",
+        "C": "Anti-viral therapy",
+        "D": "Pregabalin"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the prevention of a complication (PHN) arising directly from an infection (Herpes Zoster/Shingles)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84048827,
+    "fields": {
+      "question_number": "Q153",
+      "question_text": "A 16-year-old boy has behavior issues, and his teacher reports a decrease in performance in school. He also sleeps a lot. What condition might be indicated by an EEG showing signs of subacute sclerosing panencephalitis (SSPE)?",
+      "options": {
+        "A": "Multiple sclerosis",
+        "B": "Subacute sclerosing panencephalitis (SSPE)",
+        "C": "Attention deficit hyperactivity disorder (ADHD)",
+        "D": "Autism spectrum disorder"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on recognizing the clinical presentation and EEG findings of SSPE, a rare progressive encephalitis caused by persistent measles virus infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12460547,
+    "fields": {
+      "question_number": "Q173",
+      "question_text": "A stroke patient has a fever, and cardiac consultation showed a pansystolic murmur. What is the treatment?",
+      "options": {
+        "A": "Antiplatelets",
+        "B": "Antibiotics",
+        "C": "Anticoagulants",
+        "D": "Thrombolytic therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The scenario strongly implies infective endocarditis causing septic emboli leading to stroke. The treatment question hinges on addressing the underlying infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78726432,
+    "fields": {
+      "question_number": "Q120",
+      "question_text": "A patient presents with a one-month history of increased thirst, headache, fever, and personality changes. Brain MRI shows bilateral cortical and subcortical hypodensities on T2 involving the frontal, parietal, and occipital lobes, hypothalamus, midbrain, pons, and medulla. Lumbar puncture shows less than 20 WBCs (99% lymphocytes), low glucose, and high protein, with negative culture. What is the most likely diagnosis?",
+      "options": {
+        "A": "Neurosarcoidosis",
+        "B": "NeuroTB",
+        "C": "NeuroBrucella",
+        "D": "Lyme disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Presents a case of subacute/chronic meningoencephalitis with specific CSF findings (low glucose, lymphocytic pleocytosis) and asks for the infectious or inflammatory cause."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70208611,
+    "fields": {
+      "question_number": "Q139",
+      "question_text": "A patient is comatose, with retinal findings typical for neuro-retinitis. What is the diagnosis?",
+      "options": {
+        "A": "Malaria",
+        "B": "Syphilis",
+        "C": "Lyme",
+        "D": "HCV"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks to identify the infectious cause based on neurological state (coma) and specific ocular finding (neuro-retinitis), pointing towards infections like syphilis or Bartonella."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9944559,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "In the same scenario [Implied: Likely Q62 context - diabetic with black nostril lesion/mucormycosis], what is the treatment for the infection?",
+      "options": {
+        "A": "Fluconazole",
+        "B": "Amphotericin B",
+        "C": "Voriconazole",
+        "D": "Itraconazole"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Directly asks for the antifungal treatment for a specific suspected infection (likely Mucormycosis based on typical context pairing with Q62)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20534109,
+    "fields": {
+      "question_number": "Q109",
+      "question_text": "A 79-year-old female has a 4-week history of malaise, low-grade fever, and altered mental status. She is found to have diffuse flaccid weakness in all four limbs. What is the diagnosis?",
+      "options": {
+        "A": "West Nile Virus",
+        "B": "Guillain-Barr\u00e9 Syndrome",
+        "C": "Multiple Sclerosis",
+        "D": "Myasthenia Gravis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The combination of fever, altered mental status, and acute flaccid paralysis is characteristic of neuroinvasive arboviral infections, particularly West Nile Virus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91497688,
+    "fields": {
+      "question_number": "Q116",
+      "question_text": "What is the most common cause of bacterial meningitis?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Neisseria meningitidis",
+        "C": "Haemophilus influenzae",
+        "D": "Listeria monocytogenes"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Directly asks about the etiology of bacterial meningitis, a core neuro-infectious topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79861224,
+    "fields": {
+      "question_number": "Q141",
+      "question_text": "A case of sinusitis is presented with a history of headache, proptosis, and ocular dysmotility. Which of the following is the most appropriate treatment?",
+      "options": {
+        "A": "Metronidazole",
+        "B": "Fluconazole",
+        "C": "Amphotericin",
+        "D": "Flucytosine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes orbital apex syndrome/cavernous sinus involvement secondary to sinusitis, often caused by invasive fungal infection (like Mucor or Aspergillus) or aggressive bacteria, requiring specific antimicrobial therapy (Amphotericin is key for Mucor)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67409198,
+    "fields": {
+      "question_number": "Q140",
+      "question_text": "What is the benefit of using steroids at the initiation of meningitis treatment?",
+      "options": {
+        "A": "Decrease hospitalization period",
+        "B": "Decrease the risk of deafness",
+        "C": "Decrease risk of aspiration",
+        "D": "Reduce cerebral edema"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses a specific treatment adjunct (steroids) used in bacterial meningitis to mitigate specific complications, particularly hearing loss."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18303506,
+    "fields": {
+      "question_number": "Q60",
+      "question_text": "Whipple disease is caused by which of the following organisms?",
+      "options": {
+        "A": "Mycobacterium leprae",
+        "B": "Tropheryma whipplei",
+        "C": "Treponema pallidum",
+        "D": "Clostridium botulinum"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the specific bacterial cause of Whipple disease, a systemic infection with neurological manifestations."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85206404,
+    "fields": {
+      "question_number": "Q157",
+      "question_text": "What is the most common cause of polyradiculopathy, without mention of immune status?",
+      "options": {
+        "A": "Cytomegalovirus (CMV)",
+        "B": "Tuberculosis (TB)",
+        "C": "Lyme disease",
+        "D": "Varicella zoster virus (VZV)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about infectious etiologies causing polyradiculopathy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88597883,
+    "fields": {
+      "question_number": "Q131",
+      "question_text": "A male patient from Africa, an illegal resident in Saudi Arabia, was brought to the hospital after not eating well for a long time. He presented with headache and fever. CSF analysis showed elevated WBC (571, monoclonal cells predominant), high protein, and low glucose. Gram stain showed no organism. Which of the following is the most likely cause of his condition?",
+      "options": {
+        "A": "Plasmodium falciparum",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Listeria monocytogenes",
+        "D": "Cryptococcus neoformans"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Presents a classic scenario (origin, symptoms, CSF profile with low glucose, high protein, lymphocytosis, negative Gram stain) pointing towards tuberculous meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31101826,
+    "fields": {
+      "question_number": "Q112",
+      "question_text": "A scenario suggestive of West Nile virus encephalitis is presented. What is expected to be found on CSF analysis?",
+      "options": {
+        "A": "High protein",
+        "B": "Low glucose",
+        "C": "Neutrophilic (or Lymphocytic) predominant",
+        "D": "Normal opening pressure"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks about the characteristic CSF findings in a specific viral encephalitis (West Nile Virus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40859612,
+    "fields": {
+      "question_number": "Q154",
+      "question_text": "Which of the following is a common complication of cerebral malaria?",
+      "options": {
+        "A": "Encephalopathy",
+        "B": "Seizures",
+        "C": "Retinal hemorrhages",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the neurological complications of a specific parasitic infection (Malaria)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79030340,
+    "fields": {
+      "question_number": "Q100",
+      "question_text": "Patient found to have positive poliovirus IgG, what is the most common presentation?",
+      "options": {
+        "A": "Asymptomatic",
+        "B": "Flu-like symptoms",
+        "C": "Aseptic meningitis",
+        "D": "Paralytic poliomyelitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks about the clinical spectrum of poliovirus infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37500489,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A patient with a known case of diabetes mellitus presents with a black spot on the nose. What is the best management option?",
+      "options": {
+        "A": "Amphotericin B",
+        "B": "Fluconazole",
+        "C": "Surgical debridement",
+        "D": "Voriconazole"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Repeats the likely mucormycosis scenario in a diabetic patient, asking for appropriate antifungal treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84238641,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "An HIV patient on HAART (not compliant) developed PML. What should be done next?",
+      "options": {
+        "A": "Restart or optimize HAART",
+        "B": "Administer steroids",
+        "C": "Start intravenous immunoglobulin (IVIG)",
+        "D": "Perform brain biopsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Deals with the management of Progressive Multifocal Leukoencephalopathy (PML), an opportunistic viral infection (JC virus), in the context of HIV. Optimizing immune status via HAART is key."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26841042,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "In a case of HSV encephalitis, what would you expect to find in the CSF?",
+      "options": {
+        "A": "Pleocytosis with red blood cells",
+        "B": "Elevated protein with normal glucose",
+        "C": "Neutrophilic predominance without red blood cells",
+        "D": "Low protein and low glucose"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about characteristic CSF findings (lymphocytic pleocytosis often with RBCs due to hemorrhagic necrosis) in Herpes Simplex Virus encephalitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49449828,
+    "fields": {
+      "question_number": "Q128",
+      "question_text": "A patient with HIV presents with confusion. A CT scan shows multiple enhancing masses in the brain. Upon performing a lumbar puncture and CSF analysis, which test should you consider sending?",
+      "options": {
+        "A": "Nocardia test",
+        "B": "HSV test",
+        "C": "Cryptococcus antigen test",
+        "D": "TB test"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the differential diagnosis and appropriate CSF testing for opportunistic CNS infections (like Cryptococcus, TB, Toxoplasma - though Toxo is usually serology/empirical tx first) in an HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31771616,
+    "fields": {
+      "question_number": "Q88",
+      "question_text": "In a scenario of mucormycosis, what is the route of infection?",
+      "options": {
+        "A": "Direct invasion (through emissary vein)",
+        "B": "Hematogenous spread",
+        "C": "Lymphatic dissemination",
+        "D": "Airborne inhalation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the pathogenesis/spread mechanism of mucormycosis, an invasive fungal infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53315042,
+    "fields": {
+      "question_number": "Q170",
+      "question_text": "An HIV patient has an MRI typical for neurocysticercosis. What is the cause?",
+      "options": {
+        "A": "Taenia solium",
+        "B": "Toxoplasma gondii",
+        "C": "Cryptococcus neoformans",
+        "D": "Mycobacterium tuberculosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the causative organism (Taenia solium) of neurocysticercosis, a parasitic brain infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44333763,
+    "fields": {
+      "question_number": "Q169",
+      "question_text": "Patient came with orange retina; what is the diagnosis?",
+      "options": {
+        "A": "Syphilis",
+        "B": "Brucellosis",
+        "C": "Bartonella",
+        "D": "Malaria"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the infectious diagnosis based on a specific retinal finding, potentially linking to infections like Syphilis or Bartonella (Cat Scratch Disease) causing neuroretinitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23778491,
+    "fields": {
+      "question_number": "Q175",
+      "question_text": "A patient has bilateral facial weakness, and a lumbar puncture showed high white blood cell count. A picture showed erythema migrans. What is the treatment?",
+      "options": {
+        "A": "Ceftriaxone",
+        "B": "Acyclovir",
+        "C": "Prednisone",
+        "D": "Amoxicillin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a classic presentation of neuroborreliosis (Lyme disease) - bilateral facial palsy, CSF pleocytosis, and erythema migrans rash - and asks for the appropriate antibiotic treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82347791,
+    "fields": {
+      "question_number": "Q121",
+      "question_text": "What is the most common sporadic fatal viral meningoencephalitis worldwide?",
+      "options": {
+        "A": "EBV",
+        "B": "HSV1",
+        "C": "HHV6",
+        "D": "CMV"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks to identify the most common cause of severe viral encephalitis (HSV-1)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17702445,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "A patient presents with personality changes, headaches, and increased thirst for months. MRI shows hyperintensity in the cortical, subcortical, and cerebellar areas, with CSF analysis revealing low glucose, high protein (58), and lymphocytic predominance. What is the likely cause?",
+      "options": {
+        "A": "TB meningoencephalitis",
+        "B": "Neurosarcoidosis",
+        "C": "Viral encephalitis",
+        "D": "Autoimmune encephalitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Presents a subacute/chronic meningoencephalitis picture with CSF findings suggestive of infectious (like TB) or inflammatory causes, requiring differentiation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23976263,
+    "fields": {
+      "question_number": "Q77",
+      "question_text": "A 35-year-old female has a history of back pain and progressive weakness, with normal brain and spine MRI. She mentioned she came from Africa. What is the likely diagnosis?",
+      "options": {
+        "A": "Vacuolar myelopathy (painless, no back pain)",
+        "B": "Lymphoma",
+        "C": "HTLV-1 associated myelopathy",
+        "D": "Multiple sclerosis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on diagnosing a myelopathy potentially related to infectious causes (like HIV-associated vacuolar myelopathy or HTLV-1) given the demographics and presentation, despite MRI being normal."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47694270,
+    "fields": {
+      "question_number": "Q122",
+      "question_text": "In a case of bacterial meningitis, what is the most common organism responsible?",
+      "options": {
+        "A": "Pneumococcus",
+        "B": "Neisseria meningitidis",
+        "C": "Haemophilus influenzae",
+        "D": "Listeria monocytogenes"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly asks for the most common bacterial cause of meningitis (Streptococcus pneumoniae/Pneumococcus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76692959,
+    "fields": {
+      "question_number": "Q249",
+      "question_text": "What is true about herpes encephalitis?",
+      "options": {
+        "A": "HSV-2 is the most common cause in adults.",
+        "B": "Fever is not a significant symptom.",
+        "C": "The dose of acyclovir is 10 mg/kg every 8 hours for 14-21 days.",
+        "D": "Viral load is not associated with the severity of the disease."
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge about the specifics (etiology, treatment dose) of HSV encephalitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92496168,
+    "fields": {
+      "question_number": "Q92",
+      "question_text": "An elderly patient with a sinus infection presents with meningitis. What is the appropriate treatment?",
+      "options": {
+        "A": "Ceftriaxone, vancomycin",
+        "B": "Metronidazole, vancomycin",
+        "C": "Metronidazole, ceftriaxone",
+        "D": "Ampicillin, gentamicin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on selecting appropriate empiric antibiotics for bacterial meningitis secondary to sinusitis, considering likely pathogens."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21014808,
+    "fields": {
+      "question_number": "Q99",
+      "question_text": "A diabetic patient with a runny nose and epistaxis presents with diplopia, ophthalmoplegia, and V1 and V2 sensory defects. Examination did not show proptosis. What is the diagnosis?",
+      "options": {
+        "A": "Mucormycosis",
+        "B": "Cavernous carotid fistula",
+        "C": "Tolosa-Hunt syndrome",
+        "D": "Orbital cellulitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes symptoms highly suggestive of orbital apex syndrome or cavernous sinus syndrome in a diabetic, strongly pointing towards invasive fungal infection (mucormycosis) even without proptosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58495979,
+    "fields": {
+      "question_number": "Q127",
+      "question_text": "What is the most common site of infection in neural infections?",
+      "options": {
+        "A": "Cervical",
+        "B": "Lumbar",
+        "C": "Sacral",
+        "D": "Cranial"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the epidemiology/location of nervous system infections (likely referring to CNS vs PNS or specific CNS compartments)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48763821,
+    "fields": {
+      "question_number": "Q167",
+      "question_text": "A 21-year-old female, pregnant at 27 weeks and living on a dairy farm, presents with a history of meningitis and shock. CSF analysis shows high WBC count around 9000, high protein, and glucose of 19. What is the best empirical antibiotic treatment?",
+      "options": {
+        "A": "Vancomycin + Chloramphenicol + Cefotaxime (3rd generation cephalosporin)",
+        "B": "Vancomycin + Cefotaxime + Ampicillin",
+        "C": "Meropenem + Bactrim + Vancomycin",
+        "D": "Vancomycin + Ceftriaxone"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the empirical antibiotic treatment for bacterial meningitis, strongly suggesting Listeria given the clinical context (pregnancy, dairy farm)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26628925,
+    "fields": {
+      "question_number": "Q168",
+      "question_text": "A middle-aged male patient with a history of headache reports fever, night sweats, and weight loss a few weeks ago. An MRI of the brain with contrast was performed. He has a history of head injury from a few years ago. What is the most likely diagnosis?",
+      "options": {
+        "A": "Subdural abscess",
+        "B": "Tuberculosis meningitis",
+        "C": "Epidural empyema",
+        "D": "Subdural empyema"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The clinical presentation (constitutional symptoms, headache) and implied MRI findings in a patient with risk factors point towards a CNS infectious process like TB meningitis or an intracranial abscess/empyema."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94040412,
+    "fields": {
+      "question_number": "Q107",
+      "question_text": "An elderly patient developed a painful Herpes Zoster rash. Five days after the pain subsided, she developed confusion and encephalopathy. She was prescribed analgesia medication for her pain. What is the diagnosis?",
+      "options": {
+        "A": "Herpes Zoster encephalitis",
+        "B": "Drug induced confusion",
+        "C": "Postherpetic neuralgia",
+        "D": "Delirium due to systemic infection"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The core concept is diagnosing a neurological complication (encephalitis) directly resulting from a Varicella Zoster Virus reactivation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79226544,
+    "fields": {
+      "question_number": "Q152",
+      "question_text": "Malaria is caused by which species when the CNS is involved?",
+      "options": {
+        "A": "Plasmodium falciparum",
+        "B": "Plasmodium vivax",
+        "C": "Plasmodium ovale",
+        "D": "Plasmodium malariae"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Directly asks about the specific infectious agent responsible for cerebral malaria, a CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8701264,
+    "fields": {
+      "question_number": "Q118",
+      "question_text": "A patient with HIV and a CD4 count of 60 presents with a single ring-enhancing lesion at the white-grey matter junction and minimal edema. What is the next step in management?",
+      "options": {
+        "A": "LP",
+        "B": "Brain biopsy",
+        "C": "Chest X-ray",
+        "D": "Start sulfadiazine plus pyrimethamine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the initial management approach for a suspected opportunistic CNS infection (likely Toxoplasmosis vs. lymphoma) in an AIDS patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18370075,
+    "fields": {
+      "question_number": "Q161",
+      "question_text": "A 35-year-old female has a history of back pain and progressive weakness, with normal brain and spine MRI. She mentioned that she came from Africa. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vacuolar myelopathy",
+        "B": "Multiple sclerosis",
+        "C": "Amyotrophic lateral sclerosis",
+        "D": "Spinal muscular atrophy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: The clinical picture combined with geographic origin suggests HIV-associated vacuolar myelopathy, an infectious/inflammatory complication."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68217936,
+    "fields": {
+      "question_number": "Q105",
+      "question_text": "A patient was brought to the emergency department with fever and confusion. Later, he developed a seizure, and an MRI of the brain shows hyperintensity in the left temporal lobe. What is expected to be found on CSF analysis?",
+      "options": {
+        "A": "Lymphocytes with RBC",
+        "B": "Neutrophilic pleocytosis with normal glucose",
+        "C": "Elevated protein with normal cell count",
+        "D": "Eosinophilic predominance with low glucose"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The clinical presentation and MRI findings are classic for Herpes Simplex Virus (HSV) encephalitis; the question asks about expected CSF findings in this infectious context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88070621,
+    "fields": {
+      "question_number": "Q132",
+      "question_text": "What is the most common cause of sporadic fatal meningoencephalitis?",
+      "options": {
+        "A": "HSV1",
+        "B": "EBV",
+        "C": "CMV",
+        "D": "HPV"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the specific etiologic agent (virus) responsible for the most common form of sporadic viral encephalitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56392663,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "What is the most common location of Varicella Zoster Virus (VZV) in the neuronal axis?",
+      "options": {
+        "A": "Cervical",
+        "B": "Lumbar",
+        "C": "Thoracic",
+        "D": "Sacral"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Concerns the pathophysiology and anatomical location of viral latency for VZV, directly related to the infectious process."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73221858,
+    "fields": {
+      "question_number": "Q102",
+      "question_text": "What should be done to decrease the risk of post-herpetic neuralgia?",
+      "options": {
+        "A": "Anti-viral medication",
+        "B": "Gabapentin",
+        "C": "IV lidocaine",
+        "D": "Another analgesic"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the prevention strategy (using antivirals) for a direct complication (post-herpetic neuralgia) arising from VZV infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4296850,
+    "fields": {
+      "question_number": "Q160",
+      "question_text": "In an HIV patient with multiple ring-enhancing lesions, which statement is true?",
+      "options": {
+        "A": "Starting antiretroviral therapy improved cognitive outcomes.",
+        "B": "CMV infection occurred early in the disease.",
+        "C": "Negative Indian ink excludes Cryptococcus.",
+        "D": "Complications of HIV are only related to CD4 count."
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Evaluates understanding of the management principles, diagnostic limitations, and complications associated with CNS opportunistic infections in HIV."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48698149,
+    "fields": {
+      "question_number": "Q126",
+      "question_text": "A patient with neurobrucellosis is typically treated with which of the following antibiotics during the first 1-2 months?",
+      "options": {
+        "A": "Ceftriaxone",
+        "B": "Doxycycline",
+        "C": "Rifampin",
+        "D": "Ceftriaxone and Doxycycline"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Directly tests knowledge of the standard antibiotic treatment regimen for a specific CNS bacterial infection (Neurobrucellosis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66895433,
+    "fields": {
+      "question_number": "Q94",
+      "question_text": "A young patient with a history of CNS infection presents with fever and CSF pleocytosis. Cultures and gram stains are negative, and HSV PCR is also negative. What is the next step in management?",
+      "options": {
+        "A": "Acyclovir",
+        "B": "Paracetamol",
+        "C": "Repeat lumbar puncture",
+        "D": "Start broad-spectrum antibiotics"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Addresses the clinical decision-making process (specifically regarding empiric antiviral treatment) in a patient with suspected but unproven CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60253148,
+    "fields": {
+      "question_number": "Q96",
+      "question_text": "In a patient with HIV presenting with progressive multifocal leukoencephalopathy (PML), what is the recommended treatment?",
+      "options": {
+        "A": "HAART",
+        "B": "Steroids",
+        "C": "Intravenous immunoglobulin (IVIG)",
+        "D": "Antiviral therapy with acyclovir"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks for the primary treatment strategy for PML, an opportunistic viral infection of the CNS occurring in immunocompromised individuals, particularly those with HIV."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39492232,
+    "fields": {
+      "question_number": "Q134",
+      "question_text": "Oculomasticatory myorhythmia is diagnosed by which of the following?",
+      "options": {
+        "A": "CSF analysis",
+        "B": "MRI",
+        "C": "Jejunal biopsy",
+        "D": "EEG"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Oculomasticatory myorhythmia is a pathognomonic sign of Whipple's disease, a systemic bacterial infection with frequent CNS involvement. The question asks how to confirm this underlying infectious diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53891641,
+    "fields": {
+      "question_number": "Q162",
+      "question_text": "A patient presents with weight loss and fever. MRI shows a frontal epidural collection. What is the most likely diagnosis?",
+      "options": {
+        "A": "Epidural empyema",
+        "B": "Subdural hematoma",
+        "C": "Brain abscess",
+        "D": "Meningioma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The combination of systemic symptoms (fever, weight loss) and a focal epidural collection on imaging strongly suggests a diagnosis of epidural empyema, a CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40975985,
+    "fields": {
+      "question_number": "Q85",
+      "question_text": "What is the duration of acyclovir that will most likely decrease the chance of HSV recurrence?",
+      "options": {
+        "A": "21 days",
+        "B": "24 days",
+        "C": "14 days",
+        "D": "10 days"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge regarding the appropriate duration of antiviral therapy for HSV infections, specifically relating to CNS involvement or prevention of severe recurrence."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 57987221,
+    "fields": {
+      "question_number": "Q114",
+      "question_text": "A young Indian lady, who works as a nurse, was brought by her friend complaining of a headache for a few days, then developed new-onset seizures. An MRI of the brain showed multiple cysts. What is the diagnosis?",
+      "options": {
+        "A": "Taenia solium",
+        "B": "Toxoplasmosis",
+        "C": "Tuberculoma",
+        "D": "Brain abscess"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The clinical scenario (headache, seizures, epidemiologic risk) and MRI findings (multiple cysts) are highly characteristic of neurocysticercosis, a parasitic CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16869244,
+    "fields": {
+      "question_number": "Q164",
+      "question_text": "An HIV patient has an MRI that is typical for toxoplasmosis. What is the recommended treatment?",
+      "options": {
+        "A": "Start trimethoprim-sulfamethoxazole",
+        "B": "Praziquantel",
+        "C": "Doxycycline",
+        "D": "Pyrimethamine with sulfadiazine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the standard first-line treatment for CNS toxoplasmosis, a common opportunistic infection in HIV patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91418385,
+    "fields": {
+      "question_number": "Q172",
+      "question_text": "An HIV patient who is non-compliant with his medication has an MRI that showed non-enhanced posterior hyperintensities. What is the treatment?",
+      "options": {
+        "A": "HAART",
+        "B": "Fluconazole",
+        "C": "Corticosteroids",
+        "D": "Intravenous immunoglobulin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The imaging description in a non-compliant HIV patient is suggestive of Progressive Multifocal Leukoencephalopathy (PML). The question asks for the primary treatment (immune reconstitution via HAART)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46077864,
+    "fields": {
+      "question_number": "Q106",
+      "question_text": "Patient with decreased level of consciousness and signs of meningitis. CSF positive VDRL, how to treat?",
+      "options": {
+        "A": "IV Penicillin G 4g Q4hrs for 2 weeks",
+        "B": "IM Penicillin G 2.5g",
+        "C": "Bactrim",
+        "D": "IV Ceftriaxone 2g daily for 10 days"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes a case of neurosyphilis (meningitis signs, positive CSF VDRL) and asks for the specific, standard antibiotic treatment regimen."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8906997,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "A 19-year-old man is hospitalized in a psychiatric ward after developing visual and auditory hallucinations. He has a seizure soon after being admitted and is transferred to the emergency room. There, he is postictal and noted to have a fever and meningeal signs. What is the most likely diagnosis?",
+      "options": {
+        "A": "HSV encephalitis",
+        "B": "Cerebral toxoplasmosis",
+        "C": "Temporal lobe epilepsy",
+        "D": "Bacterial meningitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: The combination of psychiatric symptoms, seizures, fever, and meningeal signs strongly points towards encephalitis, with HSV being the most likely cause given the presentation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31477176,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "Patient presented with bilateral facial weakness, and image of erythema migrans. He had a trip to the US for hiking. CSF was done, showed lymphocytosis, how to treat? (No doxycycline)",
+      "options": {
+        "A": "Ceftriaxone",
+        "B": "Amoxicillin",
+        "C": "Azithromycin",
+        "D": "Penicillin G"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The constellation of symptoms (bilateral facial palsy), rash (erythema migrans), travel history, and CSF findings are classic for Lyme neuroborreliosis. The question asks for appropriate antibiotic treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18078299,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "A patient from India is found to have schistosomiasis. What is the recommended treatment?",
+      "options": {
+        "A": "Praziquantel",
+        "B": "Albendazole",
+        "C": "Ivermectin",
+        "D": "Metronidazole"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the treatment of schistosomiasis, a parasitic infection which can cause neurological complications (neuroschistosomiasis), thus falling under neuro-infectious diseases."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60253148,
+    "fields": {
+      "question_number": "Q96",
+      "question_text": "A 40-year-old man is seen in the emergency department for evaluation of retinal hemorrhage, hepatosplenomegaly, headache, fever every 3 days, and right arm weakness. On examination, his temperature is 38.1\u00b0C. He has some weakness of the right arm; otherwise, his examination is non-focal. He recently arrived from Africa. Which of the following is a highly diagnostic test?",
+      "options": {
+        "A": "Blood smear",
+        "B": "CSF PCR for Malaria",
+        "C": "Brain MRI",
+        "D": "Angiography"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes symptoms highly suggestive of cerebral malaria (fever pattern, neurological signs, travel history) and asks for the key diagnostic test for this parasitic infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74910138,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "A female patient diagnosed with HIV came to the clinic for evaluation of possible associated peripheral neuropathy. What is the most common type of peripheral neuropathy associated with HIV?",
+      "options": {
+        "A": "Distal symmetrical motor and sensory neuropathy",
+        "B": "Distal symmetrical sensory neuropathy",
+        "C": "Distal symmetrical motor neuropathy",
+        "D": "Mononeuritis multiplex"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks about the specific pattern of peripheral neuropathy most commonly caused by HIV infection itself or its treatment, a direct neurological complication of the infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70476179,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A patient presents with features of mucormycosis, including a black nasal mass with maxillary pain and bilateral cavernous sinus involvement. What is the mechanism of infection?",
+      "options": {
+        "A": "Direct invasion",
+        "B": "Transmission through the dural sinus",
+        "C": "Hematogenous spread",
+        "D": "Lymphatic spread"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the pathophysiology (mechanism of spread) of a specific invasive fungal infection (Mucormycosis) affecting the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82347791,
+    "fields": {
+      "question_number": "Q121",
+      "question_text": "A 10- or 12-year-old female is brought by her family for complaints of progressive decline in school performance and abnormal behavior. Her family took her to a psychiatrist who prescribed antipsychotics. After that, her condition worsened and she became unresponsive. EEG showed periodic bursts. MRI of the brain showed large areas of a signal (diffuse cortical/subcortical) process. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Neuroleptic malignant syndrome",
+        "B": "Creutzfeldt-Jakob disease (CJD)",
+        "C": "Subacute sclerosing panencephalitis (SSPE)",
+        "D": "Progressive multifocal leukoencephalopathy"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The clinical presentation (age, progressive decline, behavior change, myoclonus implied by worsening post-antipsychotics), EEG, and MRI findings are characteristic of Subacute Sclerosing Panencephalitis (SSPE), a delayed inflammatory response to measles virus infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70476437,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "In the same scenario of mucormycosis, what is the recommended treatment?",
+      "options": {
+        "A": "Fluconazole",
+        "B": "Amphotericin",
+        "C": "Voriconazole",
+        "D": "Caspofungin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly asks for the appropriate antifungal treatment for a specific, severe CNS fungal infection (Mucormycosis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64683759,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "In the case of HSV encephalitis, what is the recommended duration of Acyclovir treatment?",
+      "options": {
+        "A": "14 days",
+        "B": "21 days",
+        "C": "28 days",
+        "D": "30 days"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the standard treatment protocol (duration of antiviral therapy) for a common viral CNS infection (HSV encephalitis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26841042,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "A young male presented with headache and fever. A CT of the brain was normal. A lumbar puncture was performed, and CSF analysis showed WBCs 48, RBCs 780, normal protein, and glucose. What is the most likely interpretation?",
+      "options": {
+        "A": "Traumatic tap",
+        "B": "Viral meningitis",
+        "C": "Bacterial meningitis",
+        "D": "Subarachnoid hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Involves interpreting CSF results in the context of symptoms suggestive of meningitis (headache, fever), differentiating between infectious causes and procedural artifact (traumatic tap)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12142759,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "A patient with meningitis, who came from Alhaj, was found to have meningococcal meningitis. What is the appropriate prophylactic antibiotic for close contacts?",
+      "options": {
+        "A": "Ciprofloxacin",
+        "B": "Rifampin",
+        "C": "Ceftriaxone",
+        "D": "Azithromycin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the public health management (chemoprophylaxis for contacts) required for a specific bacterial CNS infection (meningococcal meningitis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78726432,
+    "fields": {
+      "question_number": "Q120",
+      "question_text": "A young Saudi male, studying in Africa, just returned with symptoms of radiculopathy. CSF analysis showed eosinophilia, and MRI revealed hyperintense conus medullaris. Diagnosis of Schistosomiasis was confirmed by lab workup. What is the best treatment?",
+      "options": {
+        "A": "Praziquantel",
+        "B": "Amphotericin B",
+        "C": "Albendazole",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the specific treatment of Neuroschistosomiasis, a parasitic infection affecting the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60253148,
+    "fields": {
+      "question_number": "Q96",
+      "question_text": "A 40-year-old man is seen in the emergency department for evaluation of retinal hemorrhage, hepatosplenomegaly, headache, fever every 3 days, and right arm weakness. On examination, his temperature is 38.1\u00b0C. He has some weakness of the right arm; otherwise, his examination is non-focal. He recently arrived from Africa. Which of the following is a highly diagnostic test?",
+      "options": {
+        "A": "Blood smear",
+        "B": "CSF PCR for Malaria",
+        "C": "Brain MRI",
+        "D": "Angiography"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on identifying the primary diagnostic test for suspected cerebral malaria based on clinical presentation and travel history."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74910138,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "A female patient diagnosed with HIV came to the clinic for evaluation of possible associated peripheral neuropathy. What is the most common type of peripheral neuropathy associated with HIV?",
+      "options": {
+        "A": "Distal symmetrical motor and sensory neuropathy",
+        "B": "Distal symmetrical sensory neuropathy",
+        "C": "Distal symmetrical motor neuropathy",
+        "D": "Mononeuritis multiplex"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic neurological complications (specifically, the most common neuropathy pattern) directly associated with HIV infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70476179,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A patient presents with features of mucormycosis, including a black nasal mass with maxillary pain and bilateral cavernous sinus involvement. What is the mechanism of infection?",
+      "options": {
+        "A": "Direct invasion",
+        "B": "Transmission through the dural sinus",
+        "C": "Hematogenous spread",
+        "D": "Lymphatic spread"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the pathophysiology, specifically the mechanism of spread, for Mucormycosis invading the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82347791,
+    "fields": {
+      "question_number": "Q121",
+      "question_text": "A 10- or 12-year-old female is brought by her family for complaints of progressive decline in school performance and abnormal behavior. Her family took her to a psychiatrist who prescribed antipsychotics. After that, her condition worsened and she became unresponsive. EEG showed periodic bursts. MRI of the brain showed large areas of a signal (diffuse cortical/subcortical) process. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Neuroleptic malignant syndrome",
+        "B": "Creutzfeldt-Jakob disease (CJD)",
+        "C": "Subacute sclerosing panencephalitis (SSPE)",
+        "D": "Progressive multifocal leukoencephalopathy"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The question describes a classic clinical, EEG, and MRI presentation leading to the diagnosis of SSPE, a delayed neuro-infectious complication of measles."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70476437,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "In the same scenario of mucormycosis, what is the recommended treatment?",
+      "options": {
+        "A": "Fluconazole",
+        "B": "Amphotericin",
+        "C": "Voriconazole",
+        "D": "Caspofungin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the standard first-line treatment for Mucormycosis, a specific fungal CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64683759,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "In the case of HSV encephalitis, what is the recommended duration of Acyclovir treatment?",
+      "options": {
+        "A": "14 days",
+        "B": "21 days",
+        "C": "28 days",
+        "D": "30 days"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the specific treatment protocol (duration of antiviral therapy) for HSV encephalitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26841042,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "A young male presented with headache and fever. A CT of the brain was normal. A lumbar puncture was performed, and CSF analysis showed WBCs 48, RBCs 780, normal protein, and glucose. What is the most likely interpretation?",
+      "options": {
+        "A": "Traumatic tap",
+        "B": "Viral meningitis",
+        "C": "Bacterial meningitis",
+        "D": "Subarachnoid hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the interpretation of CSF findings in the context of symptoms suggestive of meningitis, differentiating potential infectious causes from procedural artifacts or other conditions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12142759,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "A patient with meningitis, who came from Alhaj, was found to have meningococcal meningitis. What is the appropriate prophylactic antibiotic for close contacts?",
+      "options": {
+        "A": "Ciprofloxacin",
+        "B": "Rifampin",
+        "C": "Ceftriaxone",
+        "D": "Azithromycin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses a public health measure (chemoprophylaxis for contacts) directly related to managing the spread of bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9944559,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "A young lady with SLE nephritis on dialysis presents with seizures and confusion. CSF analysis shows high cell count with high-grade fever, and MRI shows high signals in the temporal lobe. What is your diagnosis?",
+      "options": {
+        "A": "Herpes Simplex Virus (HSV) encephalitis",
+        "B": "Lupus cerebritis",
+        "C": "Cerebral Venous Thrombosis (CVT)",
+        "D": "Posterior Reversible Encephalopathy Syndrome (PRES)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2023_mcqs.txt; Originally Dementia",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The clinical picture (fever, seizures, confusion), CSF pleocytosis, and characteristic temporal lobe MRI findings strongly suggest HSV encephalitis, an acute viral CNS infection, especially in an immunocompromised patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17702445,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "An Indian patient presents with seizures and multiple small brain lesions. What is the most likely diagnosis?",
+      "options": {
+        "A": "Cysticercosis",
+        "B": "Toxoplasmosis",
+        "C": "Tuberculoma",
+        "D": "Brain abscess"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The core concept is the differential diagnosis of multiple brain lesions causing seizures in a patient from an endemic area, pointing towards parasitic CNS infections like neurocysticercosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28583411,
+    "fields": {
+      "question_number": "Q130",
+      "question_text": "A patient from Sudan presents with fluctuating high fever, altered mental status (AMS), and anemia. What is the recommended treatment?",
+      "options": {
+        "A": "Ceftriaxone + Vancomycin",
+        "B": "Anti-Malaria (specific drug name needed)",
+        "C": "Acyclovir",
+        "D": "Methylprednisolone"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The clinical scenario strongly suggests cerebral malaria based on symptoms and geographic origin, and the question asks for the appropriate infectious disease treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68217936,
+    "fields": {
+      "question_number": "Q105",
+      "question_text": "In cases of Schistosoma Mansonia infection, what is the most common presentation?",
+      "options": {
+        "A": "Venous thrombosis",
+        "B": "Intracranial aneurysm",
+        "C": "Focal deficit",
+        "D": "Myelopathy"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks about the characteristic neurological manifestation (myelopathy) specifically associated with Schistosoma Mansoni infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43683950,
+    "fields": {
+      "question_number": "Q230",
+      "question_text": "What percentage of individuals infected with HTLV-1 will develop neurologic disease?",
+      "options": {
+        "A": "1% to 2%",
+        "B": "5% to 10%",
+        "C": "10% to 15%",
+        "D": "20% to 25%"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge regarding the epidemiology and risk of neurological complications (HAM/TSP) associated with HTLV-1 infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12142759,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "A patient diagnosed with meningococcal meningitis has family members asking about prevention and disease transmission. What is the correct information to provide?",
+      "options": {
+        "A": "No risk after 2 days of isolation",
+        "B": "Ciprofloxacin",
+        "C": "Vaccination is not necessary for close contacts",
+        "D": "Avoid all contact for at least 1 month"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on public health aspects, specifically chemoprophylaxis and transmission prevention measures for meningococcal meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88891913,
+    "fields": {
+      "question_number": "Q70",
+      "question_text": "A ?? year-old female was brought by her family for the complaint of progressive decline in school performance and abnormal behavior over the last 3 months. Her condition worsened, and she became unresponsive. EEG showed periodic bursts and high voltage waves. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Creutzfeldt-Jakob disease (CJD)",
+        "B": "Subacute sclerosing panencephalitis (SSPE)",
+        "C": "Viral encephalitis",
+        "D": "Autoimmune encephalitis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The clinical description and characteristic periodic EEG pattern point strongly towards the diagnosis of SSPE, a slow virus infection of the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26368196,
+    "fields": {
+      "question_number": "Q231",
+      "question_text": "A patient presented with meningitis. What should be given?",
+      "options": {
+        "A": "Salmedrole",
+        "B": "Methylprednisolone",
+        "C": "Dexamethasone",
+        "D": "Ceftriaxone"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2019_mcqs.txt; Originally Epilepsy",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the standard adjuvant therapy (dexamethasone) used in bacterial meningitis to reduce inflammation and improve outcomes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55004148,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "An HIV patient has an MRI typical for neurocysticercosis. What is the cause?",
+      "options": {
+        "A": "Taenia solium",
+        "B": "Toxoplasma gondii",
+        "C": "Cryptococcus neoformans",
+        "D": "Mycobacterium tuberculosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Identifies the causative organism (Taenia solium) responsible for neurocysticercosis, a specific parasitic CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97342294,
+    "fields": {
+      "question_number": "Q280",
+      "question_text": "TB affected which brain vessel?",
+      "options": {
+        "A": "MCA",
+        "B": "ACA",
+        "C": "PCA",
+        "D": "Pcom"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge about a specific complication (vasculitis) of tuberculous meningitis and its typical vascular distribution."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54945524,
+    "fields": {
+      "question_number": "Q326",
+      "question_text": "A patient came with headache, vomiting, fever, and nuchal rigidity. Two weeks back, she had a decompressive craniotomy due to Chiari malformation. What is the likely organism?",
+      "options": {
+        "A": "Staphylococcus",
+        "B": "Streptococcus",
+        "C": "Pseudomonas",
+        "D": "Escherichia coli"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying the probable causative pathogen for post-neurosurgical bacterial meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38360108,
+    "fields": {
+      "question_number": "Q220",
+      "question_text": "A patient came from Africa with fever and neurological symptoms. What is the most appropriate initial diagnostic test?",
+      "options": {
+        "A": "Blood smear (thick and thin)",
+        "B": "Lumbar puncture",
+        "C": "CT scan of the head",
+        "D": "MRI of the brain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: The clinical context (travel history, fever, neurological symptoms) suggests cerebral malaria, and the question asks for the key initial diagnostic test for this infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36689402,
+    "fields": {
+      "question_number": "Q340",
+      "question_text": "An Indian nurse came with a seizure. An MRI picture (FLAIR) attached showed a cyst with calcifications. What is the organism?",
+      "options": {
+        "A": "Taenia solium",
+        "B": "Toxoplasma gondii",
+        "C": "Echinococcus granulosus",
+        "D": "Entamoeba histolytica"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Relates characteristic imaging findings (calcified cyst/granuloma) in a patient from an endemic region presenting with seizures to the causative parasitic organism (Taenia solium - neurocysticercosis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46077864,
+    "fields": {
+      "question_number": "Q106",
+      "question_text": "A patient with a typical history of CJD has a family that wants him to be in an organ donation program. What is the best action?",
+      "options": {
+        "A": "Allow only for liver transplant",
+        "B": "Remove them from the organ donation program",
+        "C": "Allow the patient to be in the organ donation program",
+        "D": "Allow donation of corneal tissue only"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the management and public health implications (specifically transmissibility via organ donation) of Creutzfeldt-Jakob disease (CJD), a prion disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93011986,
+    "fields": {
+      "question_number": "Q371",
+      "question_text": "A man with multiple cognitive domain involvement has ataxia and extrapyramidal features, with pathology showing PrPSc amyloid plaques. What type of prion disease does he have?",
+      "options": {
+        "A": "Fatal familial insomnia",
+        "B": "Familial CJD",
+        "C": "vCJD",
+        "D": "GSS (Gerstmann-Str\u00e4ussler-Scheinker syndrome)"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Links specific clinical and neuropathological findings to a subtype of prion disease (GSS), which falls under the category of transmissible spongiform encephalopathies (neuro-infectious)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23778491,
+    "fields": {
+      "question_number": "Q175",
+      "question_text": "The best way to prevent post-herpetic neuralgia is?",
+      "options": {
+        "A": "Antiviral therapy (during acute shingles)",
+        "B": "Steroids",
+        "C": "Anticonvulsants",
+        "D": "Analgesics"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the primary prevention strategy (early antiviral treatment) for post-herpetic neuralgia, a complication arising directly from the Varicella Zoster Virus infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36386679,
+    "fields": {
+      "question_number": "Q365",
+      "question_text": "An Indian nurse presented with her first seizure and a history of headache one week prior. She was labeled as having a tension headache. What is the most likely diagnosis based on the CT findings?",
+      "options": {
+        "A": "Neurocysticercosis",
+        "B": "Tension-type headache",
+        "C": "Migraine",
+        "D": "Brain tumor"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks for the diagnosis based on clinical presentation (seizure, headache, geographic background) and implied CT findings strongly suggesting neurocysticercosis, an infectious etiology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70430402,
+    "fields": {
+      "question_number": "Q452",
+      "question_text": "What is the most common presentation of poliovirus infection?",
+      "options": {
+        "A": "Asymptomatic",
+        "B": "Meningitis",
+        "C": "Flu-like symptoms",
+        "D": "Flaccid weakness"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the clinical spectrum and epidemiology of poliovirus infection itself."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70229634,
+    "fields": {
+      "question_number": "Q416",
+      "question_text": "A governmental clerk presents with meningitis. What is the most common organism responsible for this condition?",
+      "options": {
+        "A": "Pneumococcal",
+        "B": "Meningococcal",
+        "C": "Haemophilus influenzae",
+        "D": "Listeria monocytogenes"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology of bacterial meningitis, asking for the most likely causative agent in a specific demographic context (suggesting Neisseria meningitidis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17510050,
+    "fields": {
+      "question_number": "Q402",
+      "question_text": "What is the most common organism responsible for bacterial meningitis?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Listeria monocytogenes",
+        "C": "Neisseria meningitidis",
+        "D": "Haemophilus influenzae"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the overall most frequent bacterial cause of meningitis (Streptococcus pneumoniae)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85739425,
+    "fields": {
+      "question_number": "Q379",
+      "question_text": "A patient presents with fever and meningismus, and an MRI shows left temporal hyperintensity. What would you expect to find in the CSF?",
+      "options": {
+        "A": "Red blood cells and lymphocytic pleocytosis",
+        "B": "Neutrophilic pleocytosis with low glucose",
+        "C": "Normal CSF findings",
+        "D": "Elevated protein without pleocytosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Correlates the classic clinical and imaging features of Herpes Simplex Virus (HSV) encephalitis with its characteristic CSF findings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49130672,
+    "fields": {
+      "question_number": "Q441",
+      "question_text": "In a scenario of mucormycosis with black nasal discharge, what is the recommended treatment?",
+      "options": {
+        "A": "Amphotericin B",
+        "B": "Fluconazole",
+        "C": "Voriconazole",
+        "D": "Itraconazole"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the specific first-line treatment for mucormycosis, a fungal infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79226544,
+    "fields": {
+      "question_number": "Q152",
+      "question_text": "What is the most common pattern of neuropathy seen in HIV patients?",
+      "options": {
+        "A": "Distal symmetrical neuropathy",
+        "B": "Mononeuritis multiplex",
+        "C": "Pure motor",
+        "D": "Entrapment neuropathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about the most frequent neurological complication (neuropathy pattern) directly linked to HIV infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81596915,
+    "fields": {
+      "question_number": "Q442",
+      "question_text": "A patient presents with confusion, lymphadenopathy, and flaccid paralysis. What is the likely organism?",
+      "options": {
+        "A": "West Nile Virus (WNV)",
+        "B": "Herpes Simplex Virus (HSV)",
+        "C": "Poliovirus",
+        "D": "Enterovirus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests recognition of the clinical syndrome characteristic of West Nile Virus neuroinvasive disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30559489,
+    "fields": {
+      "question_number": "Q296",
+      "question_text": "What is a poor prognostic indicator for brain abscess?",
+      "options": {
+        "A": "Decrease in level of consciousness at onset of treatment",
+        "B": "Abscess near the cerebrospinal fluid space",
+        "C": "Multiple abscesses",
+        "D": "Delay in initiation of antibiotic therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying factors that predict outcomes specifically in the context of brain abscess, a CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87432850,
+    "fields": {
+      "question_number": "Q339",
+      "question_text": "When should metronidazole be added to treatment?",
+      "options": {
+        "A": "Mastoiditis",
+        "B": "Viral meningitis",
+        "C": "Multiple sclerosis exacerbation",
+        "D": "Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests principles of antimicrobial selection (adding anaerobic coverage with metronidazole) often relevant in treating CNS infections secondary to sources like mastoiditis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51367535,
+    "fields": {
+      "question_number": "Q282",
+      "question_text": "What is the prevention of postherpetic neuralgia?",
+      "options": {
+        "A": "Antiviral",
+        "B": "Topical lidocaine",
+        "C": "Steroid",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Addresses strategies (specifically early antiviral use for acute shingles) aimed at preventing a common complication of VZV infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51998373,
+    "fields": {
+      "question_number": "Q297",
+      "question_text": "Retinal finding suggestive of malaria, orange vessels, red spots. What is the diagnosis?",
+      "options": {
+        "A": "Malaria",
+        "B": "Diabetic retinopathy",
+        "C": "Hypertensive retinopathy",
+        "D": "Cytomegalovirus retinitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests recognition of specific clinical signs (retinal findings) associated with cerebral malaria."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80679568,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "An HIV patient\u2019s MRI showed multiple brain abscesses. What is the causing organism?",
+      "options": {
+        "A": "Fungal",
+        "B": "Bacterial",
+        "C": "Parasite",
+        "D": "Viral"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the differential diagnosis of opportunistic CNS infections (presenting as abscesses) in an immunocompromised (HIV) patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83025175,
+    "fields": {
+      "question_number": "Q147",
+      "question_text": "In the case of a brain abscess, what is a poor prognostic factor?",
+      "options": {
+        "A": "Presence of abscess near the ventricle",
+        "B": "Glasgow Coma Scale (GCS) / level of consciousness at time of presentation",
+        "C": "Multiple abscesses",
+        "D": "Delay in initiation of appropriate antibiotic therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about prognostic factors specific to brain abscess outcomes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77018051,
+    "fields": {
+      "question_number": "Q108",
+      "question_text": "What is the most common area affected in TB vasculopathy?",
+      "options": {
+        "A": "Basal ganglia",
+        "B": "Cerebellum",
+        "C": "Frontal lobe",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the typical neuroanatomical location of vasculitis, a complication of tuberculous meningitis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23330998,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "A patient with encephalopathy, EEG showed slow bilateral synchronous high amplitude spikes. What is the likely cause?",
+      "options": {
+        "A": "Measles",
+        "B": "Herpes simplex virus",
+        "C": "Creutzfeldt-Jakob disease",
+        "D": "Wilson\u2019s disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links a characteristic EEG pattern found in encephalopathy to its underlying cause, Subacute Sclerosing Panencephalitis (SSPE), a delayed complication of measles infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53403943,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "A patient has bilateral facial weakness, and lumbar puncture shows high white blood cell count. A picture shows erythema migrans. What is the treatment?",
+      "options": {
+        "A": "Ceftriaxone",
+        "B": "Doxycycline",
+        "C": "Acyclovir",
+        "D": "Prednisone"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a classic presentation of neuroborreliosis (Lyme disease) and asks for the appropriate antibiotic treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20534109,
+    "fields": {
+      "question_number": "Q109",
+      "question_text": "In a patient with cognitive impairment following a herpes zoster infection, what is the most likely diagnosis?",
+      "options": {
+        "A": "HZ encephalitis",
+        "B": "Drug induced",
+        "C": "Postherpetic neuralgia",
+        "D": "Cerebral vasculitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on recognizing potential neurological complications (encephalitis) arising secondary to Varicella Zoster Virus infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58723580,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "An HIV patient with a CD4 count of 5 and a viral load in the thousands develops parkinsonism with basal ganglia involvement. What is the most likely cause?",
+      "options": {
+        "A": "Toxoplasmosis",
+        "B": "Cryptococcus",
+        "C": "Lymphoma",
+        "D": "Progressive multifocal leukoencephalopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Deals with the differential diagnosis of focal neurological deficits (parkinsonism/basal ganglia lesions) in a severely immunocompromised HIV patient, primarily considering opportunistic infections versus malignancy (lymphoma)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67409198,
+    "fields": {
+      "question_number": "Q140",
+      "question_text": "A patient has Normal Pressure Hydrocephalus (NPH) and abdominal tuberculosis. What is the next step?",
+      "options": {
+        "A": "Need more details",
+        "B": "Start antitubercular therapy",
+        "C": "Refer for neurosurgery",
+        "D": "Conduct further imaging studies"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the management strategy when NPH occurs concurrently with active tuberculosis, prioritizing treatment of the underlying infection which could be causing the hydrocephalus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94040412,
+    "fields": {
+      "question_number": "Q107",
+      "question_text": "A patient with HIV develops meningitis. What additional medication should be given with ceftriaxone?",
+      "options": {
+        "A": "Ampicillin",
+        "B": "Vancomycin",
+        "C": "Dexamethasone",
+        "D": "Rifampin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on specific empiric antibiotic choices (adding Listeria coverage with Ampicillin) for bacterial meningitis tailored to an immunocompromised (HIV) patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81110116,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "An HIV patient non-compliant with his medication had an MRI that showed non-enhanced posterior hyperintensities. What is the treatment?",
+      "options": {
+        "A": "HAART",
+        "B": "Fluconazole",
+        "C": "Corticosteroids",
+        "D": "Antitubercular therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The MRI findings in a non-compliant HIV patient suggest PML or HIV encephalopathy. The question asks for the primary management, which is addressing the underlying HIV infection with HAART."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46077864,
+    "fields": {
+      "question_number": "Q106",
+      "question_text": "A government clerk developed meningitis. What is the most likely organism responsible for this condition?",
+      "options": {
+        "A": "Staphylococcus",
+        "B": "Pneumococcus",
+        "C": "Meningococcus",
+        "D": "Listeria"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology of bacterial meningitis, asking for the most likely pathogen based on the patient's occupational context (suggesting Neisseria meningitidis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46077864,
+    "fields": {
+      "question_number": "Q106",
+      "question_text": "A government clerk developed meningitis. What is the most likely organism responsible for this condition?",
+      "options": {
+        "A": "Staphylococcus",
+        "B": "Pneumococcus",
+        "C": "Meningococcus",
+        "D": "Listeria"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on identifying the most likely causative organism for community-acquired bacterial meningitis based on epidemiological factors."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18078299,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "In a patient suspected of having Progressive Multifocal Leukoencephalopathy (PML), what is the most appropriate tool for investigation?",
+      "options": {
+        "A": "Brain MRI with gadolinium",
+        "B": "CT scan of the brain",
+        "C": "EEG",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the primary diagnostic imaging modality (MRI) for Progressive Multifocal Leukoencephalopathy (PML), an opportunistic viral infection (JC virus) of the CNS."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87671513,
+    "fields": {
+      "question_number": "Q143",
+      "question_text": "What is the most common organism associated with infections in patients with external ventricular drains (EVD)?",
+      "options": {
+        "A": "Pseudomonas",
+        "B": "Cryptococcus",
+        "C": "Skin flora (e.g., Staphylococcus epidermidis)",
+        "D": "Escherichia coli"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about the common infectious etiology (skin flora) related to a neurosurgical device (EVD), which is a type of healthcare-associated CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65841327,
+    "fields": {
+      "question_number": "Q204",
+      "question_text": "In a girl with Sydenham chorea, what laboratory test is most relevant?",
+      "options": {
+        "A": "ASO titer",
+        "B": "Anti-DNase B antibody",
+        "C": "ESR (Erythrocyte Sedimentation Rate)",
+        "D": "ANA (Antinuclear Antibody)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly links a neurological syndrome (Sydenham chorea) to its post-infectious (Group A Streptococcus) etiology and the relevant diagnostic test (ASO titer) confirming recent infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88597883,
+    "fields": {
+      "question_number": "Q131",
+      "question_text": "A child presented with chorea, has a history of flu a few weeks ago for which she received antibiotics. What test should be ordered for her? (Sydenham chorea)",
+      "options": {
+        "A": "ASO titer",
+        "B": "Anti-DNase B antibody",
+        "C": "MRI brain",
+        "D": "Serum ceruloplasmin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on diagnosing Sydenham chorea, a neurological manifestation triggered by a preceding infection (Group A Streptococcus), requiring a test (ASO titer) to confirm the infectious trigger."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54786602,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A heroin abuser presents with severe back pain and tenderness, along with fever. What is the most likely organism found?",
+      "options": {
+        "A": "Streptococcus",
+        "B": "Staphylococcus aureus",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Escherichia coli"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on identifying the most common causative organism (Staphylococcus aureus) for spinal epidural abscess or related spinal infections, often seen in the context of IV drug use (a risk factor for hematogenous spread)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37753177,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "A patient from Tanzania presents with jaundice, low platelet count, anemia, confusion, fever, and CSF showing high lymphocytes with normal glucose levels. What is the most likely diagnosis?",
+      "options": {
+        "A": "P. Falciparum",
+        "B": "P. Ovale",
+        "C": "Brucella",
+        "D": "Meningitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes a clinical syndrome (neurological symptoms, fever, systemic signs, travel history) pointing towards a specific parasitic infection affecting the CNS (cerebral malaria - P. Falciparum)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86538858,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "An Indian patient came with a headache. He is known to have epilepsy and is on medications. A CT brain scan is attached. What is the most likely diagnosis?",
+      "options": {
+        "A": "Cysticercosis",
+        "B": "Toxoplasmosis",
+        "C": "Tuberculoma",
+        "D": "Brain abscess"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on diagnosing a parasitic CNS infection (neurocysticercosis) based on neuroimaging findings in a patient from an endemic region presenting with symptoms often caused by this infection (headache, seizures)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9514479,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "A 70-year-old male was brought to the ER with fever, confusion, and drowsiness. CSF analysis showed bacterial infection. What is the appropriate treatment?",
+      "options": {
+        "A": "Vancomycin, Ceftriaxone, and Ampicillin",
+        "B": "Vancomycin and Ceftriaxone",
+        "C": "Ceftriaxone and Ampicillin",
+        "D": "Vancomycin alone"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the appropriate empiric antibiotic regimen for bacterial meningitis, considering the patient's age (risk for Listeria)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24982876,
+    "fields": {
+      "question_number": "Q81",
+      "question_text": "A 27-year-old pregnant woman living on a dairy farm presents with fever and neck stiffness. How should she be treated?",
+      "options": {
+        "A": "Ceftriaxone & vancomycin",
+        "B": "Trimethoprim-sulfamethoxazole & vancomycin",
+        "C": "Ampicillin, ceftriaxone & vancomycin",
+        "D": "Penicillin G and gentamicin"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on selecting the correct empiric antibiotic treatment for suspected bacterial meningitis, specifically requiring coverage for Listeria monocytogenes due to the patient's risk factors (pregnancy, potential exposure from dairy farm)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40937305,
+    "fields": {
+      "question_number": "Q155",
+      "question_text": "A 40-year-old man is seen in the emergency department for evaluation of retinal hemorrhage, hepatosplenomegaly, headache, fever every 3 days, and right arm weakness. On examination, his temperature is 38.1\u00b0C. He has some weakness of the right arm; otherwise, his examination is non-focal. He recently arrived from Africa. Which of the following is a highly diagnostic test?",
+      "options": {
+        "A": "Blood smear",
+        "B": "CSF PCR",
+        "C": "Brain MRI",
+        "D": "Liver biopsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Presents a classic scenario for cerebral malaria (travel history, cyclical fever, neurological and systemic signs) and asks for the primary diagnostic test (blood smear) to identify the Plasmodium parasite."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84041160,
+    "fields": {
+      "question_number": "Q229",
+      "question_text": "What is the duration of acyclovir treatment in HSV encephalitis?",
+      "options": {
+        "A": "7 days",
+        "B": "14 days",
+        "C": "21 days",
+        "D": "72 hours"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the specific treatment protocol (duration of antiviral therapy) for Herpes Simplex Virus (HSV) encephalitis, a common viral CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26368196,
+    "fields": {
+      "question_number": "Q231",
+      "question_text": "Which of the following statements is true regarding Primary Amoebic Meningoencephalitis (PAM)?",
+      "options": {
+        "A": "It is self-limited.",
+        "B": "The primary root of infection is through the cribriform plate.",
+        "C": "It is very common.",
+        "D": "It is caused by a bacterial infection."
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Assesses knowledge about the pathophysiology and route of entry for a specific parasitic CNS infection (Primary Amoebic Meningoencephalitis caused by Naegleria fowleri)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72380978,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "A female patient with multiple sclerosis (MS) on Natalizumab presents with hemiparesis and hemianopia. MRI shows a subcortical white matter mass with no enhancement. What will you do?",
+      "options": {
+        "A": "IVIG",
+        "B": "Methylprednisolone",
+        "C": "PLEX (Plasmapheresis)",
+        "D": "Discontinue Natalizumab and monitor closely"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a presentation highly concerning for Progressive Multifocal Leukoencephalopathy (PML), an opportunistic viral (JC virus) infection, occurring as a complication of immunosuppressive therapy (Natalizumab). The question implicitly requires recognition of PML and consideration of management (often involving stopping the offending drug and potentially managing IRIS, although the options provided are more typical for MS relapse/other immune issues, the *trigger* is PML suspicion)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43683950,
+    "fields": {
+      "question_number": "Q230",
+      "question_text": "A patient with meningitis and a positive titer for Brucella requires treatment. What is the most appropriate antibiotic?",
+      "options": {
+        "A": "Amoxicillin",
+        "B": "Vancomycin",
+        "C": "Doxycycline-Ceftriaxone",
+        "D": "Rifampin"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the specific antibiotic treatment regimen required for neurobrucellosis, a bacterial CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62574082,
+    "fields": {
+      "question_number": "Q234",
+      "question_text": "Infection with retinal whitening and orange spots is most commonly associated with which organism?",
+      "options": {
+        "A": "Bartonella",
+        "B": "TB",
+        "C": "CMV",
+        "D": "Toxoplasmosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links specific neuro-ophthalmological findings (retinal appearance suggestive of neuroretinitis) to the most likely causative infectious organism (Bartonella henselae - Cat Scratch Disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40571349,
+    "fields": {
+      "question_number": "Q330",
+      "question_text": "A 40-year-old female, originally from Africa, presents with a history of back pain, gradual bilateral weakness, numbness, and sphincter issues. CSF analysis shows unpaired bands of OCB. MRI reveals long extensive T2 hyperintensity from the thoracic region to the cauda equina. What is the differential diagnosis?",
+      "options": {
+        "A": "HIV",
+        "B": "Human T lymphotropic virus type 1",
+        "C": "CMV",
+        "D": "Progressive MS"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Presents a clinical scenario of myelopathy where the differential diagnosis includes specific infectious causes, particularly Human T-lymphotropic virus type 1 (HTLV-1) associated myelopathy/tropical spastic paraparesis (HAM/TSP), alongside other infectious and autoimmune possibilities."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9514479,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "A patient from Africa presents with a Brucella infection. What is the recommended treatment?",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Ceftriaxone",
+        "C": "Rifampin",
+        "D": "Streptomycin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly asks for the treatment of neurobrucellosis, a specific CNS infection, potentially emphasizing the need for CNS-penetrating regimens."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76965945,
+    "fields": {
+      "question_number": "Q293",
+      "question_text": "A 64-year-old man is brought to the emergency room by his family for fever and headache. On examination, his temperature is 39.1\u00b0C and he appears uncomfortable. He has resistance to passive range of motion of the neck and difficulty maintaining his level of alertness, but no focal deficits are seen. Which of the following is the most appropriate empiric regimen of antibiotics?",
+      "options": {
+        "A": "Penicillin G alone",
+        "B": "Ampicillin, gentamicin, and ceftazidime",
+        "C": "Acyclovir",
+        "D": "Ceftriaxone and vancomycin"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the selection of appropriate empiric antibiotic coverage for suspected bacterial meningitis based on clinical presentation (fever, altered mental status, nuchal rigidity). The recommended empiric regimen for adults over 50 includes coverage for Streptococcus pneumoniae, Neisseria meningitidis, and Listeria monocytogenes, typically ceftriaxone plus vancomycin with ampicillin added if Listeria coverage is needed."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48944460,
+    "fields": {
+      "question_number": "Q337",
+      "question_text": "A middle-aged male patient with a history of headache reports fever, night sweats, and weight loss. An MRI of the brain with contrast was performed. He also has a history of head injury a few years ago. What is the most likely diagnosis?",
+      "options": {
+        "A": "Subdural abscess",
+        "B": "TB meningitis",
+        "C": "Subdural empyema",
+        "D": "Brain tumor"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The combination of neurological symptoms (headache) with constitutional symptoms (fever, night sweats, weight loss) strongly points towards an infectious etiology, specifically considering TB meningitis or intracranial collections like abscess/empyema."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74124974,
+    "fields": {
+      "question_number": "Q178",
+      "question_text": "A patient known to have MS on interferon therapy shifted to natalizumab after recurrent relapses. She developed cognitive impairment and dysarthria over 2 months. What is the most likely diagnosis?",
+      "options": {
+        "A": "Progressive multifocal leukoencephalopathy (PML)",
+        "B": "Relapsing remitting multiple sclerosis",
+        "C": "Secondary progressive multiple sclerosis",
+        "D": "Acute disseminated encephalomyelitis (ADEM)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Requires identification of Progressive Multifocal Leukoencephalopathy (PML), an opportunistic JC virus infection, as a significant risk associated with natalizumab therapy, presenting with subacute neurological decline."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38864778,
+    "fields": {
+      "question_number": "Q165",
+      "question_text": "An 11-year-old girl is referred with rapidly deteriorating school performance and intellectual deficits over a course of a few weeks. She also has frequent seizures and unsteady gait. On examination, she has ataxia, hyperreflexia, and bilateral upgoing plantar responses. An EEG shows periodic bursts of high voltage slow waves followed by recurrent low voltage stretches. Clinically, she is worsening with an on-off lethargic state. A brain MRI shows large areas of signal change. What is the most likely diagnosis?",
+      "options": {
+        "A": "Progressive Multifocal Leukoencephalopathy (PML)",
+        "B": "Creutzfeldt-Jakob Disease (CJD)",
+        "C": "Subacute Sclerosing Panencephalitis (SSPE)",
+        "D": "Acute Disseminated Encephalomyelitis (ADEM)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes the classic clinical presentation (progressive cognitive decline, myoclonus/seizures, motor signs) and characteristic periodic EEG findings of Subacute Sclerosing Panencephalitis (SSPE), a rare, fatal neurological disease caused by persistent measles virus infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23342878,
+    "fields": {
+      "question_number": "Q89",
+      "question_text": "What is the most common cause of polyradiculoneuropathy?",
+      "options": {
+        "A": "CMV",
+        "B": "West Nile",
+        "C": "HIV",
+        "D": "Lyme disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks to identify common infectious causes (CMV, HIV, potentially WNV although less commonly presenting *purely* as polyradiculoneuropathy compared to CMV/HIV in certain contexts) of inflammation affecting multiple nerve roots."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35786568,
+    "fields": {
+      "question_number": "Q189",
+      "question_text": "What is the cause of cavernous venous thrombosis (CVT) associated with a maxillary and nasal lesion with proptosis?",
+      "options": {
+        "A": "Direct invasion",
+        "B": "Veins",
+        "C": "Lymph nodes",
+        "D": "Arterial embolism"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the mechanism (spread of infection via valveless facial veins draining into the cavernous sinus) by which a facial/sinus infection leads to septic cavernous sinus thrombosis, a specific type of intracranial infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63119794,
+    "fields": {
+      "question_number": "Q232",
+      "question_text": "An elderly patient came with low-grade fever, meningism, encephalopathy, and acute flaccid paralysis. What is your diagnosis?",
+      "options": {
+        "A": "West Nile Virus (WNV)",
+        "B": "Poliomyelitis",
+        "C": "HIV encephalopathy",
+        "D": "Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes a characteristic constellation of symptoms (meningoencephalitis plus acute flaccid paralysis) strongly suggestive of West Nile Virus (WNV) neuroinvasive disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50061315,
+    "fields": {
+      "question_number": "Q182",
+      "question_text": "What is the typical treatment approach for a patient diagnosed with West Nile virus encephalitis?",
+      "options": {
+        "A": "Antiviral therapy",
+        "B": "Supportive care",
+        "C": "Corticosteroids",
+        "D": "Immunoglobulin therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge regarding the management of West Nile Virus encephalitis, which is primarily supportive as there is no specific antiviral therapy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1336948,
+    "fields": {
+      "question_number": "Q210",
+      "question_text": "In a case of Creutzfeldt-Jakob Disease (CJD) with a cortical ribbon sign on MRI, what is the next best step in management?",
+      "options": {
+        "A": "Surgery",
+        "B": "Reassurance",
+        "C": "Radiotherapy",
+        "D": "Yearly MRI"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the management approach for Creutzfeldt-Jakob Disease (CJD), a transmissible prion disease. Given its fatal nature and lack of curative treatment, management is supportive, hence reassurance (in the sense of explaining the prognosis and lack of active treatment options) is the core concept tested."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6649307,
+    "fields": {
+      "question_number": "Q233",
+      "question_text": "What is the most common cause of spinal epidural abscess?",
+      "options": {
+        "A": "Osteomyelitis",
+        "B": "Penetrating Trauma",
+        "C": "LP",
+        "D": "Hematogenous spread from a distant source"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the most frequent underlying mechanism (hematogenous seeding from another infection site) leading to the development of a spinal epidural abscess, a specific neuro-infectious emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20534109,
+    "fields": {
+      "question_number": "Q109",
+      "question_text": "A patient presents with flaccid weakness and no sensory symptoms. What is the most likely cause?",
+      "options": {
+        "A": "West Nile virus",
+        "B": "Poliomyelitis (asymmetric or unilateral)",
+        "C": "Guillain-Barr\u00e9 syndrome",
+        "D": "Acute transverse myelitis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the differential diagnosis of acute flaccid paralysis (motor weakness without sensory loss), specifically highlighting infectious agents like West Nile Virus and Poliovirus that target anterior horn cells."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8701264,
+    "fields": {
+      "question_number": "Q118",
+      "question_text": "In the context of West Nile virus infection, which of the following is a common clinical feature?",
+      "options": {
+        "A": "Flaccid weakness",
+        "B": "Spasticity",
+        "C": "Increased muscle tone",
+        "D": "Sensory ataxia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic clinical manifestations of West Nile virus neuroinvasive disease, particularly the potential for causing acute flaccid paralysis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41541878,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "A patient with HIV has multiple brain MRI lesions. What is the most likely diagnosis?",
+      "options": {
+        "A": "CNS toxoplasmosis",
+        "B": "Primary CNS lymphoma (PCNSL)",
+        "C": "Tuberculoma",
+        "D": "Fungal mass lesions"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the differential diagnosis of CNS mass lesions specifically in the context of HIV infection, where opportunistic infections (Toxoplasmosis, Tuberculoma, Fungal) are primary considerations along with PCNSL."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84739014,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "What is the most common artery affected in TB vasculopathy?",
+      "options": {
+        "A": "Anterior cerebral artery",
+        "B": "Posterior cerebral artery",
+        "C": "Middle cerebral artery",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about a specific complication (vasculopathy/vasculitis leading to stroke) resulting directly from tuberculous meningitis, focusing on the typical location affected."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81110116,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "In neurosyphilis, which of the following can be associated?",
+      "options": {
+        "A": "Hypochromatic macules",
+        "B": "Erythema nodosum",
+        "C": "Enlarged pupils",
+        "D": "Small pupils"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of specific neurological signs (Argyll Robertson pupils - typically small and irregular) associated with neurosyphilis, a CNS manifestation of syphilis infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23976263,
+    "fields": {
+      "question_number": "Q77",
+      "question_text": "A patient with a typical history of Creutzfeldt-Jakob disease (CJD) has a family that wants him to be in the organ donation program; what is the best action?",
+      "options": {
+        "A": "Allow only for liver transplant",
+        "B": "Remove them from the organ donation program",
+        "C": "Allow the patient to be in the organ donation program",
+        "D": "Refer the patient for further infectious disease evaluation"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with the public health aspect and transmission risk (via infected tissue) of Creutzfeldt-Jakob Disease (CJD), a prion disease, specifically regarding the contraindication for organ donation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23330998,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "A patient had meningococcal meningitis. What medication should be given to his family for prophylaxis?",
+      "options": {
+        "A": "Amoxicillin",
+        "B": "Rifampin",
+        "C": "Ciprofloxacin",
+        "D": "Vancomycin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the public health measure of post-exposure prophylaxis for close contacts of a patient with meningococcal meningitis to prevent secondary cases of this bacterial infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41945752,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "A patient with a known case of congenital heart disease presents with headache, fever, and hemiparesis. What will you do next?",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Antibiotics and aspiration of the lesion",
+        "C": "Anticoagulation therapy",
+        "D": "Surgical excision without antibiotics"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: The clinical triad (headache, fever, focal deficit) in a patient with a risk factor for hematogenous spread (congenital heart disease) strongly suggests a brain abscess. The question pertains to the initial management steps for this CNS infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20211022,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "What is the best treatment to prevent post-herpetic neuralgia?",
+      "options": {
+        "A": "Antiviral",
+        "B": "Corticosteroids",
+        "C": "Analgesics",
+        "D": "Antidepressants"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on preventing a common neurological complication (post-herpetic neuralgia) by timely treatment of the underlying viral infection (herpes zoster/shingles) with antiviral medication."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34356733,
+    "fields": {
+      "question_number": "Q211",
+      "question_text": "What is the most common brain abscess in patients with HIV?",
+      "options": {
+        "A": "Tuberculosis (TB)",
+        "B": "Toxoplasmosis",
+        "C": "Cytomegalovirus (CMV)",
+        "D": "Cryptococcosis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of common opportunistic CNS infections (specifically Toxoplasmosis presenting as ring-enhancing lesions/abscesses) in the context of HIV."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84300244,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A patient with HIV presents with pain radiating to the back. MRI of the spine is negative, and CSF is negative. What is the most likely diagnosis?",
+      "options": {
+        "A": "HZV",
+        "B": "CMV",
+        "C": "HIV Myelitis",
+        "D": "Vacuolar myelopathy"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the differential diagnosis of neurological complications (radicular pain/myelopathy) specifically in an HIV-positive patient, considering opportunistic infections (HZV, CMV) and HIV-related conditions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2109208,
+    "fields": {
+      "question_number": "Q253",
+      "question_text": "What is the first thing to do in case of acute meningitis when the patient arrives at the emergency room?",
+      "options": {
+        "A": "CT scan",
+        "B": "Lumbar puncture if examination shows no papilledema",
+        "C": "Start antibiotics",
+        "D": "Obtain blood cultures"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the critical initial management steps (prioritizing antibiotics) in suspected bacterial meningitis, a neurological emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15661911,
+    "fields": {
+      "question_number": "Q265",
+      "question_text": "Q265. (Source: Promotion 2023_mcqs.txt) In a patient with HIV on HAART presenting with multiple lesions with ring enhancement, which of the following treatments is appropriate?",
+      "options": {
+        "A": "Praziquantel",
+        "B": "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+        "C": "Amphotericin B",
+        "D": "Antitubercular therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Deals with the differential diagnosis and empirical treatment (specifically targeting toxoplasmosis with TMP-SMX) of ring-enhancing brain lesions in an immunocompromised (HIV) patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61786530,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "A stroke patient has a fever, and cardiac consultation shows a pansystolic murmur. What is the treatment?",
+      "options": {
+        "A": "Antiplatelets",
+        "B": "Antibiotics",
+        "C": "Thrombolytics",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The combination of stroke, fever, and a new murmur strongly suggests infective endocarditis as the stroke etiology. The question asks for the primary treatment, which is addressing the underlying infection with antibiotics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54786602,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A patient presents with retinal whitening and an orange spot. Which of the following infections could be the cause?",
+      "options": {
+        "A": "Bartonella",
+        "B": "Tuberculosis (TB)",
+        "C": "Cytomegalovirus (CMV)",
+        "D": "Toxoplasmosis"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks to identify a potential infectious cause (CMV retinitis being a classic example of whitening/hemorrhage) based on retinal findings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15661911,
+    "fields": {
+      "question_number": "Q265",
+      "question_text": "Light-near dissociation is most commonly described in which of the following conditions?",
+      "options": {
+        "A": "Paranoid syndrome",
+        "B": "Neurosyphilis",
+        "C": "Adie's pupil",
+        "D": "Diabetes mellitus"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: While light-near dissociation is a neuro-ophthalmic sign, listing Neurosyphilis (specifically Argyll Robertson pupils) as a classic cause makes this question primarily about recognizing a manifestation of this specific neuro-infectious disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84300244,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A patient presents with orange retinal structures. Which of the following conditions could be responsible? (Possibly referring to histoplasmosis scars or other infectious/inflammatory causes)",
+      "options": {
+        "A": "Yaws",
+        "B": "Tuberculosis (TB)",
+        "C": "Malaria",
+        "D": "Syphilis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks to identify a potential systemic infection (like TB, Histoplasmosis - though not listed, or potentially Malaria complications) based on specific retinal findings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9165656,
+    "fields": {
+      "question_number": "Q28",
+      "question_text": "Patient came with orange retina; what is the diagnosis?",
+      "options": {
+        "A": "Syphilis",
+        "B": "Brucellosis",
+        "C": "Bartonella",
+        "D": "Malaria"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on identifying an infectious etiology (likely Bartonella henselae causing neuroretinitis) based on a specific funduscopic finding. The core is diagnosing the infection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87807833,
+    "fields": {
+      "question_number": "Q15",
+      "question_text": "What is the most common route of spread for an epidural abscess?",
+      "options": {
+        "A": "Hematogenous",
+        "B": "Direct",
+        "C": "Osteomyelitis",
+        "D": "Contiguous soft tissue infection"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks about the pathophysiology and typical mechanism of spread for spinal epidural abscesses, a neuro-infectious emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 71579235,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "A patient with HIV presents with a 1-month history of bilateral lower extremity weakness and numbness, without back pain. What is the pathogenesis of the spinal cord disease that developed?",
+      "options": {
+        "A": "Vacuolar myelopathy",
+        "B": "HTLV-1 infection",
+        "C": "Radiculomyelopathy",
+        "D": "Opportunistic infection of the spinal cord"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on identifying the specific neurological complication (HIV Vacuolar Myelopathy) associated with HIV infection based on the clinical presentation."
+    }
+  }
+]

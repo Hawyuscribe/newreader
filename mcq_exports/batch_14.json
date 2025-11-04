@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q175",
+    "question_text": "",
+    "options": {
+      "A": "young man with a known case of epilepsy describes his seizure as starting with laryngeal constriction, followed by other symptoms until a generalized tonic-clonic seizure occurs. Where is the likely localization of the seizure focus?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "Which cranial nerve is primarily responsible for the sense of smell?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Facial nerve (CN VII)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "",
+    "options": {
+      "A": "patient in the clinic has continuous facial jerks and hand jerks (partial continua). How should you treat this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "Which of these is a characteristic of Lennox-Gastaut syndrome (LGS)?",
+    "options": {
+      "A": "Resistant to antiepileptic medications",
+      "B": "Peak onset 5-10 years",
+      "C": "Multiple seizure types including tonic and atonic seizures",
+      "D": "Slow spike-and-wave pattern on EEG"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q386",
+    "question_text": "",
+    "options": {
+      "A": "long scenario describes a patient with nocturnal epilepsy characterized by brief, abrupt onset seizures lasting less than 1 minute, with hyperkinetic asymmetrical extension of limbs. The patient also experiences morning seizures with an aura. What is the localization of the seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q264",
+    "question_text": "In the same scenario, what should be done next based on the EEG findings indicating nonconvulsive status epilepticus (NCSE)?",
+    "options": {
+      "A": "Give Keppra IV",
+      "B": "Loading phenytoin",
+      "C": "Administer lorazepam IV",
+      "D": "Initiate continuous EEG monitoring"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q248",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences seizures with choking. Where is the likely localization of the seizure focus?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q288",
+    "question_text": "In a case scenario typical of childhood absence epilepsy, which antiepileptic medication will worsen his seizures?",
+    "options": {
+      "A": "Trileptal",
+      "B": "Ethosuximide",
+      "C": "Valproic acid",
+      "D": "Lamotrigine"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q269",
+    "question_text": "",
+    "options": {
+      "A": "Multiple sclerosis",
+      "B": "Parkinson's disease",
+      "C": "Amyotrophic lateral sclerosis",
+      "D": "Myasthenia gravis"
+    },
+    "correct_answer": "C",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q263",
+    "question_text": "",
+    "options": {
+      "A": "child is experiencing repeated staring episodes (absence seizures) at home and school. What is the first-line treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady on a low dose of levetiracetam is sleeping well and has good compliance, but is still having seizures. What do you want to add?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "In a similar scenario, the patient experiences loss of awareness and sometimes tonic-clonic seizures (TCS) with a normal interictal EEG and normal MRI. What is the next step?",
+    "options": {
+      "A": "Video EEG",
+      "B": "Interictal PET",
+      "C": "Repeat MRI with epilepsy protocol",
+      "D": "Start empirical antiepileptic treatment"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "patient with a new onset seizure and a normal neurological examination presents. What will carry the highest risk of recurrence?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q155",
+    "question_text": "",
+    "options": {
+      "A": "young patient with a 10-year history of focal seizures on treatment has been seizure-free for 2 years. What is the best predictor of seizure remission?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "Patient came with absence seizure with rare GTC; EEG showed 3Hz. What are the other associated symptoms this patient can have?",
+    "options": {
+      "A": "Eyelid myotonia",
+      "B": "Ataxia",
+      "C": "Visual aura",
+      "D": "Muscle weakness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "After moderate traumatic brain injury and an episode of transient global amnesia, for how long does the risk of seizure persist?",
+    "options": {
+      "A": "Up to 5 years",
+      "B": "Up to 10 years",
+      "C": "Up to 15 years",
+      "D": "Up to 20 years"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "Which of the following is the most common cause of acute ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion",
+      "D": "Cerebral venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q285",
+    "question_text": "",
+    "options": {
+      "A": "26-year-old female, who is known to have epilepsy, has increased seizure frequency and is pregnant. She was on Keppra 500 mg BID. What medication should be added?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "Which of the following is the most common cause of ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion",
+      "D": "Cerebral venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q293",
+    "question_text": "What is the most significant predictor of seizure recurrence in a patient known to have epilepsy who has stopped his medications?",
+    "options": {
+      "A": "Medication compliance",
+      "B": "Generalized type of epilepsy",
+      "C": "Duration of seizure freedom before withdrawal",
+      "D": "Presence of abnormal EEG findings"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q219",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old male with generalized tonic-clonic seizures on lamotrigine 200 mg bid has had a breakthrough seizure. What is the next appropriate medication?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q224",
+    "question_text": "",
+    "options": {
+      "A": "patient had recurrent nocturnal seizures with hypermotor features, a history of asymmetric posturing, strange feelings, and brief loss of awareness. Where is the likely seizure focus?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q174",
+    "question_text": "",
+    "options": {
+      "A": "patient was brought in from a dental clinic unconscious. In the emergency department, the patient woke up. What finding would support the diagnosis of seizure rather than syncope?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q278",
+    "question_text": "Which of the following is the most common cause of subarachnoid hemorrhage?",
+    "options": {
+      "A": "Arteriovenous malformation",
+      "B": "Trauma",
+      "C": "Ruptured berry aneurysm",
+      "D": "Hypertensive intracerebral hemorrhage"
+    },
+    "correct_answer": "C",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q267",
+    "question_text": "",
+    "options": {
+      "A": "young lady who underwent tumor resection presented with a staring spell and loss of awareness. What is your treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

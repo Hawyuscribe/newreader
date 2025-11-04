@@ -1,0 +1,40 @@
+{
+  "start_time": "2025-05-08T14:13:12.624778",
+  "subspecialties_processed": 4,
+  "total_questions_processed": 266,
+  "total_matched_by_similarity": 160,
+  "total_still_unmatched": 95,
+  "total_explanations_updated": 160,
+  "subspecialty_stats": [
+    {
+      "subspecialty": "Headache",
+      "questions_processed": 174,
+      "matched_by_similarity": 114,
+      "still_unmatched": 55,
+      "explanations_updated": 114
+    },
+    {
+      "subspecialty": "Neuropsychiatry",
+      "questions_processed": 40,
+      "matched_by_similarity": 22,
+      "still_unmatched": 15,
+      "explanations_updated": 22
+    },
+    {
+      "subspecialty": "Pediatric Neurology",
+      "questions_processed": 18,
+      "matched_by_similarity": 8,
+      "still_unmatched": 8,
+      "explanations_updated": 8
+    },
+    {
+      "subspecialty": "Sleep Neurology",
+      "questions_processed": 34,
+      "matched_by_similarity": 16,
+      "still_unmatched": 17,
+      "explanations_updated": 16
+    }
+  ],
+  "end_time": "2025-05-08T14:13:34.141310",
+  "duration": 21.516532
+}

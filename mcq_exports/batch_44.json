@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q128",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV presents with confusion. A CT scan shows multiple enhancing masses in the brain. Upon performing a lumbar puncture and CSF analysis, which test should you consider sending?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "In a scenario of mucormycosis, what is the route of infection?",
+    "options": {
+      "A": "Direct invasion (through emissary vein)",
+      "B": "Hematogenous spread",
+      "C": "Lymphatic dissemination",
+      "D": "Airborne inhalation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "An HIV patient has an MRI typical for neurocysticercosis. What is the cause?",
+    "options": {
+      "A": "Taenia solium",
+      "B": "Toxoplasma gondii",
+      "C": "Cryptococcus neoformans",
+      "D": "Mycobacterium tuberculosis"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "Patient came with orange retina; what is the diagnosis?",
+    "options": {
+      "A": "Syphilis",
+      "B": "Brucellosis",
+      "C": "Bartonella",
+      "D": "Malaria"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q175",
+    "question_text": "",
+    "options": {
+      "A": "patient has bilateral facial weakness, and a lumbar puncture showed high white blood cell count. A picture showed erythema migrans. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "What is the most common sporadic fatal viral meningoencephalitis worldwide?",
+    "options": {
+      "A": "EBV",
+      "B": "HSV1",
+      "C": "HHV6",
+      "D": "CMV"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with personality changes, headaches, and increased thirst for months. MRI shows hyperintensity in the cortical, subcortical, and cerebellar areas, with CSF analysis revealing low glucose, high protein (58), and lymphocytic predominance. What is the likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old female has a history of back pain and progressive weakness, with normal brain and spine MRI. She mentioned she came from Africa. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "In a case of bacterial meningitis, what is the most common organism responsible?",
+    "options": {
+      "A": "Pneumococcus",
+      "B": "Neisseria meningitidis",
+      "C": "Haemophilus influenzae",
+      "D": "Listeria monocytogenes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q249",
+    "question_text": "What is true about herpes encephalitis?",
+    "options": {
+      "A": "HSV-2 is the most common cause in adults.",
+      "B": "Fever is not a significant symptom.",
+      "C": "The dose of acyclovir is 10 mg/kg every 8 hours for 14-21 days.",
+      "D": "Viral load is not associated with the severity of the disease."
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "An elderly patient with a sinus infection presents with meningitis. What is the appropriate treatment?",
+    "options": {
+      "A": "Ceftriaxone, vancomycin",
+      "B": "Metronidazole, vancomycin",
+      "C": "Metronidazole, ceftriaxone",
+      "D": "Ampicillin, gentamicin"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "diabetic patient with a runny nose and epistaxis presents with diplopia, ophthalmoplegia, and V1 and V2 sensory defects. Examination did not show proptosis. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "What is the most common site of infection in neural infections?",
+    "options": {
+      "A": "Cervical",
+      "B": "Lumbar",
+      "C": "Sacral",
+      "D": "Cranial"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "",
+    "options": {
+      "A": "21-year-old female, pregnant at 27 weeks and living on a dairy farm, presents with a history of meningitis and shock. CSF analysis shows high WBC count around 9000, high protein, and glucose of 19. What is the best empirical antibiotic treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged male patient with a history of headache reports fever, night sweats, and weight loss a few weeks ago. An MRI of the brain with contrast was performed. He has a history of head injury from a few years ago. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "An elderly patient developed a painful Herpes Zoster rash. Five days after the pain subsided, she developed confusion and encephalopathy. She was prescribed analgesia medication for her pain. What is the diagnosis?",
+    "options": {
+      "A": "Herpes Zoster encephalitis",
+      "B": "Drug induced confusion",
+      "C": "Postherpetic neuralgia",
+      "D": "Delirium due to systemic infection"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "Malaria is caused by which species when the CNS is involved?",
+    "options": {
+      "A": "Plasmodium falciparum",
+      "B": "Plasmodium vivax",
+      "C": "Plasmodium ovale",
+      "D": "Plasmodium malariae"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV and a CD4 count of 60 presents with a single ring-enhancing lesion at the white-grey matter junction and minimal edema. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old female has a history of back pain and progressive weakness, with normal brain and spine MRI. She mentioned that she came from Africa. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "patient was brought to the emergency department with fever and confusion. Later, he developed a seizure, and an MRI of the brain shows hyperintensity in the left temporal lobe. What is expected to be found on CSF analysis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "What is the most common cause of sporadic fatal meningoencephalitis?",
+    "options": {
+      "A": "HSV1",
+      "B": "EBV",
+      "C": "CMV",
+      "D": "HPV"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "What is the most common location of Varicella Zoster Virus (VZV) in the neuronal axis?",
+    "options": {
+      "A": "Cervical",
+      "B": "Lumbar",
+      "C": "Thoracic",
+      "D": "Sacral"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "What should be done to decrease the risk of post-herpetic neuralgia?",
+    "options": {
+      "A": "Anti-viral medication",
+      "B": "Gabapentin",
+      "C": "IV lidocaine",
+      "D": "Another analgesic"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "In an HIV patient with multiple ring-enhancing lesions, which statement is true?",
+    "options": {
+      "A": "Starting antiretroviral therapy improved cognitive outcomes.",
+      "B": "CMV infection occurred early in the disease.",
+      "C": "Negative Indian ink excludes Cryptococcus.",
+      "D": "Complications of HIV are only related to CD4 count."
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "patient with neurobrucellosis is typically treated with which of the following antibiotics during the first 1-2 months?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,729 @@
+{
+  "total_mcqs": 3044,
+  "analyzed": 3044,
+  "matched": 1099,
+  "mismatched": 90,
+  "inconclusive": 1855,
+  "mismatches": [
+    {
+      "id": 100022083,
+      "question_number": "37",
+      "question_text": "What is the 2-year recurrence rate of seizures after the first seizure attack?",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"30%\", \"B\": \"10%\", \"C\": \"50%\", \"D\": \"70%\"}"
+    },
+    {
+      "id": 100022101,
+      "question_number": "165",
+      "question_text": "Patient with typical symptoms of Juvenile Myoclonic Epilepsy (JME), what is a characteristic feature...",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Seizure induced by photic stimulation\", \"B\": \"Seizures occurring only during sleep\", \"C\": \"Progressive cognitive decline\", \"D\": \"Focal motor seizures without generalization\"}"
+    },
+    {
+      "id": 100022124,
+      "question_number": "218",
+      "question_text": "In a pregnant patient with seizures, which statement is true?",
+      "stored_answer": "C",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Lamotrigine clearance increases in the 1st and 2nd trimester\", \"B\": \"Levetiracetam is the safest medication during pregnancy\", \"C\": \"Valproate is the first-line treatment\", \"D\": \"All antiepilep..."
+    },
+    {
+      "id": 100022150,
+      "question_number": "82",
+      "question_text": "In a case involving MRI findings consistent with Mesial Temporal Lobe Epilepsy (MTLE), what type of ...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Cephalic\", \"B\": \"Visual\", \"C\": \"Auditory\", \"D\": \"Olfactory\"}"
+    },
+    {
+      "id": 100022154,
+      "question_number": "202",
+      "question_text": "Q202. A seizure described as early non-focal right head turning with right hand automatism. What is ...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Right frontal lobe\", \"B\": \"Right temporal lobe\", \"C\": \"Left temporal lobe\", \"D\": \"Left frontal lobe\"}"
+    },
+    {
+      "id": 100022165,
+      "question_number": "192",
+      "question_text": "Which antiepileptic drugs (AEDs) exacerbate myoclonus?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Phenobarbital\", \"B\": \"Carbamazepine\", \"C\": \"Phenytoin\", \"D\": \"Gabapentin\"}"
+    },
+    {
+      "id": 100022190,
+      "question_number": "144",
+      "question_text": "A patient in the clinic has continuous facial jerks and hand jerks (partial continua). How should yo...",
+      "stored_answer": "C",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"IV valproic acid\", \"B\": \"IV diazepam\", \"C\": \"IV phenytoin\", \"D\": \"Lamictal\"}"
+    },
+    {
+      "id": 100022197,
+      "question_number": "23",
+      "question_text": "A patient with a new onset seizure and a normal neurological examination presents. What will carry t...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Family history of epilepsy\", \"B\": \"History of febrile seizures\", \"C\": \"Abnormal EEG findings\", \"D\": \"Presence of a structural brain lesion\"}"
+    },
+    {
+      "id": 100022213,
+      "question_number": "5",
+      "question_text": "In a case of generalized tonic-clonic (GTC) seizures, what is the percentage of recurrence within 2 ...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"10%\", \"B\": \"25%\", \"C\": \"50%\", \"D\": \"75%\"}"
+    },
+    {
+      "id": 100022233,
+      "question_number": "6",
+      "question_text": "A patient had moderate head trauma in a motor vehicle accident (MVA). For how long does the risk of ...",
+      "stored_answer": "D",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"5 years\", \"B\": \"10 years\", \"C\": \"15 years\", \"D\": \"20 years\"}"
+    },
+    {
+      "id": 100022256,
+      "question_number": "171",
+      "question_text": "A patient experiences an aura of palpitations and sweating. Where is the likely localization of the ...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Amygdala\", \"B\": \"Insular\", \"C\": \"Temporal lobe\", \"D\": \"Hypothalamus\"}"
+    },
+    {
+      "id": 100022274,
+      "question_number": "173",
+      "question_text": "A child was seen during an interview and had continuous jerks of the right arm with few interruption...",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"IV Diazepam\", \"B\": \"IV Levetiracetam\", \"C\": \"IV Valproic acid\", \"D\": \"IV Phenytoin\"}"
+    },
+    {
+      "id": 100022319,
+      "question_number": "389",
+      "question_text": "In a scenario of Lennox-Gastaut syndrome, what is the first-line treatment for drop attacks?",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Carbamazepine\", \"B\": \"Clobazam\", \"C\": \"Depakine\", \"D\": \"Rufinamide\"}"
+    },
+    {
+      "id": 100022336,
+      "question_number": "215",
+      "question_text": "If the seizures were deemed idiopathic with spike-wave discharges on EEG, what is the risk of seizur...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"17%\", \"B\": \"26%\", \"C\": \"30%\", \"D\": \"50%\"}"
+    },
+    {
+      "id": 100022338,
+      "question_number": "102",
+      "question_text": "In the scenario of Panayiotopoulos Syndrome, which of the following is a characteristic feature of t...",
+      "stored_answer": "C",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Electrographic occipital spikes\", \"B\": \"Autonomic seizures\", \"C\": \"Early onset benign childhood seizures\", \"D\": \"Prolonged seizures with vomiting\"}"
+    },
+    {
+      "id": 100022339,
+      "question_number": "27",
+      "question_text": "A 20-year-old female known to have seizures presented to the outpatient clinic. She is on Lacosamide...",
+      "stored_answer": "D",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Increase Lacosamide dose\", \"B\": \"Add Carbamazepine\", \"C\": \"Consider surgery\", \"D\": \"Add Topiramate\"}"
+    },
+    {
+      "id": 100022372,
+      "question_number": "2",
+      "question_text": "An elderly patient with a history of diabetes mellitus, hypertension, hyperlipidemia, and osteoporos...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Valproate\", \"B\": \"Phenytoin\", \"C\": \"Lamotrigine\", \"D\": \"Lacosamide\"}"
+    },
+    {
+      "id": 100022373,
+      "question_number": "42",
+      "question_text": "A patient with partial seizures has a PET scan showing hypometabolism in the perisylvian region. Whi...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"GluR3\", \"B\": \"GLUT-1\", \"C\": \"NMDA\", \"D\": \"AMPA\"}"
+    },
+    {
+      "id": 100022380,
+      "question_number": "10",
+      "question_text": "Q10. A patient presents with a figure of 4, fencing posture, and right side nose rubbing. Which loca...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Left temporal\", \"B\": \"Right temporal\", \"C\": \"Left frontal\", \"D\": \"Right parietal\"}"
+    },
+    {
+      "id": 100022388,
+      "question_number": "11",
+      "question_text": "What is true about Juvenile Myoclonic Epilepsy (JME)?",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Can be provoked by photic stimulation\", \"B\": \"Most patients will be seizure-free\", \"C\": \"Typically presents with myoclonic jerks on awakening\", \"D\": \"Usually begins in early childhood\"}"
+    },
+    {
+      "id": 100022430,
+      "question_number": "77",
+      "question_text": "An elderly female is brought to the ER with a level of consciousness that is altered. Her labs show ...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Vitamin K\", \"B\": \"TPA\", \"C\": \"Daratumumab\", \"D\": \"FFP\"}"
+    },
+    {
+      "id": 100022445,
+      "question_number": "12",
+      "question_text": "Cardiac arrest in a smoker patient complicated with hypotension and intubation. After 1 month, the p...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Hypercapnia\", \"B\": \"Vasospasm\", \"C\": \"Hypoxic-ischemic encephalopathy\", \"D\": \"Post-intubation airway trauma\"}"
+    },
+    {
+      "id": 100022465,
+      "question_number": "499",
+      "question_text": "An elderly patient who suffered a cardiac arrest is not waking up. What is the next best step in man...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"EEG\", \"B\": \"MRI\", \"C\": \"Somatosensory evoked potentials (SSEP)\", \"D\": \"Administer intravenous fluids\"}"
+    },
+    {
+      "id": 100022504,
+      "question_number": "72",
+      "question_text": "A patient known to have congenital heart disease presents with headache, fever, and hemiparesis. Wha...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Blood culture\", \"B\": \"CT without contrast\", \"C\": \"CT with contrast\", \"D\": \"LP\"}"
+    },
+    {
+      "id": 100022631,
+      "question_number": "7",
+      "question_text": "In neonatal mild hypoxic ischemic encephalopathy, what is the most common presentation?",
+      "stored_answer": "C",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Seizures\", \"B\": \"Apnea\", \"C\": \"Hypotonia\", \"D\": \"Irritability\"}"
+    },
+    {
+      "id": 100022666,
+      "question_number": "115",
+      "question_text": "A middle-aged male presented to the outpatient clinic with his father, who stated that the patient h...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"EEG\", \"B\": \"PET scan for frontotemporal dementia\", \"C\": \"MRI\", \"D\": \"Neuropsychological testing\"}"
+    },
+    {
+      "id": 100022687,
+      "question_number": "182",
+      "question_text": "A patient presents with a right occipital lesion and visual field defect. What condition could be as...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Visual anosognosia\", \"B\": \"Optic ataxia\", \"C\": \"Vitamin B6 sensory ganglionopathy\", \"D\": \"Hemianopia\"}"
+    },
+    {
+      "id": 100022726,
+      "question_number": "50",
+      "question_text": "What is the mode of inheritance for Fahr disease?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Autosomal Recessive\", \"B\": \"Autosomal Dominant\", \"C\": \"X-linked\", \"D\": \"There are 2 modes of transmission\"}"
+    },
+    {
+      "id": 100022773,
+      "question_number": "185",
+      "question_text": "In a case of Gaucher disease, which visual manifestation is commonly observed?",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Ocular apraxia (Saccadic initiation failure)\", \"B\": \"Vertical gaze palsy\", \"C\": \"Blindness\", \"D\": \"Nystagmus\"}"
+    },
+    {
+      "id": 100022799,
+      "question_number": "33",
+      "question_text": "Prosopagnosia is localized to which area?",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Dominant occipital lobe\", \"B\": \"Dominant parietal lobe\", \"C\": \"Right temporal lobe\", \"D\": \"Occipitotemporal\"}"
+    },
+    {
+      "id": 100022807,
+      "question_number": "51",
+      "question_text": "Q51. Impaired immediate recall is associated with lesions of:",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Prefrontal cortex\", \"B\": \"Medial temporal\", \"C\": \"Occipital\", \"D\": \"Mediodorsal thalamus\"}"
+    },
+    {
+      "id": 100022810,
+      "question_number": "98",
+      "question_text": "A patient presents with loss of sensation in the bilateral upper extremities, with later involvement...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Central Cord Syndrome\", \"B\": \"Syringomyelia\", \"C\": \"Brown-S\\u00e9quard Syndrome\", \"D\": \"Anterior Cord Syndrome\"}"
+    },
+    {
+      "id": 100022829,
+      "question_number": "15",
+      "question_text": "In a case of alexia without agraphia with a visual field defect, the lesion is located in:",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Angular gyrus\", \"B\": \"Splenium of corpus callosum\", \"C\": \"Left occipital lobe\", \"D\": \"Posterior limb of internal capsule\"}"
+    },
+    {
+      "id": 100022878,
+      "question_number": "4",
+      "question_text": "Q4. A patient with a history of PICA infarction two years ago presents with oscillopsia. Where is th...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Interstitial nucleus of Cajal\", \"B\": \"Inferior cerebellar peduncle\", \"C\": \"Inferior olive\", \"D\": \"Medial longitudinal fasciculus\"}"
+    },
+    {
+      "id": 100022891,
+      "question_number": "20",
+      "question_text": "A patient presented with nystagmus at primary gaze and a slow amplitude fast beat to the right. Whic...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Tectal midbrain\", \"B\": \"Cerebellar hemisphere\", \"C\": \"Pontocerebellar angle\", \"D\": \"Medulla\"}"
+    },
+    {
+      "id": 100022995,
+      "question_number": "226",
+      "question_text": "What is the first-line treatment for warfarin-related intracerebral hemorrhage (ICH) to achieve rapi...",
+      "stored_answer": "C",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Fresh frozen plasma (FFP)\", \"B\": \"Prothrombin complex concentrate (PCC)\", \"C\": \"Recombinant activated factor VII (rFVIIa)\", \"D\": \"Vitamin K alone\"}"
+    },
+    {
+      "id": 100023045,
+      "question_number": "81",
+      "question_text": "A female who develops transverse sinus thrombosis: what is the most accurate statement to describe t...",
+      "stored_answer": "C",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Female sex is a major risk factor\", \"B\": \"Seizure is the most common presenting symptom\", \"C\": \"The transverse sinus is the most commonly affected sinus in cerebral venous thrombosis (CVT)\", \"D..."
+    },
+    {
+      "id": 100023049,
+      "question_number": "133",
+      "question_text": "A 62-year-old male presented with acute onset nausea and vomiting. He is diabetic and hypertensive. ...",
+      "stored_answer": "B",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Anterior cerebral artery\", \"B\": \"Posterior inferior cerebellar artery\", \"C\": \"Middle cerebral artery\", \"D\": \"Basilar artery\"}"
+    },
+    {
+      "id": 100023102,
+      "question_number": "76",
+      "question_text": "A female patient came with ischemic stroke, a history of two previous abortions, and elevated prothr...",
+      "stored_answer": "C",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Anti-phospholipid syndrome\", \"B\": \"Prothrombin gene mutation\", \"C\": \"Protein C and Protein S levels\", \"D\": \"Factor V Leiden mutation\"}"
+    },
+    {
+      "id": 100023183,
+      "question_number": "216",
+      "question_text": "A pregnant lady had a headache, and her CT showed an intracranial hemorrhage (ICH). What is the trea...",
+      "stored_answer": "C",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Start Heparin\", \"B\": \"Supportive care and blood pressure control\", \"C\": \"Immediate Warfarin therapy\", \"D\": \"Surgical evacuation of hematoma\"}"
+    },
+    {
+      "id": 100023259,
+      "question_number": "45",
+      "question_text": "A patient presents with third nerve palsy, tremor, and hearing loss. Which artery is likely involved...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"AICA\", \"B\": \"PICA\", \"C\": \"Basilar artery\", \"D\": \"Superior cerebellar artery\"}"
+    },
+    {
+      "id": 100023300,
+      "question_number": "257",
+      "question_text": "Carbamazepine",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Is primarily used to treat Parkinson's disease\", \"B\": \"Is an anticonvulsant used in epilepsy\", \"C\": \"Is a dopamine agonist\", \"D\": \"Is a cholinesterase inhibitor\"}"
+    },
+    {
+      "id": 100023386,
+      "question_number": "151",
+      "question_text": "A young female presents with symptoms of bilateral lower limb weakness, loss of all sensory modaliti...",
+      "stored_answer": "C",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Transverse myelitis\", \"B\": \"Myasthenia gravis (MG)\", \"C\": \"Multiple sclerosis\", \"D\": \"Guillain-Barr\\u00e9 syndrome\"}"
+    },
+    {
+      "id": 100023395,
+      "question_number": "197",
+      "question_text": "Opsoclonus-myoclonus syndrome presents with subacute opsoclonus (irregular, rapid eye movements) and...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Infectious\", \"B\": \"Autoimmune\", \"C\": \"Paraneoplastic\", \"D\": \"Drug-induced\"}"
+    },
+    {
+      "id": 100023417,
+      "question_number": "304",
+      "question_text": "Q304. What is the risk of malignancies associated with the use of a B-cell lysis agent?",
+      "stored_answer": "C",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"0.8%\", \"B\": \"1.3%\", \"C\": \"1.5%\", \"D\": \"2.0%\"}"
+    },
+    {
+      "id": 100023446,
+      "question_number": "91",
+      "question_text": "In a longitudinal study, what was the 15-year risk of developing Multiple Sclerosis (MS) based on cl...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"25%\", \"B\": \"50%\", \"C\": \"72%\", \"D\": \"0%\"}"
+    },
+    {
+      "id": 100023459,
+      "question_number": "240",
+      "question_text": "Decreased consciousness and ataxia can be present in which condition?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Miller Fisher syndrome\", \"B\": \"Bickerstaff brainstem encephalitis\", \"C\": \"Guillain-Barr\\u00e9 syndrome\", \"D\": \"Multiple sclerosis\"}"
+    },
+    {
+      "id": 100023477,
+      "question_number": "313",
+      "question_text": "An MRI of the spine suggests demyelination. The patient complains of contractions and pain, and the ...",
+      "stored_answer": "C",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Acetazolamide\", \"B\": \"Carbamazepine\", \"C\": \"Diazepam\", \"D\": \"Baclofen\"}"
+    },
+    {
+      "id": 100023486,
+      "question_number": "381",
+      "question_text": "Q381. A young female with relapsing-remitting multiple sclerosis (RRMS) has a previous history of tr...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Rebound disease\", \"B\": \"Pseudo relapse\", \"C\": \"True relapse\", \"D\": \"Urinary tract infection\"}"
+    },
+    {
+      "id": 100023503,
+      "question_number": "23",
+      "question_text": "A male patient with limbic encephalitis (seizures, psychosis) is asked about the most common antibod...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Anti-NMDA\", \"B\": \"Anti-glutamate\", \"C\": \"Anti-glycine\", \"D\": \"Anti-VGKC\"}"
+    },
+    {
+      "id": 100023512,
+      "question_number": "125",
+      "question_text": "Q125. What DMT has a 30% increased risk of secondary autoimmune disorders?",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Alemtuzumab\", \"B\": \"Fingolimod\", \"C\": \"Ocrelizumab\", \"D\": \"Natalizumab\"}"
+    },
+    {
+      "id": 100023577,
+      "question_number": "130",
+      "question_text": "Q130. Which of the following antibodies is associated with myoclonus dystonia?",
+      "stored_answer": "B",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Anti-GD1\", \"B\": \"Anti-GB1\", \"C\": \"Anti-GM1\", \"D\": \"Anti-GAD65\"}"
+    },
+    {
+      "id": 100023594,
+      "question_number": "279",
+      "question_text": "An MS patient developed tonic spasms. What is the appropriate treatment?",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Carbamazepine\", \"B\": \"Baclofen\", \"C\": \"Gabapentin\", \"D\": \"Diazepam\"}"
+    },
+    {
+      "id": 100023634,
+      "question_number": "320",
+      "question_text": "A young male patient with a known case of relapsing-remitting multiple sclerosis (RRMS) on natalizum...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Plasma exchange\", \"B\": \"IVIG\", \"C\": \"Prednisolone\", \"D\": \"Intravenous steroids\"}"
+    },
+    {
+      "id": 100023692,
+      "question_number": "6",
+      "question_text": "Q6. What imaging is needed for the evaluation of a suspected diabetic 3rd nerve palsy?",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"MRI spine\", \"B\": \"MRV\", \"C\": \"Orbital MRI\", \"D\": \"MR Spectroscopy\"}"
+    },
+    {
+      "id": 100023697,
+      "question_number": "41",
+      "question_text": "In Horner\u2019s syndrome, what can hydroxyamphetamine do?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Confirm Horner's syndrome\", \"B\": \"Differentiate third-order neuron from first and second-order neurons\", \"C\": \"Treat nystagmus\", \"D\": \"Induce pupil dilation\"}"
+    },
+    {
+      "id": 100023710,
+      "question_number": "8",
+      "question_text": "In a case scenario, a patient experiences diplopia that worsens when looking toward his left hand do...",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Right trochlear nerve\", \"B\": \"Left trochlear nerve\", \"C\": \"Right trochlear nucleus\", \"D\": \"Left trochlear nucleus\"}"
+    },
+    {
+      "id": 100023755,
+      "question_number": "363",
+      "question_text": "A patient had left eye heterotopia and skew deviation, tilting to the right. Where is the lesion?",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Left midbrain\", \"B\": \"Right midbrain\", \"C\": \"Left pons\", \"D\": \"Right cerebellum\"}"
+    },
+    {
+      "id": 100023760,
+      "question_number": "67",
+      "question_text": "A 75-year-old male patient with a history of hypertension and diabetes mellitus presents with chroni...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Oral Steroid\", \"B\": \"Intravenous Steroid\", \"C\": \"Temporal artery biopsy\", \"D\": \"Observation and repeat ESR\"}"
+    },
+    {
+      "id": 100023765,
+      "question_number": "352",
+      "question_text": "Q352. What is the artery associated with a left sectoranopia sparing the horizontal meridian?",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"MCA\", \"B\": \"Anterior choroidal artery\", \"C\": \"Lateral posterior choroidal artery\", \"D\": \"Posterior cerebral artery\"}"
+    },
+    {
+      "id": 100023778,
+      "question_number": "64",
+      "question_text": "A young adult has progressive bilateral painless decrease in visual acuity over 2\u20133 years. His broth...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"ECG\", \"B\": \"Mitochondrial DNA analysis\", \"C\": \"Visual evoked potentials\", \"D\": \"Serum vitamin B12 levels\"}"
+    },
+    {
+      "id": 100023789,
+      "question_number": "47",
+      "question_text": "A young patient presents with dystonia and myoclonus. Which of the following is a characteristic fea...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Diurnal variation\", \"B\": \"Typical onset in adulthood\", \"C\": \"Caused by KCTD17 mutation\", \"D\": \"Predominantly affects males\"}"
+    },
+    {
+      "id": 100024004,
+      "question_number": "156",
+      "question_text": "Q156. Hallervorden-Spatz syndrome is associated with which gene?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"PKAN-1\", \"B\": \"PANK2\", \"C\": \"ATP7B\", \"D\": \"SLC6A3\"}"
+    },
+    {
+      "id": 100024071,
+      "question_number": "127",
+      "question_text": "A woman presents with her husband, who complains of her uncomfortable sensations in the legs at nigh...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Pregnancy\", \"B\": \"Caffeine intake\", \"C\": \"Exercise before bedtime\", \"D\": \"Use of iron supplements\"}"
+    },
+    {
+      "id": 100024090,
+      "question_number": "14",
+      "question_text": "A male patient presents with headache, congestion, tearing, with a duration of 15\u201330 minutes, occurr...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"SUNCT\", \"B\": \"SUNA\", \"C\": \"Migraine\", \"D\": \"Cluster Headache\"}"
+    },
+    {
+      "id": 100024124,
+      "question_number": "118",
+      "question_text": "In a scenario of intracranial hypotension, which of the following is the most common MRI brain findi...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Leptomeningeal enhancement\", \"B\": \"Enlarged pituitary gland\", \"C\": \"Decreased venous sinus size\", \"D\": \"Decreased anterior-posterior diameter of the brainstem\"}"
+    },
+    {
+      "id": 100024141,
+      "question_number": "99",
+      "question_text": "A patient with migraine on amitriptyline and sumatriptan became pregnant. What should be done?",
+      "stored_answer": "B",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Keep the same medications and encourage taking multivitamins.\", \"B\": \"Discontinue sumatriptan.\", \"C\": \"Discontinue amitriptyline.\", \"D\": \"Switch to acetaminophen for acute migraine attacks\"}"
+    },
+    {
+      "id": 100024229,
+      "question_number": "96",
+      "question_text": "Q96. A young lady experiences severe headaches with orgasm, and similar episodes occur every time. W...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Verapamil\", \"B\": \"Indomethacin\", \"C\": \"Sumatriptan\", \"D\": \"Propranolol\"}"
+    },
+    {
+      "id": 100024232,
+      "question_number": "114",
+      "question_text": "Q114. A pregnant patient at 12 weeks gestational age with status migrainosus is asking about managem...",
+      "stored_answer": "C",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"IV Depakin\", \"B\": \"Dihydroergotamine\", \"C\": \"Subcutaneous sumatriptan\", \"D\": \"Steroid\"}"
+    },
+    {
+      "id": 100024301,
+      "question_number": "13",
+      "question_text": "Q13. Which of the following histopathological features is associated with oligodendroglioma?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Pseudorossettes\", \"B\": \"Fried egg\", \"C\": \"Homer Wright rosettes\", \"D\": \"Psammoma bodies\"}"
+    },
+    {
+      "id": 100024307,
+      "question_number": "143",
+      "question_text": "A female patient has papilledema, signs of increased intracranial pressure, and MRI showed a frontal...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Debulking surgery\", \"B\": \"Stereotactic biopsy\", \"C\": \"Start corticosteroid therapy\", \"D\": \"Perform lumbar puncture\"}"
+    },
+    {
+      "id": 100024361,
+      "question_number": "35",
+      "question_text": "Q35. Links histology (pseudorosette) to tumor type (Ependymoma).",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Medulloblastoma\", \"B\": \"Ependymoma\", \"C\": \"Astrocytoma\", \"D\": \"Oligodendroglioma\"}"
+    },
+    {
+      "id": 100024373,
+      "question_number": "114",
+      "question_text": "A 44-year-old woman is evaluated for severe and progressive left shoulder pain radiating down to the...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Carcinomatous meningitis\", \"B\": \"Cervical radiculopathy due to epidural metastasis\", \"C\": \"Neoplastic plexopathy\", \"D\": \"Radiation plexopathy\"}"
+    },
+    {
+      "id": 100024388,
+      "question_number": "112",
+      "question_text": "A child with proptosis has a mother who also has proptosis and light brown dots in the neck. What is...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Retinoblastoma\", \"B\": \"Benign optic glioma\", \"C\": \"Neurofibromatosis Type 1\", \"D\": \"Optic nerve glioma\"}"
+    },
+    {
+      "id": 100024409,
+      "question_number": "50",
+      "question_text": "A patient with multiple caf\u00e9-au-lait spots presents with unilateral proptosis and restricted extraoc...",
+      "stored_answer": "A",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Benign optic glioma\", \"B\": \"Malignant optic glioblastoma\", \"C\": \"Orbital plexiform neurofibroma\", \"D\": \"Optic nerve meningioma\"}"
+    },
+    {
+      "id": 100024428,
+      "question_number": "97",
+      "question_text": "Patient came with neurosyphilis; VDRL positive. What are the symptoms associated with the disease?",
+      "stored_answer": "C",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Erythema nodosum\", \"B\": \"Hypomelatonic macule\", \"C\": \"Constricted pupils\", \"D\": \"Argyll Robertson pupils\"}"
+    },
+    {
+      "id": 100024484,
+      "question_number": "69",
+      "question_text": "In the same scenario (diabetic patient with a black eschar on the nasal mucosa suggestive of rhinoce...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Fluconazole\", \"B\": \"Amphotericin B\", \"C\": \"Voriconazole\", \"D\": \"Itraconazole\"}"
+    },
+    {
+      "id": 100024490,
+      "question_number": "139",
+      "question_text": "A patient is comatose, with retinal findings typical for neuro-retinitis. What is the diagnosis?",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Malaria\", \"B\": \"Syphilis\", \"C\": \"Lyme\", \"D\": \"HCV\"}"
+    },
+    {
+      "id": 100024530,
+      "question_number": "164",
+      "question_text": "An HIV patient has an MRI that is typical for toxoplasmosis. What is the recommended treatment?",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Start trimethoprim-sulfamethoxazole\", \"B\": \"Praziquantel\", \"C\": \"Doxycycline\", \"D\": \"Pyrimethamine with sulfadiazine\"}"
+    },
+    {
+      "id": 100024593,
+      "question_number": "131",
+      "question_text": "A child presented with chorea, has a history of flu a few weeks ago for which she received antibioti...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"ASO titer\", \"B\": \"Anti-DNase B antibody\", \"C\": \"MRI brain\", \"D\": \"Serum ceruloplasmin\"}"
+    },
+    {
+      "id": 100024716,
+      "question_number": "250",
+      "question_text": "What is one of the diagnostic criteria for Guillain-Barr\u00e9 syndrome?",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"Routine laboratory tests\", \"B\": \"Exclude other causes\", \"C\": \"CSF examination\", \"D\": \"Nerve conduction studies\"}"
+    },
+    {
+      "id": 100024717,
+      "question_number": "31",
+      "question_text": "A diabetic patient presents with features of small fiber neuropathy (pain worse at night, intact ref...",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"Pregabalin\", \"B\": \"Amitriptyline\", \"C\": \"Duloxetine\", \"D\": \"Gabapentin\"}"
+    },
+    {
+      "id": 100024778,
+      "question_number": "6",
+      "question_text": "In hypokalemic periodic paralysis, which of the following is true regarding the incidence of paralys...",
+      "stored_answer": "C",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Predominantly male\", \"B\": \"Equal incidence in males and females\", \"C\": \"Occurs in the 1st-2nd decade\", \"D\": \"Occurs in the 1st decade\"}"
+    },
+    {
+      "id": 100024789,
+      "question_number": "99",
+      "question_text": "A patient post hip replacement surgery presents with right lower limb weakness. Examination showed h...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Tibial nerve\", \"B\": \"Peroneal nerve\", \"C\": \"Sciatic nerve\", \"D\": \"Femoral nerve\"}"
+    },
+    {
+      "id": 100024867,
+      "question_number": "555",
+      "question_text": "Which of the following is the most common cause of ischemic stroke?",
+      "stored_answer": "B",
+      "deduced_answer": "A",
+      "options": "{\"A\": \"Cardioembolism\", \"B\": \"Large artery atherosclerosis\", \"C\": \"Small vessel occlusion\", \"D\": \"Cerebral venous thrombosis\"}"
+    },
+    {
+      "id": 100024942,
+      "question_number": "29",
+      "question_text": "What is the most common gene associated with familial Amyotrophic Lateral Sclerosis (ALS)?",
+      "stored_answer": "A",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"C9orf72\", \"B\": \"SOD1\", \"C\": \"TARDBP\", \"D\": \"FUS\"}"
+    },
+    {
+      "id": 100024975,
+      "question_number": "19",
+      "question_text": "In a patient with a familial history of amyotrophic lateral sclerosis (ALS), which gene mutations ar...",
+      "stored_answer": "A",
+      "deduced_answer": "B",
+      "options": "{\"A\": \"SOD1\", \"B\": \"C9orf72\", \"C\": \"TARDBP\", \"D\": \"FUS\"}"
+    },
+    {
+      "id": 100024997,
+      "question_number": "92",
+      "question_text": "A patient with back pain radiating to the left lower limb and normal ankle reflex. What muscle is in...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Superior gluteus\", \"B\": \"Iliopsoas\", \"C\": \"Tibialis anterior\", \"D\": \"Quadratus lumborum\"}"
+    },
+    {
+      "id": 100025028,
+      "question_number": "200",
+      "question_text": "Q200. A 48-year-old male presents with toe walking and weakness. His family history reveals normal p...",
+      "stored_answer": "B",
+      "deduced_answer": "C",
+      "options": "{\"A\": \"Calpainopathy\", \"B\": \"Dysferlinopathy\", \"C\": \"Lamininopathy\", \"D\": \"Sarcoglycanopathy\"}"
+    },
+    {
+      "id": 100025047,
+      "question_number": "302",
+      "question_text": "A female patient with a history of neuropathic ulcer underwent testing for PMP22 deletion and duplic...",
+      "stored_answer": "C",
+      "deduced_answer": "D",
+      "options": "{\"A\": \"IK\", \"B\": \"T\", \"C\": \"HSANI\", \"D\": \"SPLECT\"}"
+    }
+  ]
+}

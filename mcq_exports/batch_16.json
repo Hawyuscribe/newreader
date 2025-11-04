@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q120",
+    "question_text": "What is the risk of having a second seizure within 2 years after the first seizure?",
+    "options": {
+      "A": "5%",
+      "B": "30%",
+      "C": "50%",
+      "D": "70%"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q262",
+    "question_text": "",
+    "options": {
+      "A": "9-month-old child with a history of developmental delay and atonic spasms for seconds has an attached ECG showing hypsarrhythmia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "patient had moderate head trauma in a motor vehicle accident (MVA). For how long does the risk of seizure persist?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "",
+    "options": {
+      "A": "65-year-old man presents with sudden onset of right-sided weakness and aphasia. Imaging reveals an infarct in the left middle cerebral artery territory. Which of the following is the most likely cause of his stroke?"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q211",
+    "question_text": "",
+    "options": {
+      "A": "child who has had 2 episodes of seizure, both occurring while he was on a train, associated with nausea and vomiting. EEG showed posterior discharges. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old patient with epilepsy on anti-seizure medication (ASM) has been controlled for the last year. What carries the risk of seizure recurrence in case of medication discontinuation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "",
+    "options": {
+      "A": "young patient presented with seizure, denies any aura, and has a normal brain MRI. He was witnessed to have recurrent generalized tonic-clonic seizures. What is the classification for his seizure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "What is the localization of juvenile myoclonic epilepsy (JME) based on the semiology of seizures with a figure of 4?",
+    "options": {
+      "A": "Fronto-polar",
+      "B": "Mesial-frontal",
+      "C": "Dorsolateral",
+      "D": "Medial prefrontal cortex"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "patient with epilepsy wants to get pregnant. Which of the following statements is?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q187",
+    "question_text": "EEG changes associated with hyperventilation?",
+    "options": {
+      "A": "Generalized delta/theta",
+      "B": "Prominent anterior slowing",
+      "C": "No changes",
+      "D": "Focal epileptiform discharges"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q275",
+    "question_text": "",
+    "options": {
+      "A": "patient with generalized tonic-clonic seizures and interictal myoclonus (typical scenario for juvenile myoclonic epilepsy). What is the mechanism?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "26-year-old woman presents to the emergency room with 4 tonic-clonic seizures. Lorazepam and a loading dose of phenytoin have been given, and the seizures have aborted. Neurology is consulted because the patient remains unresponsive for 5 hours. What is the most appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q286",
+    "question_text": "In a child with a typical scenario of benign rolandic epilepsy, what is the finding on EEG?",
+    "options": {
+      "A": "Centrotemporal spikes",
+      "B": "Generalized spike-and-wave discharges",
+      "C": "Occipital spikes",
+      "D": "Diffuse slowing"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q203",
+    "question_text": "What is the direction of gaze deviation in a patient experiencing a seizure?",
+    "options": {
+      "A": "Toward the lesion",
+      "B": "Away from the lesion",
+      "C": "Toward hemiparesis",
+      "D": "Away from hemiparesis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "",
+    "options": {
+      "A": "26-year-old female, who is known to have epilepsy and had increased seizure frequency. She is pregnant and on Levetiracetam 1500 mg BID, what should you add?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q285",
+    "question_text": "Which of the following is the most common cause of acute ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion (lacunar infarct)",
+      "D": "Cerebral venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient with features of Rolandic epilepsy presents for an EEG. What is the expected finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q286",
+    "question_text": "Which of the following cranial nerves is primarily responsible for controlling the muscles of facial expression?",
+    "options": {
+      "A": "Trigeminal nerve (Cranial Nerve V)",
+      "B": "Facial nerve (Cranial Nerve VII)",
+      "C": "Glossopharyngeal nerve (Cranial Nerve IX)",
+      "D": "Vagus nerve (Cranial Nerve X)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q278",
+    "question_text": "What is the most common type of aura in mesial temporal lobe (MTL) seizures?",
+    "options": {
+      "A": "Epigastric rising sensation",
+      "B": "Visual hallucinations",
+      "C": "Auditory hallucinations",
+      "D": "Olfactory hallucinations"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q273",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with hallucinations followed by a headache. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "",
+    "options": {
+      "A": "young male with a first-time generalized tonic-clonic seizure during the daytime has no previous seizures or risk factors. After examination, MRI, and EEG are normal. What is the 2-year recurrence risk?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q208",
+    "question_text": "Which of the following is the most common cause of acute ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion",
+      "D": "Cerebral venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "What is the pathology responsible for MTL (medial temporal lobe) epilepsy?",
+    "options": {
+      "A": "Increased dentate gating",
+      "B": "Mossy fibers sprouting",
+      "C": "Neuronal loss",
+      "D": "All of the above"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q388",
+    "question_text": "An 18-month-old baby had one febrile seizure. What is the chance of developing epilepsy in the future?",
+    "options": {
+      "A": "3%",
+      "B": "10%",
+      "C": "30%",
+      "D": "60%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q212",
+    "question_text": "",
+    "options": {
+      "A": "child with a history of absence seizures and auditory agnosia is most likely diagnosed with which condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

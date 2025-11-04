@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Pt 64 dm came with weakness lasted 25 min then resolved (tia case); asked about meds to start?",
+    "options": {
+      "option_a": "Loading plavix+ then regular ASA + Plavix",
+      "option_b": "ASA only, ...",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "around 65 y.o male DM, HTN Bp=150/70 present to ER with hx of left side weakness last for 18 mints then improved .. ? 90 day risk of stroke",
+    "options": {
+      "option_a": "Low",
+      "option_b": "modrate",
+      "option_c": "High",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "young Male patient with 3rd nerve palsy pic attached of Pcom aneurism :",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Elderly female patient wakes up with abnormal left arm and leg involuntary movements, before she slept she had no complains, presented to the ER, CT brain was normal, MRI stroke protocol done, later the involuntary movement improved. Where do you expect to the abnormality in the MRI?",
+    "options": {
+      "option_a": "Midbrain",
+      "option_b": "Sub-thalamic",
+      "option_c": "Pons",
+      "option_d": "Medulla",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "What is the diagnosis:\n- Cerebral vasculitis\n- CVT",
+    "options": {
+      "option_a": "Cerebral vasculitis",
+      "option_b": "CVT",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "What to order next:",
+    "options": {
+      "option_a": "Beta 2 glycoprotein antibody",
+      "option_b": "Cholesterol, triglycerides, LDL",
+      "option_c": "NOTCH 3",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Around 62 yo male patient with history of DM 12 years ago, presented to the ER with history of left side weakness lasted for 10 min then resolved, HTN 150/60. What is the risk of stroke in 90 days?",
+    "options": {
+      "option_a": "Low risk 3%",
+      "option_b": "High 18 %",
+      "option_c": "Moderate risk",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Around 60s yo male patient with 3.5 hr history of sudden left side flaccid weakness, severe dysarthria, facial weakness BP 176/60, afebrile, Plt 45000, BG 300. Presented to the ER, CT brain done was normal. IV TPA given, later the patient develops intracranial hemorrhage. In this case What is the protocol Violations in Community-Based rTPA Stroke Treatment:",
+    "options": {
+      "option_a": "Low deficit",
+      "option_b": "Out of TPA window",
+      "option_c": "Plt 45000",
+      "option_d": "??",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "What is the management:\n-IV thrombolytic thereby is absolute contraindication\n-Mechanical thrombectomy\n-IV thrombolysis\n-IV thrombolysis and mechanical thrombectomy",
+    "options": {
+      "option_a": "IV thrombolytic thereby is absolute contraindication",
+      "option_b": "Mechanical thrombectomy",
+      "option_c": "IV thrombolysis",
+      "option_d": "IV thrombolysis and mechanical thrombectomy",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Around 40 yo male patient presented with history of left side weakness, numbnesses, dysarthria. He found to have stroke. He reported history of migraine headache and cognitive decline. His father died at young age. What will you order in this case?",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "NOTCH",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "This is 24 yo female patient with k/c of aneurysm with history right side headache and right pupil dilatation. On exam right pupil dilated, with impaired right eye adduction, CT brain showed ruptured aneurysm. Where is the location of aneurysm?",
+    "options": {
+      "option_a": "Right PCOM",
+      "option_b": "Right ICR",
+      "option_c": "Right ACOM",
+      "option_d": "Right MCA",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Which of the following arteries arise from the internal carotid artery?",
+    "options": {
+      "option_a": "(AICA), Option B (PICA), and Option D (SCA) originate from the basilar or vertebral arteries. Option C (PCA) is correct because, in the setting of a fetal",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Elderly patient presented to the ER with a history of visual disturbances. On the exam she has right homonymous hemianopia. She can write but not be able to read. CT brain done. What is the location of infarction?",
+    "options": {
+      "option_a": "(Splenium of the corpus callosum) is correct because the lesion disrupts the transfer of visual information between hemispheres, producing alexia without agraphia. Option b (Right occipital lobe) is incorrect because a right occipital infarct would cause a left",
+      "option_b": "",
+      "option_c": "(Left occipital lobe) would typically result in an inability to read and write (due to more extensive involvement of language and visual areas) rather than the selective loss of reading.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "AIS patient within the window with platelet count of 45, he was given tPA which resulted in intracranial hemorrhage? What violation to the AIS treatment protocol was done?",
+    "options": {
+      "option_a": "(Out of the tPA window) is incorrect because the patient was within the therapeutic time frame. Option b (Platelet count 45,000) is correct as administering tPA in the presence of significant thrombocytopenia is an established contraindication and likely led to the intracranial hemorrhage.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Patient had mild trauma as he can not see the left side of the road. Presented with visual deficit and reported a similar headache at age 15 years occurring for about 24 hours?",
+    "options": {
+      "option_a": "(PRES) is incorrect because PRES is typically associated with severe hypertension, seizures, and encephalopathy rather than isolated visual deficits following mild trauma. Option b (RCVS) is less likely given its hallmark presentation with thunderclap headaches and diffuse vasospasm, not isolated visual symptoms. Option c (Vertebral artery dissection) is correct as it best explains the temporal relationship with trauma and the neurological presentation.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Around 70 yo female patient with history of DM, HTN, previous stroke 2 months ago, presented with 3.5 hours of right side weakness, facial weakness, dysarthria, NIHSS 8. Presented to the ER, CT & CTA brain done. BP 172/60, afebrile. CBC normal, INR 1.3 plt 160. What is the management:",
+    "options": {
+      "option_a": "IV thrombolytic thereby is absolute contraindication - Mechanical thrombectomy",
+      "option_b": "IV thrombolysis",
+      "option_c": "IV thrombolysis and mechanical thrombectomy",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Same scenario but image was CTA not attached they asked about max same CT brain NIHSS 12",
+    "options": {
+      "option_a": "DUAP",
+      "option_b": "Aspirin and plaxix",
+      "option_c": "Tpa",
+      "option_d": "IV tpa",
+      "option_e": "IV heparin"
+    },
+    "correct_answer": "Aspirin monotherapy",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Around 62 yo male patient with history of DM 12 years ago, presented to the ER with history of left side weakness lasted for 10 min then resolved, HTN 150/60 What is the risk of stroke in 90 days?",
+    "options": {
+      "option_a": "Low risk 3%",
+      "option_b": "High 18 %",
+      "option_c": "Moderate risk",
+      "option_d": "",
+      "option_e": "(IV heparin) is contraindicated in acute ischemic stroke due to the risk of hemorrhagic transformation. The marked answer, \u201cAspirin monotherapy,\u201d does not meet the current standards for acute management in this scenario."
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Left MCA occlusion within 3.5hr from sx onset. Had hx of ischemic stroke 2 months ago. NIHSS 8. What to do?",
+    "options": {
+      "option_a": "IV tPA",
+      "option_b": "IV tPA + MT",
+      "option_c": "DAPT",
+      "option_d": "IV heparin",
+      "option_e": ""
+    },
+    "correct_answer": "Mechanical thrombectomy alone",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Young male with ICA occlusion in vessel image post MVA with ischemic infarctions. What is the diagnosis?",
+    "options": {
+      "option_a": "Dissection",
+      "option_b": "Thromboembolism",
+      "option_c": "Atherosclerosis",
+      "option_d": "Vasculitis",
+      "option_e": "Other"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Promotion"
+  }
+]

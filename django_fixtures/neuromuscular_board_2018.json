@@ -1,0 +1,641 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": 99988001,
+    "fields": {
+      "question_number": "2018-NM-01",
+      "question_text": "Scenario of FSHD. What is the Dx?",
+      "options": {
+        "A": "FSHD"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "FSHD",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988002,
+    "fields": {
+      "question_number": "2018-NM-02",
+      "question_text": "Patient has muscle stiffness, if he did exercise will worsen the symptoms.",
+      "options": {
+        "A": "Paramyotonia"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Paramyotonia",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988003,
+    "fields": {
+      "question_number": "2018-NM-02b",
+      "question_text": "Flaccid weakness.",
+      "options": {
+        "A": "West Nile virus."
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "West Nile virus.",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "West Nile\nNo sensory sx\nAnterior horn cell\nPocket 154, 194\nPolio asymmetric or unilateral\n**Need more details",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988004,
+    "fields": {
+      "question_number": "2018-NM-04",
+      "question_text": "Image of NCS of median nerve motor:",
+      "options": {
+        "A": "Conduction block",
+        "B": "Temporal dispersion"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Conduction block",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988005,
+    "fields": {
+      "question_number": "2018-NM-05",
+      "question_text": "Scenario of AIDP. Dx: AIDP",
+      "options": {
+        "A": "AIDP"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "AIDP",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988006,
+    "fields": {
+      "question_number": "2018-NM-06",
+      "question_text": "Scenario of AIDP. Treatment: IVIG",
+      "options": {
+        "A": "IVIG"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "IVIG",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988007,
+    "fields": {
+      "question_number": "2018-NM-07",
+      "question_text": "Scenario of AIDP NCS at day 5 is:",
+      "options": {
+        "A": "Norma"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Norma",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988008,
+    "fields": {
+      "question_number": "2018-NM-08",
+      "question_text": "Scenario of AIDP what is the first abnormality in NCS/EMG",
+      "options": {
+        "A": "F wave"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "F wave",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988009,
+    "fields": {
+      "question_number": "2018-NM-09",
+      "question_text": "Scenario of CIDP. Dx?",
+      "options": {
+        "A": "CIDP"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "CIDP",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988010,
+    "fields": {
+      "question_number": "2018-NM-10",
+      "question_text": "Scenario of CIDP. treatment?",
+      "options": {
+        "A": "Prednisolone"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Prednisolone",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988011,
+    "fields": {
+      "question_number": "2018-NM-11",
+      "question_text": "Scenario of CIDP. CSF? findings",
+      "options": {
+        "A": "(Answer not provided in source)"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "(Answer not provided in source)",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "Original PDF did not list the CSF findings answer.",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988012,
+    "fields": {
+      "question_number": "2018-NM-12",
+      "question_text": "Scenario of AIDP. CSF? Findings",
+      "options": {
+        "A": "(Answer not provided in source)"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "(Answer not provided in source)",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "Original PDF did not list the CSF findings answer.",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988013,
+    "fields": {
+      "question_number": "2018-NM-13",
+      "question_text": "Scenario of MMN, Dx?",
+      "options": {
+        "A": "MMN"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "MMN",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988014,
+    "fields": {
+      "question_number": "2018-NM-14",
+      "question_text": "Scenario of CIDP. treatment?",
+      "options": {
+        "A": "IVIG"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "IVIG",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988015,
+    "fields": {
+      "question_number": "2018-NM-15",
+      "question_text": "Scenario of ALS, Dx?",
+      "options": {
+        "A": "ALS"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "ALS",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988016,
+    "fields": {
+      "question_number": "2018-NM-16",
+      "question_text": "Scenario of ALS, NCS/ EMG findings?",
+      "options": {
+        "A": "Fasciculations"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Fasciculations",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "Alaa\nNCS/EMG findings in MND\nNCS: SNAPs are normal, CMAP amplitude is reduced. Latency and CV are normal except with severe axonal loss where there is mildly increased latency and decreased conduction velocity.\nEMG: neuropathic changes, fibrillation potentials, positive sharp waves, may see fasciculations and complex repetitive discharges. MUAPs with increase amplitude, duration and phases, indicating reinnervation and reduced recruitment.",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988017,
+    "fields": {
+      "question_number": "2018-NM-17",
+      "question_text": "Scenario of monomelic amyotrophy?",
+      "options": {
+        "A": "Monomelic Amyotrophy (Hirayama disease)"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Monomelic Amyotrophy (Hirayama disease)",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "Lower plexus not from c5\nSegmental atrophy involving several myotomes, the distribution of C5-T1 (most commonly affected)\nUsually begins in late teens but can present in the 4th decade.\nIdiopathic, slowly progressive, painless weakness and atrophy in one hand or forearm\nAffects only a few myotomes in the affected limb, reflexes are hypoactive or absent, may have hypesthesia to pinprick and touch.\nNCS/EMG: Motor NCS normal or slightly reduced CMAPs and SNAP are modestly reduced in 1/3 of patients. EMG reveals fibrillations and fasciculation potentials, and chronic neurogenic motor unit changes. CK may be modestly elevated.\nMRI may reveal segmental cord atrophy (in flexion) with increased T2 signals or cervical cord enlargement.\nCervical cord may be used to prevent neck flexion.\nDDx: ALS, MMN, cervical or lumbosacral radiculopathy, plexopathy or syrinx.\nBrachioradialis sparing\nCervical MRI flexion",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988018,
+    "fields": {
+      "question_number": "2018-NM-18",
+      "question_text": "Scenario of patient had mastectomy came with arm pain and dysesthesia over the fourth and fifth finger, what to do next?",
+      "options": {
+        "A": "MRI of plexus"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "MRI of plexus",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988019,
+    "fields": {
+      "question_number": "2018-NM-19",
+      "question_text": "Same scenario?",
+      "options": {
+        "A": "MRI of plexus"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "MRI of plexus",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988020,
+    "fields": {
+      "question_number": "2018-NM-20",
+      "question_text": "Mees line? Arsenic",
+      "options": {
+        "A": "Arsenic"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Arsenic",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "Arsenic poisoning\nBinds to sulfhydryl groups, inhibit many enzyme systems (cellular respiration, glucogenesis, etc.)\nClinical features: GI distress, arrhythmias, renal failure, encephalopathy, coma, seizures, painful sensorimotor (motor > sensory) ascending neuropathy resembling GBS, Mees lines (discoloration in nails) classic (but can be seen in any heavy metal poisoning)\nTreatment: decontamination if recent ingestion, chelating agents only used in severe toxicity. Anticipate and treat arrhythmias maintain UOP to facilitate excretion.",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988021,
+    "fields": {
+      "question_number": "2018-NM-21",
+      "question_text": "Agent can cause sensory ataxia, vibration, and proprioception loss:",
+      "options": {
+        "A": "Pyridoxine"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "Pyridoxine",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "Vitamin B6-deficient peripheral polyneuropathy:\n\u2022 characterized by distal sensory and motor deficits of insidious onset.\n\u2022 Up to 50% of slow inactivators of INH may develop neuropathy that causes axonal degeneration of both myelinated and unmyelinated fibers.\n\u2022 When using INH, supplementary pyridoxine (100 mg/day) is recommended.\nParadoxically, high-dose (\u2265500 mg/day) pyridoxine toxicity may cause:\n\u2022 predominantly sensory polyganglionopathy, leading to painful paresthesias, sensory ataxia, perioral numbness, and Lhermitte sign are common features.\n\u2022 NCS show low amplitude or absent SNAP.\nHydralazine, isoniazid and penicillamine",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": 99988022,
+    "fields": {
+      "question_number": "2018-NM-22",
+      "question_text": "Miller Fisher. \u2192 GQ1B",
+      "options": {
+        "A": "GQ1B"
+      },
+      "correct_answer": "A",
+      "correct_answer_text": "GQ1B",
+      "subspecialty": "Neuromuscular",
+      "source_file": "Part II 2018.pdf",
+      "exam_type": "Board-level",
+      "exam_year": "2018",
+      "ai_generated": false,
+      "unified_explanation": null,
+      "fixed_at": null,
+      "word_count": null,
+      "explanation": "",
+      "explanation_sections": null,
+      "verification_confidence": null,
+      "primary_category": "Board Review",
+      "secondary_category": null,
+      "key_concept": null,
+      "difficulty_level": "Advanced",
+      "image_url": null
+    }
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q410",
+    "question_text": "",
+    "options": {
+      "A": "patient with features suggestive of absence seizures and EEG showing 3Hz spike-wave discharges. Which of the following medications might worsen the seizure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q308",
+    "question_text": "",
+    "options": {
+      "A": "6-month-old infant presents with typical infantile spasms and developmental delay. EEG shows hypsarrhythmia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q447",
+    "question_text": "What EEG finding suggests a poor prognosis?",
+    "options": {
+      "A": "Prolonged suppression",
+      "B": "Prolonged burst",
+      "C": "High amplitude burst",
+      "D": "Variation of burst suppression"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q307",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old pregnant lady came to the clinic and needs counseling regarding antiepileptic drugs (AEDs) during pregnancy. Which of the following statements is true?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q215",
+    "question_text": "If the seizures were deemed idiopathic with spike-wave discharges on EEG, what is the risk of seizure recurrence at 18 months?",
+    "options": {
+      "A": "17%",
+      "B": "26%",
+      "C": "30%",
+      "D": "50%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q333",
+    "question_text": "In the same scenario, if the patient came to the emergency room, what is the treatment?",
+    "options": {
+      "A": "IV diazepam",
+      "B": "IV phenytoin",
+      "C": "IV valproate",
+      "D": "IV levetiracetam"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q332",
+    "question_text": "",
+    "options": {
+      "A": "patient underwent a dental procedure and experienced brief loss of consciousness. What favors a diagnosis of seizure rather than syncope?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "Patient with GTC seizure; what increases the recurrence of seizures?",
+    "options": {
+      "A": "Long duration",
+      "B": "Presence of focal neurological signs",
+      "C": "Abnormal EEG findings",
+      "D": "History of status epilepticus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q350",
+    "question_text": "What is the normal response to hyperventilation on EEG?",
+    "options": {
+      "A": "Generalized delta wave",
+      "B": "Anterior theta/delta wave",
+      "C": "Generalized theta wave",
+      "D": "Diffuse slowing of background rhythm"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "In the scenario of Panayiotopoulos Syndrome, which of the following is a characteristic feature of the syndrome?",
+    "options": {
+      "A": "Electrographic occipital spikes",
+      "B": "Autonomic seizures",
+      "C": "Early onset benign childhood seizures",
+      "D": "Prolonged seizures with vomiting"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "",
+    "options": {
+      "A": "patient on lamotrigine wants to start oral contraceptive pills (OCP). What should you tell the patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old female known to have seizures presented to the outpatient clinic. She is on Lacosamide 100 mg BID and has been compliant with her medication, with her last seizure occurring 18 months ago. Examination was unremarkable. EEG showed electrical discharges, and Brain MRI is normal. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old man with a history of obesity, hypertension, hypercholesterolemia, nephrolithiasis, and atrial fibrillation is evaluated for recent onset seizures. An MRI of the head shows an old right frontal ischemic stroke. Which of the following is the most appropriate drug for seizure treatment in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old pregnant lady came to the outpatient neurology clinic for follow-up. She is a known case of epilepsy and currently on Valproic acid 500 mg daily. The last time she had a breakthrough seizure was at least 3 years ago. Her last EEG and brain MRI were normal. Which of the following is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "",
+    "options": {
+      "A": "young patient presented to the neurology outpatient clinic for epilepsy evaluation. He has seizure semiology in the form of right upper limb tonic posturing followed by limb jerking with lack of awareness, then bilateral tonic-clonic seizure. He doesn\u2019t recall the episode. He has a history of 4 car accidents, one of which required ICU admission for 3 days. What is the best description for his seizure semiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q212",
+    "question_text": "What is the electrodecremental response in EEG associated with hypsarrhythmia?",
+    "options": {
+      "A": "2/sec",
+      "B": "4/sec",
+      "C": "6/sec",
+      "D": "8/sec"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q214",
+    "question_text": "Which of the following is associated with seizures and asymmetrical atrophy?",
+    "options": {
+      "A": "Glut1",
+      "B": "GAD",
+      "C": "GLUR3",
+      "D": "NMDA receptor"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q322",
+    "question_text": "",
+    "options": {
+      "A": "Focal nonmotor with impaired awareness",
+      "B": "Generalized tonic-clonic",
+      "C": "Myoclonic",
+      "D": "Absence"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q349",
+    "question_text": "",
+    "options": {
+      "A": "Increased CBZ epoxide level",
+      "B": "Increased risk of hyponatremia",
+      "C": "Decreased CBZ level",
+      "D": "Increased risk of hepatotoxicity"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q277",
+    "question_text": "",
+    "options": {
+      "A": "child with perisylvian atrophy and unilateral weakness had initially focal seizures and then focal status epilepticus. What is the likely abnormality?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q300",
+    "question_text": "",
+    "options": {
+      "A": "28-year-old man with a one-year history of episodes of posturing of both arms, described by his wife as flexion of one arm and extension of the other arm, head turn, and facial grimacing, with no loss of consciousness, occurring once a week and lasting less than 1 minute. What is the most likely localization of these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q347",
+    "question_text": "Valproic acid",
+    "options": {
+      "A": "Used primarily in Parkinson\u2019s disease",
+      "B": "An antibiotic agent",
+      "C": "A common anti-epileptic drug",
+      "D": "A medication for migraine prophylaxis only"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "female patient with a history of epilepsy experiences seizures more frequently during menstruation. What is the underlying pathophysiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "patient with progressive myoclonus and dementia is being evaluated. How can the diagnosis be confirmed?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "patient with recurrent episodes of staring followed by a ringing tone and rare generalized tonic-clonic seizures (GTCs) has a brother with a similar condition. What is the gene associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

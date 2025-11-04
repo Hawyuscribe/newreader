@@ -1,0 +1,351 @@
+[
+  {
+    "question_number": "Q31",
+    "question_text": "What is the primary characteristic that differentiates apraxia of speech from dysarthria?",
+    "options": {
+      "A": "Muscle weakness",
+      "B": "Impaired coordination of speech movements",
+      "C": "Cognitive impairment",
+      "D": "Language comprehension"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "After a traumatic brain injury (TBI), a patient wakes up apathetic. Which part of the brain is likely affected?",
+    "options": {
+      "A": "Frontal lobe",
+      "B": "Temporal lobe",
+      "C": "Occipital lobe",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "An epilepsy patient on Levetiracetam presents with low mood. What would be a feature of depression?",
+    "options": {
+      "A": "Flight of ideas",
+      "B": "Catatonia",
+      "C": "Suicidal ideation",
+      "D": "Anhedonia"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male patient had visual loss and denied it. Upon examination, he had a visual field defect. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "Which of the following is a common psychiatric manifestation in Wilson's disease?",
+    "options": {
+      "A": "Mania",
+      "B": "Psychosis",
+      "C": "Depression",
+      "D": "Anxiety"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "An elderly patient presented with a visual field defect but denied having left homonymous hemianopia. A CT brain scan was performed. What is the explanation for her issue?",
+    "options": {
+      "A": "Visual anosognosia",
+      "B": "Psychiatric",
+      "C": "Apraxia",
+      "D": "Visual neglect"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "Which of the following antipsychotic medications has the highest affinity for D2 dopamine receptors?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Risperidone",
+      "C": "Quetiapine",
+      "D": "Clonazepam"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "soldier who was driving a military tank that exploded has some injuries, but two of his friends died. He dreams at night, feels guilt, and wishes to leave the army. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "An elderly patient presents with symptoms of delirium, showing decreased attention but no focal neurological signs. A CT scan of the brain and metabolic panel including CBC and U&E are normal. What is the next step in management?",
+    "options": {
+      "A": "Urine analysis and culture",
+      "B": "Lumbar puncture (LP)",
+      "C": "EEG to assess for subclinical seizures",
+      "D": "Review medications for possible delirium-inducing agents"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged male presented to the outpatient clinic with his father, who stated that the patient had changed in the last few months. He is slower in cognitive function and has recently changed in personality, becoming easily agitated. He has a past history of a motor vehicle accident 3 years ago that resulted in 3 days of ICU admission. What is the appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient with generalized tonic-clonic seizures believes they are caused by the devil and refuses treatment, wanting to see a spiritual healer. The family agrees with him. What would you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with a right arm focal clonic seizure lasting for 1 hour, triggered by stress, while on 4 antiepileptic drugs (AEDs). Prolonged video EEG was repeated multiple times and was always normal. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q158",
+    "question_text": "",
+    "options": {
+      "A": "patient with epilepsy, a trucker, asked you, his physician, not to disclose this information to his employer. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q186",
+    "question_text": "",
+    "options": {
+      "A": "bus driver has a seizure and requests that you do not inform his employer about the seizure. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "patient with refractory epilepsy is scheduled for EMU admission after a 1-year wait. The chairman calls in to cancel the admission and schedule his relative instead, who has a history of syncope. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q194",
+    "question_text": "",
+    "options": {
+      "A": "patient with generalized tonic-clonic seizures believes his condition is caused by the devil and the evil eye. He refuses treatment and wants to see a spiritual healer, which his family supports. What would you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male patient presents with confusion and delirium without fever, which has resolved. He does not remember what happened in the last two days, and the basic workup is normal. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q228",
+    "question_text": "",
+    "options": {
+      "A": "patient with a traumatic brain injury (TBI) wakes up and exhibits apathy. Which lobe of the brain is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "patient on pregabalin, suspected of drug abuse, is evaluated. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease has developed dementia after several years and is now agitated. He is currently on Levodopa/Carbidopa and Rivastigmine. What is the appropriate treatment for his agitation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's Disease on treatment presents with visual hallucinations and agitation. Which antipsychotic will you give?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q223",
+    "question_text": "",
+    "options": {
+      "A": "patient on pramipexol for Parkinson's Disease (PD) develops hallucinations. What is the recommended action?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "In a patient with Parkinson's disease who is experiencing hallucinations while on pramipexole, what is the recommended management?",
+    "options": {
+      "A": "Add Rivastigmine",
+      "B": "Increase Levodopa",
+      "C": "Stop pramipexole",
+      "D": "Start Quetiapine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease (PD) on multiple agents developed hallucinations. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q239",
+    "question_text": "",
+    "options": {
+      "A": "newly diagnosed Huntington's disease patient states that he does not want to inform his employer. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  }
+]

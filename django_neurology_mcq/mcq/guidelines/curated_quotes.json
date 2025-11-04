@@ -1,0 +1,27 @@
+{
+  "ms_fingolimod_breakthrough": {
+    "topic": "MS escalation after breakthrough on fingolimod",
+    "notes": "Seed entries. Replace/expand with vetted exact quotes from AAN 2018 DMT and ECTRIMS/EAN 2023 guidance.",
+    "quotes": [
+      {
+        "quote": "No direct guideline quotation available in this seed set.",
+        "source": "Placeholder",
+        "year": "",
+        "link": ""
+      }
+    ]
+  },
+  "paraneoplastic_testis_encephalitis": {
+    "topic": "Paraneoplastic encephalitis with testicular tumor (Ma2/KLHL11)",
+    "notes": "Seed entry. Replace with exact guideline quotations (e.g., EAN PNS guidance, peer‑reviewed consensus).",
+    "quotes": [
+      {
+        "quote": "No direct guideline quotation available in this seed set.",
+        "source": "Placeholder",
+        "year": "",
+        "link": ""
+      }
+    ]
+  }
+}
+

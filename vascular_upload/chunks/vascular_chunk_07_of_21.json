@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "50-year-old patient, heavy smoker, hypertensive on medication, came with history of left eye visual changes & dysarthria for 10 min then resolved, asked about next?",
+    "options": {
+      "option_a": "MRI brain",
+      "option_b": "CTA neck",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient with high NIHSS then dropped down to 6 but still has dysarthria and weakness what do next?",
+    "options": {
+      "option_a": "Give t-PA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient with stroke syndrome findings suggestive of lateral pons (patient has hearing problem)?",
+    "options": {
+      "option_a": "AICA",
+      "option_b": "PICA",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Attached picture of a patient with Horner\u2019s (ptosis, miosis) came with thunderclap HA, ct brain and LP done within 4 hr, was normal!!",
+    "options": {
+      "option_a": "Pcom aneurysm rupture",
+      "option_b": "RCVS",
+      "option_c": "ICA dissection",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "SAH female young patient with symptomatic PComm aneurysm next?",
+    "options": {
+      "option_a": "Clipping",
+      "option_b": "Coiling",
+      "option_c": "Discharge",
+      "option_d": "Medical treatment",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "ICH case, target bp?",
+    "options": {
+      "option_a": "140/90",
+      "option_b": "160/90",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient who came with 1 day history of ischemic stroke, high bp SBP 190, CT brain reported established stroke next?",
+    "options": {
+      "option_a": "Keep bp the same",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient k/c DM, cardiac risk factors on ASA came with right hemiplegia, has left MCA stenosis what is your next step?",
+    "options": {
+      "option_a": "Medical",
+      "option_b": "endarterectomy",
+      "option_c": "stenting",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of acute ischemic stroke patient\u2026 contraindication for tpa?",
+    "options": {
+      "option_a": "Bp>200",
+      "option_b": "rapid improvement",
+      "option_c": "PLT <150",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient with lower extremity weakness worse upon coughing or Valsalva. MRI spine attached. What is your diagnosis?",
+    "options": {
+      "option_a": "Dural AVF",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of 1 day history of a patient with malignant MCA stroke next step (CT brain attached? 2/3 hypodensity without midline shift or hydrocephalus)",
+    "options": {
+      "option_a": "Hemicaniectomy",
+      "option_b": "Osmotic therapy",
+      "option_c": "ASA",
+      "option_d": "Aspirin",
+      "option_e": "Indications for hemicraniotomy"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient with acute onset weakness and pain & temperature loss, sparing vibration? Dx?",
+    "options": {
+      "option_a": "Spinal cord infarction",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Women after successful vaginal delivery complained of severe Headache, hemiparesis and her exam showed papilledema, what to do",
+    "options": {
+      "option_a": "CTV",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient came with a CT brain attached unilateral occipital stroke, asked about which artery? (According to picture)",
+    "options": {
+      "option_a": "PCA",
+      "option_b": "SCA",
+      "option_c": "PICA",
+      "option_d": "MCA",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient post carotid stent or endarterectomy (not sure) Came with altered level of conscious, CT attached (small Right frontal cortical hemorrhage)",
+    "options": {
+      "option_a": "hyperperfusion syndrome",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Elderly female brought to ER with \u2193 level of consciousness. Unknown history. Her labs showed INR of 3. Brain CT attached. What is the best next step?",
+    "options": {
+      "option_a": "vitamin K",
+      "option_b": "PCC",
+      "option_c": "idarucizumab",
+      "option_d": "FFP",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "57 years old male, DM, HTN, DLP, smoker, admitted under stroke with left sided weakness and facial asymmetry. Brain CT: right capsular infarction. Brain CTA: significant intracranial ICA stenosis. What is the best management?",
+    "options": {
+      "option_a": "medical therapy",
+      "option_b": "ICA stenting",
+      "option_c": "ICA endarterectomy",
+      "option_d": "craniotomy",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "36 years old female referred to neurology clinic for issues with forgetting the events. She has chronic migraine headache and had suffered stroke in the past. Her father died at age of 65 with dementia. Brain MRI: subcortical WM changes likely microvascular lacunes. DX?",
+    "options": {
+      "option_a": "Moyamoya",
+      "option_b": "MELAS",
+      "option_c": "CADASIL",
+      "option_d": "Susac disease",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of patient admitted with subarachnoid hemorrhage. After 2 days he was lethargic, BP 104/52, serum Na 123, \u2191 urine Na and urine osmolality. What is the best next step in management?",
+    "options": {
+      "option_a": "fluid restriction",
+      "option_b": "fluid hydration",
+      "option_c": "mannitol",
+      "option_d": "oral Na tablet",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Young girl with congenital heart disease presented with fever and right sided weakness. She has signs of stroke on examination. What is the best diagnostic test?",
+    "options": {
+      "option_a": "Blood culture",
+      "option_b": "Brain CT",
+      "option_c": "Contrasted brain CT",
+      "option_d": "LP",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  }
+]

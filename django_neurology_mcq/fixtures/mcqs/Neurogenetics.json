@@ -1,0 +1,2162 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 66176645,
+    "fields": {
+      "question_number": "Q18",
+      "question_text": "Patients presented with symptoms suggestive of mitochondrial disorder. What investigation will be most helpful?",
+      "options": {
+        "A": "Acylcarnitine profile",
+        "B": "Lactate/pyruvate profile",
+        "C": "Thymidine level",
+        "D": "Muscle biopsy for mitochondrial DNA analysis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the specific biochemical investigation profile (lactate/pyruvate) characteristic for suspected broad category of inherited mitochondrial disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5831117,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "Which of the following brain MRI findings is characteristic of Kearns-Sayre Syndrome?",
+      "options": {
+        "A": "Increased T2W signal in the periventricular region",
+        "B": "Increased T2W signal in the thalamus and globus pallidus",
+        "C": "Decreased T2W signal in the subcortical white matter",
+        "D": "No significant findings"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about specific neuroimaging findings characteristic of a primary mitochondrial genetic syndrome (Kearns-Sayre)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62463102,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A young patient presents with neuropathy, headache, and visual symptoms. An MRI shows anterior temporal and occipital changes versus atrophy. What is the most appropriate next step?",
+      "options": {
+        "A": "Skin biopsy",
+        "B": "Muscle biopsy",
+        "C": "Mitochondrial testing for MELAS",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: The clinical picture and MRI findings raise suspicion for MELAS, and the question asks for the specific diagnostic approach (mitochondrial testing)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68446253,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "A young patient has tics and seizures, and MRI shows diffuse high signal intensity. How can the diagnosis be made?",
+      "options": {
+        "A": "Skin biopsy",
+        "B": "Muscle biopsy",
+        "C": "Genetic testing",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Presents a complex neurological picture (tics, seizures, MRI changes) where the diagnostic approach points towards potentially underlying genetic causes requiring specific tissue biopsy or genetic testing, without fitting clearly into another subspecialty based on the limited info."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55124421,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "In a typical scenario of MELAS, how can the diagnosis be made?",
+      "options": {
+        "A": "Lactate-pyruvate profile",
+        "B": "MRI of the brain",
+        "C": "Muscle biopsy",
+        "D": "Genetic testing"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the diagnostic methods (biopsy, genetics, biochemical profile) for a specific mitochondrial genetic syndrome (MELAS)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31128446,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "A 16-year-old female presented with oculomotor apraxia and ataxia; she had normal immunoglobulin levels and high AFP. What is the diagnosis?",
+      "options": {
+        "A": "Ataxia telangiectasia",
+        "B": "Oculomotor apraxia type 1",
+        "C": "Oculomotor apraxia type 2",
+        "D": "Friedreich ataxia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on differentiating genetic syndromes (Ataxia Telangiectasia vs Oculomotor Apraxia types) based on clinical features (ataxia, OMA) and specific lab findings (AFP)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67254313,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "A patient presents with ataxia and has a family history of X-linked recessive disorders. What is the most likely diagnosis?",
+      "options": {
+        "A": "Adrenoleukodystrophy",
+        "B": "Friedreich's ataxia",
+        "C": "Ataxia-telangiectasia",
+        "D": "Spinocerebellar ataxia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The question asks for the differential diagnosis of ataxia based primarily on the inheritance pattern (X-linked) and clinical presentation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34474524,
+    "fields": {
+      "question_number": "Q137",
+      "question_text": "A 20-year-old patient presents with ataxia, spasticity, sensorimotor neuropathy, hypometric saccades, and brain MRI shows mild cerebellar atrophy. What is the most likely diagnosis?",
+      "options": {
+        "A": "Friedreich's ataxia",
+        "B": "Ataxic telangiectasia",
+        "C": "OPA1",
+        "D": "OPA2"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to diagnose a specific hereditary ataxia syndrome (likely Friedreich's Ataxia given the constellation of symptoms) based on clinical features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55074008,
+    "fields": {
+      "question_number": "Q170",
+      "question_text": "A child with insomnia and low gonadotropin levels underwent an MRI that showed agenesis of the olfactory bulb. What is the most likely diagnosis?",
+      "options": {
+        "A": "Hypogonadotropic Hypogonadism (HNPH)",
+        "B": "Kal-1",
+        "C": "MEPRC2",
+        "D": "TSC1"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes the features of Kallmann syndrome (hypogonadism, anosmia due to olfactory bulb agenesis) and asks for the diagnosis or associated gene (Kal-1)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41155366,
+    "fields": {
+      "question_number": "Q179",
+      "question_text": "A patient came with ataxia, optic atrophy, hearing loss, and slow saccades; what is the diagnosis?",
+      "options": {
+        "A": "Machado-Joseph disease",
+        "B": "SCA 6",
+        "C": "SCA 7",
+        "D": "NARP"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires differentiating between different spinocerebellar ataxias (SCAs) and mitochondrial disorders (NARP) based on a specific constellation of neurological deficits (ataxia, optic atrophy, hearing loss, saccades)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30686266,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "A 20-year-old patient presents with a 10-year history of lower limb proximal weakness and difficulty standing from a sitting position. He has siblings with the same problem, and his parents are related. EMG findings are not available, and CK levels are 2800. What is the chance that the patient will pass the disease to his offspring?",
+      "options": {
+        "A": "50% normal",
+        "B": "25% normal",
+        "C": "25% carrier",
+        "D": "50% affected"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests understanding of autosomal recessive inheritance probability calculation in the context of a likely genetic neuromuscular disorder (LGMD), focusing on the genetic risk transmission."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5639146,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "Q47. (Source: Part 2 2020 copy_mcqs.txt) Which of the following is a major criterion for Tuberous Sclerosis (TS)?",
+      "options": {
+        "A": "Facial angiofibroma",
+        "B": "Renal angiomyolipoma",
+        "C": "Retinal achromic patch",
+        "D": "Cardiac rhabdomyoma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of diagnostic criteria for a specific neurocutaneous genetic syndrome (phakomatosis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62093211,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "Q19. (Source: Part 1 2021_mcqs.txt) What is the typical age of onset for Kearns-Sayre Syndrome?",
+      "options": {
+        "A": "< 10 years",
+        "B": "< 20 years",
+        "C": "< 30 years",
+        "D": "< 40 years"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on a specific characteristic (age of onset) of a primary mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13656580,
+    "fields": {
+      "question_number": "Q25",
+      "question_text": "Q25. (Source: Part 1 2021_mcqs.txt) An engineer diagnosed with Huntington's disease requests that you do not inform his employer about his condition. What is the appropriate response?",
+      "options": {
+        "A": "Send his employer an email",
+        "B": "Hide the genetic test results",
+        "C": "Record him as having other diagnoses",
+        "D": "Respect his wishes and record that on file"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses an ethical issue (confidentiality, disclosure) directly related to a specific genetic neurological disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43145051,
+    "fields": {
+      "question_number": "Q166",
+      "question_text": "Q166. (Source: part 2 2021 (2)_mcqs.txt) In Huntington's disease, how many gene repeats are typically present?",
+      "options": {
+        "A": "More than 48 repeats.",
+        "B": "36 to 39 repeats",
+        "C": "26 to 35 repeats",
+        "D": "Less than 26 repeats"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses specifically on the genetic mechanism (pathogenic repeat expansion size) of Huntington's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 71684822,
+    "fields": {
+      "question_number": "Q49",
+      "question_text": "Q49. (Source: Part 2 2020 copy_mcqs.txt) A young male presents with spastic paraparesis and a positive family history. MRI of the brain shows confluent white matter changes, while the MRI of the spine is normal. He has two first-degree male relatives with the same presentation. What is the most likely diagnosis?",
+      "options": {
+        "A": "Adrenoleukodystrophy",
+        "B": "Hereditary spastic paraparesis",
+        "C": "Multiple sclerosis",
+        "D": "Metachromatic leukodystrophy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Concerns the differential diagnosis between two genetic disorders (a leukodystrophy and HSP) based on clinical and imaging findings, focusing on identifying the underlying genetic condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11796103,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A case of spastic paraplegia with a family history of multiple sclerosis in the brother shows periventricular white matter lesions on MRI. What is the gene associated with this condition?",
+      "options": {
+        "A": "SPAST",
+        "B": "SPG4",
+        "C": "SPG3A",
+        "D": "ATL1"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on identifying a gene associated with Hereditary Spastic Paraplegia, despite potentially confounding information."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35869328,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "A case of ataxia with one sister and brother affected but none of the parents involved (autosomal recessive) presents with ataxia and decreased reflexes. The patient closes his eyes and shakes his head to change his gaze, with a normal musculoskeletal exam. What is the likely diagnosis?",
+      "options": {
+        "A": "Friedreich's ataxia",
+        "B": "Ataxia oculomotor apraxia (if no systemic manifestations, this is the answer)",
+        "C": "Spinocerebellar ataxia III",
+        "D": "Ataxia telangiectasia (if there are systemic manifestations, this is the answer)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Involves the differential diagnosis of inherited ataxias based on clinical features (oculomotor apraxia) and inheritance pattern."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10105790,
+    "fields": {
+      "question_number": "Q83",
+      "question_text": "A 14-year-old boy presents with lancinating pain in his feet. His sister has similar symptoms. There is a significant family history of strokes in his maternal grandfather before age 50. On examination, he has pain sensation scaling. His lower extremities show normal skin lesions. What is the best test to diagnose?",
+      "options": {
+        "A": "Galactosidase activity",
+        "B": "Transferrin",
+        "C": "VLCFA",
+        "D": "PMP 22 gene"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the specific diagnostic enzymatic test for Fabry disease, a genetic metabolic disorder, based on clinical features (neuropathic pain, family history of stroke)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39758628,
+    "fields": {
+      "question_number": "Q165",
+      "question_text": "Q165. (Source: part 2 2021 (2)_mcqs.txt) In a scenario of Fabry disease, what is the enzyme that is defective?",
+      "options": {
+        "A": "Globotriaosylceramide (no alpha-galactosidase in the answers)",
+        "B": "Beta-glucocerebrosidase",
+        "C": "Sphingomyelinase",
+        "D": "Hexosaminidase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly asks about the enzymatic defect (or its consequence) in a specific genetic metabolic disorder (Fabry disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14393936,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "Q68. (Source: Part I 2018_mcqs.txt) A young male presents with early dementia and bilateral lower limb weakness. His brothers are similarly affected, and MRI shows diffuse white matter lesions. What is the diagnosis?",
+      "options": {
+        "A": "Adrenoleukodystrophy",
+        "B": "Hereditary spastic paraplegia",
+        "C": "Krabbe disease",
+        "D": "Tangier disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on diagnosing a leukodystrophy (Adrenoleukodystrophy) based on clinical presentation (neurological decline, spasticity), family history, and characteristic MRI findings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28093617,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "A young male with diabetes mellitus presents with gait and limb ataxia, lower limb weakness, and hearing loss. Examination shows lower limb weakness and areflexia. What is the most appropriate next step in management?",
+      "options": {
+        "A": "Send him to cardiology to rule out cardiomyopathy",
+        "B": "Most of them are autosomal dominant",
+        "C": "Related to CAG",
+        "D": "Related to CTG"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on managing a key systemic complication (cardiomyopathy) associated with a specific hereditary ataxia (likely Friedreich's Ataxia based on the clinical picture)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76790261,
+    "fields": {
+      "question_number": "Q131",
+      "question_text": "A patient presents with hypomelanotic lesions. Which condition is most likely?",
+      "options": {
+        "A": "Neurofibromatosis Type 1 (NF1)",
+        "B": "Neurofibromatosis Type 2 (NF2)",
+        "C": "Tuberous Sclerosis (TS)",
+        "D": "Sturge-Weber Syndrome"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links a specific cutaneous finding (hypomelanotic macules) to its associated phakomatosis (Tuberous Sclerosis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67471118,
+    "fields": {
+      "question_number": "Q134",
+      "question_text": "Q134. (Source: Part II 2019_mcqs.txt) Which gene is associated with oculomotor apraxia and hypercholesterolemia?",
+      "options": {
+        "A": "AOA1",
+        "B": "SOD1",
+        "C": "MAPT",
+        "D": "C9orf72"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly links clinical features (ataxia, oculomotor apraxia, hypercholesterolemia) to a specific gene (AOA1)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88466667,
+    "fields": {
+      "question_number": "Q138",
+      "question_text": "Q138. (Source: Part II 2022_mcqs.txt) In a scenario about Xeroderma pigmentosum, what are the symptoms associated with skin lesions and keratitis after sun exposure?",
+      "options": {
+        "A": "Photosensitivity, freckling, and increased risk of skin cancers",
+        "B": "Muscle weakness and ataxia",
+        "C": "Progressive memory loss and dementia",
+        "D": "Seizures and hemiparesis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about clinical features of Xeroderma Pigmentosum, a genetic DNA repair disorder with neurological and cutaneous manifestations."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77516416,
+    "fields": {
+      "question_number": "Q130",
+      "question_text": "A case of ADHD is presented alongside a hyperpigmented brownish skin lesion with axillary freckling. Which condition is most likely?",
+      "options": {
+        "A": "Neurofibromatosis Type 1 (NF1)",
+        "B": "Neurofibromatosis Type 2 (NF2)",
+        "C": "Tuberous Sclerosis (TS)",
+        "D": "Sturge-Weber Syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links characteristic cutaneous findings (cafe-au-lait, freckling) and associated neurodevelopmental features (ADHD) to Neurofibromatosis Type 1."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25801739,
+    "fields": {
+      "question_number": "Q168",
+      "question_text": "Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+      "options": {
+        "A": "Adrenoleukodystrophy",
+        "B": "Duchenne Muscular Dystrophy",
+        "C": "Hemophilia A",
+        "D": "Fragile X Syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Uses the inheritance pattern (X-linked) to identify a likely diagnosis (Adrenoleukodystrophy), focusing on the genetic transmission."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34393807,
+    "fields": {
+      "question_number": "Q177",
+      "question_text": "B. Down syndrome",
+      "options": {
+        "C": "Rett syndrome",
+        "D": "Angelman syndrome",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Identifies Fragile X syndrome, a primary genetic disorder causing neurodevelopmental issues, likely based on an unspecified clinical scenario."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32158814,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "Q12. (Source: Part 1 2020_mcqs.txt) In a case of Kearns-Sayre syndrome, what is the most common mutation associated with the condition?",
+      "options": {
+        "A": "Sporadic large mitochondrial DNA deletion",
+        "B": "Point mutation in the POLG gene",
+        "C": "Expansion of trinucleotide repeats in the DMPK gene",
+        "D": "Mutation in the nuclear gene encoding frataxin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the specific type of genetic mutation underlying Kearns-Sayre Syndrome (a mitochondrial disorder)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26611779,
+    "fields": {
+      "question_number": "Q144",
+      "question_text": "Q144. (Source: Part 2 2022_mcqs.txt) A patient presents with ADHD and hypermelanotic diagnosis. What is the likely condition?",
+      "options": {
+        "A": "Neurofibromatosis type 1 (NF1)",
+        "B": "Tuberous sclerosis complex",
+        "C": "Sturge-Weber syndrome",
+        "D": "McCune-Albright syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2022_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Links characteristic cutaneous findings (hyperpigmentation - likely cafe-au-lait spots) and associated neurodevelopmental features (ADHD) to Neurofibromatosis Type 1."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92127855,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "Q52. (Source: Part 2 2021_mcqs.txt) A newly diagnosed Huntington's disease patient wishes not to inform his employer about his condition. What should you do?",
+      "options": {
+        "A": "Document this in his records and respect his wishes",
+        "B": "Encourage him to inform his employer",
+        "C": "Refer him to a counselor",
+        "D": "Notify his employer for safety reasons"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses an ethical issue (confidentiality, disclosure) directly related to a specific genetic neurological disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79852593,
+    "fields": {
+      "question_number": "Q192",
+      "question_text": "In a case of Refsum's disease, a patient had trouble with vision during the night and has polyneuropathy. What is the diagnosis?",
+      "options": {
+        "A": "Refsum's disease",
+        "B": "Retinitis pigmentosa",
+        "C": "Charcot-Marie-Tooth disease",
+        "D": "Vitamin A deficiency"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests recognition of a specific inherited metabolic disorder (Refsum's disease) based on key clinical features (retinitis pigmentosa, polyneuropathy). While it has neuromuscular and neuro-ophthalmological aspects, the core is recognizing the genetic syndrome itself."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86739024,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "What is the mode of inheritance for Fahr disease?",
+      "options": {
+        "A": "Autosomal Recessive",
+        "B": "Autosomal Dominant",
+        "C": "X-linked",
+        "D": "There are 2 modes of transmission"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Directly asks about the mode of inheritance for a specific neurogenetic condition (Fahr disease/Idiopathic Basal Ganglia Calcification) which doesn't fit neatly into another clinical subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39153659,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "In the scenario of Wilson's disease, what is the recommended treatment?",
+      "options": {
+        "A": "D-penicillamine",
+        "B": "Zinc",
+        "C": "Tetrathiomolybdate",
+        "D": "Liver transplant"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the primary treatment targeting the underlying metabolic defect (copper accumulation) in Wilson's disease, an inherited metabolic disorder. While it has movement disorder manifestations, the question focuses on treating the core genetic/metabolic issue."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8621134,
+    "fields": {
+      "question_number": "Q183",
+      "question_text": "In a case of Fabry disease, what is the recommended treatment?",
+      "options": {
+        "A": "Alpha galactosidase, enzyme replacement",
+        "B": "Bone marrow transplantation",
+        "C": "Corticosteroid therapy",
+        "D": "Plasma exchange"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the specific enzyme replacement therapy for Fabry disease, an inherited lysosomal storage disorder. The focus is on the treatment targeting the underlying genetic defect."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19394937,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "A patient with Marfanoid habitus and lens dislocation is being evaluated. What treatment will you give to him?",
+      "options": {
+        "A": "Vitamin B6",
+        "B": "Vitamin B12",
+        "C": "Folic acid",
+        "D": "Beta-blockers"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes features suggestive of Homocystinuria (an inherited metabolic disorder) and asks for its specific treatment (Vitamin B6 cofactor therapy), focusing on the management of the core genetic/metabolic defect."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4836161,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "Which of the following cardiac abnormalities is commonly associated with Kearns-Sayre Syndrome?",
+      "options": {
+        "A": "Atrial fibrillation",
+        "B": "Ventricular septal defect",
+        "C": "Cardiac conduction defects",
+        "D": "Myocardial infarction"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about a specific systemic complication (cardiac conduction defects) intrinsically linked to Kearns-Sayre Syndrome, a primary mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20442089,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "What is the common genetic mutation found in most patients with Kearns-Sayre Syndrome?",
+      "options": {
+        "A": "Point mutation in nuclear DNA",
+        "B": "Large deletion of mitochondrial DNA",
+        "C": "Duplication of mitochondrial DNA",
+        "D": "Translocation of mitochondrial DNA"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly asks specifically for the common type of genetic mutation (mitochondrial DNA deletion) underlying Kearns-Sayre Syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83840896,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "A patient has had two strokes, sensory peripheral neuropathy, and a skin rash. What enzyme is involved in this disease?",
+      "options": {
+        "A": "Alpha-Galactosidase",
+        "B": "Hexosaminidase A",
+        "C": "Glucocerebrosidase",
+        "D": "Arylsulfatase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes the classic triad for Fabry disease and asks for the underlying deficient enzyme. Although stroke is mentioned, the core of the question is the biochemical basis of this inherited disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64713185,
+    "fields": {
+      "question_number": "Q100",
+      "question_text": "A young male patient presented for evaluation of limb numbness. He is complaining of paresthesia and burning sensation over the hands. He is also following with cardiology regarding coronary artery disease. On physical examination, there are lymphadenopathy, enlarged tonsils, and hepatomegaly. Which of the following is a common finding during laboratory evaluation for this disorder (Tangier disease)?",
+      "options": {
+        "A": "Low HDL",
+        "B": "High HDL",
+        "C": "High Cholesterol",
+        "D": "Low triglyceride"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes the clinical features of a specific genetic lipid metabolism disorder (Tangier disease) and asks for its characteristic laboratory finding (low HDL), focusing on the diagnosis of this inherited condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52849505,
+    "fields": {
+      "question_number": "Q84",
+      "question_text": "How should a young patient with Wilson disease be treated?",
+      "options": {
+        "A": "Chelation therapy",
+        "B": "Liver transplant",
+        "C": "Zinc supplementation",
+        "D": "Dietary copper restriction"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Although Wilson disease has neurological manifestations (often movement disorders), the question asks about the primary treatment (chelation, zinc) targeting the underlying genetic metabolic disorder (copper accumulation)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39153659,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "A patient exhibits startle reflex with sudden closure of his eyelids, worsening with cold. What is the gene or channel involved?",
+      "options": {
+        "A": "Chloride channel",
+        "B": "Potassium channel",
+        "C": "Sodium channel",
+        "D": "Calcium channel"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes symptoms suggestive of hyperekplexia (startle disease), a condition often caused by genetic mutations (e.g., in GLRA1 affecting glycine receptors, linked functionally to chloride channels), and asks about the underlying molecular basis (channel/gene). It doesn't fit neatly into other clinical categories."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34459689,
+    "fields": {
+      "question_number": "Q93",
+      "question_text": "What is the case for the diagnosis of Fabry Disease?",
+      "options": {
+        "A": "Alpha galactosidase",
+        "B": "Beta glucocerebrosidase",
+        "C": "Hexosaminidase A",
+        "D": "Arylsulfatase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the key diagnostic marker (deficient enzyme activity - alpha galactosidase) for Fabry Disease, an inherited metabolic disorder. The focus is on diagnosing the underlying genetic condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34459689,
+    "fields": {
+      "question_number": "Q93",
+      "question_text": "What is the case for the diagnosis of Fabry Disease?",
+      "options": {
+        "A": "Alpha galactosidase",
+        "B": "Beta glucocerebrosidase",
+        "C": "Hexosaminidase A",
+        "D": "Arylsulfatase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the key diagnostic marker (enzyme deficiency - alpha galactosidase) for Fabry Disease, a core aspect of this inherited metabolic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49937408,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "In a case scenario of spinal muscular atrophy (SMA) suggestive of autosomal recessive inheritance, what is the likelihood of being affected in the offspring?",
+      "options": {
+        "A": "25% affected",
+        "B": "25% carriers",
+        "C": "50% carriers",
+        "D": "50% normal"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses purely on calculating Mendelian inheritance risk (autosomal recessive), using SMA as the example disease context, testing fundamental genetic principles."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11661079,
+    "fields": {
+      "question_number": "Q437",
+      "question_text": "What would be the response to a dopamine agonist in a patient who does not respond to L-dopa?",
+      "options": {
+        "A": "Aromatic decarboxylase deficiency",
+        "B": "Parkinson\u2019s disease",
+        "C": "Multiple system atrophy",
+        "D": "Dopamine transporter deficiency syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on diagnosing a specific genetic metabolic disorder affecting neurotransmitter synthesis (Aromatic L-amino acid decarboxylase deficiency) based on differential therapeutic response, relating to the underlying biochemical genetics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21016877,
+    "fields": {
+      "question_number": "Q439",
+      "question_text": "A patient presents with recurrent falls and an abnormal brain MRI, with a family history of similar symptoms. What is the likely diagnosis?",
+      "options": {
+        "A": "Adrenomyeloneuropathy",
+        "B": "Multiple sclerosis",
+        "C": "Parkinson\u2019s disease",
+        "D": "Spinocerebellar ataxia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Points towards the diagnosis of Adrenomyeloneuropathy (AMN), a genetic leukodystrophy, based on clinical features, MRI findings, and family history suggesting an inherited disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55575409,
+    "fields": {
+      "question_number": "Q104",
+      "question_text": "A patient with ADHD has a mother with brown pigmentations in her neck. What is the diagnosis?",
+      "options": {
+        "A": "Neurofibromatosis type 1 (NF1).",
+        "B": "Tuberous sclerosis complex",
+        "C": "Sturge-Weber syndrome",
+        "D": "McCune-Albright syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Connects neurological/behavioral features (ADHD) with characteristic physical signs (cafe-au-lait spots implied) in a family member to diagnose an inherited neurocutaneous disorder (NF1)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69270128,
+    "fields": {
+      "question_number": "Q139",
+      "question_text": "A patient presents with clinical features of night blindness, disequilibrium, hearing loss, itchy dry skin, symmetrical polyneuropathy, distal muscle weakness, pes cavus, and hammer toe. His total serum protein was increased, and nerve conduction velocities were slow. What is the diagnosis?",
+      "options": {
+        "A": "Refsum disease",
+        "B": "Friedrich ataxia",
+        "C": "NARP",
+        "D": "Charcot-Marie-Tooth disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes a constellation of symptoms characteristic of Refsum disease, an inherited disorder of phytanic acid metabolism, testing recognition of this specific genetic syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 57181930,
+    "fields": {
+      "question_number": "Q145",
+      "question_text": "In a scenario of symptoms suggestive of Fabry disease, what is the treatment?",
+      "options": {
+        "A": "Agalsidase (Enzyme replacement therapy)",
+        "B": "L-arginine",
+        "C": "Chaperone therapy (e.g., Migalastat)",
+        "D": "Supportive care including pain management"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the specific disease-modifying treatment (enzyme replacement therapy) targeting the underlying defect in Fabry disease, a genetic lysosomal storage disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61924841,
+    "fields": {
+      "question_number": "Q97",
+      "question_text": "A child with insomnia and low gonadotropin levels underwent an MRI that showed agenesis of the olfactory bulb. What is the likely diagnosis?",
+      "options": {
+        "A": "Hypogonadotropic Hypogonadism (HNPH)",
+        "B": "Kallmann Syndrome (Kal-1)",
+        "C": "MEPRC2",
+        "D": "TSC1"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes key features (hypogonadotropic hypogonadism and anosmia/olfactory bulb agenesis) defining Kallmann Syndrome, a specific genetic developmental disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72677147,
+    "fields": {
+      "question_number": "Q450",
+      "question_text": "A scenario presents with oculomotor apraxia, spasticity, myoclonic seizures, and hepatosplenomegaly. Which of the following is the most likely associated enzyme deficiency?",
+      "options": {
+        "A": "Progranulin",
+        "B": "Glucocerebrosidase",
+        "C": "Hexosaminidase A",
+        "D": "Arylsulfatase A"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes features suggestive of Neuronopathic Gaucher disease (a lysosomal storage disorder) and asks for the associated enzyme deficiency (Glucocerebrosidase), focusing on the biochemical basis of this genetic condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83832805,
+    "fields": {
+      "question_number": "Q341",
+      "question_text": "A scenario is typical for Guillain-Barr\u00e9 Syndrome (GBS) except that the patient had intermittent epigastric pain with recent vaccination and facial sweating. What is the likely diagnosis?",
+      "options": {
+        "A": "Acute Intermittent Porphyria (AIP)",
+        "B": "Acute Inflammatory Demyelinating Polyneuropathy (AIDP)",
+        "C": "Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)",
+        "D": "Autonomic Neuropathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires differentiating an acquired neuropathy (GBS/AIDP) from an inherited metabolic disorder (AIP) presenting with similar neurological but distinct systemic symptoms (abdominal pain, autonomic features)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98715246,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "What are potential endocrine abnormalities associated with Kearns-Sayre Syndrome?",
+      "options": {
+        "A": "Hyperthyroidism and hyperaldosteronism",
+        "B": "Hypothyroidism and diabetes mellitus",
+        "C": "Hypoparathyroidism and adrenal insufficiency",
+        "D": "Growth hormone deficiency"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about systemic (endocrine) manifestations of Kearns-Sayre Syndrome, a primary mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29775299,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+      "options": {
+        "A": "Adrenoleukodystrophy",
+        "B": "Duchenne muscular dystrophy",
+        "C": "Hemophilia A",
+        "D": "Fragile X syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests recognition of X-linked inheritance patterns and association with specific neurological disorders like Adrenoleukodystrophy (ALD), focusing on the genetic transmission and diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61496112,
+    "fields": {
+      "question_number": "Q294",
+      "question_text": "What is the likely diagnosis for a patient presenting with hyperammonemia and low L-citrulline levels?",
+      "options": {
+        "A": "Urea cycle disorder",
+        "B": "Maple syrup urine disease",
+        "C": "Mitochondrial encephalopathy",
+        "D": "Ornithine transcarbamylase deficiency"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests interpretation of characteristic metabolic lab abnormalities (hyperammonemia, amino acid levels) to diagnose an inherited metabolic condition (Urea Cycle Disorder)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30094303,
+    "fields": {
+      "question_number": "Q26",
+      "question_text": "Which disease is characterized by the presence of globoid cells?",
+      "options": {
+        "A": "Krabbe Disease",
+        "B": "Tay-Sachs Disease",
+        "C": "Metachromatic Leukodystrophy",
+        "D": "Niemann-Pick Disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of a specific pathognomonic pathological hallmark (globoid cells) directly linked to a specific inherited metabolic neurological disorder (Krabbe disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12008884,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "Pediatric patient had a bullous rash that worsens with sun exposure, and he has conjunctivitis; what is the diagnosis?",
+      "options": {
+        "A": "Xeroderma pigmentosum",
+        "B": "Epidermolysis bullosa",
+        "C": "Porphyria cutanea tarda",
+        "D": "Systemic lupus erythematosus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the diagnosis of a specific genetic syndrome (Xeroderma Pigmentosum) based on characteristic non-neurological clinical features (dermatological, ophthalmological) linked to a DNA repair defect."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94501235,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Pediatric patient had mental retardation, tremor, and ataxia; his sister had ovarian insufficiency; what is the typical imaging finding?",
+      "options": {
+        "A": "Bilateral cerebellar hyperintensity",
+        "B": "Cerebral cortical atrophy",
+        "C": "Basal ganglia calcifications",
+        "D": "White matter demyelination"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The combination of pediatric neurological symptoms, family history (premature ovarian insufficiency suggests FMR1 premutation), and potential imaging findings points towards diagnosing an underlying genetic disorder (like Fragile X premutation/FXTAS spectrum)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 18434167,
+    "fields": {
+      "question_number": "Q175",
+      "question_text": "A 60-year-old male presented at age 40 with ophthalmoplegia and visual symptoms but no visual loss. Later, at age 50, he developed parkinsonism and gait issues along with cardiac symptoms. What is the likely diagnosis?",
+      "options": {
+        "A": "Kearns-Sayre syndrome",
+        "B": "Leber's Hereditary Optic Neuropathy (LHON)",
+        "C": "Chronic Progressive External Ophthalmoplegia (CPEO)",
+        "D": "Myasthenia Gravis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The constellation of progressive external ophthalmoplegia, parkinsonism, and cardiac symptoms over time strongly suggests a mitochondrial disorder (KSS/CPEO), classifying it based on the underlying genetic pathophysiology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12357006,
+    "fields": {
+      "question_number": "Q235",
+      "question_text": "A patient with ADHD presents with light brown lesions. What is the most likely diagnosis?",
+      "options": {
+        "A": "Tuberous sclerosis complex (TSC)",
+        "B": "Neurofibromatosis (NF)",
+        "C": "Sturge-Weber syndrome",
+        "D": "Von Hippel-Lindau disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on diagnosing a neurocutaneous syndrome (Neurofibromatosis Type 1) based on the association of neurological/behavioral features (ADHD) and characteristic skin findings (cafe-au-lait spots), recognizing a specific genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82632613,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "In a scenario of Fabry disease, what is the enzyme that is defective?",
+      "options": {
+        "A": "Alpha-galactosidase A",
+        "B": "Beta-glucocerebrosidase",
+        "C": "Sphingomyelinase",
+        "D": "Hexosaminidase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks specifically about the underlying biochemical defect (deficient alpha-galactosidase enzyme leading to Gb3 accumulation) in Fabry disease, a genetic lysosomal storage disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56375208,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "Same scenario asking about diagnosis:",
+      "options": {
+        "A": "Fragile X syndrome",
+        "B": "Down syndrome",
+        "C": "Rett syndrome",
+        "D": "Angelman syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Points towards Fragile X syndrome, a primary genetic disorder causing intellectual disability and other features, assuming the (missing) prior scenario described relevant clinical characteristics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 967814,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "A patient presents with blurry vision, ataxia, and ophthalmoplegia. Which condition is most likely?",
+      "options": {
+        "A": "SCA3",
+        "B": "Ataxia with ocular apraxia",
+        "C": "Leber Hereditary Optic Neuropathy",
+        "D": "Wernicke Encephalopathy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Involves the differential diagnosis of hereditary ataxias and optic neuropathies based on clinical features, focusing on distinguishing between different potential genetic causes (e.g., SCAs, LHON)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38726209,
+    "fields": {
+      "question_number": "Q15",
+      "question_text": "A 7-year-old boy presents with myoclonic epilepsy, cognitive decline, and hypotonia. Pathology shows lysosome accumulation. Which of the following conditions is most likely?",
+      "options": {
+        "A": "Gaucher disease",
+        "B": "Tay-Sachs disease",
+        "C": "Neuronal ceroid lipofuscinosis",
+        "D": "Krabbe disease"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the diagnosis of a specific category of inherited metabolic/storage disorders (Neuronal Ceroid Lipofuscinosis) based on clinical features (progressive myoclonic epilepsy, decline) and pathology (lysosomal storage)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2707343,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A child presents with encephalopathy and hyperammonemia. What is the diagnosis?",
+      "options": {
+        "A": "Urea cycle disorder.",
+        "B": "Maple syrup urine disease",
+        "C": "Mitochondrial encephalopathy",
+        "D": "Organic acidemia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on diagnosing an inborn error of metabolism (urea cycle disorder) based on a classic acute presentation (encephalopathy, hyperammonemia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12357006,
+    "fields": {
+      "question_number": "Q235",
+      "question_text": "In a case of Neurofibromatosis type 1 (NF1) with light brown macules, what is the name of the skin lesion?",
+      "options": {
+        "A": "Caf\u00e9 au lait spot",
+        "B": "Lisch nodules",
+        "C": "Ash leaf spot",
+        "D": "Port-wine stain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of specific clinical terminology (Caf\u00e9 au lait spot) for a characteristic sign of a neurogenetic disorder (Neurofibromatosis type 1)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66603300,
+    "fields": {
+      "question_number": "Q296",
+      "question_text": "An infant presents with a head circumference at the 100th percentile, height at the 10th percentile, and weight at the 20th percentile. The infant also has multiple caf\u00e9 au lait spots and axillary flickering [freckling]. What is the most likely diagnosis?",
+      "options": {
+        "A": "Neurofibromatosis Type 1 (NF1)",
+        "B": "Neurofibromatosis Type 2 (NF2)",
+        "C": "Tuberous Sclerosis Complex (TSC)",
+        "D": "Fetal Alcohol Spectrum Disorder"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests recognition of Neurofibromatosis Type 1 (NF1) based on a constellation of characteristic clinical features present in infancy, diagnosing a specific genetic syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33646505,
+    "fields": {
+      "question_number": "Q297",
+      "question_text": "B. Neurofibromatosis",
+      "options": {
+        "C": "Tuberous sclerosis",
+        "D": "Meningioma",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests recognition of Sturge-Weber syndrome based on classic clinical (port-wine stain) and imaging (tram-track calcification) findings associated with this neurocutaneous disorder (caused by a somatic GNAQ mutation)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65971326,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "A child presents with areas of sun-exposed pigmentation, eye problems, and seizures. What is the most likely diagnosis?",
+      "options": {
+        "A": "Hypomelanosis",
+        "B": "Neurocutaneous melanosis",
+        "C": "Tuberous sclerosis",
+        "D": "Sturge-Weber syndrome"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes features (photosensitivity, neurological symptoms) suggestive of a genetic disorder like Xeroderma Pigmentosum, focusing on syndrome recognition based on clinical features associated with an underlying genetic defect."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39584093,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "A 2-week-old infant developed progressive hypotonia and feeding difficulties. He was found to have increased branched amino acids in urine. What is the diagnosis?",
+      "options": {
+        "A": "Urea cycle defect",
+        "B": "Maple syrup urine disease",
+        "C": "Methylmalonic acidemias",
+        "D": "Organic acidemia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on diagnosing Maple Syrup Urine Disease (MSUD), an inborn error of metabolism, based on the clinical presentation and key biochemical marker (branched-chain amino acids)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21984930,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "A 4-year-old male patient presents with microcephaly, seizures, and has a musty odor to his urine. Which of the following conditions is most likely?",
+      "options": {
+        "A": "Biotinidase deficiency",
+        "B": "Phenylketonuria",
+        "C": "Maple syrup urine disease",
+        "D": "Galactosemia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the recognition of Phenylketonuria (PKU), an inborn error of metabolism, based on its classic clinical features (microcephaly, seizures, musty odor)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35869328,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "Phenylketonuria (PKU) is caused by a defect in the hydroxylation of which amino acid?",
+      "options": {
+        "A": "Tyrosine",
+        "B": "Tryptophan",
+        "C": "Phenylalanine",
+        "D": "Leucine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the specific biochemical defect underlying Phenylketonuria (PKU), focusing on the genetic/metabolic basis of the disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91482037,
+    "fields": {
+      "question_number": "Q11",
+      "question_text": "Which of the following is a symptom of untreated Phenylketonuria (PKU)?",
+      "options": {
+        "A": "Normal development at birth",
+        "B": "Severe mental retardation",
+        "C": "Eczema",
+        "D": "Seizures"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the clinical consequences of untreated Phenylketonuria (PKU), an inherited metabolic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75435831,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "Q16. (Source: Part 1 2020_mcqs.txt) A 4-year-old male patient with microcephaly and seizures has brown hair and musty odor urine. What is the likely diagnosis?",
+      "options": {
+        "A": "Biotinidase deficiency",
+        "B": "Phenylketonuria",
+        "C": "Maple syrup urine disease",
+        "D": "Homocystinuria"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Requires diagnosis of Phenylketonuria (PKU) based on classic features, linking clinical presentation to a specific inherited metabolic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 967814,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "Pediatric patients with presentations suggestive of Menkes disease (friable hair) will typically show which of the following findings?",
+      "options": {
+        "A": "Low copper level",
+        "B": "Elevated serum ceruloplasmin",
+        "C": "Increased urinary copper excretion",
+        "D": "Normal serum copper level"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on identifying the key biochemical abnormality (low copper) associated with Menkes disease, a specific X-linked genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98375302,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "A hypotonic baby with colorless hair and seizures has a CT brain showing subdural collection. What lab findings are expected in Glutaric aciduria type 1 (GA1)?",
+      "options": {
+        "A": "High cholesterol",
+        "B": "High pyruvate",
+        "C": "Elevated glutaric acid and 3-hydroxyglutaric acid in urine",
+        "D": "Low serum copper"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Although the initial description might suggest Menkes disease, the question explicitly asks about lab findings in Glutaric Aciduria type 1 (GA1), focusing on the biochemical aspects of this specific inherited metabolic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85444505,
+    "fields": {
+      "question_number": "Q45",
+      "question_text": "A child is diagnosed with ataxia-telangiectasia. Which of the following is a common non-neurologic sign associated with this condition?",
+      "options": {
+        "A": "Oculomotor apraxia",
+        "B": "High incidence of malignancies",
+        "C": "Dysarthria",
+        "D": "Myoclonus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on recognizing associated systemic features (malignancy risk) of Ataxia-Telangiectasia, a specific autosomal recessive neurodegenerative genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45078403,
+    "fields": {
+      "question_number": "Q81",
+      "question_text": "Q81. (Source: Part I 2022_mcqs.txt) A 10-year-old boy has impaired vision, progressive cognitive decline, and myoclonic seizures. MRI shows grey matter predominance. Biopsy shows lysosomal materials. What is the diagnosis?",
+      "options": {
+        "A": "Gaucher disease",
+        "B": "Neuronal ceroid lipofuscinosis",
+        "C": "Tay-Sachs disease",
+        "D": "Krabbe disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes the clinical, imaging, and pathological features pointing towards Neuronal Ceroid Lipofuscinosis (NCL or Batten disease), a group of inherited lysosomal storage disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28531305,
+    "fields": {
+      "question_number": "Q92",
+      "question_text": "A patient with developmental delay and bilateral basal ganglia high signal intensity. What is the diagnosis?",
+      "options": {
+        "A": "Leigh syndrome",
+        "B": "Wilson disease",
+        "C": "Pantothenate kinase-associated neurodegeneration",
+        "D": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to correlate clinical presentation (developmental delay) and specific neuroimaging findings (bilateral basal ganglia signal changes) to diagnose Leigh syndrome, a mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64713185,
+    "fields": {
+      "question_number": "Q100",
+      "question_text": "Pediatric patient had hepatosplenomegaly, hypotonia, flaccid paralysis, MRI showed white matter changes; what is the diagnosis?",
+      "options": {
+        "A": "Hexosaminidase A",
+        "B": "Glucocerebrosidase",
+        "C": "Arylsulfatase",
+        "D": "Galactocerebrosidase"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Presents a constellation of symptoms (neurological regression, systemic signs, white matter changes) suggesting an inherited metabolic disorder, likely a lysosomal storage disease or leukodystrophy, diagnosed by identifying the deficient enzyme."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41121884,
+    "fields": {
+      "question_number": "Q123",
+      "question_text": "A child presents with short stature, microcephaly, sensorineural hearing loss (SNHL), developmental delay, and optic atrophy. Which of the following is the most likely associated finding?",
+      "options": {
+        "A": "Occipital gyral malformation",
+        "B": "Midbrain abnormalities",
+        "C": "Cerebellar abnormalities",
+        "D": "High signal in the basal ganglia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes a complex phenotype suggestive of a specific genetic syndrome and asks about associated features, falling under the scope of recognizing neurogenetic syndromes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93177315,
+    "fields": {
+      "question_number": "Q147",
+      "question_text": "A young boy presents with cognitive decline and behavioral changes, and has very long-chain fatty acids (VLCFA) in his blood. What is the most likely diagnosis?",
+      "options": {
+        "A": "X-linked adrenoleukodystrophy",
+        "B": "Adrenomyeloneuropathy",
+        "C": "Refsum disease",
+        "D": "Krabbe disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on diagnosing X-linked adrenoleukodystrophy (X-ALD) based on the clinical presentation and the specific biochemical marker (elevated VLCFA)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26915331,
+    "fields": {
+      "question_number": "Q154",
+      "question_text": "Which of the following metabolic diseases is associated with bilateral subdural hematoma?",
+      "options": {
+        "A": "Niemann-Pick disease",
+        "B": "Glutaric Aciduria Type 1 (GA1)",
+        "C": "Maple syrup urine disease",
+        "D": "Phenylketonuria"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks to identify the inherited metabolic disorder (Glutaric Aciduria Type 1 - GA1, often mistakenly written as GLUT1 def in MCQs) associated with a specific complication (subdural hematomas)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77698515,
+    "fields": {
+      "question_number": "Q169",
+      "question_text": "A patient with developmental delay and bilateral basal ganglia high signal intensity on imaging. What is the diagnosis?",
+      "options": {
+        "A": "Leigh syndrome",
+        "B": "Wilson disease",
+        "C": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS)",
+        "D": "Huntington disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Similar to Q92, connects developmental delay and characteristic imaging to diagnose Leigh syndrome, a specific mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95723634,
+    "fields": {
+      "question_number": "Q171",
+      "question_text": "Q171. (Source: part 2 2021 (2)_mcqs.txt) A pediatric patient had hepatosplenomegaly, hypotonia, flaccid paralysis, and MRI showed white matter changes. What is the diagnosis?",
+      "options": {
+        "A": "Hexosaminidase A deficiency",
+        "B": "Glucocerebrosidase deficiency",
+        "C": "Arylsulfatase deficiency",
+        "D": "Galactocerebrosidase deficiency"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Similar to Q100, describes a pediatric presentation suggesting an inherited metabolic/lysosomal storage disorder, requiring identification based on potential enzyme deficiencies."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 3876947,
+    "fields": {
+      "question_number": "Q173",
+      "question_text": "A pediatric patient had bullous lesions that worsen with sun exposure, and he has conjunctivitis. What is the diagnosis?",
+      "options": {
+        "A": "Xeroderma pigmentosa",
+        "B": "Epidermolysis bullosa",
+        "C": "Porphyria cutanea tarda",
+        "D": "Lupus erythematosus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the recognition of Xeroderma Pigmentosum (XP), a genetic disorder of DNA repair, based on its characteristic dermatological and ophthalmological features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97353555,
+    "fields": {
+      "question_number": "Q178",
+      "question_text": "A child presents with encephalopathy and hyperammonemia. What is the diagnosis?",
+      "options": {
+        "A": "Urea cycle disorder.",
+        "B": "Mitochondrial disorder",
+        "C": "Organic acidemia",
+        "D": "Maple syrup urine disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on identifying a Urea Cycle Disorder based on the classic presentation of encephalopathy with hyperammonemia, a specific category of inherited metabolic diseases."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94125941,
+    "fields": {
+      "question_number": "Q185",
+      "question_text": "In a case of Gaucher disease, which visual manifestation is commonly observed?",
+      "options": {
+        "A": "Ocular apraxia (Saccadic initiation failure)",
+        "B": "Vertical gaze palsy",
+        "C": "Blindness",
+        "D": "Nystagmus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about specific neurological signs (oculomotor abnormalities) associated with Gaucher disease, an inherited lysosomal storage disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89023312,
+    "fields": {
+      "question_number": "Q242",
+      "question_text": "A young patient has tics and seizures. An MRI showed diffuse high signal intensity. How can the diagnosis be made?",
+      "options": {
+        "A": "Skin biopsy",
+        "B": "Muscle biopsy",
+        "C": "Genetic testing",
+        "D": "Electroencephalogram (EEG)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Presents a scenario where the differential diagnosis likely includes pediatric-onset neurogenetic or metabolic disorders (given tics, seizures, diffuse MRI changes), and asks about diagnostic approaches often used for these conditions (e.g., biopsy for mitochondrial or storage diseases)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85543339,
+    "fields": {
+      "question_number": "Q375",
+      "question_text": "A 5-year-old male with developmental delay shows bilateral symmetrical putamen and globus pallidus signal changes. What is the most likely diagnosis?",
+      "options": {
+        "A": "Leigh disease",
+        "B": "MELAS syndrome",
+        "C": "MNGIE",
+        "D": "Wilson disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the diagnosis of Leigh syndrome based on the combination of developmental delay and characteristic bilateral basal ganglia imaging findings in a child, pointing to this specific mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11796103,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "In a typical scenario of CADASIL, which gene is associated with the condition?",
+      "options": {
+        "A": "NOTCH1 gene",
+        "B": "NOTCH2 gene",
+        "C": "NOTCH3 gene",
+        "D": "NOTCH4 gene"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly tests knowledge of the specific gene (NOTCH3) responsible for a hereditary neurological disorder (CADASIL)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5007966,
+    "fields": {
+      "question_number": "Q181",
+      "question_text": "In a typical scenario of MELAS, how can the diagnosis be made?",
+      "options": {
+        "A": "Lactate-pyruvate profile",
+        "B": "Brain biopsy",
+        "C": "Electroencephalogram (EEG)",
+        "D": "Cerebrospinal fluid (CSF) analysis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the diagnostic workup (metabolic testing like lactate/pyruvate) for MELAS, a mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97353555,
+    "fields": {
+      "question_number": "Q178",
+      "question_text": "A patient presents with seven flat brown lesions. What is the most likely diagnosis?",
+      "options": {
+        "A": "Caf\u00e9 au lait spots",
+        "B": "Nevus simplex",
+        "C": "Melanocytic nevi",
+        "D": "Seborrheic keratosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks to identify caf\u00e9 au lait spots, a key diagnostic feature of Neurofibromatosis type 1 (NF1), a genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5639146,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "You inherited a 14-year-old boy who was diagnosed with Duchenne muscular dystrophy (DMD) at age 4. You found that maternal relatives are affected by DMD. What will you request for his mother?",
+      "options": {
+        "A": "CK level",
+        "B": "Refer to cardiology",
+        "C": "Genetic counseling",
+        "D": "Echocardiogram"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Deals with the implications for carrier status and associated health risks (cardiomyopathy) in the mother of a patient with DMD, an X-linked genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 967814,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "An elderly 50-year-old patient presents with seizures and has a history of recurrent emergency room visits due to vague abdominal pain. What laboratory test should be requested?",
+      "options": {
+        "A": "Porphyria",
+        "B": "Paraproteinemia",
+        "C": "Electrolyte panel",
+        "D": "Liver function tests"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The combination of seizures and recurrent, unexplained abdominal pain is highly suggestive of an acute intermittent porphyria attack, an inherited metabolic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5314406,
+    "fields": {
+      "question_number": "Q103",
+      "question_text": "A patient with stroke and marfanoid features is being treated. What is the recommended treatment? [Scenario suggests Homocystinuria]",
+      "options": {
+        "A": "Vitamin B6",
+        "B": "Aspirin",
+        "C": "Warfarin",
+        "D": "Clopidogrel"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Although presenting with stroke, the core concept tested is the recognition and specific treatment (Vitamin B6) of a genetic/metabolic disorder (likely Homocystinuria) causing the stroke."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22719618,
+    "fields": {
+      "question_number": "Q287",
+      "question_text": "A patient with stroke and marfanoid features. What is the treatment?",
+      "options": {
+        "A": "Vitamin B6",
+        "B": "Anticoagulants",
+        "C": "Thrombolytic therapy",
+        "D": "Beta-blockers"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The combination of stroke and marfanoid features strongly suggests Homocystinuria, a genetic metabolic disorder. The treatment mentioned (Vitamin B6) targets the underlying metabolic defect, making Neurogenetics the primary classification."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55509074,
+    "fields": {
+      "question_number": "Q4",
+      "question_text": "A patient with a family history of speech and motor issues is brought in for evaluation. The family is concerned about the child's IQ and potential genetic conditions. Which test would be appropriate to confirm or rule out fragile X syndrome?",
+      "options": {
+        "A": "Inherited anti-psychiatric test",
+        "B": "Metabolic test",
+        "C": "Chromosomal analysis",
+        "D": "DNA methylation analysis"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Directly asks about the specific diagnostic test (chromosomal/genetic analysis) required to confirm Fragile X syndrome, an inherited neurodevelopmental disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5007966,
+    "fields": {
+      "question_number": "Q181",
+      "question_text": "Patient came with Leber optic neuropathy; what is your next step?",
+      "options": {
+        "A": "ECG",
+        "B": "Visual field testing",
+        "C": "Genetic counseling",
+        "D": "MRI brain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about systemic workup (ECG for cardiac conduction defects) specifically related to Leber Hereditary Optic Neuropathy (LHON), a mitochondrial genetic disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69102253,
+    "fields": {
+      "question_number": "Q449",
+      "question_text": "In a scenario suggestive of oculomotor apraxia, what is the gene associated with this condition?",
+      "options": {
+        "A": "ROBO1",
+        "B": "TUBB3",
+        "C": "KIF21A",
+        "D": "APTX"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Directly asks for the genetic basis (specific genes) associated with a specific eye movement disorder (oculomotor apraxia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69038982,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "A patient with MELAS presents with tic manifestations. What is the most appropriate diagnostic procedure?",
+      "options": {
+        "A": "Skin biopsy",
+        "B": "Muscle biopsy",
+        "C": "Electroencephalogram (EEG)",
+        "D": "Brain MRI"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the diagnostic approach (muscle biopsy for mitochondrial evaluation) for MELAS, a specific neurogenetic (mitochondrial) disorder, even though the presenting symptom mentioned is tics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35869328,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "In a child with dopa-responsive dystonia, what is the gene responsible?",
+      "options": {
+        "A": "GCH1",
+        "B": "TOR1A",
+        "C": "TH (Tyrosine Hydroxylase)",
+        "D": "SPR (Sepiapterin Reductase)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Directly asks for the gene (GCH1 is typical, though TOR1A causes other dystonias - question might be flawed/simplified) associated with dopa-responsive dystonia (Segawa syndrome), a specific neurogenetic movement disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35869328,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "In a child with dopa-responsive dystonia, what is the gene responsible?",
+      "options": {
+        "A": "GCH1",
+        "B": "TOR1A",
+        "C": "TH",
+        "D": "SPR"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Directly asks for the gene (GCH1 is typical, though TOR1A causes other dystonias - question might be flawed/simplified) associated with dopa-responsive dystonia (Segawa syndrome), a specific neurogenetic movement disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65971326,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "Which of the following is associated with Congenital Myasthenia Gravis?",
+      "options": {
+        "A": "Slow channel",
+        "B": "Fast channel",
+        "C": "Dok7",
+        "D": "Rapson [Rapsyn]"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the specific genetic/molecular subtypes (e.g., slow-channel, fast-channel, DOK7, RAPSN mutations) underlying Congenital Myasthenic Syndromes, which are neurogenetic disorders of the neuromuscular junction."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11796103,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A 30-year-old female presents with progressive gait and limb ataxia. Genetic testing reveals a mutation in the ataxin-3 gene. What is the most likely diagnosis?",
+      "options": {
+        "A": "Ataxia-telangiectasia",
+        "B": "Spinocerebellar ataxia type 3 (SCA3)",
+        "C": "Friedreich's ataxia",
+        "D": "Ataxia with oculomotor apraxia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly tests knowledge of a specific genetic mutation (ataxin-3) causing a specific hereditary ataxia syndrome (SCA3/Machado-Joseph disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75435831,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "Q16. (Source: Part 2 - 2023_mcqs.txt) A patient with migraine headaches has a family history of early stroke (father died young from a stroke). To establish a diagnosis, what should you do?",
+      "options": {
+        "A": "Skin biopsy for eosinophilic inclusions",
+        "B": "Brain MRI with diffusion-weighted imaging",
+        "C": "Carotid Doppler ultrasound",
+        "D": "Echocardiogram"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: The combination of migraine and early-onset family history of stroke strongly points towards CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy). The question asks for a diagnostic step targeting this underlying *genetic* condition (skin biopsy for Granular Osmophilic Material, GOM; though NOTCH3 gene testing is the primary method). Thus, the core concept is Neurogenetics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82808622,
+    "fields": {
+      "question_number": "Q247",
+      "question_text": "A 40-year-old male patient presented with a history of left-sided weakness, numbness, and dysarthria. He was found to have a stroke and reported a history of migraine headaches and cognitive decline. His father died at a young age. What will you order in this case?",
+      "options": {
+        "A": "NOTCH 3",
+        "B": "Echo",
+        "C": "Antiphospholipid antibodies (APLs)",
+        "D": "MRI brain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Similar to Q16, the constellation of early-onset stroke, migraine, cognitive decline, and positive family history is highly suggestive of CADASIL. The question asks directly for the specific *genetic* test (NOTCH3) required for diagnosis. Therefore, the classification is Neurogenetics."
+    }
+  }
+]

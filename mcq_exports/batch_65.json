@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q10",
+    "question_text": "In a child with dopa-responsive dystonia, what is the gene responsible?",
+    "options": {
+      "A": "GCH1",
+      "B": "TOR1A",
+      "C": "TH",
+      "D": "SPR"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "Which of the following is associated with Congenital Myasthenia Gravis?",
+    "options": {
+      "A": "Slow channel",
+      "B": "Fast channel",
+      "C": "Dok7",
+      "D": "Rapson [Rapsyn]"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old female presents with progressive gait and limb ataxia. Genetic testing reveals a mutation in the ataxin-3 gene. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "Skin biopsy for eosinophilic inclusions",
+      "B": "Brain MRI with diffusion-weighted imaging",
+      "C": "Carotid Doppler ultrasound",
+      "D": "Echocardiogram"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q247",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old male patient presented with a history of left-sided weakness, numbness, and dysarthria. He was found to have a stroke and reported a history of migraine headaches and cognitive decline. His father died at a young age. What will you order in this case?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "multiple sclerosis (MS) patient who is receiving natalizumab and developed progressive multifocal leukoencephalopathy (PML), what should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "multiple sclerosis (MS) patient who is receiving natalizumab developed progressive multifocal leukoencephalopathy (PML). What should be done next? (Stopping natalizumab was not an option in the choices)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old patient presents with confusion. An MRI shows bilateral white matter changes. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with relapsing-remitting multiple sclerosis (RRMS) started on disease-modifying therapy (DMT) but lost follow-up. Upon return, the patient had a platelet count of 30 and a skin issue. Which DMT was the patient on?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "What is the cardinal feature in a case scenario suggestive of Neuromyelitis Optica (NMO)?",
+    "options": {
+      "A": "Optic neuritis",
+      "B": "Peripheral neuropathy",
+      "C": "Cerebellar ataxia",
+      "D": "Cognitive decline"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "female known to have relapsing-remitting multiple sclerosis (RRMS) is stopping disease-modifying therapy (DMT) for 2 months in order to get pregnant. What medication was she likely started on?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "In the scenario of a patient with Giant Cell Arteritis (GCA), which vessel is most commonly involved?",
+    "options": {
+      "A": "Posterior ciliary artery",
+      "B": "Middle cerebral artery",
+      "C": "Anterior cerebral artery",
+      "D": "Basilar artery"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "In a patient with bilateral optic neuritis and longitudinally extensive transverse myelitis (LETM), which tests are used to confirm the diagnosis?",
+    "options": {
+      "A": "Oligoclonal bands (OCB)",
+      "B": "Aquaporin 4 antibodies",
+      "C": "Myelin oligodendrocyte glycoprotein (MOG) antibodies",
+      "D": "Anti-nuclear antibody (ANA)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "case scenario describes a patient with recurrent oral ulcers presenting with neurological deficits. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "The most common cause of myelopathy in young adults in temperate zones is:",
+    "options": {
+      "A": "Multiple Sclerosis",
+      "B": "Cervical spondylotic myelopathy",
+      "C": "Neuromyelitis Optica",
+      "D": "Sarcoidosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "In a case of multiple sclerosis, the criteria for diagnosis were questioned due to the presence of enhancing and non-enhancing lesions, but only two periventricular lesions were noted. Which of the following statements is true?",
+    "options": {
+      "A": "Both dissemination in space and time were met",
+      "B": "Only dissemination in space was met",
+      "C": "Only dissemination in time was met",
+      "D": "Neither dissemination in space nor time was met"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "MRI findings in patients with NMOSD typically show which of the following?",
+    "options": {
+      "A": "Leptomeningeal enhancement",
+      "B": "Nodular or linear lesions on the surface of the cord",
+      "C": "No significant findings",
+      "D": "Periventricular white matter lesions"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis (MS) who was on disease-modifying therapy (DMT) stopped her medication 2 months ago because she wants to get pregnant. An MRI of the brain shows new white matter subcortical enhancing lesions. What is the mechanism of these lesions?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "In a patient with Multiple Sclerosis, what finding is expected on Visual Evoked Potentials (VEP)?",
+    "options": {
+      "A": "Prolonged P100",
+      "B": "Shortened P100",
+      "C": "Absent P100",
+      "D": "Normal P100 latency"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "For patients who cannot tolerate high-dose corticosteroids or have refractory disease, which of the following treatments is an alternative?",
+    "options": {
+      "A": "Infliximab",
+      "B": "Rituximab",
+      "C": "Mycophenolate mofetil",
+      "D": "Azathioprine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with a new relapse of sudden left-sided weakness for 5 days after a history of exhaustion. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis (MS) presented with shortness of breath (SOB) and an allergic reaction during the third infusion of natalizumab. What is the most appropriate action to take next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "What is the risk of developing clinically definite MS (CDMS) in patients with no MRI lesions after 5 years?",
+    "options": {
+      "A": "16%",
+      "B": "25%",
+      "C": "51%",
+      "D": "72%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "An elderly patient with confusion, seizure, and weakness is brought to the emergency department. An MRI of the brain shows multiple microhemorrhages. What is the treatment?",
+    "options": {
+      "A": "IV methylprednisolone",
+      "B": "IVIG",
+      "C": "Plasmapheresis",
+      "D": "Supportive care"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "Which of the following is suggestive of Multiple Sclerosis, but not vascular white matter disease?",
+    "options": {
+      "A": "Cortical involvement",
+      "B": "Involving U fibers",
+      "C": "Corona radiata",
+      "D": "Pons"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

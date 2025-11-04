@@ -1,0 +1,2002 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 69185642,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "Which visual field defect is characterized by contralateral homonymous hemianopia with macular sparing?",
+      "options": {
+        "A": "Central scotoma",
+        "B": "Monocular vision loss",
+        "C": "Bitemporal hemianopia",
+        "D": "Contralateral homonymous hemianopia with macular sparing"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of specific visual field defects and their terminology, directly related to visual pathway localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95820281,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "In a case of relative afferent pupillary defect (RAPD) in the right eye with right homonymous hemianopia, what is the localization?",
+      "options": {
+        "A": "Left optic tract",
+        "B": "Right optic nerve",
+        "C": "Left occipital cortex",
+        "D": "Right lateral geniculate nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localization based on the combination of a pupillary defect (RAPD) and a visual field defect (hemianopia), a core neuro-ophthalmology skill."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79597751,
+    "fields": {
+      "question_number": "Q11",
+      "question_text": "A patient is unable to track with his eyes and has to shake his head to change his gaze. What is this condition called?",
+      "options": {
+        "A": "Oculomotor apraxia",
+        "B": "Optic ataxia",
+        "C": "Internuclear ophthalmoplegia",
+        "D": "Progressive supranuclear palsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the diagnosis of a specific deficit in voluntary eye movements (saccades), a type of ocular motility disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35931742,
+    "fields": {
+      "question_number": "Q28",
+      "question_text": "B. Optic ataxia",
+      "options": {
+        "C": "Internuclear ophthalmoplegia",
+        "D": "Supranuclear gaze palsy",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Requires identification of oculomotor apraxia based on a clinical description, focusing on a specific eye movement disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26244067,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "A patient with headache and papilledema, the headache increases when she lies down, and she has mild visual obscuration. What is the next management step?",
+      "options": {
+        "A": "Weight loss",
+        "B": "Optic sheath fenestration",
+        "C": "Acetazolamide therapy",
+        "D": "Lumbar puncture for CSF pressure measurement"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes symptoms highly suggestive of Idiopathic Intracranial Hypertension (IIH), a condition primarily managed based on its neuro-ophthalmic consequences (papilledema, vision loss)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47847921,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "In Horner's syndrome, what can hydroxyamphetamine do?",
+      "options": {
+        "A": "Confirm Horner's syndrome",
+        "B": "Differentiate third-order neuron from first and second-order neurons",
+        "C": "Treat nystagmus",
+        "D": "Induce pupil dilation"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of pharmacological testing (hydroxyamphetamine drops) used specifically for the diagnosis and localization of Horner's syndrome, a pupillary disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91310290,
+    "fields": {
+      "question_number": "Q15",
+      "question_text": "In a patient with right eye optic neuritis, what would you expect to see in the visual evoked potential (VEP)?",
+      "options": {
+        "A": "Prolonged P100 latency in the right eye",
+        "B": "Increased amplitude of the P100 wave",
+        "C": "Normal VEP in both eyes",
+        "D": "Absent VEP response in the left eye"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the expected findings on a specific neuro-ophthalmologic diagnostic test (VEP) in the context of optic neuritis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76502693,
+    "fields": {
+      "question_number": "Q108",
+      "question_text": "A young male presents with central vision loss in the right eye, followed by central vision loss in the left eye a month later, and then develops hearing loss. What is the most likely diagnosis?",
+      "options": {
+        "A": "Susac syndrome",
+        "B": "Leber hereditary optic neuropathy",
+        "C": "Multiple sclerosis",
+        "D": "Neuromyelitis optica"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on recognizing Susac syndrome, a condition defined by a characteristic triad including branch retinal artery occlusions (visual loss) and often managed by neurologists/neuro-ophthalmologists."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11798844,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "A patient after minor trauma was reading a newspaper when he developed diplopia that worsened when he looked down to the left (vertical diplopia). The outer image came from the right eye. Where is the localization?",
+      "options": {
+        "A": "Left superior oblique muscle",
+        "B": "Right superior oblique muscle",
+        "C": "Left inferior oblique muscle",
+        "D": "Right inferior oblique muscle"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localization of a specific extraocular muscle palsy (superior oblique, CN IV) based on the characteristics of the patient's diplopia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13140050,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "What imaging is needed for the evaluation of a suspected diabetic 3rd nerve palsy?",
+      "options": {
+        "A": "MRI spine",
+        "B": "MRV",
+        "C": "Orbital MRI",
+        "D": "MR Spectroscopy"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the appropriate diagnostic workup (imaging) for a cranial nerve palsy affecting eye movements, considering differential diagnoses like aneurysm."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47936283,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "A case scenario describes a patient with a history of blurry vision and headache. She has acne, is taking vitamin A, has papilledema, and a BMI of 35. The MRI report is normal. What is the recommended treatment?",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Prednisolone",
+        "C": "Topamax",
+        "D": "Therapeutic lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a classic presentation of Idiopathic Intracranial Hypertension (IIH) and asks for first-line treatment, focusing on management of this neuro-ophthalmic condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91223087,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "A picture was attached of a patient post-RTA (road traffic accident), and the general exam is normal. What is your localization? (Implicitly about a pupillary/ptosis issue like Horner's, based on common post-RTA scenarios and options)",
+      "options": {
+        "A": "Preganglionic",
+        "B": "Postganglionic (chick course of 12CN)",
+        "C": "Ciliary",
+        "D": "Ophthalmic division"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Although the picture is missing, the options strongly suggest localization of sympathetic or parasympathetic pathways affecting the eye (likely Horner's syndrome), requiring knowledge of autonomic neuroanatomy relevant to the eye."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42974550,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "A patient presents with binocular diplopia, with a vertical image from the right eye. The diplopia worsens with reading or when looking down to the right side. Which cranial nerve is affected?",
+      "options": {
+        "A": "Right abducens",
+        "B": "Right superior oblique muscle",
+        "C": "Left superior oblique muscle",
+        "D": "Right oculomotor"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to identify the affected cranial nerve (CN IV, trochlear nerve, innervating the superior oblique) based on the specific pattern of vertical diplopia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95670360,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "In a patient with bilateral papilledema, which cranial nerve is most likely to be affected?",
+      "options": {
+        "A": "3rd cranial nerve",
+        "B": "4th cranial nerve",
+        "C": "5th cranial nerve",
+        "D": "6th cranial nerve"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Assesses knowledge of the cranial nerve most commonly affected secondary to raised intracranial pressure (manifesting as papilledema), which is the abducens nerve (CN VI)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12282562,
+    "fields": {
+      "question_number": "Q212",
+      "question_text": "Which visual field defect is associated with damage to the optic chiasm?",
+      "options": {
+        "A": "Central scotoma",
+        "B": "Monocular vision loss",
+        "C": "Bitemporal hemianopia",
+        "D": "Contralateral homonymous hemianopia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the specific visual field defect resulting from lesions at the optic chiasm."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65588200,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "A patient has left eye hypertropia and improves with a head tilt to the left. Where is the lesion? (Implies Bielschowsky head tilt test for CN IV palsy)",
+      "options": {
+        "A": "Left midbrain",
+        "B": "Right midbrain",
+        "C": "Left medulla",
+        "D": "Right medulla"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires interpretation of the Bielschowsky head tilt test to localize the side of a trochlear nerve (CN IV) palsy based on hypertropia changes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99605750,
+    "fields": {
+      "question_number": "Q23",
+      "question_text": "A patient presented with restricted vertical gaze and convergence nystagmus, with an intact pupillary response to light. Where is the localization of the lesion?",
+      "options": {
+        "A": "Red nucleus",
+        "B": "Midbrain tectum",
+        "C": "Medial thalami",
+        "D": "Pretectal area"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for localization of Parinaud's syndrome (dorsal midbrain syndrome) based on characteristic eye movement abnormalities (upgaze palsy, convergence-retraction nystagmus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77553519,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "A female patient presents with impaired adduction on the right gaze and nystagmus in the other eye. What is the likely diagnosis?",
+      "options": {
+        "A": "Right internuclear ophthalmoplegia (INO)",
+        "B": "Right oculomotor nerve palsy",
+        "C": "Right sixth nerve palsy",
+        "D": "Right Horner\u2019s syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires diagnosis of internuclear ophthalmoplegia (INO), a specific gaze abnormality, based on its clinical description."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33351822,
+    "fields": {
+      "question_number": "Q101",
+      "question_text": "A female patient presents with impaired adduction on right gaze and nystagmus in the other eye. What is the likely diagnosis?",
+      "options": {
+        "A": "Right internuclear ophthalmoplegia (INO)",
+        "B": "Right oculomotor nerve palsy",
+        "C": "Left abducens nerve palsy",
+        "D": "Right trochlear nerve palsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77553519,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "B. Complete ptosis with pupil dilation on the affected side",
+      "options": {
+        "C": "Bilateral loss of vertical gaze",
+        "D": "Conjugate horizontal gaze palsy with preserved convergence",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: The hallmark clinical feature of INO is impaired adduction of the ipsilateral eye with nystagmus of the abducting contralateral eye, reflecting a lesion in the medial longitudinal fasciculus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11664867,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "A patient with a history of blurry vision and headache has acne and is taking vitamin A. Examination showed papilledema, BMI 35, and MRI report: normal. Which of the following is the appropriate management?",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Prednisolone",
+        "C": "Topiramate",
+        "D": "Weight loss and lifestyle modification"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47936283,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "B. High-dose intravenous corticosteroids",
+      "options": {
+        "C": "Immediate ventriculoperitoneal shunting",
+        "D": "Oral beta-blockers to reduce intraocular pressure",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question tests knowledge of the first-line medical management of IIH, where acetazolamide is the preferred initial treatment to decrease CSF production and reduce intracranial pressure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98224133,
+    "fields": {
+      "question_number": "Q106",
+      "question_text": "A patient presents with vision loss in the right eye with rapid onset. Where is the lesion likely located? (Options imply junctional scotoma)",
+      "options": {
+        "A": "Prefixed chiasm",
+        "B": "Postfixed chiasm",
+        "C": "Middle chiasm",
+        "D": "Optic nerve"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests understanding of how chiasmal anatomy (prefixed/postfixed) influences visual field defects, specifically junctional scotomas involving one eye and the contralateral temporal field."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60127720,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "A patient presented with a relative afferent pupillary defect and right homonymous hemianopia. Where is the localization?",
+      "options": {
+        "A": "Left optic tract",
+        "B": "Chiasm",
+        "C": "Right optic nerve",
+        "D": "Lateral geniculate body"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localization within the visual pathway based on the combination of a pupillary defect (RAPD) and a specific visual field defect (homonymous hemianopia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4483681,
+    "fields": {
+      "question_number": "Q29",
+      "question_text": "A patient with right optic neuritis will show what in visual evoked potential?",
+      "options": {
+        "A": "Prolonged P100 latency in right optic nerve",
+        "B": "Decreased P100 latency in right optic nerve",
+        "C": "Prolonged P100 latency in left optic nerve",
+        "D": "Decreased P100 latency in left optic nerve"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic finding (P100 latency delay) in Visual Evoked Potentials (VEP) for optic neuritis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67024436,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "In a case scenario, a patient experiences diplopia that worsens when looking toward his left hand down and to the left, more than toward his right hand, and even more than when looking horizontally. Where is the lesion located? (Describes pattern of CN IV palsy)",
+      "options": {
+        "A": "Right trochlear nerve",
+        "B": "Left trochlear nerve",
+        "C": "Right trochlear nucleus",
+        "D": "Left trochlear nucleus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires identification and lateralization of a trochlear nerve (CN IV) palsy based on the described pattern of diplopia worsening in specific gazes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11798844,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "For the following visual field defect, where do you localize the lesions? (Picture missing, but options relate to visual pathway)",
+      "options": {
+        "A": "Optic nerve where it joins the chiasm (anterior chiasm)",
+        "B": "Lateral geniculate nucleus",
+        "C": "Occipital cortex",
+        "D": "Optic tract"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Based on the options, the question requires localization within the visual pathway (nerve, chiasm, tract, LGN, cortex) based on a specific visual field defect pattern (presumably shown in a missing picture)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13140050,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "What is true about popping nystagmus?",
+      "options": {
+        "A": "Slow downward deviation and rapid upward return of the eyes to the primary position",
+        "B": "Rapid downward deviation and slow upward return of the eyes to the primary position",
+        "C": "Rapid upward deviation and slow downward return of the eyes to the primary position",
+        "D": "Horizontal oscillations with equal speed in both directions"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the specific characteristics of a named type of nystagmus (oculo-palatal myoclonus associated nystagmus, sometimes referred to as 'popping')."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30639770,
+    "fields": {
+      "question_number": "Q237",
+      "question_text": "Downbeat Nystagmus is most commonly associated with which of the following lesions?",
+      "options": {
+        "A": "Cervico-medullary junction",
+        "B": "Cerebellar vermis",
+        "C": "Pons",
+        "D": "Midbrain"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the typical anatomical localization of downbeat nystagmus, a specific type of eye movement disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48192816,
+    "fields": {
+      "question_number": "Q401",
+      "question_text": "For each patient with visual loss, select the most likely loss area from the list below. (Incomplete question, but options relate to visual pathway)",
+      "options": {
+        "A": "Optic radiations",
+        "B": "Optic tract",
+        "C": "Vitreous",
+        "D": "Optic nerve"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Although incomplete, the options indicate the question requires localization of visual loss within different parts of the visual system (vitreous, tract, radiations), a core neuro-ophthalmology concept."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47946767,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A patient with headache and papilledema, the headache increased when she lies down and she had mild visual obscuration. What is the next management step?",
+      "options": {
+        "A": "Weight loss",
+        "B": "Optic sheath fenestration",
+        "C": "Acetazolamide therapy",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26244067,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "B. Weight loss and acetazolamide therapy [CORRECT]",
+      "options": {
+        "C": "High-dose corticosteroids to reduce inflammation",
+        "D": "Surgical decompression of the optic nerve sheath",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question focuses on the appropriate management of IIH, where weight loss and acetazolamide are first-line treatments."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95960492,
+    "fields": {
+      "question_number": "Q45",
+      "question_text": "A patient presents with horizontal nystagmus in primary gaze that reverses every 90 seconds. What is the diagnosis?",
+      "options": {
+        "A": "Periodic alternating nystagmus",
+        "B": "Acquired pendular nystagmus",
+        "C": "See-saw nystagmus",
+        "D": "Vestibular nystagmus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the diagnosis of a specific, characteristic type of nystagmus (periodic alternating nystagmus) based on its temporal pattern."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14709209,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "What suggests central nystagmus?",
+      "options": {
+        "A": "Lack of latency",
+        "B": "Presence of latency",
+        "C": "Direction-changing nystagmus",
+        "D": "Fixation suppression"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the clinical features used to differentiate central from peripheral nystagmus, a key skill in neuro-ophthalmology and neuro-otology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83757342,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "What MRI finding is commonly associated with idiopathic intracranial hypertension (IIH)?",
+      "options": {
+        "A": "Enlarged ventricles",
+        "B": "Empty sella",
+        "C": "Cerebellar atrophy",
+        "D": "Hydrocephalus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on a characteristic neuroimaging finding (empty sella) associated with Idiopathic Intracranial Hypertension (IIH), a neuro-ophthalmic condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10542781,
+    "fields": {
+      "question_number": "Q216",
+      "question_text": "A 5-day postpartum patient presents with right eye ptosis. On examination, the right pupil measures 3 mm in dim light while the left pupil measures 5 mm. What is the most likely cause of the anisocoria observed in this patient?",
+      "options": {
+        "A": "Adie's pupil",
+        "B": "Oculomotor nerve paralysis",
+        "C": "Horner's syndrome",
+        "D": "Pharmacologic mydriasis"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires diagnosis of the cause of anisocoria and ptosis (Horner's syndrome) based on pupillary measurements in dim light."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4452504,
+    "fields": {
+      "question_number": "Q49",
+      "question_text": "A patient has left eye hypertropia that improves with a head tilt to the left. Where is the lesion located? (Implies Bielschowsky head tilt test for CN IV palsy)",
+      "options": {
+        "A": "Left midbrain",
+        "B": "Right midbrain",
+        "C": "Left medulla",
+        "D": "Right medulla"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65588200,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "B. The side of the head tilt is contralateral to the affected trochlear nerve [CORRECT]",
+      "options": {
+        "C": "The Bielschowsky head tilt test localizes the lesion to the oculomotor nerve (CN III)",
+        "D": "The Bielschowsky head tilt test is used to diagnose abducens nerve (CN VI) palsy",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question tests knowledge of the Bielschowsky head tilt test, which is used to identify trochlear nerve palsy by observing the direction of head tilt relative to the affected side."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44082036,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "A 45-year-old man suffers bilateral vertebral artery dissections and multiple brainstem and cerebellar infarctions causing right hemiplegia, dysarthria, and dysphagia. Two years later, he returns complaining of oscillopsia at rest. What is the likely examination finding? (Likely pendular nystagmus)",
+      "options": {
+        "A": "1-Hz pendular oscillation comprising conjugate vertical and torsional components; the right eye intorts",
+        "B": "Horizontal jerk nystagmus with fast phase beating away from the side of the lesion",
+        "C": "Downbeat nystagmus increasing on downgaze and head extension",
+        "D": "Gaze-evoked nystagmus with direction-changing fast phases"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on identifying the specific type of nystagmus (pendular) causing oscillopsia as a delayed complication of brainstem infarction, testing knowledge of acquired eye movement disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47170662,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "In a case of right eye complete vision loss with superior temporal defects in the contralateral eye, what is the localization?",
+      "options": {
+        "A": "Anterior chiasm",
+        "B": "Optic tract",
+        "C": "Lateral geniculate body",
+        "D": "Optic radiation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests localization based on a specific pattern of visual field loss (junctional scotoma of Traquair) indicating a lesion at the anterior chiasm affecting the incoming optic nerve."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76013031,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "A patient after minor trauma was reading a newspaper and presented with diplopia, worse when the patient looks down and to the left. The outer image came from the right eye. What is the muscle affected?",
+      "options": {
+        "A": "Right Superior oblique",
+        "B": "Left Superior oblique",
+        "C": "Right Inferior oblique",
+        "D": "Left Inferior oblique"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires identification of the paretic muscle (right superior oblique) causing vertical diplopia based on the gaze dependency and laterality, characteristic of CN IV palsy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52040884,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "In a scenario about right internuclear ophthalmoplegia (INO), where is the lesion located?",
+      "options": {
+        "A": "Right MLF",
+        "B": "Left MLF",
+        "C": "Right optic nerve",
+        "D": "Left optic nerve"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the anatomical structure (Medial Longitudinal Fasciculus - MLF) responsible for internuclear ophthalmoplegia (INO) and its lateralization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5343394,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "A patient with right relative afferent pupillary defect (RAPD) and right homonymous hemianopia is evaluated. Where is the lesion?",
+      "options": {
+        "A": "Left optic tract",
+        "B": "Left optic radiation",
+        "C": "Left occipital cortex",
+        "D": "Left lateral geniculate nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires localization within the visual pathway (optic tract) based on the combination of RAPD and homonymous hemianopia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43577501,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "A patient presents with nystagmus at primary gaze, low amplitude, and fast beat to the right. What is the likely localization? (Description potentially ambiguous, but asks for localization based on nystagmus features)",
+      "options": {
+        "A": "Tectal midbrain",
+        "B": "Cerebellar hemisphere",
+        "C": "Pontocerebellar angle",
+        "D": "Medulla"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Requires anatomical localization based on the characteristics of nystagmus observed in primary gaze."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 7723803,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "A 22-year-old male presents with symptoms suggestive of right fourth cranial nerve palsy. What is the most likely cause?",
+      "options": {
+        "A": "Pinealoma",
+        "B": "Trauma",
+        "C": "Microvascular ischemia",
+        "D": "Multiple sclerosis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the common etiology of a specific cranial nerve palsy (CN IV) in a young adult, integrating clinical presentation with likely causes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14690058,
+    "fields": {
+      "question_number": "Q413",
+      "question_text": "What is the most common cause of fourth cranial nerve (CN) palsy?",
+      "options": {
+        "A": "Congenital",
+        "B": "Trauma",
+        "C": "Microvascular",
+        "D": "Neoplasm"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology and common causes of isolated fourth cranial nerve palsy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63248606,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "Susac syndrome is associated with a clinical triad of which of the following?",
+      "options": {
+        "A": "Visual loss caused by branch retinal artery occlusions",
+        "B": "Sensorineural hearing loss",
+        "C": "Subacute encephalopathy",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the defining clinical features of Susac syndrome, which prominently includes neuro-ophthalmologic findings (BRAO)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21328421,
+    "fields": {
+      "question_number": "Q146",
+      "question_text": "Which visual field defect is characterized by loss of vision in the lower quadrant of the visual field?",
+      "options": {
+        "A": "Contralateral superior quadrantopia",
+        "B": "Contralateral inferior quadrantopia",
+        "C": "Bitemporal hemianopia",
+        "D": "Central scotoma"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests terminology and recognition of specific visual field defects (quadrantopia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21514212,
+    "fields": {
+      "question_number": "Q18",
+      "question_text": "The amplitude of the oscillation is larger in the right eye. Which of the following structures is most likely to be abnormal on MRI? (Context likely pendular nystagmus post-stroke from Q3/Q21)",
+      "options": {
+        "A": "Left inferior cerebellar peduncle",
+        "B": "Left inferior olive",
+        "C": "Optic chiasm",
+        "D": "Right brachium conjunctivum"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localization of the lesion causing a specific type of nystagmus (likely pendular, possibly dissociated) based on anatomical pathways involved in eye movement control (Guillain-Mollaret triangle components)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32034372,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "A patient with a headache for 2 months, worsening with standing, has occasional blurring of vision upon leaning forward. On examination, she has bilateral papilledema. The CT scan is unremarkable. How to reach the diagnosis? (Suggests IIH or potentially SIH)",
+      "options": {
+        "A": "CSF analysis",
+        "B": "CT venogram",
+        "C": "MRA",
+        "D": "MRI brain with contrast"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes symptoms (headache pattern, visual changes, papilledema) suggestive of intracranial pressure dysregulation (IIH or SIH) and asks about the diagnostic approach, focusing on confirming the underlying cause of the neuro-ophthalmic signs."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10858864,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "A case scenario of a patient with one eye ptosis and normal pupils is presented. What is the most likely cause?",
+      "options": {
+        "A": "Posterior communicating artery aneurysm",
+        "B": "Lacunar infarct",
+        "C": "Small vessel ischemia",
+        "D": "Horner's syndrome"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires differential diagnosis for ptosis with normal pupils, distinguishing CN III palsy (pupil involved typically with aneurysm) from Horner's (miosis expected but maybe subtle) or other causes like myasthenia (Neuromuscular) or isolated levator palsy. Given the options, considering Horner's vs pupil-sparing CN III (often ischemic) is a neuro-ophthalmic consideration."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37016791,
+    "fields": {
+      "question_number": "Q27",
+      "question_text": "Most common cause of isolated 4th nerve palsy is:",
+      "options": {
+        "A": "Trauma",
+        "B": "AVM",
+        "C": "Aneurysm",
+        "D": "Cavernous sinus thrombosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the most frequent etiology for isolated trochlear (CN IV) nerve palsy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97448871,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "A 45-year-old man suffers bilateral vertebral artery dissection leading to brain stem and cerebellar infarctions, causing right hemiplegia and dysphagia. Two years later, he returns complaining of oscillopsia. Examination reveals a 1-Hz pendular oscillation with conjugate vertical and torsional components. The right eye extorts as it falls while the left eye extorts as it rises. The amplitude of the oscillation is larger in the right eye. Which structure is most likely to be abnormal?",
+      "options": {
+        "A": "Left inferior cerebellar peduncle",
+        "B": "Left inferior olive",
+        "C": "Optic chiasm",
+        "D": "Right brachium conjunctivum"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Duplicate of Q18/Similar to"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44082036,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "B. Lesion in the paramedian pontine reticular formation (PPRF)",
+      "options": {
+        "C": "Lesion in the dorsal medulla affecting the inferior olivary nucleus",
+        "D": "Lesion in the oculomotor nerve nucleus",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13605395,
+    "fields": {
+      "question_number": "Q26",
+      "question_text": "What would suggest central nystagmus rather than peripheral nystagmus?",
+      "options": {
+        "A": "Direction-changing nystagmus on lateral gaze",
+        "B": "Nystagmus suppressed by visual fixation",
+        "C": "Nystagmus with a torsional component only",
+        "D": "Presence of vertigo and hearing loss"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the clinical differentiation between central and peripheral causes of nystagmus based on examination features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9333458,
+    "fields": {
+      "question_number": "Q510",
+      "question_text": "A case scenario describes a patient with a history of blurry vision and headache. She has acne and is taking vitamin A. Examination shows papilledema, BMI 35, and a normal MRI report. Which of the following is the appropriate management?",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Prednisolone",
+        "C": "Topiramate",
+        "D": "Observation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Duplicate of Q33/"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11664867,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "B. High-dose intravenous corticosteroids",
+      "options": {
+        "C": "Surgical decompression of the optic nerve sheath",
+        "D": "Observation and repeat neuroimaging in 6 months",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question tests knowledge of the first-line management of IIH, where acetazolamide and CSF drainage are standard initial treatments to reduce intracranial pressure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75463714,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "A clinical feature suggestive of right medial longitudinal fasciculus (MLF) involvement includes impaired right eye adduction with left eye nystagmus on abduction. Where is the lesion located?",
+      "options": {
+        "A": "Right MLF",
+        "B": "Left MLF",
+        "C": "Right oculomotor nerve nucleus",
+        "D": "Left abducens nerve nucleus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires localization of the lesion causing internuclear ophthalmoplegia (INO) to the ipsilateral MLF based on the classic clinical signs."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37016791,
+    "fields": {
+      "question_number": "Q27",
+      "question_text": "In a case of acute painless vision loss (Non-AION), what is the appropriate treatment?",
+      "options": {
+        "A": "No treatment available",
+        "B": "IV steroid",
+        "C": "Oral steroid",
+        "D": "Antiplatelet therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the management approach to non-arteritic anterior ischemic optic neuropathy (NAION), a common cause of acute painless vision loss."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60272996,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "Which visual field defect is characterized by loss of vision in the upper quadrant of the visual field?",
+      "options": {
+        "A": "Contralateral superior quadrantopia",
+        "B": "Contralateral inferior quadrantopia",
+        "C": "Bitemporal hemianopia",
+        "D": "Central scotoma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests terminology and recognition of specific visual field defects (quadrantopia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68893994,
+    "fields": {
+      "question_number": "Q293",
+      "question_text": "Which of the following has a large effect on Relative Afferent Pupillary Defect (RAPD)?",
+      "options": {
+        "A": "Optic nerve",
+        "B": "Retina",
+        "C": "Optic tract",
+        "D": "Lateral geniculate ganglion (LGG)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Assesses understanding of which part of the afferent visual pathway lesion most significantly causes a Relative Afferent Pupillary Defect (RAPD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86260970,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "Hydroxyamphetamine drops help differentiate between which conditions?",
+      "options": {
+        "A": "Preganglionic from postganglionic",
+        "B": "Sympathetic from parasympathetic lesions",
+        "C": "Central from peripheral Horner's syndrome",
+        "D": "Adie's pupil from Horner's syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Duplicate of Q41 (concept). Tests knowledge of the specific use of hydroxyamphetamine in the pharmacological evaluation of Horner's syndrome for localization."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13605395,
+    "fields": {
+      "question_number": "Q26",
+      "question_text": "In a patient with ipsilateral scotoma and contralateral quadrantanopia, where is the localization of the lesion? (Describes junctional scotoma variant)",
+      "options": {
+        "A": "Occipital lobe",
+        "B": "Optic radiation",
+        "C": "Optic chiasm",
+        "D": "Optic nerve"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires localization within the visual pathway (specifically anterior chiasm/optic nerve junction) based on a specific combined visual field defect pattern."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49520144,
+    "fields": {
+      "question_number": "Q20",
+      "question_text": "Examination of patients with anisocoria using hydroxyamphetamine eye drops helps in the diagnosis of?",
+      "options": {
+        "A": "Pre and post ganglionic lesion",
+        "B": "Third nerve palsy",
+        "C": "Adie\u2019s pupils",
+        "D": "Horner\u2019s syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Duplicate concept of Q41/"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86260970,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "B. Hydroxyamphetamine directly stimulates the iris dilator muscle causing pupil dilation.",
+      "options": {
+        "C": "Hydroxyamphetamine is used to confirm the diagnosis of Horner's syndrome by causing miosis.",
+        "D": "Hydroxyamphetamine blocks the sympathetic pathway at the level of the superior cervical ganglion.",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19319011,
+    "fields": {
+      "question_number": "Q111",
+      "question_text": "A young patient presents with one eye visual loss followed by hearing loss. What is the likely diagnosis?",
+      "options": {
+        "A": "Susac syndrome",
+        "B": "Multiple sclerosis",
+        "C": "Neuromyelitis optica",
+        "D": "Meniere\u2019s disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Duplicate concept of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76502693,
+    "fields": {
+      "question_number": "Q108",
+      "question_text": "B. Progressive muscle weakness and fasciculations",
+      "options": {
+        "C": "Episodic memory loss and personality changes",
+        "D": "Sudden onset hemiparesis and aphasia",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "From Neuroophthalmology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: Susac syndrome is characterized by the clinical triad of branch retinal artery occlusions, sensorineural hearing loss, and encephalopathy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89696647,
+    "fields": {
+      "question_number": "Q35",
+      "question_text": "In the case of the largest relative afferent pupillary defect (RAPD), which structure is primarily affected?",
+      "options": {
+        "A": "Optic nerves",
+        "B": "Optic tracts",
+        "C": "Lateral geniculate body",
+        "D": "Optic chiasma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests understanding of the anatomical basis of the relative afferent pupillary defect (RAPD), a key neuro-ophthalmological sign localizing to the pre-chiasmatic visual pathway."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67070977,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "In the case of giant cell arteritis, what is the next step in management?",
+      "options": {
+        "A": "Steroid therapy",
+        "B": "Temporal artery biopsy",
+        "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "D": "Observation and symptomatic treatment"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the urgent management of Giant Cell Arteritis, specifically addressing the prevention of visual loss (ischemic optic neuropathy), a critical neuro-ophthalmological emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81667575,
+    "fields": {
+      "question_number": "Q206",
+      "question_text": "A patient presents with eye pain that worsens with movement. Which of the following conditions could be the cause?",
+      "options": {
+        "A": "Leber's Hereditary Optic Neuropathy (LHON)",
+        "B": "Optic neuritis",
+        "C": "Ischemic optic neuropathy",
+        "D": "Orbital cellulitis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on differentiating causes of optic nerve pathology based on a characteristic symptom (pain with eye movement), strongly associated with optic neuritis, a core neuro-ophthalmology topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55420623,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "In an embryological problem of the optic chiasm, what finding would you expect to see in the examination?",
+      "options": {
+        "A": "Optic ataxia",
+        "B": "Seesaw nystagmus",
+        "C": "Oculomotor apraxia",
+        "D": "Bitemporal hemianopia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links a specific developmental anomaly of a visual pathway structure (optic chiasm) to a characteristic neuro-ophthalmological sign (seesaw nystagmus)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43307969,
+    "fields": {
+      "question_number": "Q123",
+      "question_text": "In a scenario of Leber's Hereditary Optic Neuropathy (LHON), what diagnostic tests would you consider to assess complications of this condition?",
+      "options": {
+        "A": "ECG",
+        "B": "Renal ultrasound",
+        "C": "Visual evoked potentials",
+        "D": "Brain MRI"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the systemic workup (specifically ECG for associated cardiac risks) in a patient diagnosed with LHON, a primary mitochondrial optic neuropathy managed within neuro-ophthalmology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41075645,
+    "fields": {
+      "question_number": "Q363",
+      "question_text": "A patient had left eye heterotopia and skew deviation, tilting to the right. Where is the lesion?",
+      "options": {
+        "A": "Left midbrain",
+        "B": "Right midbrain",
+        "C": "Left pons",
+        "D": "Right cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests localization based on specific ocular misalignment signs (skew deviation, heterotropia/hypertopia) and head tilt, key components of the neuro-ophthalmological exam related to vestibular pathways."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32950804,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "What is the most common cause of trochlear nerve palsy?",
+      "options": {
+        "A": "Trauma",
+        "B": "Congenital",
+        "C": "Microvascular ischemia",
+        "D": "Neoplasm"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the etiology of a specific cranial nerve palsy affecting eye movement (trochlear nerve), a common neuro-ophthalmological presentation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26416302,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "A middle-aged patient presented with sudden severe headache and double vision. Examination shows complete right ptosis and decreased visual acuity in the right eye. What is the possible diagnosis?",
+      "options": {
+        "A": "Pituitary apoplexy",
+        "B": "Cavernous sinus fistula",
+        "C": "Craniopharyngioma with an impaired cyst",
+        "D": "Epidural hematoma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on diagnosing an acute condition presenting with headache and specific neuro-ophthalmological signs (ptosis, ophthalmoplegia implied by double vision, decreased vision) localizing likely to the pituitary region or cavernous sinus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38131007,
+    "fields": {
+      "question_number": "Q323",
+      "question_text": "What is the most common cause of trochlear nerve atrophy?",
+      "options": {
+        "A": "Infarction",
+        "B": "Trauma",
+        "C": "Compression by tumor",
+        "D": "Demyelinating disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Similar to Q14, this question asks about the etiology (specifically leading to atrophy) of a cranial nerve affecting eye movement (trochlear nerve), falling under neuro-ophthalmology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28076646,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "A patient with Horner syndrome did not respond to either hydroxyamphetamine or cocaine. What type of lesion is most likely?",
+      "options": {
+        "A": "Pre-ganglionic",
+        "B": "Post-ganglionic",
+        "C": "Central (first-order neuron)",
+        "D": "Mixed lesion involving both pre- and post-ganglionic fibers"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests the pharmacological localization (pre- vs post-ganglionic) of Horner syndrome using specific eye drops, a standard neuro-ophthalmological diagnostic technique."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5077469,
+    "fields": {
+      "question_number": "Q235",
+      "question_text": "A female patient presents with central nervous system manifestations, including hearing loss and retinal artery occlusion. Which of the following conditions is most likely?",
+      "options": {
+        "A": "CADASIL",
+        "B": "Susac syndrome",
+        "C": "Multiple sclerosis",
+        "D": "Neuromyelitis optica"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires diagnosis based on a triad including a key neuro-ophthalmological finding (retinal artery occlusion), central to identifying Susac syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35220708,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "A patient with Horner syndrome did not respond to either hydroxyamphetamine or cocaine. What is the most likely location of the lesion?",
+      "options": {
+        "A": "Hypothalamus",
+        "B": "Lung apex",
+        "C": "ICA dissection",
+        "D": "Cervical spinal cord"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Builds on pharmacological localization (implied post-ganglionic Horner's) to ask for the anatomical localization, linking the neuro-ophthalmological sign to potential underlying causes like carotid dissection."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93002647,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "In a case of optic neuritis in the right eye, which of the following findings is consistent with the condition?",
+      "options": {
+        "A": "Prolonged P100 in the right eye",
+        "B": "Prolonged P100 in the left eye",
+        "C": "Shortened P100 in the right eye",
+        "D": "Shortened P100 in the left eye"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic Visual Evoked Potential (VEP) finding (prolonged P100 latency) in optic neuritis, a core diagnostic tool used in neuro-ophthalmology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96259850,
+    "fields": {
+      "question_number": "Q96",
+      "question_text": "A patient presents with Horner's syndrome that does not react to cocaine or amphetamine. What type of lesion is indicated?",
+      "options": {
+        "A": "Post-ganglionic",
+        "B": "Preganglionic",
+        "C": "Central (first-order neuron)",
+        "D": "Sympathetic chain lesion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests understanding of pharmacological testing (cocaine/hydroxyamphetamine - assuming 'amphetamine' refers to hydroxyamphetamine) for localizing Horner syndrome (pre- vs post-ganglionic), a neuro-ophthalmological technique."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98963272,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "A 75-year-old male patient with a history of hypertension and diabetes mellitus presents with chronic symptoms of polymyalgia rheumatica, severe headache, and visual loss in the right eye. Fundoscopic examination shows cotton wool exudates and an elevated ESR. What is the most appropriate next step in management?",
+      "options": {
+        "A": "Oral Steroid",
+        "B": "Intravenous Steroid",
+        "C": "Temporal artery biopsy",
+        "D": "Observation and repeat ESR"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes a classic presentation of Giant Cell Arteritis (GCA) complicated by arteritic ischemic optic neuropathy, focusing on the urgent management needed to prevent further vision loss, a key neuro-ophthalmological emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83932917,
+    "fields": {
+      "question_number": "Q438",
+      "question_text": "A patient with ptosis is evaluated with Hydroxyamphetamine. What does this test differentiate?",
+      "options": {
+        "A": "Pre-ganglionic from post-ganglionic lesions",
+        "B": "Horner's syndrome from third cranial nerve palsy",
+        "C": "Myasthenia gravis from Lambert-Eaton syndrome",
+        "D": "Oculomotor nerve palsy from Horner's syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the specific use and interpretation of a pharmacological test (hydroxyamphetamine) used in neuro-ophthalmology to localize Horner's syndrome, which can present with ptosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89211146,
+    "fields": {
+      "question_number": "Q354",
+      "question_text": "A young lady presents with proptosis, ptosis, complete ophthalmoplegia, and decreased sensation in V1 and V2. What will you do?",
+      "options": {
+        "A": "Reassure and observe",
+        "B": "Start oral steroids and follow up in 1 week",
+        "C": "Urgent neuroimaging (MRI with contrast) and referral to neuro-ophthalmology",
+        "D": "Prescribe antibiotics for orbital cellulitis without imaging"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes a constellation of signs (proptosis, ophthalmoplegia, CN V deficits) strongly localizing to the orbital apex or cavernous sinus, requiring urgent neuro-ophthalmological/neurological investigation. The focus is on recognizing this critical syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 3313808,
+    "fields": {
+      "question_number": "Q180",
+      "question_text": "A 45-year-old female presented with visual blurring and is diagnosed with Brun's nystagmus. Brun's nystagmus is characterized by low-frequency, large-amplitude horizontal nystagmus when looking toward the side of the lesion, and high-frequency, small-amplitude nystagmus when looking away from the lesion. The large-amplitude nystagmus is caused by compression of which structure?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Ipsilateral vestibular system",
+        "C": "Midbrain",
+        "D": "Pons"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests understanding of a specific type of nystagmus (Brun's) and its underlying mechanism/localization (gaze-evoked nystagmus from cerebellar involvement vs. vestibular nystagmus), a specialized topic within neuro-ophthalmology/neuro-otology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97898955,
+    "fields": {
+      "question_number": "Q352",
+      "question_text": "What is the artery associated with a left sectoranopia sparing the horizontal meridian?",
+      "options": {
+        "A": "MCA",
+        "B": "Anterior choroidal artery",
+        "C": "Lateral posterior choroidal artery",
+        "D": "Posterior cerebral artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Requires correlating a specific, complex visual field defect (sectoranopia) with the vascular supply of the relevant part of the visual pathway (optic radiations or LGN), a core neuro-ophthalmological localization skill."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15234099,
+    "fields": {
+      "question_number": "Q268",
+      "question_text": "A patient with subarachnoid hemorrhage (SAH) complains of visual issues, and examination shows retinal problems (Terson syndrome). Where is the issue for vision?",
+      "options": {
+        "A": "Vitreous",
+        "B": "Retina",
+        "C": "Optic nerve",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of Terson syndrome, a specific neuro-ophthalmological complication (vitreous hemorrhage) secondary to intracranial hemorrhage (SAH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69112636,
+    "fields": {
+      "question_number": "Q279",
+      "question_text": "A patient came with right optic atrophy and left papilledema. Where is the localization of the mass?",
+      "options": {
+        "A": "Left frontal",
+        "B": "Right frontal",
+        "C": "Right occipital",
+        "D": "Left occipital"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests recognition of the Foster Kennedy syndrome (ipsilateral optic atrophy, contralateral papilledema) and its specific neuroanatomical localization based on these key neuro-ophthalmological signs."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89166340,
+    "fields": {
+      "question_number": "Q104",
+      "question_text": "In a scenario of idiopathic intracranial hypertension, what can you see on brain MRI?",
+      "options": {
+        "A": "Empty Sella",
+        "B": "Hydrocephalus",
+        "C": "Cerebral edema",
+        "D": "Tumor"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the characteristic neuroimaging findings associated with Idiopathic Intracranial Hypertension (IIH), a primary neuro-ophthalmological disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98636250,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A patient is worse when he looks down to the left, with intact horizontal gaze and no other neurological symptoms. What is the localization of the issue?",
+      "options": {
+        "A": "Right trochlear nerve",
+        "B": "Right trochlear nucleus",
+        "C": "Left trochlear nerve",
+        "D": "Left trochlear nucleus"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires precise localization of a cranial nerve palsy (trochlear nerve) based on the specific pattern of diplopia/ophthalmoplegia described, a classic neuro-ophthalmological problem."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10866454,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "A patient with right relative afferent pupillary defect (RAPD) and right homonymous hemianopia; where is the lesion?",
+      "options": {
+        "A": "Left optic tract",
+        "B": "Left optic radiation",
+        "C": "Left lateral geniculate nucleus",
+        "D": "Left occipital cortex"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Involves localizing a lesion within the visual pathway based on a combination of a pupillary defect (RAPD) and a visual field defect (hemianopia), indicating optic tract involvement, a key neuro-ophthalmological correlation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28057800,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "A patient had optic neuritis in the right eye. What is the finding in the visual potential test?",
+      "options": {
+        "A": "Right eye decrease in P100",
+        "B": "Right eye prolonged in P100",
+        "C": "Left eye prolonged in P100",
+        "D": "Left eye decrease in P100"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic Visual Evoked Potential (VEP) finding (prolonged P100 latency) associated with optic neuritis, a common neuro-ophthalmological condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63405730,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "A young male with Kearns-Sayre syndrome presents with weakness and progressive ophthalmoparesis, with no family history. What is the most likely diagnosis?",
+      "options": {
+        "A": "Kearns-Sayre syndrome",
+        "B": "Oculopharyngeal muscular dystrophy",
+        "C": "Myasthenia gravis",
+        "D": "Chronic progressive external ophthalmoplegia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Although KSS is genetic, the question hinges on recognizing the syndrome based primarily on its characteristic neuro-ophthalmological feature (Progressive External Ophthalmoplegia - PEO)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5718047,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A case about a male with external ophthalmoplegia and ptosis, with onset before he was 10 years old. What is the diagnosis?",
+      "options": {
+        "A": "Kearns-Sayre syndrome",
+        "B": "Oculopharyngeal muscular dystrophy (OPMD)",
+        "C": "Chronic progressive external ophthalmoplegia (CPEO)",
+        "D": "Myasthenia gravis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on diagnosing a condition based on the core clinical neuro-ophthalmological features of early-onset progressive external ophthalmoplegia (PEO) and ptosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54627993,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "A young adult has progressive bilateral painless decrease in visual acuity over 2-3 years. His brother had similar symptoms a few years ago. What should be tested in this patient? (Case of Leber\u2019s disease)",
+      "options": {
+        "A": "ECG",
+        "B": "Mitochondrial DNA analysis",
+        "C": "Visual evoked potentials",
+        "D": "Serum vitamin B12 levels"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the necessary systemic workup (ECG for associated cardiac risk) in a patient presenting with symptoms highly suggestive of Leber\u2019s Hereditary Optic Neuropathy (LHON), a primary genetic optic neuropathy managed within Neuro-ophthalmology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29169577,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "Patient came with Leber optic neuropathy; what is your next step?",
+      "options": {
+        "A": "ECG",
+        "B": "Visual field testing",
+        "C": "Genetic testing for mitochondrial DNA mutations",
+        "D": "Start corticosteroid therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the critical next step in management (systemic workup - ECG) after diagnosing Leber\u2019s Hereditary Optic Neuropathy (LHON), a core neuro-ophthalmology topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47703208,
+    "fields": {
+      "question_number": "Q124",
+      "question_text": "Which of the following infections can cause internuclear ophthalmoplegia (INO)?",
+      "options": {
+        "A": "Tuberculosis (TB)",
+        "B": "Human Immunodeficiency Virus (HIV)",
+        "C": "Cysticercosis",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Although listing infectious causes, the core concept is identifying etiologies for a specific neuro-ophthalmological sign (INO), which points to MLF dysfunction."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51054894,
+    "fields": {
+      "question_number": "Q135",
+      "question_text": "A 73-year-old male presented with severe temporal-sided headache associated with jaw claudication and visual acuity reduced bilaterally. What vessel is likely affected in this typical scenario for Giant Cell Arteritis (GCA)?",
+      "options": {
+        "A": "Ophthalmic artery",
+        "B": "Central retinal artery",
+        "C": "Posterior ciliary artery",
+        "D": "Anterior cerebral artery"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Links the clinical presentation of GCA with visual loss (anterior ischemic optic neuropathy) to the specific vascular supply of the optic nerve head (posterior ciliary arteries), a key concept in neuro-ophthalmic vascular disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99605750,
+    "fields": {
+      "question_number": "Q23",
+      "question_text": "Where is the location of popping nystagmus?",
+      "options": {
+        "A": "Pons",
+        "B": "Midbrain",
+        "C": "Medulla",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks for the neuroanatomical localization (Pons) of specific abnormal eye movements (ocular bobbing/'popping' variants). While involving brainstem structures relevant to vestibular pathways, these specific eye movement abnormalities are often classified and analyzed within neuro-ophthalmology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39473008,
+    "fields": {
+      "question_number": "Q194",
+      "question_text": "Q194. (Source: Promotion 2018_mcqs.txt) Which type of visual field defect is characterized by a loss of vision in one eye?",
+      "options": {
+        "A": "Central scotoma",
+        "B": "Monocular vision loss",
+        "C": "Bitemporal hemianopia",
+        "D": "Contralateral homonymous hemianopia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: This question tests the definition and classification of visual field defects, specifically identifying the term for vision loss in a single eye (Monocular vision loss). This is fundamental knowledge within the domain of Neuroophthalmology."
+    }
+  }
+]

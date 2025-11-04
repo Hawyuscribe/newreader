@@ -1,0 +1,731 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "99993052",
+    "fields": {
+      "question_number": "224",
+      "question_text": "Maxillary, nasal lesion with proptosis, causes of CVT:",
+      "options": {
+        "A": "(Direct invasion): Correct",
+        "B": "(Veins): Incorrect",
+        "D": "oes not explain the mechanism. Option c (LN [Lymph nodes]): Incorrect"
+      },
+      "correct_answer": "a",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "This question examines the mechanism by which maxillary or nasal lesions that produce proptosis can lead to cerebral venous thrombosis (CVT). The central concept is the potential for direct extension of infection or malignancy from adjacent extracranial structures to intracranial venous sinuses.",
+        "pathophysiology": "Maxillary or nasal lesions, particularly those with an invasive component, may extend directly into the cerebral venous system. The valveless venous networks interconnect the extracranial and intracranial compartments, allowing pathogens or tumor cells to directly invade the dural sinuses, causing endothelial injury and subsequent thrombosis.",
+        "clinical_correlation": "Patients with such lesions typically present with signs of orbital involvement like proptosis, headache, and sometimes visual disturbances. CVT may present with additional symptoms including seizures and altered mental status. Recognizing direct invasive spread is crucial for early diagnosis and management.",
+        "diagnostic_approach": "Diagnostic imaging plays a vital role. Magnetic resonance venography (MRV) or CT venography (CTV) can delineate the presence of thrombosis. Differentiation from other causes of proptosis (e.g., orbital cellulitis, cavernous sinus thrombosis from other etiologies) is achieved by correlating clinical history with imaging findings.",
+        "classification_and_neurology": "CVT is classified under cerebrovascular disorders and specifically within venous and sinus thrombosis categories in the International Classification of Diseases (ICD) and stroke classification systems. Etiologically, CVT is divided into **septic** and **aseptic** types. Septic CVT arises from infections such as sinusitis, otitis, or facial infections, whereas aseptic CVT is associated with prothrombotic states, malignancy, or systemic diseases. The case of maxillary/nasal lesions with proptosis aligns with septic CVT due to direct contiguous spread. Historically, classification has evolved from purely anatomical to include etiological and pathophysiological frameworks, recognizing the importance of infectious sources and systemic risk factors. Current consensus emphasizes identifying underlying causes to guide management. The nosology reflects the disease’s heterogeneity, incorporating clinical, radiological, and etiological dimensions.",
+        "classification_and_nosology": "CVT is classified as a type of stroke due to venous occlusion. It can be septic (associated with infection) or aseptic. In this context, it results from direct invasion by adjacent pathology from the maxillofacial region.",
+        "management_principles": "The primary treatment is anticoagulation to prevent thrombus propagation, even in the context of hemorrhagic transformation, along with addressing the underlying lesion (via antibiotics, surgery, or oncological management). In the setting of pregnancy and lactation, low molecular weight heparin is commonly used for CVT due to its safety profile compared to unfractionated heparin or warfarin.",
+        "option_analysis": "Option a (Direct invasion): Correct – It accurately describes the mechanism by which a maxillary, nasal lesion with proptosis causes CVT via anatomical venous connections. Option b (Veins): Incorrect – Too vague; while veins are the site of thrombosis, this option does not explain the mechanism. Option c (LN [Lymph nodes]): Incorrect – Lymphatic structures do not directly communicate with the intracranial venous system and are not involved in the pathogenesis of CVT in this scenario.",
+        "clinical_pearls": "1. Direct extension of infection or malignancy through valveless venous channels is a well-known cause of CVT. 2. Proptosis in the setting of nasal or maxillary lesions should prompt evaluation for intracranial complications. 3. Early imaging with MRV or CTV is critical in making the diagnosis.",
+        "current_evidence": "Recent clinical literature emphasizes the importance of recognizing the anatomical pathways for infection spread in the head and neck region. Updated guidelines support early anticoagulation and management of the primary lesion to improve outcomes in CVT."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993053",
+    "fields": {
+      "question_number": "225",
+      "question_text": "The management of a patient who developed angioedema after starting tPA:",
+      "options": {
+        "A": "Reassurance",
+        "B": "intubate",
+        "C": "anti-histamine & steroids",
+        "D": "is not provided."
+      },
+      "correct_answer": "c",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Angioedema is a localized, self‐limited edema of the deep dermis and subcutaneous tissues. When it occurs in the context of tPA administration (often in patients with underlying ACE‐inhibitor use), it is thought to be secondary to an abnormal release of vasoactive mediators. The clinical scenario requires rapid recognition because swelling of the tongue, lips, or oropharynx can progress to airway compromise.",
+        "pathophysiology": "tPA not only lyses fibrin clots but also activates plasmin which can trigger the release of bradykinin. Increased bradykinin levels lead to vasodilation and increased vascular permeability. Although the process is bradykinin‐mediated (instead of the classic histaminergic allergic reaction), many of the treatments overlap. In some cases, the reaction may be severe enough to require aggressive airway management.",
+        "clinical_correlation": "Patients receiving tPA for ischemic stroke may develop angioedema within the infusion period. Clinically, swelling typically involves the tongue, lips, and sometimes the floor of the mouth. Although it may start as a localized process, rapid progression can lead to difficulty breathing and potential airway loss, especially in patients with predisposing factors such as concurrent ACE inhibitor use.",
+        "diagnostic_approach": "This diagnosis is based on clinical observation. The differential includes allergic reaction/anaphylaxis from other agents, or soft tissue infections. In the setting of recent tPA administration and a typical distribution (orolingual), tPA-induced angioedema is the most likely diagnosis. Monitoring for airway patency and assessing progression is critical.",
+        "classification_and_neurology": "Angioedema is classified based on etiology into allergic (IgE-mediated), non-allergic (bradykinin-mediated), hereditary, and drug-induced types. tPA-induced angioedema falls under the category of drug-induced, bradykinin-mediated angioedema. The nosological framework recognizes this as a subtype distinct from histamine-mediated allergic angioedema, which has different therapeutic implications. Within cerebrovascular complications, this entity is a recognized adverse effect of thrombolytic therapy. The classification systems for angioedema have evolved to emphasize underlying pathophysiology rather than just clinical presentation, guiding targeted treatment strategies. Controversies remain regarding the precise role of histamine versus bradykinin in tPA-induced cases, influencing management approaches.",
+        "classification_and_nosology": "tPA-induced angioedema is classified as a drug-induced adverse reaction with features overlapping with bradykinin-mediated angioedema. It is considered a rare but serious complication of thrombolytic therapy.",
+        "management_principles": "The first step in management is to immediately stop the tPA infusion. In mild cases where airway compromise is not imminent, treatment with anti-histamines (H1 blockers) and corticosteroids is recommended to reduce inflammation. Epinephrine may be considered if there are signs of a more typical anaphylactic reaction. However, if there is any concern for airway compromise, securing the airway (with intubation) is imperative. In pregnant or lactating patients, these medications are used with caution but are acceptable when maternal airway protection is needed. Consultation with anesthesia and otolaryngology may be warranted for airway management.",
+        "option_analysis": "Option A (Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first-line approach in the absence of severe symptoms. Option C (anti-histamine & steroids) is the appropriate first-line management for mild to moderate angioedema post-tPA, making it the correct answer. Option D is not provided.",
+        "clinical_pearls": "• tPA-induced angioedema is most commonly seen in patients on ACE inhibitors. • Always monitor for airway compromise and be ready to secure the airway. • Early cessation of tPA infusion is critical in the management of this complication.",
+        "current_evidence": "Recent studies and guidelines emphasize that while the angioedema associated with tPA is bradykinin-mediated, initial management with anti-histamines and steroids remains standard practice, along with vigilant airway monitoring. There is emerging interest in specific bradykinin inhibitors (like icatibant), but these are not yet standard."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993054",
+    "fields": {
+      "question_number": "226",
+      "question_text": "83-Year-old man, presented with 3 hr Hx of stroke, CT brain done What to do next نسيت تفاصيل الحالة",
+      "options": {
+        "A": "(Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first",
+        "C": "(anti",
+        "D": "is not provided."
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Angioedema is a localized, self‐limited edema of the deep dermis and subcutaneous tissues. When it occurs in the context of tPA administration (often in patients with underlying ACE‐inhibitor use), it is thought to be secondary to an abnormal release of vasoactive mediators. The clinical scenario requires rapid recognition because swelling of the tongue, lips, or oropharynx can progress to airway compromise.",
+        "pathophysiology": "tPA not only lyses fibrin clots but also activates plasmin which can trigger the release of bradykinin. Increased bradykinin levels lead to vasodilation and increased vascular permeability. Although the process is bradykinin‐mediated (instead of the classic histaminergic allergic reaction), many of the treatments overlap. In some cases, the reaction may be severe enough to require aggressive airway management.",
+        "clinical_correlation": "Patients receiving tPA for ischemic stroke may develop angioedema within the infusion period. Clinically, swelling typically involves the tongue, lips, and sometimes the floor of the mouth. Although it may start as a localized process, rapid progression can lead to difficulty breathing and potential airway loss, especially in patients with predisposing factors such as concurrent ACE inhibitor use.",
+        "diagnostic_approach": "This diagnosis is based on clinical observation. The differential includes allergic reaction/anaphylaxis from other agents, or soft tissue infections. In the setting of recent tPA administration and a typical distribution (orolingual), tPA-induced angioedema is the most likely diagnosis. Monitoring for airway patency and assessing progression is critical.",
+        "classification_and_neurology": "Ischemic stroke is classified etiologically by systems such as the TOAST classification, which categorizes strokes into large artery atherosclerosis, cardioembolism, small vessel occlusion (lacunar), stroke of other determined etiology, and stroke of undetermined etiology. The current question pertains to acute management of ischemic stroke, which falls under cerebrovascular diseases in the ICD-10 (I63). The classification guides both prognosis and secondary prevention strategies. Acute ischemic stroke management is distinct from hemorrhagic stroke and transient ischemic attack (TIA), each with different therapeutic approaches. The evolution of classification systems has incorporated imaging and pathophysiology to better tailor treatments.",
+        "classification_and_nosology": "tPA-induced angioedema is classified as a drug-induced adverse reaction with features overlapping with bradykinin-mediated angioedema. It is considered a rare but serious complication of thrombolytic therapy.",
+        "management_principles": "The first step in management is to immediately stop the tPA infusion. In mild cases where airway compromise is not imminent, treatment with anti-histamines (H1 blockers) and corticosteroids is recommended to reduce inflammation. Epinephrine may be considered if there are signs of a more typical anaphylactic reaction. However, if there is any concern for airway compromise, securing the airway (with intubation) is imperative. In pregnant or lactating patients, these medications are used with caution but are acceptable when maternal airway protection is needed. Consultation with anesthesia and otolaryngology may be warranted for airway management.",
+        "option_analysis": "Option A (Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first-line approach in the absence of severe symptoms. Option C (anti-histamine & steroids) is the appropriate first-line management for mild to moderate angioedema post-tPA, making it the correct answer. Option D is not provided.",
+        "clinical_pearls": "• tPA-induced angioedema is most commonly seen in patients on ACE inhibitors. • Always monitor for airway compromise and be ready to secure the airway. • Early cessation of tPA infusion is critical in the management of this complication.",
+        "current_evidence": "Recent studies and guidelines emphasize that while the angioedema associated with tPA is bradykinin-mediated, initial management with anti-histamines and steroids remains standard practice, along with vigilant airway monitoring. There is emerging interest in specific bradykinin inhibitors (like icatibant), but these are not yet standard."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993055",
+    "fields": {
+      "question_number": "227",
+      "question_text": "Tongue deviation to the Lt",
+      "options": {
+        "A": "(Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first",
+        "C": "(anti",
+        "D": "is not provided."
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Angioedema is a localized, self‐limited edema of the deep dermis and subcutaneous tissues. When it occurs in the context of tPA administration (often in patients with underlying ACE‐inhibitor use), it is thought to be secondary to an abnormal release of vasoactive mediators. The clinical scenario requires rapid recognition because swelling of the tongue, lips, or oropharynx can progress to airway compromise.",
+        "pathophysiology": "tPA not only lyses fibrin clots but also activates plasmin which can trigger the release of bradykinin. Increased bradykinin levels lead to vasodilation and increased vascular permeability. Although the process is bradykinin‐mediated (instead of the classic histaminergic allergic reaction), many of the treatments overlap. In some cases, the reaction may be severe enough to require aggressive airway management.",
+        "clinical_correlation": "Patients receiving tPA for ischemic stroke may develop angioedema within the infusion period. Clinically, swelling typically involves the tongue, lips, and sometimes the floor of the mouth. Although it may start as a localized process, rapid progression can lead to difficulty breathing and potential airway loss, especially in patients with predisposing factors such as concurrent ACE inhibitor use.",
+        "diagnostic_approach": "This diagnosis is based on clinical observation. The differential includes allergic reaction/anaphylaxis from other agents, or soft tissue infections. In the setting of recent tPA administration and a typical distribution (orolingual), tPA-induced angioedema is the most likely diagnosis. Monitoring for airway patency and assessing progression is critical.",
+        "classification_and_neurology": "Hypoglossal nerve dysfunction is classified under lower motor neuron cranial neuropathies within the spectrum of brainstem syndromes. Brainstem strokes are categorized by vascular territories: medial medullary syndrome (anterior spinal artery), lateral medullary syndrome (posterior inferior cerebellar artery), etc.   The lesion affecting the hypoglossal nerve in the medulla is part of medial medullary syndrome, characterized by: - Ipsilateral hypoglossal nerve palsy - Contralateral hemiparesis - Contralateral proprioceptive loss  Classification of brainstem strokes follows vascular and anatomical localization. Current consensus emphasizes clinical-radiological correlation for precise nosology. Controversies exist in differentiating overlapping syndromes or lesions with atypical presentations, but hypoglossal nerve signs remain a key localizing feature.",
+        "classification_and_nosology": "tPA-induced angioedema is classified as a drug-induced adverse reaction with features overlapping with bradykinin-mediated angioedema. It is considered a rare but serious complication of thrombolytic therapy.",
+        "management_principles": "The first step in management is to immediately stop the tPA infusion. In mild cases where airway compromise is not imminent, treatment with anti-histamines (H1 blockers) and corticosteroids is recommended to reduce inflammation. Epinephrine may be considered if there are signs of a more typical anaphylactic reaction. However, if there is any concern for airway compromise, securing the airway (with intubation) is imperative. In pregnant or lactating patients, these medications are used with caution but are acceptable when maternal airway protection is needed. Consultation with anesthesia and otolaryngology may be warranted for airway management.",
+        "option_analysis": "Option A (Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first-line approach in the absence of severe symptoms. Option C (anti-histamine & steroids) is the appropriate first-line management for mild to moderate angioedema post-tPA, making it the correct answer. Option D is not provided.",
+        "clinical_pearls": "• tPA-induced angioedema is most commonly seen in patients on ACE inhibitors. • Always monitor for airway compromise and be ready to secure the airway. • Early cessation of tPA infusion is critical in the management of this complication.",
+        "current_evidence": "Recent studies and guidelines emphasize that while the angioedema associated with tPA is bradykinin-mediated, initial management with anti-histamines and steroids remains standard practice, along with vigilant airway monitoring. There is emerging interest in specific bradykinin inhibitors (like icatibant), but these are not yet standard."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993056",
+    "fields": {
+      "question_number": "228",
+      "question_text": "Case of chronic fluctuating paraparesis\nimage attached",
+      "options": {
+        "A": "(Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first",
+        "C": "(anti",
+        "D": "is not provided."
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Angioedema is a localized, self‐limited edema of the deep dermis and subcutaneous tissues. When it occurs in the context of tPA administration (often in patients with underlying ACE‐inhibitor use), it is thought to be secondary to an abnormal release of vasoactive mediators. The clinical scenario requires rapid recognition because swelling of the tongue, lips, or oropharynx can progress to airway compromise.",
+        "pathophysiology": "tPA not only lyses fibrin clots but also activates plasmin which can trigger the release of bradykinin. Increased bradykinin levels lead to vasodilation and increased vascular permeability. Although the process is bradykinin‐mediated (instead of the classic histaminergic allergic reaction), many of the treatments overlap. In some cases, the reaction may be severe enough to require aggressive airway management.",
+        "clinical_correlation": "Patients receiving tPA for ischemic stroke may develop angioedema within the infusion period. Clinically, swelling typically involves the tongue, lips, and sometimes the floor of the mouth. Although it may start as a localized process, rapid progression can lead to difficulty breathing and potential airway loss, especially in patients with predisposing factors such as concurrent ACE inhibitor use.",
+        "diagnostic_approach": "This diagnosis is based on clinical observation. The differential includes allergic reaction/anaphylaxis from other agents, or soft tissue infections. In the setting of recent tPA administration and a typical distribution (orolingual), tPA-induced angioedema is the most likely diagnosis. Monitoring for airway patency and assessing progression is critical.",
+        "classification_and_neurology": "Spinal vascular malformations are classified broadly into: - Spinal dural arteriovenous fistulas (DAVFs): acquired fistulous connections between dural arteries and medullary veins. - Spinal arteriovenous malformations (AVMs): congenital high-flow intramedullary or perimedullary malformations. - Cavernous malformations (cavernomas): low-flow clusters of dilated capillaries. - Venous malformations and other rare entities.  Fibrocartilaginous embolism is not a vascular malformation but a vascular ischemic event caused by embolism.  The Spetzler classification system and other angiographic schemes help differentiate these lesions based on angioarchitecture and flow dynamics. Recent consensus emphasizes the importance of differentiating DAVFs due to their unique pathophysiology and treatment implications. Controversies remain regarding the nomenclature and optimal subclassification, but the clinical utility of distinguishing DAVFs from AVMs and cavernomas is well accepted.",
+        "classification_and_nosology": "tPA-induced angioedema is classified as a drug-induced adverse reaction with features overlapping with bradykinin-mediated angioedema. It is considered a rare but serious complication of thrombolytic therapy.",
+        "management_principles": "The first step in management is to immediately stop the tPA infusion. In mild cases where airway compromise is not imminent, treatment with anti-histamines (H1 blockers) and corticosteroids is recommended to reduce inflammation. Epinephrine may be considered if there are signs of a more typical anaphylactic reaction. However, if there is any concern for airway compromise, securing the airway (with intubation) is imperative. In pregnant or lactating patients, these medications are used with caution but are acceptable when maternal airway protection is needed. Consultation with anesthesia and otolaryngology may be warranted for airway management.",
+        "option_analysis": "Option A (Reassurance) is insufficient as the risk of airway compromise requires active intervention. Option B (Intubate) is reserved for cases with significant airway compromise and is not the first-line approach in the absence of severe symptoms. Option C (anti-histamine & steroids) is the appropriate first-line management for mild to moderate angioedema post-tPA, making it the correct answer. Option D is not provided.",
+        "clinical_pearls": "• tPA-induced angioedema is most commonly seen in patients on ACE inhibitors. • Always monitor for airway compromise and be ready to secure the airway. • Early cessation of tPA infusion is critical in the management of this complication.",
+        "current_evidence": "Recent studies and guidelines emphasize that while the angioedema associated with tPA is bradykinin-mediated, initial management with anti-histamines and steroids remains standard practice, along with vigilant airway monitoring. There is emerging interest in specific bradykinin inhibitors (like icatibant), but these are not yet standard."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_18.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993057",
+    "fields": {
+      "question_number": "229",
+      "question_text": "Homonymous hemianopia:",
+      "options": {
+        "A": "(ACA) is incorrect because the anterior cerebral artery supplies medial frontal and parietal lobes and is not involved in the primary visual pathway. Option b (MCA) is also incorrect because, although the MCA supplies lateral cortex including sensorimotor areas, it generally spares the deep visual pathway structures. Option c (Anterior choroidal artery) is correct as it directly supplies the optic tract and lateral geniculate nucleus, causing homonymous hemianopia when infarcted."
+      },
+      "correct_answer": "c",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Homonymous hemianopia is a visual field defect defined by the loss of the same half of the visual field in both eyes. It arises from lesions in the retrochiasmal visual pathways (post-optic chiasm), where the processing of visual information is segregated by visual field.",
+        "pathophysiology": "The anterior choroidal artery supplies critical components of the visual pathway including the optic tract, lateral geniculate nucleus, and portions of the internal capsule. An infarction in the territory of the anterior choroidal artery can damage these structures, leading directly to a contralateral homonymous hemianopia. Recent imaging studies and vascular research have confirmed the relevance of this arterial territory in producing isolated or predominantly visual deficits.",
+        "clinical_correlation": "Patients with infarcts in the anterior choroidal territory may present with a sudden visual field loss (contralateral homonymous hemianopia) accompanied sometimes by subtle motor or sensory deficits from internal capsule involvement. Recognizing the pattern of visual field loss helps in localizing the lesion to the post-chiasmal visual pathways.",
+        "diagnostic_approach": "The evaluation includes formal visual field testing, neuroimaging such as a CT scan or MRI to assess for infarction, and vascular imaging (CTA or MRA) to evaluate the patency of the anterior choroidal artery. Differential diagnoses include occipital lobe infarcts (posterior cerebral artery territory) and lesions affecting the optic radiations.",
+        "classification_and_neurology": "Homonymous hemianopia is classified as a type of visual field defect resulting from lesions posterior to the optic chiasm. From a cerebrovascular perspective, strokes are classified by the arterial territory involved: anterior cerebral artery (ACA), middle cerebral artery (MCA), posterior cerebral artery (PCA), and anterior choroidal artery (AChA). The AChA territory is considered a distinct vascular territory due to its unique supply to deep brain structures including parts of the visual pathway. This classification aids in diagnostic localization and management. While the PCA territory is classically associated with occipital lobe infarcts causing homonymous hemianopia, AChA infarcts can produce similar visual deficits due to involvement of the optic tract or LGN. Nosologically, homonymous hemianopia is a syndrome rather than a disease, arising from various etiologies including vascular, neoplastic, or demyelinating lesions affecting the retrochiasmal visual pathway.",
+        "classification_and_nosology": "This condition falls under cerebrovascular accidents (ischemic strokes) affecting the small penetrating arteries. It is distinct from strokes of larger vessels (MCA, ACA, PCA) and is classified as a lacunar infarct if limited to deep structures.",
+        "management_principles": "Management involves acute stroke protocols including rapid imaging, possible IV thrombolytic therapy if within the therapeutic window, and secondary prevention measures (antiplatelet therapy, blood pressure management, etc.). Pregnancy and lactation require careful consideration of imaging modalities (preferring noncontrast CT in emergencies) and medication safety profiles when selecting antithrombotic therapy.",
+        "option_analysis": "Option a (ACA) is incorrect because the anterior cerebral artery supplies medial frontal and parietal lobes and is not involved in the primary visual pathway. Option b (MCA) is also incorrect because, although the MCA supplies lateral cortex including sensorimotor areas, it generally spares the deep visual pathway structures. Option c (Anterior choroidal artery) is correct as it directly supplies the optic tract and lateral geniculate nucleus, causing homonymous hemianopia when infarcted.",
+        "clinical_pearls": "• Homonymous hemianopia localizes the lesion to the post-chiasmal visual pathways. • Anterior choroidal artery infarcts can also cause subtle motor deficits due to internal capsule involvement. • Rapid neuroimaging is key in acute visual deficits to distinguish stroke from other causes.",
+        "current_evidence": "Current stroke guidelines emphasize early identification and management of small vessel strokes. Recent studies have reinforced the importance of correlating specific visual deficits with vascular territories to guide acute management and appropriate secondary prevention strategies."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993058",
+    "fields": {
+      "question_number": "230",
+      "question_text": "56-year-old male with Hx of memory loss for 24 hours & asking the same question repeatedly, investigation",
+      "options": {
+        "A": "(CT & CTA) is correct because it meets the urgency of diagnosing acute cerebrovascular events and provides both hemorrhage exclusion and vascular assessment. Option b (MRI) while sensitive for ischemia, is less appropriate in the emergency setting due to longer scan times and possible contraindications. The marked answer (B) is therefore incorrect."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "In the setting of an acute neurological deficit (such as memory loss and repetitive questioning) suspected to be due to a cerebrovascular event, rapid imaging is critical for timely diagnosis and management.",
+        "pathophysiology": "Acute memory loss in a 56-year-old male raises concern for ischemic events or transient ischemic attacks. The pathophysiological process involves an interruption of blood flow causing neuronal dysfunction. Early identification of hemorrhage versus ischemia is essential, as management diverges drastically between these conditions.",
+        "clinical_correlation": "Patients presenting with acute memory loss and repetitive questioning may be experiencing deficits related to ischemia in brain regions responsible for memory (e.g., hippocampal areas or other related structures). The clinical urgency is to rule out hemorrhage and to identify any vascular occlusion that might be amenable to thrombolysis or endovascular intervention.",
+        "diagnostic_approach": "The initial imaging study should be a noncontrast CT scan to rapidly exclude hemorrhage, paired with CT angiography (CTA) to evaluate for luminal stenosis or occlusion in the cerebral or cervical arteries. Although MRI, particularly diffusion-weighted imaging, is more sensitive for early ischemic changes, it is less practical in the initial emergency setting because of its longer acquisition time and limited availability.",
+        "classification_and_neurology": "This presentation falls under the classification of transient ischemic attack (TIA) or minor ischemic stroke within cerebrovascular disease taxonomy. According to the American Heart Association/American Stroke Association (AHA/ASA), TIAs are defined as transient neurological deficits lasting less than 24 hours without evidence of infarction on imaging. Minor strokes have similar symptoms but with imaging evidence of infarction. The classification system differentiates ischemic cerebrovascular events by duration, imaging findings, and clinical severity. Transient global amnesia is a separate clinical syndrome but can overlap symptomatically. Over time, classification has evolved from purely time-based definitions to tissue-based definitions emphasizing imaging findings. Current consensus favors MRI diffusion-weighted imaging (DWI) to differentiate TIA from minor stroke. This case highlights the importance of early vascular imaging within this nosological framework to guide management.",
+        "classification_and_nosology": "This scenario falls under the umbrella of acute stroke evaluation. The algorithm for stroke diagnosis typically prioritizes noncontrast CT followed by CTA in emergency protocols.",
+        "management_principles": "According to current stroke guidelines, the initial management of suspected stroke entails rapid noncontrast CT to exclude hemorrhage, followed by CTA to assess for treatable vascular occlusions. These tests determine eligibility for interventions like IV thrombolysis or mechanical thrombectomy. In scenarios involving pregnancy or lactation, imaging protocols may be adjusted to minimize radiation exposure while still providing rapid diagnostic information; noncontrast CT remains acceptable if benefit outweighs risks, and shielding methods can be used.",
+        "option_analysis": "Option a (CT & CTA) is correct because it meets the urgency of diagnosing acute cerebrovascular events and provides both hemorrhage exclusion and vascular assessment. Option b (MRI) while sensitive for ischemia, is less appropriate in the emergency setting due to longer scan times and possible contraindications. The marked answer (B) is therefore incorrect.",
+        "clinical_pearls": "• In acute stroke workup, a noncontrast CT scan is the first-line investigation to rapidly rule out hemorrhage. • CT angiography adds key vascular information that guides interventional decisions. • Time is brain: rapid imaging is crucial to preserving neurological function.",
+        "current_evidence": "Recent guidelines from the American Heart Association/American Stroke Association continue to advocate for CT/CTA as the standard first-line imaging for suspected acute stroke due to its speed, accessibility, and effectiveness in guiding emergency treatment decisions. Research consistently shows that delays in imaging can worsen outcomes in stroke management."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993059",
+    "fields": {
+      "question_number": "231",
+      "question_text": "Case about patient with recurrent epistaxis & Telangiectasia over- skin. - mucous membranes - retina & GIT. What to do next:",
+      "options": {
+        "A": "(Annual MRI brain) is not routinely indicated unless neurological symptoms develop. Option b (Regular BP check",
+        "C": "(ECHO) may help screen for pulmonary arteriovenous malformations but does not tackle the GI bleeding risk. Option d (Endoscopy) is the correct next step as it directly evaluates and may treat gastrointestinal telangiectasias responsible for chronic bleeding."
+      },
+      "correct_answer": "D",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Hereditary hemorrhagic telangiectasia (HHT) is a genetic disorder that leads to abnormal blood vessel formation. It commonly presents with telangiectasias on the skin, mucous membranes, retina, and gastrointestinal (GI) tract, as well as recurrent bleeding episodes (epistaxis).",
+        "pathophysiology": "HHT is caused by mutations (such as in ENG or ACVRL1 genes) that affect angiogenesis, leading to fragile and abnormally dilated vessels (telangiectasias and arteriovenous malformations). These vascular malformations are prone to bleeding, particularly in mucosal and gastrointestinal sites, resulting in chronic blood loss and potential anemia.",
+        "clinical_correlation": "Patients with HHT often experience recurrent spontaneous nosebleeds, and the presence of telangiectasias on the skin, retina, and especially in the GI tract points to potential sources of occult bleeding leading to iron deficiency anemia. Identifying GI lesions is crucial for targeted management.",
+        "diagnostic_approach": "Diagnostic work-up involves a combination of physical examination, family history, and endoscopic evaluation (such as an upper and lower GI endoscopy) to identify sources of GI bleeding. Differential diagnoses include other causes of GI bleeding (peptic ulcer disease, angiodysplasia, and inflammatory bowel diseases), but the presence of mucocutaneous telangiectasia strongly supports HHT.",
+        "classification_and_neurology": "HHT is classified as a rare autosomal dominant vascular disorder within the broader category of hereditary vascular malformation syndromes. The Curaçao criteria provide a clinical classification framework: definite HHT (≥3 criteria), possible (2 criteria), or unlikely (<2 criteria). The nosology places HHT in the family of vascular dysplasia syndromes characterized by AVMs and telangiectasias. Genetic subtypes include HHT1 (ENG mutation) and HHT2 (ACVRL1 mutation), with phenotypic differences such as a higher prevalence of pulmonary and cerebral AVMs in HHT1. This classification aids in prognostication and screening strategies. Competing classifications focus on molecular genetic testing versus clinical criteria, but consensus favors a combined approach. Understanding HHT’s place among neurovascular disorders highlights its relevance to stroke neurology due to AVM-related hemorrhages.",
+        "classification_and_nosology": "HHT is classified as a vascular dysplasia and is inherited in an autosomal dominant pattern. It is diagnosed based on clinical criteria (the Curaçao criteria) that include epistaxis, telangiectasias, visceral lesions, and family history.",
+        "management_principles": "Management of HHT focuses on controlling bleeding and screening for organ involvement. For GI bleeding, endoscopy (option d) is the cornerstone of diagnosis and potential therapeutic intervention (e.g., laser coagulation). Additional management includes iron supplementation, blood transfusions for severe anemia, and sometimes systemic therapies. In pregnancy and lactation, careful management is essential to balance maternal bleeding risks with fetal safety, and endoscopic procedures are performed with appropriate sedation and monitoring.",
+        "option_analysis": "Option a (Annual MRI brain) is not routinely indicated unless neurological symptoms develop. Option b (Regular BP check-up) does not specifically address the bleeding risk or source in HHT. Option c (ECHO) may help screen for pulmonary arteriovenous malformations but does not tackle the GI bleeding risk. Option d (Endoscopy) is the correct next step as it directly evaluates and may treat gastrointestinal telangiectasias responsible for chronic bleeding.",
+        "clinical_pearls": "• HHT is strongly suggested by recurrent epistaxis combined with telangiectasias on the skin, mucous membranes, and GI tract. • Endoscopic evaluation is essential in patients with HHT who have signs of GI bleeding. • Maintaining a high index of suspicion for AVMs in multiple organ systems is crucial in HHT.",
+        "current_evidence": "Recent consensus statements and guidelines for HHT management recommend targeted screening—including endoscopy—for patients with symptoms suggestive of GI involvement, rather than routine annual neuroimaging or cardiac studies in asymptomatic individuals. Current research is also exploring the role of antiangiogenic therapies in reducing bleeding episodes in HHT."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993298",
+    "fields": {
+      "question_number": "327",
+      "question_text": "Patient with radial fracture one month ago came complaining of pain and erythema, the exam was difficult because of pain what is the dx:",
+      "options": {
+        "A": "Complex regional pain syndrome",
+        "B": "Arterial insufficiency",
+        "C": "Dejerine Roussy syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Complex Regional Pain Syndrome (CRPS) is a chronic pain condition that commonly arises after a traumatic event, such as a fracture. It is characterized by persistent pain that is disproportionate to the initial injury, along with sensory, vasomotor, and motor disturbances.",
+        "pathophysiology": "The underlying mechanism of CRPS involves a combination of peripheral sensitization, central nervous system changes, neurogenic inflammation, and autonomic dysregulation. Following trauma, an abnormal inflammatory response and maladaptive neuroplastic changes lead to persistent pain, swelling, and skin changes such as erythema.",
+        "clinical_correlation": "In patients with a history of a radial fracture who later complains of severe, persistent pain, erythema, and difficulty with examination due to tenderness, CRPS is a leading diagnostic consideration. These symptoms correlate with the typical features of CRPS, such as allodynia, hyperalgesia, and trophic skin changes.",
+        "diagnostic_approach": "Diagnosis of CRPS is clinical and based on the widely accepted Budapest Criteria, which include sensory, vasomotor, sudomotor/edema, and motor/trophic findings. Differential diagnoses include arterial insufficiency (which would show diminished pulses and pallor) and post-stroke pain syndrome (Dejerine Roussy syndrome), which is associated with central nervous system lesions rather than post-traumatic changes.",
+        "classification_and_neurology": "CRPS is classified within the International Association for the Study of Pain (IASP) taxonomy as a neuropathic pain syndrome with distinct subtypes: Type I (formerly Reflex Sympathetic Dystrophy) without confirmed nerve injury, and Type II (causalgia) with identifiable nerve injury. This classification emphasizes the presence or absence of nerve damage but recognizes overlapping clinical features. The Budapest criteria (developed in 2003 and refined subsequently) are the current gold standard for diagnosis and classification, requiring specific clinical signs and symptoms across sensory, vasomotor, sudomotor/edema, and motor/trophic domains. CRPS falls under the broader category of chronic pain syndromes and autonomic nervous system disorders. Nosologically, it is distinct from neuropathic pain due to nerve injury (e.g., Dejerine-Roussy syndrome) and vascular disorders such as arterial insufficiency, although clinical overlap can occur. The classification system has evolved from purely sympathetic-focused models to a more integrated neuroinflammatory and neuroplasticity framework, reflecting advances in understanding.",
+        "classification_and_nosology": "CRPS is classified into two types: Type I (without a confirmed nerve injury) and Type II (with nerve injury). In this case, following a fracture with no specific nerve injury reported, the presentation is consistent with CRPS Type I.",
+        "management_principles": "Management of CRPS is multimodal. First-line treatments include physical and occupational therapy to improve function and desensitize the affected limb, along with analgesics such as non-steroidal anti-inflammatory drugs (NSAIDs) and neuropathic agents (e.g., gabapentin). Second-line options include corticosteroids and nerve blocks. In refractory cases, more advanced modalities like spinal cord stimulation may be considered. In pregnancy and lactation, therapeutic decisions require careful evaluation of drug safety profiles, often favoring non-pharmacological interventions and using medications with established safety records.",
+        "option_analysis": "Option a (Complex Regional Pain Syndrome) is correct because the symptomatology—persistent pain, erythema, and tactile hypersensitivity following a fracture—fits with a CRPS diagnosis. Option b (Arterial insufficiency) is less likely since it typically presents with diminished pulses and pallor rather than the observed erythema and disproportionate pain. Option c (Dejerine Roussy syndrome) pertains to thalamic pain following stroke, which is unrelated to a recent fracture.",
+        "clinical_pearls": "• CRPS often develops after trauma and is marked by pain that is out of proportion to the injury. • Early mobilization and multidisciplinary management are key to improving outcomes in CRPS. • Diagnosis is clinical, using criteria such as the Budapest Criteria to guide evaluation.",
+        "current_evidence": "Recent literature emphasizes early intervention in CRPS, with a trend towards integrative pain management strategies including physical therapy, psychological support, and careful pharmacologic management. Updated guidelines strongly advocate for individualized, multimodal treatment plans to reduce chronic pain and functional impairment."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993299",
+    "fields": {
+      "question_number": "328",
+      "question_text": "Case of Wilson disease and features of KF ring (greenish and greyish discoloration) the most common feature:",
+      "options": {
+        "A": "Mania",
+        "B": "Psychosis",
+        "C": "Depression"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Wilson disease is an autosomal recessive disorder caused by mutations in the ATP7B gene, which leads to defective copper metabolism and toxic copper accumulation in organs such as the liver, brain, and eyes. The detection of Kayser-Fleischer (KF) rings – copper deposition in the Descemet membrane of the cornea – is a key clinical clue in patients with neurologic involvement.",
+        "pathophysiology": "Due to the ATP7B mutation, copper is not adequately excreted into bile, leading to its accumulation in various tissues. Copper deposition in the basal ganglia and frontal lobes contributes to the neuropsychiatric manifestations, while deposition in the cornea manifests as KF rings. The toxic effects of copper on neuronal metabolism and neurotransmitter pathways are thought to contribute to mood disturbances, including depression.",
+        "clinical_correlation": "Patients with Wilson disease may present with hepatic dysfunction, movement disorders, and neuropsychiatric symptoms. Among the psychiatric manifestations, depression is one of the most common, often predating overt neurological deficits. Awareness of these signs is critical for early diagnosis and treatment.",
+        "diagnostic_approach": "Diagnosis is based on a combination of findings: a low serum ceruloplasmin level, increased urinary copper excretion, evidence of copper accumulation on liver biopsy, and the presence of KF rings detected with slit-lamp examination. Differential diagnoses include other causes of psychiatric illness or movement disorders; however, the combination with hepatic dysfunction and KF ring findings is highly suggestive of Wilson disease.",
+        "classification_and_neurology": "Wilson disease is classified as a hereditary disorder of copper metabolism within the broader category of inborn errors of metabolism and neurogenetic disorders. It falls under the group of metal storage diseases alongside disorders like hemochromatosis and aceruloplasminemia. Nosologically, WD is categorized as an autosomal recessive metabolic encephalopathy with hepatic and neuropsychiatric manifestations.  The Leipzig criteria incorporate clinical, biochemical, and genetic data for diagnosis, emphasizing KF ring presence, low ceruloplasmin, elevated urinary copper, and ATP7B mutations. This classification system reflects an evolution from purely clinical diagnosis to integrated molecular and biochemical criteria. Debates continue regarding screening asymptomatic relatives and the role of genetic testing in diagnosis, but consensus guidelines (e.g., EASL, AASLD) support a structured diagnostic approach combining clinical and laboratory findings.",
+        "classification_and_nosology": "Wilson disease falls under the category of metabolic and neurodegenerative disorders. It is classified by its inheritance pattern and its multi-systemic involvement, particularly affecting the liver and brain.",
+        "management_principles": "Treatment involves copper chelation with agents such as penicillamine or trientine, zinc supplementation to block copper absorption, and sometimes dietary copper restriction. In patients presenting with neuropsychiatric symptoms, collaborative care including psychiatric management is essential. For pregnancy and lactation, penicillamine and trientine are used cautiously with dosage adjustments and close monitoring; zinc is also considered a safe option during these periods.",
+        "option_analysis": "Option A (Mania) and Option B (Psychosis) are recognized neuropsychiatric manifestations in Wilson disease but are less common than mood disturbances. Option C (Depression), which is marked, represents the most frequent psychiatric presentation, making it the correct answer.",
+        "clinical_pearls": "1. Kayser-Fleischer rings are nearly pathognomonic for Wilson disease in the presence of neurologic symptoms. 2. Depression is the most common and often early psychiatric manifestation, warranting careful evaluation in young patients with mood disturbances. 3. Early diagnosis and treatment with copper chelation can significantly improve outcomes.",
+        "current_evidence": "Recent guidelines emphasize interdisciplinary management including hepatology, neurology, and psychiatry. Advances in imaging and genetic testing have improved early detection, and current research continues to explore optimal dosing regimens for chelation therapy and alternative treatments that minimize adverse effects, especially in women of childbearing potential."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993300",
+    "fields": {
+      "question_number": "329",
+      "question_text": "Patient with progressive myoclonus and dementia how to confirm the diagnosis",
+      "options": {
+        "A": "MRI",
+        "B": "Lactate",
+        "C": "Muscle biopsy"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "The clinical scenario of progressive myoclonus and dementia is characteristic of a group of disorders known as progressive myoclonic epilepsies (PMEs), among which mitochondrial disorders such as Myoclonic Epilepsy with Ragged Red Fibers (MERRF) are well recognized.",
+        "pathophysiology": "MERRF is caused by mutations in mitochondrial DNA that impair oxidative phosphorylation, leading to energy failure and the accumulation of abnormal mitochondria in skeletal muscle. This results in histopathological findings such as ragged red fibers on muscle biopsy. The energy deficiency particularly affects high-demand tissues, including the brain and muscles, contributing to myoclonic seizures, ataxia, and dementia.",
+        "clinical_correlation": "Patients typically present with myoclonic jerks, seizures, ataxia, and varying degrees of cognitive impairment. The prominence of myoclonus together with progressive dementia guides clinicians to suspect a mitochondrial etiology.",
+        "diagnostic_approach": "While neuroimaging such as MRI may demonstrate non-specific changes, and serum lactate levels may be elevated, the definitive diagnosis of mitochondrial disorders like MERRF is established through muscle biopsy, which reveals ragged red fibers on modified Gomori trichrome staining. Genetic testing can further support the diagnosis by identifying mitochondrial DNA mutations.",
+        "classification_and_neurology": "Progressive myoclonus epilepsies (PMEs) represent a group of inherited neurodegenerative disorders characterized by myoclonus, seizures, and cognitive decline. They are classified based on genetic mutations and clinical features into types such as Unverricht-Lundborg disease, Lafora disease, and neuronal ceroid lipofuscinoses. The International League Against Epilepsy (ILAE) classifies PMEs under genetic generalized epilepsies with progressive neurological deterioration. This nosology has evolved with advances in molecular genetics, allowing genotype-phenotype correlations. Controversies exist regarding overlap with other neurodegenerative diseases and categorization based on clinical versus molecular criteria. However, current consensus emphasizes genetic diagnosis supported by clinical and imaging findings to guide precise classification.",
+        "classification_and_nosology": "MERRF is classified as a mitochondrial encephalomyopathy. It falls within the broader category of mitochondrial disorders associated with defects in oxidative phosphorylation.",
+        "management_principles": "Management is primarily supportive and symptomatic. Seizure control is often achieved with antiepileptic drugs (e.g., levetiracetam, clonazepam) while avoiding those that might worsen mitochondrial dysfunction. Coenzyme Q10 and other mitochondrial supplements may be considered; however, evidence is variable. In pregnancy and lactation, careful selection of antiepileptic drugs that have a better safety profile is essential, and genetic counseling is recommended due to the maternal inheritance of mitochondrial disorders.",
+        "option_analysis": "Option A (MRI) is non-specific for diagnosing mitochondrial disorders because while it may show structural or signal abnormalities, it does not provide definitive diagnostic evidence. Option B (Lactate) can be supportive if elevated, but it is neither specific nor confirmatory. Option C (Muscle biopsy) is the gold standard for confirming the diagnosis of MERRF because it directly demonstrates the characteristic pathological findings (ragged red fibers). Therefore, Option C is the correct answer.",
+        "clinical_pearls": "1. In suspected mitochondrial disorders with myoclonus and dementia, muscle biopsy remains the cornerstone of diagnosis. 2. Elevated lactate levels support the diagnosis but are not confirmatory. 3. MRI findings are typically non-specific in mitochondrial myopathies.",
+        "current_evidence": "Recent studies continue to validate the role of muscle biopsy and genetic analysis in diagnosing mitochondrial diseases. Although biochemical markers such as lactate remain a useful adjunct, the combination of histological findings and mitochondrial DNA sequencing is recommended by current neuromuscular guidelines for a definitive diagnosis."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993301",
+    "fields": {
+      "question_number": "330",
+      "question_text": "Patient with early-onset Alzheimer what is the gene (presenilin not in the choices):",
+      "options": {
+        "A": "APP",
+        "B": "APOE"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation_sections": {
+        "conceptual_foundation": "Early-onset Alzheimer’s disease (AD) is a hereditary form of dementia that typically presents before the age of 65. It is most commonly associated with mutations in genes involved in amyloid precursor protein (APP) processing, including APP itself as well as presenilin genes (PSEN1 and PSEN2).",
+        "pathophysiology": "Mutations in the APP gene lead to abnormal processing of amyloid precursor protein, resulting in the formation of beta-amyloid plaques. These plaques disrupt neuronal function, trigger inflammatory responses, and contribute to neurodegeneration. When presenilin mutations are not available as an option, APP mutations are implicated as a critical pathogenic factor in early-onset AD.",
+        "clinical_correlation": "Patients with early-onset AD present with memory loss, impaired judgment, and changes in behavior. The genetic underpinning in these cases often leads to more aggressive progression of the disease compared to sporadic, late-onset Alzheimer’s.",
+        "diagnostic_approach": "Diagnosis is primarily clinical, supported by neuroimaging (e.g., MRI, PET scans) and neuropsychological testing. Genetic testing for mutations in APP, PSEN1, and PSEN2 is used in familial cases. Differential diagnoses include frontotemporal dementia and other hereditary dementias, but the pattern of amyloid plaque deposition favors Alzheimer’s.",
+        "classification_and_neurology": "Alzheimer's disease is classified into early-onset (before 65 years) and late-onset forms. Early-onset AD is further divided into familial (genetically confirmed mutations) and sporadic cases. The familial early-onset AD falls within the category of autosomal dominant neurodegenerative disorders with known causative mutations in APP, PSEN1, and PSEN2 genes. Late-onset AD is multifactorial with complex genetic and environmental contributions, with APOE ε4 being the strongest genetic risk factor. The National Institute on Aging-Alzheimer's Association (NIA-AA) criteria incorporate clinical, biomarker, and genetic data to classify AD and its stages. This framework helps distinguish causative mutations from risk alleles and guides diagnostic and therapeutic strategies.",
+        "classification_and_nosology": "Alzheimer’s disease is classified as a neurodegenerative disorder involving amyloid and tau pathology. Early-onset Alzheimer’s, although less common than the sporadic, late-onset form, has a clear genetic basis in many cases.",
+        "management_principles": "Management includes the use of cholinesterase inhibitors and NMDA receptor antagonists (e.g., memantine) to slow the progression of cognitive decline. In early-onset cases, genetic counseling is vital. During pregnancy and lactation, careful evaluation of medication safety is necessary; some cognitive enhancers may require dose adjustments or close monitoring.",
+        "option_analysis": "Option A (APP) is correct as mutations in the APP gene can cause early-onset Alzheimer’s disease. Option B (APOE) is associated predominantly as a risk factor for the more common late-onset form rather than being a direct causative mutation in early-onset cases, making Option A the best choice given the exclusion of presenilin genes.",
+        "clinical_pearls": "1. APP mutations are a recognized cause of familial early-onset Alzheimer’s disease. 2. APOE is a risk factor for late-onset Alzheimer’s, not a determinative gene in early-onset cases. 3. Early genetic diagnosis can be invaluable for family counseling and management planning.",
+        "current_evidence": "Recent research supports the role of APP mutations in the pathogenesis of early-onset AD, and evolving therapies targeting amyloid-beta deposition are a focus of current clinical trials. Genetic testing has become more accessible, supporting its use in selected familial cases."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993073",
+    "fields": {
+      "question_number": "299",
+      "question_text": "Brain MRI is showing unilateral watershed infarction what is the mechanism",
+      "options": {
+        "A": "ICA stenosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Watershed infarcts occur in the areas of the brain that lie at the border zones between the major cerebral arterial territories. They are particularly vulnerable to reductions in perfusion, and unilateral involvement typically suggests a localized vascular abnormality.",
+        "pathophysiology": "In cases of unilateral watershed infarction, the most common mechanism is severe stenosis of the internal carotid artery (ICA) on the affected side. The stenosis leads to reduced cerebral blood flow in the distal territories, especially under conditions of systemic hypotension or increased metabolic demand, causing ischemia in the border zone regions.",
+        "clinical_correlation": "Patients with unilateral watershed infarcts may present with focal neurologic deficits that do not conform strictly to a single major arterial distribution. This pattern should prompt investigation into carotid artery disease as an underlying etiology.",
+        "diagnostic_approach": "Evaluation typically includes neuroimaging with MRI to identify the pattern of infarction and vascular imaging (such as CT angiography, MR angiography, or carotid duplex ultrasound) to assess for ICA stenosis. Differential diagnoses include embolic infarcts and small vessel disease, but the watershed pattern is characteristic of hypoperfusion due to proximal stenosis.",
+        "classification_and_neurology": "Watershed infarctions are classified within the broader category of ischemic strokes under the TOAST (Trial of ORG 10172 in Acute Stroke Treatment) classification system as large artery atherosclerosis or hemodynamic stroke subtype. They can be further subclassified into cortical (external) and internal watershed infarcts based on MRI findings and anatomical location. This nosological framework helps differentiate watershed infarcts from embolic strokes and small vessel lacunar infarcts. The classification has evolved with advances in neuroimaging, enabling more precise localization and etiological correlation. Some controversy exists regarding the relative contribution of embolism versus hemodynamic compromise in watershed infarctions, but current consensus emphasizes the role of large artery stenosis and hypoperfusion. Understanding these categories is essential for tailoring treatment strategies and prognostication.",
+        "classification_and_nosology": "Watershed infarcts are categorized as border zone infarcts, which are distinguished from territorial infarcts caused by embolism or occlusion of a specific large vessel.",
+        "management_principles": "First-line management involves optimizing cerebral perfusion and addressing the underlying vascular pathology. Antiplatelet therapy and risk factor modification (control of hypertension, hyperlipidemia, and diabetes) are recommended. In selected patients with significant symptomatic carotid stenosis, revascularization procedures (carotid endarterectomy or stenting) may be considered. In pregnancy and lactation, medical management is generally preferred with careful risk–benefit analysis regarding any invasive intervention.",
+        "option_analysis": "Option A (ICA stenosis) is correct as it directly relates to the hemodynamic compromise seen in unilateral watershed infarctions. The other options, though not listed, could include global hypotension which typically causes bilateral infarcts, or embolic phenomena which look different on imaging.",
+        "clinical_pearls": "1. Unilateral watershed infarcts should raise suspicion for ipsilateral carotid artery disease. 2. Careful vascular imaging is essential to differentiate watershed infarcts from other types of stroke. 3. Medical management of ICA stenosis includes antiplatelet therapy and risk factor control, with revascularization reserved for selected cases.",
+        "current_evidence": "Recent guideline updates emphasize the importance of early carotid imaging for patients with suspected watershed infarcts. Studies continue to refine criteria for carotid revascularization, and the use of less invasive imaging techniques has improved diagnosis and management. In pregnant patients, a conservative approach is typically favored unless the risk of stroke significantly outweighs procedural risks."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_24.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993074",
+    "fields": {
+      "question_number": "300",
+      "question_text": "Patient underwent carotid endarterectomy due to severe symptomatic stenosis and the next day he deteriorated, brain CT is showing right frontal cortical SAH. What is the cause?",
+      "options": {
+        "A": "Hyperperfusion",
+        "B": "Rupture of undiagnosed aneurysm"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Carotid endarterectomy is performed to eliminate high‐grade carotid stenosis and reduce stroke risk. However, rapid restoration of blood flow in chronically hypoperfused brain tissue can lead to a dysregulated vasodilatory response, resulting in cerebral hyperperfusion syndrome. This syndrome may manifest with headache, neurological deterioration, and imaging findings such as cortical subarachnoid hemorrhage (SAH).",
+        "pathophysiology": "During chronic hypoperfusion, cerebral vessels undergo maximal vasodilation to maintain adequate blood flow. After revascularization, the sudden increase in perfusion pressure overwhelms the impaired autoregulation, leading to leakage of blood components and sometimes frank hemorrhage in the cortical regions. Recent studies emphasize that hyperperfusion can lead to blood–brain barrier disruption and vasogenic edema, culminating in cortical SAH.",
+        "clinical_correlation": "Patients usually present with acute neurological deterioration, headache, and sometimes seizures after carotid revascularization. In this case, the right frontal cortical SAH on CT scan corresponds with the territory affected by the altered hemodynamics.",
+        "diagnostic_approach": "Primary imaging is non‐contrast CT to detect hemorrhagic changes. Differential diagnoses include rupture of a previously undiagnosed intracranial aneurysm or other procedural complications. However, the timing and pattern (cortical SAH in the revascularized territory) point toward hyperperfusion syndrome. Additional investigations may include MRI and angiography to further assess cerebral vasculature if needed.",
+        "classification_and_neurology": "Post-CEA cerebral hyperperfusion syndrome is classified under cerebrovascular complications related to revascularization procedures. It is a subtype of reperfusion injury characterized by loss of cerebral autoregulation and resultant hyperemia. Within the broader nosology of stroke and cerebrovascular disorders, CHS is distinct from ischemic stroke, hemorrhagic stroke caused by hypertension or aneurysm rupture, and other causes of SAH. The classification has evolved to recognize CHS as a unique clinical syndrome with specific pathophysiology and management needs, separate from classic SAH etiologies. Contemporary stroke classification systems, such as the TOAST criteria, do not specifically categorize CHS but acknowledge it as a procedural complication. There is ongoing discussion regarding standardized diagnostic criteria for CHS to improve recognition and reporting consistency.",
+        "classification_and_nosology": "Cerebral hyperperfusion syndrome is categorized as a reperfusion injury following surgical or endovascular revascularization, distinct from hemorrhagic transformation due to thrombolytic therapy.",
+        "management_principles": "The cornerstone of management is strict blood pressure control using intravenous antihypertensives (e.g., labetalol, nicardipine) immediately after diagnosis. Supportive care in an intensive care setting is indicated. For pregnant or lactating patients, medications with established safety profiles (e.g., labetalol) should be preferred, and dosing should be carefully monitored due to altered hemodynamic status.",
+        "option_analysis": "Option A (Hyperperfusion) correctly identifies the etiology as the rapid increase in cerebral blood flow overwhelming impaired autoregulation. Option B (Rupture of undiagnosed aneurysm) is less likely given the timing and CT pattern; aneurysmal SAH typically presents with diffuse cisternal blood rather than localized cortical hemorrhage.",
+        "clinical_pearls": "1. Always consider hyperperfusion syndrome in patients who deteriorate shortly after carotid revascularization. 2. Early blood pressure management can significantly reduce morbidity. 3. Cortical SAH in the postoperative period is more suggestive of reperfusion injury than aneurysmal rupture.",
+        "current_evidence": "Recent guidelines emphasize rigorous blood pressure control post-revascularization and advocate for standardized protocols in monitoring for hyperperfusion syndrome. Contemporary research continues to explore biomarkers that could predict which patients are at increased risk of this complication."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_2.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993075",
+    "fields": {
+      "question_number": "301",
+      "question_text": "Locked in syndrome",
+      "options": {
+        "A": "Ventral pons"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Locked-in syndrome is a neurological disorder characterized by quadriplegia and anarthria with preserved consciousness, typically resulting from a lesion that disrupts motor pathways while sparing the reticular activating system.",
+        "pathophysiology": "The ventral part of the pons houses the corticospinal and corticobulbar tracts. An infarct or hemorrhage in this region, commonly due to basilar artery occlusion, interrupts these tracts, rendering the patient 'locked-in.' Despite extensive paralysis, vertical eye movements and blinking are usually preserved because the midbrain structures controlling these functions remain intact.",
+        "clinical_correlation": "Clinically, patients appear awake and alert but are unable to move or speak, communicating only through vertical eye movements. This is a direct consequence of damage to the ventral pons, where motor output is disrupted while sensory and consciousness pathways are spared.",
+        "diagnostic_approach": "Diagnosis is based on clinical examination supported by neuroimaging (MRI is particularly sensitive). The differential includes coma or severe motor deficits from diffuse brain injury; however, preserved consciousness and specific eye movement patterns are key clues.",
+        "classification_and_neurology": "Locked-in syndrome is classified as a brainstem stroke syndrome within the cerebrovascular disease taxonomy. It belongs to the family of motor pathway syndromes caused by focal ischemic lesions.   The classification can be further refined into: - **Classic LIS**: Complete paralysis except vertical eye movement and blinking. - **Incomplete LIS**: Some voluntary movement preserved. - **Total LIS**: Complete immobility including eye movements, often with impaired consciousness.  This nosology has been established through clinical-pathological correlation and imaging studies. LIS is distinct from disorders of consciousness (e.g., coma, vegetative state) and from other brainstem syndromes like Wallenberg syndrome, which affect different vascular territories and pathways.",
+        "classification_and_nosology": "Locked-in syndrome is classified under brainstem syndromes and is typically secondary to ventral pontine lesions. It is not a disorder of consciousness but of motor output.",
+        "management_principles": "Management is supportive and includes intensive care, prevention of complications (e.g., infections, thromboembolism), and rehabilitation. Early involvement of a multi-disciplinary team is essential. In pregnant or lactating patients, supportive care remains the mainstay with additional considerations for maternal and fetal monitoring if required.",
+        "option_analysis": "Option A (Ventral pons) is correct because lesions in this area are classically responsible for locked-in syndrome. Other potential locations would not explain the classic preservation of consciousness with complete motor deficit.",
+        "clinical_pearls": "1. Preserved vertical eye movements with complete paralysis strongly suggests locked-in syndrome. 2. Vascular lesions of the ventral pons, often due to basilar artery occlusion, are the most common cause. 3. Despite profound deficits, patients are fully conscious and should be treated with respect and efforts to communicate.",
+        "current_evidence": "Current research focuses on innovative rehabilitation techniques and augmentative communication strategies for locked-in syndrome, as well as on developing neuroprotective strategies during the acute phase to minimize pontine damage."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993076",
+    "fields": {
+      "question_number": "302",
+      "question_text": "Large acute MCA stroke and history of Afib what to give for acute management",
+      "options": {
+        "A": "Aspirin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Acute management of ischemic stroke centers on rapid restoration of cerebral blood flow to save ischemic brain tissue. In patients with a large middle cerebral artery (MCA) stroke, timely administration of reperfusion therapies is essential, particularly if the etiology is cardioembolic, as in atrial fibrillation (Afib).",
+        "pathophysiology": "In a cardioembolic stroke, a clot originating from the heart occludes a cerebral vessel. For large vessel occlusions, the resulting ischemia can progress rapidly to infarction. The most beneficial acute interventions aim to lyse or physically remove the clot to restore perfusion. The primary risk with delayed or inappropriate therapy (e.g., giving only antiplatelet agents) is continued infarction and a higher risk of hemorrhagic transformation.",
+        "clinical_correlation": "Patients with large MCA strokes typically present with significant neurological deficits such as hemiplegia, aphasia (if the dominant hemisphere is affected), and visual field deficits. The presence of Afib strongly suggests a cardioembolic cause, which reinforces the need for rapid reperfusion therapy rather than solely antiplatelet therapy.",
+        "diagnostic_approach": "Initial evaluation with non-contrast CT is performed to rule out hemorrhage, followed by CT angiography (CTA) to assess vessel occlusion. Differential diagnoses include lacunar infarcts or hemorrhagic stroke, but clinical context and imaging findings in large MCA territory point to a cardioembolic large vessel occlusion.",
+        "classification_and_neurology": "Ischemic strokes are classified based on etiology using systems such as the TOAST criteria:  - Large artery atherosclerosis - Cardioembolism (e.g., Afib) - Small vessel occlusion (lacunar) - Stroke of other determined etiology - Stroke of undetermined etiology  Cardioembolic strokes, including those caused by Afib, are characterized by sudden onset, often severe deficits, and a high risk of early recurrence. This classification guides management and prognosis. The current consensus emphasizes the importance of identifying cardioembolic sources to tailor secondary prevention, particularly anticoagulation therapy.",
+        "classification_and_nosology": "Ischemic strokes are broadly classified as thrombotic, embolic (often cardioembolic), or lacunar. Cardioembolic strokes due to Afib are considered high-risk for recurrence and are managed differently from other types.",
+        "management_principles": "For eligible patients within 4.5 hours of stroke onset, first-line management is intravenous thrombolysis with tissue plasminogen activator (tPA), provided there are no contraindications. For large vessel occlusions, mechanical thrombectomy is often the next step. Aspirin is typically used later for antiplatelet therapy once reperfusion strategies are complete and after a waiting period (usually 24 hours post-thrombolysis) to minimize hemorrhagic risk. In pregnant or lactating patients, thrombolytic therapy may be considered if the benefits outweigh the risks, with careful monitoring and consultation with maternal‐fetal medicine specialists.",
+        "option_analysis": "Option A (Aspirin) is incorrect in the hyperacute management of a large MCA stroke, especially when the patient is within the window for reperfusion therapies. The correct acute intervention is intravenous thrombolysis (typically represented in alternative answer options as IV tPA), with thrombectomy considered if large vessel occlusion is confirmed. Since the marked answer was Aspirin, it does not align with the standard of care for eligible patients.",
+        "clinical_pearls": "1. 'Time is brain'—rapid administration of reperfusion therapy is critical in large vessel occlusions. 2. In cardioembolic strokes from Afib, reperfusion (via IV tPA and/or mechanical thrombectomy) is the priority over antiplatelet therapy in the acute phase. 3. Aspirin is generally deferred until at least 24 hours after thrombolytic therapy to reduce hemorrhagic risk.",
+        "current_evidence": "Recent guidelines from the American Heart Association and European Stroke Organisation strongly support the use of IV thrombolysis within 4.5 hours of symptom onset and mechanical thrombectomy for eligible patients with large vessel occlusion. Emerging evidence also addresses careful patient selection to minimize hemorrhagic transformation, even in large infarcts."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993077",
+    "fields": {
+      "question_number": "303",
+      "question_text": "Brain MRI is showing unilateral watershed infarction what to order?",
+      "options": {
+        "A": "CTA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Watershed infarctions occur in regions of the brain that lie at the junctions of major vascular territories. These infarcts are typically a result of hypoperfusion and can be indicative of significant carotid artery disease when they occur unilaterally.",
+        "pathophysiology": "Watershed zones have a dual supply from adjacent arterial territories and are thus vulnerable to systemic hypotension or hemodynamic compromise. Unilateral watershed infarcts raise suspicion for ipsilateral carotid artery stenosis or occlusion, which diminishes perfusion pressure, especially during episodes of low systemic blood pressure.",
+        "clinical_correlation": "The clinical presentation in patients with watershed infarcts often includes transient or fluctuating neurological deficits that may correspond to fluctuating cerebral perfusion. Unilateral findings particularly prompt evaluation of the carotid artery ipsilateral to the infarct.",
+        "diagnostic_approach": "After initial MRI findings of a unilateral watershed infarct, vascular imaging is the next step to evaluate for carotid pathology. Options include CT angiography (CTA), MR angiography (MRA), or carotid duplex ultrasonography. The differentiation from embolic strokes lies in the distribution and border-zone pattern seen on imaging.",
+        "classification_and_neurology": "Watershed infarctions are classified under ischemic strokes within the broader cerebrovascular disease taxonomy. According to the Trial of Org 10172 in Acute Stroke Treatment (TOAST) classification, watershed infarcts are often categorized as due to large-artery atherosclerosis or hemodynamic stroke subtype. The infarcts can be further subclassified based on location: cortical (external) watershed infarcts occurring at the junction of major cortical territories, and internal watershed infarcts located in the subcortical white matter between deep and superficial arterial systems. This classification aids in etiological diagnosis and management decisions. Over time, classifications have evolved to incorporate imaging patterns and hemodynamic assessments, recognizing that watershed infarcts represent a heterogeneous group with distinct pathophysiology. Current consensus emphasizes integrating clinical, imaging, and vascular studies to refine stroke subtype classification, which directly influences treatment strategy.",
+        "classification_and_nosology": "Watershed infarctions are classified based on their location (cortical or internal) and are considered a manifestation of hemodynamic compromise rather than thromboembolic phenomena.",
+        "management_principles": "The evaluation of a unilateral watershed infarction includes vascular imaging to assess for carotid stenosis. Management depends on the severity of carotid disease: medically managed with antiplatelet agents and statins for moderate stenosis, or consideration of revascularization procedures (endarterectomy or stenting) for high-grade stenosis. In pregnant or lactating patients, non-invasive imaging such as duplex ultrasound or MRI/MRA is preferred to avoid ionizing radiation, and if CTA is necessary, proper shielding and dose optimization are required.",
+        "option_analysis": "Option A (CTA) is the correct next step because it provides detailed vascular imaging to evaluate carotid artery stenosis or occlusion. Alternative imaging modalities exist, but CTA is widely available and highly sensitive for detecting vascular pathology in the extracranial carotid circulation.",
+        "clinical_pearls": "1. Unilateral watershed infarcts should trigger evaluation for ipsilateral carotid stenosis. 2. CTA is a rapid and effective tool for assessing carotid and intracranial arteries. 3. Hemodynamic compromise as a cause of stroke may necessitate different management strategies compared to embolic strokes.",
+        "current_evidence": "Recent stroke guidelines endorse vascular imaging, such as CTA, as a critical component in the workup of watershed infarctions. Current research focuses on refining imaging protocols to better delineate the hemodynamic significance of carotid lesions and to guide revascularization decisions."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_21.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993078",
+    "fields": {
+      "question_number": "304",
+      "question_text": "Hemorrhagic stroke and INR of 3.1",
+      "options": {
+        "A": "PCC"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "In patients with hemorrhagic stroke on warfarin, the elevated INR reflects anticoagulation that increases bleeding risk. Rapid reversal of coagulopathy is essential to limit hematoma expansion.",
+        "pathophysiology": "Warfarin inhibits vitamin K–dependent clotting factors (II, VII, IX, and X). In the setting of intracranial hemorrhage, an INR above the therapeutic range (here 3.1) can worsen bleeding. Prothrombin complex concentrate (PCC) contains these clotting factors, allowing rapid reversal of warfarin's effects.",
+        "clinical_correlation": "Patients on warfarin who present with a hemorrhagic stroke have a higher risk of hematoma expansion. Reversal of anticoagulation is critical to minimize further bleeding and improve outcomes.",
+        "diagnostic_approach": "Diagnosis is based on clinical presentation and neuroimaging (typically CT scan) showing hemorrhage. Laboratory tests (including INR) confirm the degree of anticoagulation. Differential diagnoses include other forms of intracerebral hemorrhage such as hypertensive bleeds, aneurysmal subarachnoid hemorrhage, or vascular malformations.",
+        "classification_and_neurology": "Hemorrhagic stroke is classified under cerebrovascular diseases, specifically intracerebral hemorrhage (ICH), which is a subtype of hemorrhagic stroke distinct from subarachnoid hemorrhage (SAH). The World Health Organization and American Heart Association/American Stroke Association (AHA/ASA) classify stroke etiologies into ischemic and hemorrhagic, with further subclassifications based on etiology and location. Warfarin-associated hemorrhagic stroke falls under anticoagulant-related ICH, a recognized category due to its distinct management and prognosis. This classification aids in guiding treatment strategies, as anticoagulant-associated hemorrhages require rapid reversal of coagulopathy. Contemporary nosology emphasizes the importance of underlying risk factors such as hypertension, cerebral amyloid angiopathy, and anticoagulation status. There is consensus that anticoagulation-related ICH represents a high-risk subgroup requiring specialized management protocols, as outlined in recent stroke guidelines.",
+        "classification_and_nosology": "Hemorrhagic stroke is categorized as intracerebral hemorrhage (nontraumatic) and may be further classified based on the underlying cause (e.g., anticoagulant-associated intracerebral hemorrhage).",
+        "management_principles": "The first-line management includes rapid reversal of anticoagulation using PCC along with intravenous vitamin K administration. This is supported by guidelines like those from the American Heart Association/American Stroke Association. In pregnancy and lactation, reversal agents would be used similarly since the maternal benefit of stopping hemorrhage outweighs potential concerns; however, consultation with specialists is advised if anticoagulation has been used during pregnancy.",
+        "option_analysis": "Option A (PCC) is correct because it provides the clotting factors necessary for rapid reversal. Other options (though not listed) such as fresh frozen plasma (FFP) are alternatives but are generally slower and carry volume overload risks.",
+        "clinical_pearls": "• Rapid reversal of warfarin is critical in hemorrhagic strokes. • PCC achieves faster correction compared to FFP. • Always co-administer vitamin K to sustain factor synthesis.",
+        "current_evidence": "Recent guidelines and studies favor the use of four-factor PCC over FFP due to its quicker effect and lower risk profile. Updated stroke management protocols emphasize rapid correction of anticoagulation in warfarin-associated hemorrhagic stroke."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993079",
+    "fields": {
+      "question_number": "305",
+      "question_text": "Scenario of 82-year-old lady with ischemic stroke presented within 1 hour with no contraindications",
+      "options": {
+        "A": "Tpa"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Acute ischemic stroke is caused by an occlusion of a cerebral artery leading to brain ischemia. Timely administration of thrombolytics, like tissue plasminogen activator (tPA), can dissolve the clot and restore perfusion if given within the therapeutic window.",
+        "pathophysiology": "The infarction occurs when an embolus or thrombus occludes an artery. tPA acts by catalyzing the conversion of plasminogen to plasmin, which helps break down fibrin clots and restore blood flow.",
+        "clinical_correlation": "In an 82-year-old woman presenting within 1 hour of symptom onset and with no contraindications, immediate treatment with tPA can salvage the penumbral tissue and improve functional outcomes. Although advanced age was once considered a relative contraindication, current evidence supports its use in selected elderly patients.",
+        "diagnostic_approach": "Diagnosis is confirmed by the clinical presentation and brain imaging (noncontrast CT scan) which excludes hemorrhage. Differential diagnoses include stroke mimics (such as seizures, migraines, or hypoglycemia), but the classical rapid onset of focal deficits supports ischemic stroke.",
+        "classification_and_neurology": "Ischemic strokes are classified based on etiology using systems such as the TOAST classification, which categorizes strokes into large artery atherosclerosis, cardioembolism, small vessel occlusion (lacunar), stroke of other determined etiology, and stroke of undetermined etiology. This classification informs secondary prevention strategies but is less critical in acute management decisions. Intravenous thrombolysis with tPA falls under the acute management of ischemic stroke within the cerebrovascular disease spectrum. The classification of stroke subtypes has evolved with advances in imaging and pathophysiological understanding, but the primary focus in the acute setting remains rapid diagnosis and reperfusion therapy eligibility.",
+        "classification_and_nosology": "Ischemic stroke is classified under cerebrovascular accidents and can be further grouped by etiology (e.g., thrombotic, embolic, or lacunar infarcts).",
+        "management_principles": "First-line management for acute ischemic stroke within the time window (typically up to 4.5 hours from onset) is IV tPA. Blood pressure management is conservative unless levels are exceedingly high. In the elderly and during pregnancy/lactation (if applicable), tPA remains the treatment of choice if no contraindications are present; careful risk–benefit analysis is essential.",
+        "option_analysis": "Option A (tPA) is correct. The absence of contraindications (e.g., recent surgery, hemorrhage) and the fact that the patient presents within the window support the use of thrombolytic therapy. Other options (not provided) would not be indicated in this early phase of ischemic stroke.",
+        "clinical_pearls": "• Time is brain; early thrombolysis significantly improves outcomes. • Advanced age is not an absolute contraindication for tPA. • Always rule out hemorrhage before administering tPA.",
+        "current_evidence": "Recent updates in stroke guidelines reaffirm the expanded window for tPA in select patients with confirmed ischemic stroke. Advanced imaging techniques help select candidates who can still benefit from thrombolysis despite older age."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993080",
+    "fields": {
+      "question_number": "306",
+      "question_text": "Case scenario of a lady in postpartum period presented with headache and seizure, normal brian CT what to do next? (No Mg in the choices)",
+      "options": {
+        "A": "CTV"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "In the postpartum period, headache and seizures raise concern for several etiologies including eclampsia and cerebral venous thrombosis (CVT). When a noncontrast CT brain is normal, further vascular imaging is indicated to evaluate conditions that may not be visible on standard CT.",
+        "pathophysiology": "CVT occurs due to thrombosis of the cerebral venous sinuses, leading to impaired venous drainage, increased intracranial pressure, and potentially seizures and headache. Postpartum status is a prothrombotic state increasing the risk for CVT. In eclampsia, endothelial dysfunction and vasogenic edema (PRES) are common.",
+        "clinical_correlation": "A postpartum woman with headache and seizure with a normal CT scan suggests that the pathology might be in the venous system (CVT) or related to subtle changes not visible on a standard CT (such as PRES). Although eclampsia is common, the absence of magnesium sulfate among options forces consideration of alternative diagnoses.",
+        "diagnostic_approach": "After a normal CT, the next step is to use vascular imaging. MRI with MR venography is the gold standard for CVT, but if unavailable, CT venography (CTV) is an acceptable and rapid alternative. Differential diagnoses include eclamptic seizures, PRES, and other causes of postpartum seizures.",
+        "classification_and_neurology": "Cerebral venous thrombosis is classified under the broader category of cerebrovascular diseases, specifically as a form of stroke due to venous etiology. According to the International Classification of Diseases (ICD-11) and the American Heart Association/American Stroke Association (AHA/ASA), CVT falls under 'Other cerebrovascular diseases' distinct from arterial ischemic strokes or hemorrhagic strokes. CVT can be further subclassified based on the location of thrombosis (e.g., superior sagittal sinus, transverse sinus, deep cerebral veins), etiology (idiopathic, pregnancy/postpartum, thrombophilia, infection), and clinical severity. Historically, classification systems have evolved from clinical-pathological to imaging-based frameworks, with current consensus emphasizing neuroimaging confirmation. There is some debate about optimal subclassification schemes, but consensus supports imaging-based diagnosis and classification to guide management.",
+        "classification_and_nosology": "CVT is classified under cerebrovascular disorders and is recognized as a distinct entity within stroke syndromes. It is particularly notable in the peripartum and postpartum population due to hypercoagulability.",
+        "management_principles": "The definitive management of CVT is anticoagulation (usually with low molecular weight heparin as first-line therapy), even in the presence of hemorrhage. In postpartum patients, treatment protocols remain similar; anticoagulation is considered safe in lactating women. For eclampsia (if suspected), magnesium sulfate is the treatment of choice, but since it is not an option here, the imaging workup to confirm an alternative diagnosis (i.e., CVT) is warranted.",
+        "option_analysis": "Option A (CTV) is correct in this scenario because a normal CT does not exclude CVT. Vascular imaging, such as CT venography, is necessary to identify sinus thrombosis. Other options (though not provided) might have included magnesium sulfate for eclampsia, but the question specifies that magnesium is not among the choices, making CTV the next logical step.",
+        "clinical_pearls": "• In the postpartum period, always consider CVT in women presenting with headache and seizures. • CT venography is a rapid, accessible alternative to MR venography in suspected CVT. • A normal CT does not rule out CVT or subtle changes seen in PRES.",
+        "current_evidence": "Recent studies emphasize the importance of early detection of CVT using advanced imaging techniques. Updated guidelines suggest that in patients with high clinical suspicion and a normal noncontrast CT, vascular imaging should be pursued promptly to guide management."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993081",
+    "fields": {
+      "question_number": "307",
+      "question_text": "Case scenario about acute ischemic stroke happened in the morning and her presented in the evening with high BP of 190/90 and asked what to do in regards to his blood pressure",
+      "options": {
+        "A": "No management",
+        "B": "oral amlodipine",
+        "C": "IV labetalol",
+        "D": "IV nicardipine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "In acute ischemic stroke, blood pressure is often elevated as part of the body’s response to maintain cerebral perfusion in the ischemic penumbra. Unless blood pressure exceeds a critical threshold, aggressive lowering may be harmful.",
+        "pathophysiology": "Cerebral autoregulation in the setting of an ischemic stroke often shifts, causing the brain to be dependent on higher blood pressure to perfuse the penumbral regions. Lowering the blood pressure too aggressively can worsen ischemia in these vulnerable areas.",
+        "clinical_correlation": "A patient who presents later in the day after an acute ischemic stroke with a blood pressure of 190/90 mmHg falls below the thresholds typically necessitating urgent blood pressure lowering (usually >220/120 mmHg in those not receiving thrombolytic therapy).",
+        "diagnostic_approach": "This management decision is based on serial blood pressure measurements, clinical assessment, and imaging confirming ischemic stroke without hemorrhagic transformation. Differential diagnoses include hypertensive emergency unrelated to stroke, but here the elevated BP is likely a physiological response.",
+        "classification_and_neurology": "Acute ischemic stroke is classified within the cerebrovascular disease spectrum, according to systems such as the TOAST classification, which categorizes ischemic strokes based on etiology (large artery atherosclerosis, cardioembolism, small vessel occlusion, etc.). Blood pressure management is a key component of acute stroke care protocols but does not change the ischemic stroke subtype classification. Management guidelines are informed by evidence-based consensus from organizations like the American Heart Association/American Stroke Association (AHA/ASA), which provide specific blood pressure thresholds and recommendations for treatment during the hyperacute and acute phases of ischemic stroke. These guidelines have evolved over time as evidence has clarified the risks and benefits of BP control in this setting.",
+        "classification_and_nosology": "Ischemic stroke is one of the two major categories of stroke (ischemic vs. hemorrhagic), with ischemic strokes further subclassified based on etiology (thrombotic, embolic, lacunar).",
+        "management_principles": "For ischemic stroke not treated with thrombolysis, current guidelines recommend permissive hypertension (up to 220/120 mmHg) to maintain perfusion to the ischemic penumbra. Therefore, no acute blood pressure management is indicated unless levels exceed these limits. In patients who are pregnant or lactating, similar principles apply; blood pressure management is generally deferred unless severely elevated, with close monitoring to avoid compromising cerebral blood flow.",
+        "option_analysis": "Option A (No management) is correct because the patient’s blood pressure of 190/90 mmHg is below the threshold that would require acute intervention in an ischemic stroke patient outside the thrombolytic window. Options B, C, and D involve pharmacologic lowering, which could potentially reduce cerebral perfusion in the affected area and worsen neurological outcomes.",
+        "clinical_pearls": "• Permissive hypertension is typical in acute ischemic stroke management to optimize cerebral perfusion. • Blood pressure should only be lowered if it exceeds 220/120 mmHg in patients not receiving thrombolytic therapy. • Overzealous BP reduction can expand the ischemic core.",
+        "current_evidence": "Recent guidelines from the AHA/ASA continue to support a conservative approach to blood pressure management in acute ischemic stroke, emphasizing maintaining cerebral perfusion. Emerging research continues to explore the optimal thresholds and timing for antihypertensive therapy in various stroke subgroups."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993082",
+    "fields": {
+      "question_number": "308",
+      "question_text": "Intracranial bleed and asked about the blood pressure management",
+      "options": {
+        "A": "140/90",
+        "B": "160/90"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "In intracerebral hemorrhage (ICH), blood pressure management is critical because elevated blood pressure is associated with hematoma expansion and worsened outcomes. The goal is to reduce secondary brain injury by stabilizing the patient’s blood pressure.",
+        "pathophysiology": "Elevated blood pressure in the setting of an intracranial bleed can increase the hydrostatic pressure across the ruptured vessel wall, leading to hematoma enlargement. This expansion increases intracranial pressure (ICP) and may cause further brain tissue damage. Key trials such as INTERACT2 have demonstrated that careful blood pressure reduction can mitigate these effects.",
+        "clinical_correlation": "Patients with ICH typically present with sudden neurological deficits, headache, nausea, and altered consciousness. The hypertensive state may exacerbate the mass effect from the hemorrhage, leading to additional neurological deterioration as seen with signs of raised ICP.",
+        "diagnostic_approach": "Diagnosis is primarily made through non-contrast CT scanning, which distinguishes hemorrhagic stroke from ischemic stroke. Differential diagnoses include ischemic stroke, hypertensive encephalopathy, and other causes of acute neurological decline. Blood pressure monitoring is integrated into the management plan once ICH is identified.",
+        "classification_and_neurology": "Intracerebral hemorrhage is classified under hemorrhagic stroke within the cerebrovascular disease spectrum. It differs from ischemic stroke by its pathophysiology, clinical presentation, and management. ICH can be further subclassified by etiology (hypertensive, amyloid angiopathy, anticoagulation-related, vascular malformations). The current classification systems, such as the WHO stroke classification and the American Heart Association/American Stroke Association (AHA/ASA) stroke guidelines, incorporate ICH as a distinct entity requiring specific therapeutic approaches. Recent consensus emphasizes the importance of early BP management as a modifiable risk factor influencing outcomes. Controversies remain regarding the optimal BP target, but evolving evidence supports intensive BP lowering within safe limits.",
+        "classification_and_nosology": "Intracerebral hemorrhage is classified under hemorrhagic strokes. It is typically separated from subarachnoid hemorrhage (which involves bleeding into the subarachnoid space) and further stratified by underlying cause (hypertensive, amyloid angiopathy, etc.).",
+        "management_principles": "First-line management involves stabilization with supportive care and rapid blood pressure control. Current AHA/ASA guidelines recommend that for patients presenting with ICH and systolic blood pressure between 150-220 mm Hg, lowering the systolic blood pressure to around 140 mm Hg is reasonable. IV antihypertensives (such as nicardipine or labetalol) are commonly used. In pregnancy, antihypertensive options like labetalol or hydralazine are preferred given their safety profiles, while in lactation, similar agents with minimal secretion into breast milk are chosen.",
+        "option_analysis": "Option A (140/90) is consistent with guideline recommendations targeting a systolic blood pressure of approximately 140 mm Hg to attenuate further bleeding. Option B (160/90) is less optimal because maintaining a higher blood pressure could risk further hemorrhage expansion.",
+        "clinical_pearls": "1. Rapid blood pressure control in ICH can limit hematoma expansion and improve outcomes. 2. CT imaging is the cornerstone of diagnosis in differentiating ICH from other stroke types.",
+        "current_evidence": "Recent studies including the INTERACT2 trial have reinforced the safety and potential benefit of aggressive blood pressure lowering to a target of 140 mm Hg systolic in patients with ICH. Current guidelines reflect these findings, emphasizing individualized care while balancing the risk of cerebral hypoperfusion."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993083",
+    "fields": {
+      "question_number": "309",
+      "question_text": "Lady with two days history of malignant left MCA and midline shift (CT was attached) transferred from another hospital what will you do for her",
+      "options": {
+        "A": "Craniectomy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Malignant middle cerebral artery (MCA) infarction refers to a large, space‐occupying ischemic stroke resulting in extensive cerebral edema, increased intracranial pressure (ICP), and potential herniation. Decompressive craniectomy is a surgical intervention used to relieve this pressure.",
+        "pathophysiology": "In malignant MCA infarction, the abrupt loss of blood flow leads to neuronal death and cytotoxic edema. The ensuing swelling increases ICP and can result in midline shift, compressing vital brainstem structures. Surgical decompression helps prevent or reduce secondary injury from the mass effect.",
+        "clinical_correlation": "Patients typically present with rapid neurological deterioration including decreased consciousness, hemiparesis, and signs of raised ICP. CT imaging revealing significant edema and midline shift confirms the severity of the infarction.",
+        "diagnostic_approach": "Diagnosis is based on clinical examination supported by CT or MRI. Differential diagnoses include hemorrhagic transformation of an infarct or large territorial infarcts from other cerebrovascular territories. The presence of significant midline shift is a key indicator for surgical decompression.",
+        "classification_and_neurology": "Malignant MCA infarction is classified within the spectrum of ischemic stroke subtypes, specifically as a large vessel occlusion stroke involving the MCA territory. Stroke classification systems such as the TOAST criteria categorize strokes by etiology (large artery atherosclerosis, cardioembolism, small vessel disease, etc.), while the OCSP (Oxfordshire Community Stroke Project) classification describes strokes by clinical syndromes, with malignant MCA infarction corresponding to total anterior circulation infarcts (TACI). The designation 'malignant' refers to the clinical and radiological severity rather than etiology, emphasizing the high risk of fatal cerebral edema. This classification aids in prognostication and management decisions. The concept of malignant MCA infarction has evolved with the recognition that early decompressive surgery can alter the natural history, shifting it from a uniformly fatal condition to one with potential for survival and recovery.",
+        "classification_and_nosology": "Malignant MCA syndrome is a severe subtype of ischemic stroke, categorized by large infarcts in the MCA territory with a high risk of cerebral edema and herniation.",
+        "management_principles": "Early decompressive craniectomy (within 48 hours of symptom onset) has been shown to improve survival and functional outcomes. First-line management in malignant MCA infarction is surgical decompression combined with optimal medical management, including ICP control. For pregnant patients, careful coordination with obstetric teams is necessary; while decompressive craniectomy is generally safe, anesthetic and surgical planning must take fetal safety into account. In lactation, standard surgical management applies with supportive measures for the mother.",
+        "option_analysis": "Option A (Craniectomy) is correct because decompressive craniectomy is the recommended intervention for malignant MCA infarction with midline shift. Other medical management options alone (such as osmotherapy) are often insufficient in the context of malignant edema.",
+        "clinical_pearls": "1. Time is brain—early decompressive surgery can significantly reduce mortality in malignant MCA syndrome. 2. CT evidence of midline shift is a critical sign indicating the need for surgical intervention.",
+        "current_evidence": "Landmark trials such as DECIMAL, DESTINY, and HAMLET have provided strong evidence that early decompressive hemicraniectomy in malignant MCA strokes leads to improved outcomes, despite the risk of survival with significant disability. Current guidelines support its use in appropriately selected patients."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993084",
+    "fields": {
+      "question_number": "310",
+      "question_text": "Case of lateral pontine syndrome (hint was hearing loss)",
+      "options": {
+        "A": "AICA",
+        "B": "PICA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Lateral pontine syndrome is a brainstem stroke syndrome that results from infarction in the territory of the anterior inferior cerebellar artery (AICA). The involvement of the cochlear nuclei is a key feature that distinguishes this syndrome.",
+        "pathophysiology": "Occlusion of the AICA leads to ischemia in the lateral aspect of the pons, affecting cranial nerve nuclei (such as the facial nerve) and the cochlear nuclei. This results in deficits including hearing loss, facial paralysis, and sometimes loss of balance due to vestibular involvement.",
+        "clinical_correlation": "Patients with lateral pontine syndrome typically present with ipsilateral facial weakness, loss of facial sensation, and hearing loss, along with vestibulocochlear disturbances like vertigo. In contrast, lateral medullary (Wallenberg) syndrome, usually from PICA occlusion, does not typically feature hearing loss.",
+        "diagnostic_approach": "Diagnosis is made based on clinical findings corroborated by imaging studies such as MRI, which can delineate the infarcted territory. Differential diagnoses include lateral medullary syndrome and other brainstem pathologies; the presence of auditory symptoms favors an AICA infarct.",
+        "classification_and_neurology": "Lateral pontine syndrome falls under the broader category of brainstem ischemic stroke syndromes within cerebrovascular diseases. According to the TOAST classification, it is classified as a large artery atherosclerosis or cardioembolic stroke subtype affecting the vertebrobasilar circulation. The syndrome is a subtype of lateral brainstem syndromes, specifically localized to the pons. In the vascular territory classification, it corresponds to infarction in the AICA distribution. This contrasts with lateral medullary (Wallenberg) syndrome, which involves the PICA territory. Over time, stroke classification systems have evolved from purely clinical syndromes to incorporate imaging and etiological data, improving diagnostic accuracy. Some controversy remains about the overlap of clinical features between AICA and PICA strokes, but the presence of hearing loss is a key discriminant favoring AICA involvement.",
+        "classification_and_nosology": "This syndrome is classified under brainstem strokes. Lateral pontine syndrome specifically refers to lesions within the AICA distribution.",
+        "management_principles": "Management is primarily supportive and includes antiplatelet therapy, risk factor modification, and rehabilitation. There is no specific surgical intervention; however, acute stroke protocols (including thrombolysis if within the time window) may be applicable. In pregnancy and lactation, management is conservative with safe antiplatelet regimens and careful monitoring of blood pressure and other risk factors.",
+        "option_analysis": "Option A (AICA) is correct because the clinical presentation—particularly hearing loss—is characteristic of an AICA infarct. Option B (PICA) is more commonly associated with lateral medullary syndrome, which does not typically present with hearing deficits.",
+        "clinical_pearls": "1. Hearing loss is a crucial distinguishing feature of lateral pontine syndrome due to AICA involvement. 2. Detailed neurological examination and imaging are essential in differentiating brainstem stroke syndromes.",
+        "current_evidence": "Recent advances in MRI and MR angiography have improved the accurate localization of brainstem infarcts. Current stroke management guidelines emphasize early diagnosis and supportive care to optimize neurological recovery."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993085",
+    "fields": {
+      "question_number": "311",
+      "question_text": "Case scenario of alexia without agraphia, what artery is involved?",
+      "options": {
+        "A": "PCA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Alexia without agraphia (pure alexia) is a disconnection syndrome where a patient loses the ability to read while retaining the ability to write. This occurs due to lesions in the dominant (usually left) occipital lobe and involvement of the splenium of the corpus callosum, which disconnects visual input from language processing areas.",
+        "pathophysiology": "The left posterior cerebral artery (PCA) supplies the occipital lobe, including the visual cortex. Infarction in this territory, particularly when it involves the splenium, interrupts the transfer of visual information to the angular gyrus, leading to alexia without agraphia. The neural pathways involved in writing remain intact, preserving the patient’s ability to produce written language.",
+        "clinical_correlation": "Patients present with the inability to read printed words (alexia), yet they can write normally (without agraphia). This clinical dissociation is a hallmark diagnostic clue for a left PCA stroke affecting the visual cortex and splenium.",
+        "diagnostic_approach": "Diagnosis is made with neuroimaging, typically MRI with diffusion-weighted imaging, which reveals infarction in the left occipital region and possibly the splenium. Differential diagnoses include other causes of acquired reading disorders, but the combination with a vascular distribution strongly implicates PCA involvement.",
+        "classification_and_neurology": "Alexia without agraphia falls under the category of **language disorders (aphasias)**, specifically a **disconnection syndrome**. It is classified as a type of **alexia**, which is a subset of acquired reading disorders.  - **Alexia with agraphia:** lesion involves dominant angular gyrus. - **Alexia without agraphia:** lesion involves left occipital cortex and splenium (PCA territory).  The classification aligns with vascular syndromes defined by arterial territories. The PCA territory infarcts cause this syndrome, differentiating it from middle cerebral artery (MCA) infarcts which more commonly cause aphasia or agraphia.",
+        "classification_and_nosology": "Alexia without agraphia is classified as a disconnection syndrome and is most often associated with infarction due to occlusion of the posterior cerebral artery in the dominant hemisphere.",
+        "management_principles": "Management of PCA strokes includes acute stroke interventions such as IV thrombolysis or mechanical thrombectomy if within the appropriate time window, in addition to secondary prevention measures using antiplatelet agents and risk factor optimization. For pregnant or lactating patients, treatment is adjusted to ensure fetal or neonatal safety, with careful selection of thrombolytic and antiplatelet therapies following current obstetric guidelines.",
+        "option_analysis": "Option A (PCA) is correct, as the vascular territory of the PCA supplies the areas responsible for visual processing and reading. Lesions in other vascular territories would not produce the specific syndrome of alexia without agraphia.",
+        "clinical_pearls": "1. The dissociation between preserved writing and impaired reading (alexia without agraphia) is a classic sign of left occipital lobe and splenium involvement. 2. Prompt neuroimaging is critical to identify the infarct and guide appropriate therapeutic interventions.",
+        "current_evidence": "Contemporary stroke management protocols emphasize rapid diagnosis and treatment. Advances in neuroimaging have improved the localization of infarcts, and guidelines continue to support aggressive management of PCA strokes within the thrombolysis and thrombectomy time windows, with adaptations in pregnancy and lactation as needed."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  }
+]

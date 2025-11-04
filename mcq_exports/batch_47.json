@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q441",
+    "question_text": "In a scenario of mucormycosis with black nasal discharge, what is the recommended treatment?",
+    "options": {
+      "A": "Amphotericin B",
+      "B": "Fluconazole",
+      "C": "Voriconazole",
+      "D": "Itraconazole"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "What is the most common pattern of neuropathy seen in HIV patients?",
+    "options": {
+      "A": "Distal symmetrical neuropathy",
+      "B": "Mononeuritis multiplex",
+      "C": "Pure motor",
+      "D": "Entrapment neuropathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q442",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with confusion, lymphadenopathy, and flaccid paralysis. What is the likely organism?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q296",
+    "question_text": "What is a poor prognostic indicator for brain abscess?",
+    "options": {
+      "A": "Decrease in level of consciousness at onset of treatment",
+      "B": "Abscess near the cerebrospinal fluid space",
+      "C": "Multiple abscesses",
+      "D": "Delay in initiation of antibiotic therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q339",
+    "question_text": "When should metronidazole be added to treatment?",
+    "options": {
+      "A": "Mastoiditis",
+      "B": "Viral meningitis",
+      "C": "Multiple sclerosis exacerbation",
+      "D": "Guillain-Barr\u00e9 syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q282",
+    "question_text": "What is the prevention of postherpetic neuralgia?",
+    "options": {
+      "A": "Antiviral",
+      "B": "Topical lidocaine",
+      "C": "Steroid",
+      "D": "None of the above"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q297",
+    "question_text": "Retinal finding suggestive of malaria, orange vessels, red spots. What is the diagnosis?",
+    "options": {
+      "A": "Malaria",
+      "B": "Diabetic retinopathy",
+      "C": "Hypertensive retinopathy",
+      "D": "Cytomegalovirus retinitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "An HIV patient\u2019s MRI showed multiple brain abscesses. What is the causing organism?",
+    "options": {
+      "A": "Fungal",
+      "B": "Bacterial",
+      "C": "Parasite",
+      "D": "Viral"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "In the case of a brain abscess, what is a poor prognostic factor?",
+    "options": {
+      "A": "Presence of abscess near the ventricle",
+      "B": "Glasgow Coma Scale (GCS) / level of consciousness at time of presentation",
+      "C": "Multiple abscesses",
+      "D": "Delay in initiation of appropriate antibiotic therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "What is the most common area affected in TB vasculopathy?",
+    "options": {
+      "A": "Basal ganglia",
+      "B": "Cerebellum",
+      "C": "Frontal lobe",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "patient with encephalopathy, EEG showed slow bilateral synchronous high amplitude spikes. What is the likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "patient has bilateral facial weakness, and lumbar puncture shows high white blood cell count. A picture shows erythema migrans. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "In a patient with cognitive impairment following a herpes zoster infection, what is the most likely diagnosis?",
+    "options": {
+      "A": "HZ encephalitis",
+      "B": "Drug induced",
+      "C": "Postherpetic neuralgia",
+      "D": "Cerebral vasculitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "An HIV patient with a CD4 count of 5 and a viral load in the thousands develops parkinsonism with basal ganglia involvement. What is the most likely cause?",
+    "options": {
+      "A": "Toxoplasmosis",
+      "B": "Cryptococcus",
+      "C": "Lymphoma",
+      "D": "Progressive multifocal leukoencephalopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "",
+    "options": {
+      "A": "patient has Normal Pressure Hydrocephalus (NPH) and abdominal tuberculosis. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV develops meningitis. What additional medication should be given with ceftriaxone?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "An HIV patient non-compliant with his medication had an MRI that showed non-enhanced posterior hyperintensities. What is the treatment?",
+    "options": {
+      "A": "HAART",
+      "B": "Fluconazole",
+      "C": "Corticosteroids",
+      "D": "Antitubercular therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "government clerk developed meningitis. What is the most likely organism responsible for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "government clerk developed meningitis. What is the most likely organism responsible for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "In a patient suspected of having Progressive Multifocal Leukoencephalopathy (PML), what is the most appropriate tool for investigation?",
+    "options": {
+      "A": "Brain MRI with gadolinium",
+      "B": "CT scan of the brain",
+      "C": "EEG",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "What is the most common organism associated with infections in patients with external ventricular drains (EVD)?",
+    "options": {
+      "A": "Pseudomonas",
+      "B": "Cryptococcus",
+      "C": "Skin flora (e.g., Staphylococcus epidermidis)",
+      "D": "Escherichia coli"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q204",
+    "question_text": "In a girl with Sydenham chorea, what laboratory test is most relevant?",
+    "options": {
+      "A": "ASO titer",
+      "B": "Anti-DNase B antibody",
+      "C": "ESR (Erythrocyte Sedimentation Rate)",
+      "D": "ANA (Antinuclear Antibody)"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "",
+    "options": {
+      "A": "child presented with chorea, has a history of flu a few weeks ago for which she received antibiotics. What test should be ordered for her? (Sydenham chorea)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "heroin abuser presents with severe back pain and tenderness, along with fever. What is the most likely organism found?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "",
+    "options": {
+      "A": "patient from Tanzania presents with jaundice, low platelet count, anemia, confusion, fever, and CSF showing high lymphocytes with normal glucose levels. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

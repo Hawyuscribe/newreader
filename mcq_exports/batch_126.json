@@ -1,0 +1,44 @@
+[
+  {
+    "question_number": "Q6",
+    "question_text": "In a patient with Moyamoya disease presenting with right side weakness and CTA showing severe stenosis in the left MCA, what is the next best step in management?",
+    "options": {
+      "A": "Exchange Transfusion",
+      "B": "Aspirin and Plavix",
+      "C": "Labetalol",
+      "D": "Surgical Revascularization"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "patient with visual defect, what is the artery involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "",
+    "options": {
+      "A": "63-year-old male has acute bilateral lower limb weakness, lower back pain, and urinary incontinence. Examination shows dense paraplegia with preserved proprioception. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

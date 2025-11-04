@@ -1,0 +1,1014 @@
+{% extends 'base.html' %}
+
+{% block title %}MCQ - Neurology MCQ Reader{% endblock %}
+
+{% block extra_css %}
+<style>
+    .answer-option {
+        cursor: pointer;
+        border-left: 3px solid transparent;
+        transition: all 0.2s;
+    }
+    .answer-option:hover {
+        background-color: rgba(0, 123, 255, 0.1);
+    }
+    .answer-option.correct {
+        border-left: 3px solid #28a745;
+        background-color: rgba(40, 167, 69, 0.1);
+    }
+    .answer-option.incorrect {
+        border-left: 3px solid #dc3545;
+        background-color: rgba(220, 53, 69, 0.1);
+    }
+    .revision-interval {
+        display: none;
+    }
+    .revision-interval.show {
+        display: block;
+    }
+    .tab-content {
+        min-height: 400px;
+    }
+    
+    /* Explanation sections styling */
+    .explanation-section {
+        border-left: 3px solid #e9ecef;
+        padding-left: 1rem;
+        transition: border-color 0.3s ease;
+    }
+    
+    .explanation-section:hover {
+        border-left-color: #007bff;
+    }
+    
+    .section-header {
+        border-bottom: 2px solid #f8f9fa;
+        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    .section-content {
+        color: #495057;
+        line-height: 1.8;
+    }
+    
+    /* Clinical pearls special styling */
+    .clinical-pearls {
+        background-color: #fff9e6;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        border: 1px solid #ffc107;
+    }
+    
+    .clinical-pearls strong {
+        color: #856404;
+    }
+    
+    /* Option analysis styling */
+    .option-analysis-item {
+        margin-bottom: 1rem;
+        padding: 0.5rem;
+        background-color: #f8f9fa;
+        border-radius: 0.25rem;
+    }
+    
+    /* Evidence section styling */
+    .current-evidence ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+    
+    .current-evidence li {
+        padding-left: 1.5rem;
+        position: relative;
+        margin-bottom: 0.5rem;
+    }
+    
+    .current-evidence li:before {
+        content: "•";
+        color: #17a2b8;
+        font-weight: bold;
+        position: absolute;
+        left: 0;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>{{ mcq.question_number }}</h1>
+        <p class="text-muted">
+            {{ mcq.subspecialty }} | 
+            {% if mcq.exam_type %}{{ mcq.exam_type }}{% endif %}
+            {% if mcq.exam_year %}{{ mcq.exam_year }}{% endif %}
+        </p>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <a href="{{ url_for('subspecialty', subspecialty=mcq.subspecialty) }}" class="btn btn-outline-primary">
+            <i class="bi bi-arrow-left"></i> Back to {{ mcq.subspecialty }}
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                <h3 class="card-title mb-0">Question</h3>
+                <div>
+                    <button class="btn btn-sm btn-outline-light me-1" data-bs-toggle="modal" data-bs-target="#reclassifyModal">
+                        <i class="bi bi-folder-symlink"></i> Reclassify
+                    </button>
+                    <form method="post" action="{{ url_for('toggle_bookmark', mcq_id=mcq.id) }}" class="d-inline">
+                        <button type="submit" class="btn btn-sm btn-outline-light">
+                            {% if is_bookmarked %}
+                            <i class="bi bi-bookmark-star-fill"></i> Bookmarked
+                            {% else %}
+                            <i class="bi bi-bookmark-star"></i> Bookmark
+                            {% endif %}
+                        </button>
+                    </form>
+                </div>
+            </div>
+            <div class="card-body">
+                <p class="lead">{{ mcq.question_text }}</p>
+                
+                <div class="mt-4">
+                    <h4>Answer Options</h4>
+                    <div id="answer-options">
+                        {% for option, text in mcq.options_dict.items() %}
+                        <div class="card mb-2 answer-option" data-option="{{ option }}">
+                            <div class="card-body py-2 px-3">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <strong>{{ option }}.</strong> {{ text }}
+                                    </div>
+                                    <div id="option-check-{{ option }}" class="d-none">
+                                        <i class="bi bi-check-circle-fill text-success fs-5"></i>
+                                    </div>
+                                    <div class="d-none" id="option-verify-{{ option }}">
+                                        <button class="btn btn-sm btn-outline-secondary verify-answer-btn">
+                                            <i class="bi bi-question-circle"></i> I think answer is wrong
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    
+                    <div class="d-flex justify-content-between mt-4">
+                        <form action="{{ url_for('improve_mcq', mcq_id=mcq.id) }}" method="post">
+                            <button type="submit" class="btn btn-outline-primary">
+                                <i class="bi bi-pencil-square"></i> Improve Question
+                            </button>
+                        </form>
+                        <form action="{{ url_for('new_options', mcq_id=mcq.id) }}" method="post">
+                            <button type="submit" class="btn btn-outline-primary">
+                                <i class="bi bi-shuffle"></i> Generate New Options
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-primary text-white">
+                <ul class="nav nav-tabs card-header-tabs" id="mcqTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link text-white active" id="explanation-tab" data-bs-toggle="tab" data-bs-target="#explanation" type="button" role="tab">
+                            Explanation & Evidence
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link text-white" id="chat-tab" data-bs-toggle="tab" data-bs-target="#chat" type="button" role="tab">
+                            Chat with GPT
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link text-white" id="notes-tab" data-bs-toggle="tab" data-bs-target="#notes" type="button" role="tab">
+                            Personal Notes
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body">
+                <div class="tab-content" id="mcqTabContent">
+                    <div class="tab-pane fade show active" id="explanation" role="tabpanel" aria-labelledby="explanation-tab">
+                        {% if mcq.explanation_sections %}
+                        <div class="explanation-content">
+                            <!-- Conceptual Foundation -->
+                            {% if mcq.explanation_sections.conceptual_foundation %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-lightbulb text-primary me-2 fs-4"></i>
+                                    <h4 class="mb-0">Conceptual Foundation</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.conceptual_foundation|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Pathophysiological Mechanisms -->
+                            {% if mcq.explanation_sections.pathophysiological_mechanisms %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-activity text-danger me-2 fs-4"></i>
+                                    <h4 class="mb-0">Pathophysiological Mechanisms</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.pathophysiological_mechanisms|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Clinical Correlation -->
+                            {% if mcq.explanation_sections.clinical_correlation %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-heart-pulse text-info me-2 fs-4"></i>
+                                    <h4 class="mb-0">Clinical Correlation</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.clinical_correlation|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Classification and Nosology -->
+                            {% if mcq.explanation_sections.classification_and_nosology %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-diagram-3 text-success me-2 fs-4"></i>
+                                    <h4 class="mb-0">Classification and Nosology</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.classification_and_nosology|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Diagnostic Approach -->
+                            {% if mcq.explanation_sections.diagnostic_approach %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-search text-warning me-2 fs-4"></i>
+                                    <h4 class="mb-0">Diagnostic Approach</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.diagnostic_approach|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Management Principles -->
+                            {% if mcq.explanation_sections.management_principles %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-clipboard2-pulse text-primary me-2 fs-4"></i>
+                                    <h4 class="mb-0">Management Principles</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.management_principles|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Option Analysis -->
+                            {% if mcq.explanation_sections.option_analysis %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-list-check text-secondary me-2 fs-4"></i>
+                                    <h4 class="mb-0">Option Analysis</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.option_analysis|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Clinical Pearls -->
+                            {% if mcq.explanation_sections.clinical_pearls %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-gem text-warning me-2 fs-4"></i>
+                                    <h4 class="mb-0">Clinical Pearls</h4>
+                                </div>
+                                <div class="section-content clinical-pearls">{{ mcq.explanation_sections.clinical_pearls|safe }}</div>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Current Evidence -->
+                            {% if mcq.explanation_sections.current_evidence %}
+                            <div class="explanation-section mb-4">
+                                <div class="section-header d-flex align-items-center mb-3">
+                                    <i class="bi bi-journal-medical text-info me-2 fs-4"></i>
+                                    <h4 class="mb-0">Current Evidence</h4>
+                                </div>
+                                <div class="section-content">{{ mcq.explanation_sections.current_evidence|safe }}</div>
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% elif mcq.explanation %}
+                        <!-- Fallback to old explanation format -->
+                        <div class="explanation-content p-3">
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="bi bi-journal-medical text-primary me-2 fs-4"></i>
+                                <h4 class="m-0">Detailed Explanation</h4>
+                            </div>
+                            <div id="explanation-content-wrapper">
+                                <div id="formatted-explanation">{{ mcq.explanation|safe }}</div>
+                            </div>
+                        </div>
+                        {% else %}
+                        <div class="text-center py-5">
+                            <i class="bi bi-lightbulb fs-1 text-warning mb-3"></i>
+                            <p class="text-muted mb-4">No explanation available yet. Generate a comprehensive explanation with the latest medical evidence.</p>
+                            <form action="{{ url_for('create_explanation', mcq_id=mcq.id) }}" method="post">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="bi bi-lightbulb"></i> Create Evidence-Based Explanation
+                                </button>
+                            </form>
+                        </div>
+                        {% endif %}
+                    </div>
+                    <div class="tab-pane fade" id="chat" role="tabpanel" aria-labelledby="chat-tab">
+                        <div class="chat-container">
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="bi bi-chat-dots-fill text-primary me-2 fs-4"></i>
+                                <h4 class="m-0">Ask Medical Questions</h4>
+                            </div>
+                            <div id="chat-messages" class="mb-3"></div>
+                            <div class="input-group">
+                                <span class="input-group-text bg-white">
+                                    <i class="bi bi-question-circle text-primary"></i>
+                                </span>
+                                <input type="text" id="chat-input" class="form-control" placeholder="Ask a question about this MCQ...">
+                                <button id="send-question" class="btn btn-primary">
+                                    <i class="bi bi-send"></i> Ask
+                                </button>
+                            </div>
+                            <p class="text-muted small mt-2"><i class="bi bi-info-circle"></i> Ask about pathophysiology, clinical relevance, recent guidelines, or differential diagnosis</p>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="notes" role="tabpanel" aria-labelledby="notes-tab">
+                        <form action="{{ url_for('save_note', mcq_id=mcq.id) }}" method="post">
+                            <div class="mb-3">
+                                <label for="note" class="form-label">Personal Notes</label>
+                                <textarea class="form-control" id="note" name="note" rows="10">{{ user_note.note_text if user_note else '' }}</textarea>
+                            </div>
+                            <div class="d-grid">
+                                <button type="submit" class="btn btn-primary">Save Notes</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">Study Options</h3>
+            </div>
+            <div class="card-body">
+                <div class="revision-interval" id="revision-container">
+                    <h4 class="mb-3">Create Flashcard</h4>
+                    <p>Choose a revision interval:</p>
+                    <form action="{{ url_for('create_flashcard', mcq_id=mcq.id) }}" method="post">
+                        <div class="btn-group-vertical w-100 mb-3" role="group">
+                            <input type="radio" class="btn-check" name="interval" id="interval1" value="1" checked>
+                            <label class="btn btn-outline-primary" for="interval1">1 day</label>
+                            
+                            <input type="radio" class="btn-check" name="interval" id="interval3" value="3">
+                            <label class="btn btn-outline-primary" for="interval3">3 days</label>
+                            
+                            <input type="radio" class="btn-check" name="interval" id="interval7" value="7">
+                            <label class="btn btn-outline-primary" for="interval7">1 week</label>
+                            
+                            <input type="radio" class="btn-check" name="interval" id="interval14" value="14">
+                            <label class="btn btn-outline-primary" for="interval14">2 weeks</label>
+                            
+                            <input type="radio" class="btn-check" name="interval" id="interval30" value="30">
+                            <label class="btn btn-outline-primary" for="interval30">1 month</label>
+                        </div>
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary">Create Flashcard</button>
+                        </div>
+                    </form>
+                </div>
+                
+                <div id="options-container" class="{% if is_flashcard %}d-none{% endif %}">
+                    <h4 class="mb-3">Learning Options</h4>
+                    <div class="d-grid gap-2">
+                        <button id="check-answer-btn" class="btn btn-primary">Check Answer</button>
+                        <button id="show-flashcard-btn" class="btn btn-outline-primary">
+                            <i class="bi bi-card-text"></i> Convert to Flashcard
+                        </button>
+                        <div class="d-flex gap-2">
+                            <a href="{{ url_for('view_mcq', mcq_id=prev_mcq.id) }}" class="btn btn-outline-secondary flex-grow-1">
+                                <i class="bi bi-arrow-left"></i> Previous Question
+                            </a>
+                            <a href="{{ url_for('view_mcq', mcq_id=next_mcq.id) }}" class="btn btn-outline-secondary flex-grow-1">
+                                <i class="bi bi-arrow-right"></i> Next Question
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="result-container" class="d-none mt-4">
+                    <div class="alert alert-success d-none" id="correct-alert">
+                        <i class="bi bi-check-circle-fill me-2"></i> Correct!
+                    </div>
+                    <div class="alert alert-danger d-none" id="incorrect-alert">
+                        <i class="bi bi-x-circle-fill me-2"></i> Incorrect! The correct answer is <span id="correct-answer"></span>.
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        {% if is_flashcard %}
+        <div class="card shadow-sm">
+            <div class="card-header bg-success text-white">
+                <h3 class="card-title mb-0">Flashcard Active</h3>
+            </div>
+            <div class="card-body">
+                <p class="text-muted">This MCQ has been added to your flashcards.</p>
+                <a href="{{ url_for('review_flashcards') }}" class="btn btn-outline-success d-block">
+                    <i class="bi bi-card-checklist"></i> Review Flashcards
+                </a>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- Reclassify Modal -->
+<div class="modal fade" id="reclassifyModal" tabindex="-1" aria-labelledby="reclassifyModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="reclassifyModalLabel">Reclassify MCQ</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form action="{{ url_for('reclassify_mcq', mcq_id=mcq.id) }}" method="post">
+                    <div class="mb-3">
+                        <label for="subspecialty" class="form-label">Select new subspecialty</label>
+                        <select class="form-select" id="subspecialty" name="subspecialty" required>
+                            <option value="">Choose subspecialty...</option>
+                            <option value="Critical Care Neurology">Critical Care Neurology</option>
+                            <option value="Dementia">Dementia</option>
+                            <option value="Epilepsy">Epilepsy</option>
+                            <option value="Headache">Headache</option>
+                            <option value="Movement Disorders">Movement Disorders</option>
+                            <option value="Neuroanatomy">Neuroanatomy</option>
+                            <option value="Neurogenetics">Neurogenetics</option>
+                            <option value="Neuroimmunology">Neuroimmunology</option>
+                            <option value="Neuro-infectious">Neuro-infectious</option>
+                            <option value="Neuro-oncology">Neuro-oncology</option>
+                            <option value="Neuro-otology">Neuro-otology</option>
+                            <option value="Neuroophthalmology">Neuroophthalmology</option>
+                            <option value="Neuropsychiatry">Neuropsychiatry</option>
+                            <option value="Neurotoxicology">Neurotoxicology</option>
+                            <option value="Neuromuscular">Neuromuscular</option>
+                            <option value="Pediatric Neurology">Pediatric Neurology</option>
+                            <option value="Sleep Neurology">Sleep Neurology</option>
+                            <option value="Vascular Neurology/Stroke">Vascular Neurology/Stroke</option>
+                            <option value="Other/Unclassified">Other/Unclassified</option>
+                        </select>
+                    </div>
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary">Reclassify</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Verify Answer Modal -->
+<div class="modal fade" id="verifyAnswerModal" tabindex="-1" aria-labelledby="verifyAnswerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title" id="verifyAnswerModalLabel">
+                    <i class="bi bi-shield-check me-2"></i> Evidence-Based Answer Verification
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="verification-result" class="mb-3 text-center p-4">
+                    <div class="spinner-border text-info mb-3" role="status" style="width: 3rem; height: 3rem;">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="lead">Analyzing based on current medical evidence...</p>
+                    <p class="text-muted small">Consulting latest medical literature and guidelines</p>
+                </div>
+                <div id="verification-response" class="d-none">
+                    <div class="verification-header bg-light p-3 mb-3 rounded d-flex align-items-center">
+                        <i class="bi bi-clipboard2-pulse text-info fs-4 me-3"></i>
+                        <div>
+                            <h5 class="mb-1">Evidence-Based Expert Analysis</h5>
+                            <p class="text-muted mb-0 small">Assessment based on current medical literature and guidelines</p>
+                        </div>
+                    </div>
+                    <div id="gpt-analysis" class="mb-3 p-2 explanation-content"></div>
+                    <div class="alert alert-info" role="alert">
+                        <i class="bi bi-info-circle-fill me-2"></i>
+                        This analysis is based on the latest available medical evidence and guidelines. Always consult current clinical resources for practice decisions.
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const answerOptions = document.querySelectorAll('.answer-option');
+    const checkAnswerBtn = document.getElementById('check-answer-btn');
+    const showFlashcardBtn = document.getElementById('show-flashcard-btn');
+    const revisionContainer = document.getElementById('revision-container');
+    const optionsContainer = document.getElementById('options-container');
+    const resultContainer = document.getElementById('result-container');
+    const correctAlert = document.getElementById('correct-alert');
+    const incorrectAlert = document.getElementById('incorrect-alert');
+    const correctAnswerSpan = document.getElementById('correct-answer');
+    const verifyAnswerBtns = document.querySelectorAll('.verify-answer-btn');
+    const verifyAnswerModal = new bootstrap.Modal(document.getElementById('verifyAnswerModal'));
+    const verificationResult = document.getElementById('verification-result');
+    const verificationResponse = document.getElementById('verification-response');
+    const gptAnalysis = document.getElementById('gpt-analysis');
+    const chatInput = document.getElementById('chat-input');
+    const sendQuestionBtn = document.getElementById('send-question');
+    const chatMessages = document.getElementById('chat-messages');
+    
+    // Format explanation content with enhanced styling
+    const formatExplanation = () => {
+        const explanationEl = document.getElementById('formatted-explanation');
+        if (!explanationEl) return;
+        
+        let content = explanationEl.innerHTML;
+        
+        // Format MCQ explanation header
+        content = content.replace(/# Explanation of MCQ:(.*?)---/s, 
+            '<div class="explanation-header bg-light p-3 mb-4 rounded border-start border-5 border-primary">' +
+            '<h2 class="text-primary"><i class="bi bi-info-circle-fill me-2"></i>Explanation of MCQ:$1</h2>' +
+            '<hr class="my-3"></div>');
+            
+        // Format question recap section
+        content = content.replace(/## Question Recap(.*?)\*\*Correct Answer:(.*?)---/s, 
+            '<div class="question-recap bg-light p-3 mb-4 rounded">' +
+            '<h3 class="mb-3"><i class="bi bi-question-circle-fill me-2 text-primary"></i>Question Recap</h3>' +
+            '$1<div class="alert alert-success mt-3"><strong>Correct Answer:</strong>$2</div></div>');
+            
+        // Format section headers with icons
+        content = content.replace(/<h2[^>]*>Why the Correct Answer is Right[^<]*<\/h2>/i, 
+            '<div class="section-why-correct mb-4"><h2><i class="bi bi-check-circle-fill text-success me-2"></i>Why the Correct Answer is Right</h2>');
+        content = content.replace(/<h2[^>]*>Why Each Wrong Answer is Wrong[^<]*<\/h2>/i, 
+            '<div class="section-why-wrong mb-4"><h2><i class="bi bi-x-circle-fill text-danger me-2"></i>Why Each Wrong Answer is Wrong</h2>');
+        content = content.replace(/<h2[^>]*>Clinical Pearls[^<]*<\/h2>/i, 
+            '<div class="section-clinical-pearls mb-4"><h2><i class="bi bi-gem text-warning me-2"></i>Clinical Pearls to Memorize</h2>');
+        content = content.replace(/<h2[^>]*>Summary of Latest Guidelines[^<]*<\/h2>/i, 
+            '<div class="section-guidelines mb-4"><h2><i class="bi bi-clipboard2-check text-info me-2"></i>Summary of Latest Guidelines</h2>');
+        content = content.replace(/<h2[^>]*>Historical Note[^<]*<\/h2>/i, 
+            '<div class="section-historical mb-4"><h2><i class="bi bi-clock-history text-secondary me-2"></i>Historical Note</h2>');
+        content = content.replace(/<h2[^>]*>Comparison Table[^<]*<\/h2>/i, 
+            '<div class="section-comparison mb-4"><h2><i class="bi bi-table text-primary me-2"></i>Comparison Table of Options</h2>');
+        
+        // Process markdown tables
+        // Find all table sections in the format: | header1 | header2 | ... |
+        const tableRegex = /\|([^\n]*)\|\n\|([-\s|]*)\|\n((.*\|.*\n)+)/g;
+        content = content.replace(tableRegex, (match, headerRow, separator, bodyRows) => {
+            // Extract headers
+            const headers = headerRow.split('|').map(h => h.trim()).filter(h => h);
+            
+            // Extract body rows
+            const rows = bodyRows.trim().split('\n');
+            
+            // Create HTML table
+            let htmlTable = '<div class="table-responsive"><table class="table table-bordered table-hover">';
+            
+            // Add header row
+            htmlTable += '<thead class="table-primary"><tr>';
+            headers.forEach(header => {
+                htmlTable += `<th>${header}</th>`;
+            });
+            htmlTable += '</tr></thead>';
+            
+            // Add body rows
+            htmlTable += '<tbody>';
+            rows.forEach(row => {
+                const cells = row.split('|').map(cell => cell.trim()).filter(cell => cell);
+                htmlTable += '<tr>';
+                cells.forEach(cell => {
+                    // Format various markdown in cell content
+                    if (cell.includes('**')) {
+                        cell = cell.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                    }
+                    if (cell.includes('*')) {
+                        cell = cell.replace(/\*(.*?)\*/g, '<em>$1</em>');
+                    }
+                    htmlTable += `<td>${cell}</td>`;
+                });
+                htmlTable += '</tr>';
+            });
+            
+            htmlTable += '</tbody></table></div>';
+            return htmlTable;
+        });
+        
+        // Format option headers and explanations
+        content = content.replace(/### Option ([A-Z]): \*(.*?)\*/g, 
+            '<div class="option-explanation mb-4">' +
+            '<h3 class="bg-light p-2 rounded"><span class="badge bg-primary me-2">Option $1</span> <em>$2</em></h3>');
+        
+        // Format Clinical Pearls numbered list
+        content = content.replace(/## Clinical Pearls to Memorize\s*([\s\S]*?)(?=---|$)/g, function(match, pearls) {
+            let formattedPearls = '<div class="section-clinical-pearls mb-4"><h2><i class="bi bi-gem text-warning me-2"></i>Clinical Pearls to Memorize</h2><div class="clinical-pearls-list">';
+            
+            // Process each numbered item in the list
+            const pearlItems = pearls.match(/\d+\.\s+\*\*(.*?)\*\*:(.*?)(?=\d+\.\s+\*\*|$)/gs) || [];
+            
+            pearlItems.forEach(item => {
+                const [, num, title, content] = item.match(/(\d+)\.\s+\*\*(.*?)\*\*:(.*)/s) || [null, '', '', ''];
+                if (title) {
+                    formattedPearls += `
+                        <div class="pearl-item mb-3">
+                            <div class="d-flex align-items-center">
+                                <span class="pearl-number badge bg-warning text-dark me-2">${num}</span>
+                                <h5 class="mb-0">${title}</h5>
+                            </div>
+                            <div class="pearl-content ps-4 mt-2">${content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>').replace(/\*(.*?)\*/g, '<em>$1</em>')}</div>
+                        </div>
+                    `;
+                }
+            });
+            
+            formattedPearls += '</div></div>';
+            return formattedPearls;
+        });
+        
+        // Process all remaining asterisks for bold and italics
+        content = content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        content = content.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            
+        // Format bullet points for better readability
+        content = content.replace(/- <strong>(.*?):<\/strong>/g, '<div class="mt-3"><strong class="text-primary">$1:</strong>');
+        content = content.replace(/- <strong>(.*?)<\/strong>/g, '<div class="mt-2 mb-2"><strong>$1</strong>');
+        
+        // Format evidence summaries
+        content = content.replace(/- <strong>Evidence:<\/strong>/g, 
+            '<div class="evidence-summary mt-3 p-2 bg-light rounded border-start border-info border-3">' +
+            '<strong class="text-info"><i class="bi bi-journal-medical me-2"></i>Evidence:</strong>');
+            
+        // Format summary of latest guidelines
+        content = content.replace(/(\d+)\.\s+<strong>(.*?)<\/strong>\s+-/g, 
+            '<div class="guideline-item mb-3">' +
+            '<h5 class="text-info"><i class="bi bi-journal-check me-2"></i>$2</h5>' +
+            '<p>');
+            
+        // Add proper closing divs after sections
+        content = content.replace(/---/g, '</div>');
+        content = content.replace(/<\/p>\s*<div class="guideline-item/g, '</p></div><div class="guideline-item');
+        content = content.replace(/<\/strong>\s*<div class="mt-/g, '</strong></div><div class="mt-');
+        
+        // Close all section divs
+        content += '</div></div></div></div></div></div></div>';
+        
+        // Apply the formatted content
+        explanationEl.innerHTML = content;
+    };
+    
+    // Call the format function
+    formatExplanation();
+    
+    // Check Answer functionality
+    checkAnswerBtn.addEventListener('click', function() {
+        const selectedOption = document.querySelector('.answer-option.selected');
+        if (!selectedOption) {
+            alert('Please select an answer first');
+            return;
+        }
+        
+        const option = selectedOption.dataset.option;
+        
+        fetch('{{ url_for("check_answer", mcq_id=mcq.id) }}', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: `answer=${option}`
+        })
+        .then(response => response.json())
+        .then(data => {
+            resultContainer.classList.remove('d-none');
+            
+            if (data.is_correct) {
+                correctAlert.classList.remove('d-none');
+                incorrectAlert.classList.add('d-none');
+                selectedOption.classList.add('correct');
+            } else {
+                correctAlert.classList.add('d-none');
+                incorrectAlert.classList.remove('d-none');
+                correctAnswerSpan.textContent = data.correct_answer;
+                selectedOption.classList.add('incorrect');
+                
+                // Highlight correct answer
+                answerOptions.forEach(option => {
+                    if (option.dataset.option === data.correct_answer) {
+                        option.classList.add('correct');
+                        document.getElementById(`option-check-${data.correct_answer}`).classList.remove('d-none');
+                    }
+                });
+            }
+            
+            // Show verify button on the selected option
+            document.getElementById(`option-verify-${option}`).classList.remove('d-none');
+            
+            // Enable creating flashcard
+            showFlashcardBtn.disabled = false;
+        });
+    });
+    
+    // Select answer option
+    answerOptions.forEach(option => {
+        option.addEventListener('click', function() {
+            answerOptions.forEach(opt => opt.classList.remove('selected'));
+            this.classList.add('selected');
+        });
+    });
+    
+    // Show flashcard creation options
+    showFlashcardBtn.addEventListener('click', function() {
+        optionsContainer.classList.add('d-none');
+        revisionContainer.classList.add('show');
+    });
+    
+    // Verify answer functionality
+    verifyAnswerBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            verifyAnswerModal.show();
+            verificationResult.classList.remove('d-none');
+            verificationResponse.classList.add('d-none');
+            
+            fetch('{{ url_for("verify_answer", mcq_id=mcq.id) }}', {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                verificationResult.classList.add('d-none');
+                verificationResponse.classList.remove('d-none');
+                
+                // Format the analysis using the same comprehensive formatting as explanations
+                let analysisContent = data.analysis;
+                
+                // Process tables
+                const tableRegex = /\|([^\n]*)\|\n\|([-\s|]*)\|\n((.*\|.*\n)+)/g;
+                analysisContent = analysisContent.replace(tableRegex, (match, headerRow, separator, bodyRows) => {
+                    // Extract headers
+                    const headers = headerRow.split('|').map(h => h.trim()).filter(h => h);
+                    
+                    // Extract body rows
+                    const rows = bodyRows.trim().split('\n');
+                    
+                    // Create HTML table
+                    let htmlTable = '<div class="table-responsive mt-3 mb-3"><table class="table table-bordered table-hover">';
+                    
+                    // Add header row
+                    htmlTable += '<thead class="table-primary"><tr>';
+                    headers.forEach(header => {
+                        htmlTable += `<th>${header}</th>`;
+                    });
+                    htmlTable += '</tr></thead>';
+                    
+                    // Add body rows
+                    htmlTable += '<tbody>';
+                    rows.forEach(row => {
+                        const cells = row.split('|').map(cell => cell.trim()).filter(cell => cell);
+                        htmlTable += '<tr>';
+                        cells.forEach(cell => {
+                            // Format various markdown in cell content
+                            cell = cell.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                            cell = cell.replace(/\*(.*?)\*/g, '<em>$1</em>');
+                            htmlTable += `<td>${cell}</td>`;
+                        });
+                        htmlTable += '</tr>';
+                    });
+                    
+                    htmlTable += '</tbody></table></div>';
+                    return htmlTable;
+                });
+                
+                // Format headings with icons
+                analysisContent = analysisContent.replace(/# (.*?)(\n|$)/g, 
+                    '<h3 class="mt-4 mb-3"><i class="bi bi-info-circle-fill text-primary me-2"></i>$1</h3>');
+                analysisContent = analysisContent.replace(/## (.*?)(\n|$)/g, 
+                    '<h4 class="mt-3 mb-2"><i class="bi bi-arrow-right-circle-fill text-info me-2"></i>$1</h4>');
+                
+                // Format lists and bullet points
+                analysisContent = analysisContent.replace(/- (.*?)(\n|$)/g, 
+                    '<div class="mb-2"><i class="bi bi-dot text-primary me-2"></i>$1</div>');
+                
+                // Format numbered lists (like "1. Item")
+                analysisContent = analysisContent.replace(/(\d+)\.\s+(.*?)(\n|$)/g, 
+                    '<div class="d-flex mb-2"><span class="badge bg-info text-white me-2">$1</span><div>$2</div></div>');
+                
+                // Process asterisks for bold and italics
+                analysisContent = analysisContent.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                analysisContent = analysisContent.replace(/\*(.*?)\*/g, '<em>$1</em>');
+                
+                // Replace line breaks with paragraph tags for better spacing
+                analysisContent = '<div class="verification-content explanation-content">' + 
+                                 analysisContent.replace(/\n\n/g, '</p><p class="mt-2">').replace(/\n/g, '<br>') + 
+                                 '</div>';
+                
+                gptAnalysis.innerHTML = analysisContent;
+                
+                // Add reference section if not present
+                if (!analysisContent.includes('References')) {
+                    const referencesSection = document.createElement('div');
+                    referencesSection.className = 'mt-4 pt-3 border-top';
+                    referencesSection.innerHTML = `
+                        <h5 class="text-muted mb-2"><i class="bi bi-journal-text me-2"></i>References & Guidelines</h5>
+                        <ul class="small text-muted">
+                            <li>Analysis based on current medical literature and evidence-based guidelines</li>
+                            <li>Recommendations follow standard of care practices in neurology</li>
+                            <li>For clinical decisions, always consult local protocols and current references</li>
+                        </ul>
+                    `;
+                    gptAnalysis.appendChild(referencesSection);
+                }
+            })
+            .catch(error => {
+                verificationResult.classList.add('d-none');
+                verificationResponse.classList.remove('d-none');
+                gptAnalysis.innerHTML = `
+                    <div class="alert alert-danger">
+                        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+                        Sorry, there was an error verifying this answer. Please try again later.
+                    </div>
+                `;
+            });
+        });
+    });
+    
+    // Chat with GPT functionality
+    sendQuestionBtn.addEventListener('click', function() {
+        const question = chatInput.value.trim();
+        if (!question) return;
+        
+        // Get current time for message timestamp
+        const now = new Date();
+        const timeString = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        
+        // Add user message to chat
+        const userMsg = document.createElement('div');
+        userMsg.className = 'chat-message chat-message-user';
+        userMsg.innerHTML = `
+            <div class="d-flex align-items-center mb-1">
+                <i class="bi bi-person-circle me-2 text-primary"></i>
+                <strong>You</strong>
+            </div>
+            <div>${question}</div>
+            <div class="chat-time">${timeString}</div>
+        `;
+        chatMessages.appendChild(userMsg);
+        
+        // Add loading message
+        const loadingMsg = document.createElement('div');
+        loadingMsg.className = 'chat-message';
+        loadingMsg.style.textAlign = 'center';
+        loadingMsg.innerHTML = `
+            <div class="spinner-border spinner-border-sm text-primary" role="status"></div>
+            <span class="ms-2">Analyzing question and preparing response...</span>
+        `;
+        chatMessages.appendChild(loadingMsg);
+        
+        // Scroll to bottom
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+        
+        // Clear input
+        chatInput.value = '';
+        
+        // Send request to API
+        fetch('{{ url_for("ask_gpt", mcq_id=mcq.id) }}', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: `question=${encodeURIComponent(question)}`
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Remove loading message
+            chatMessages.removeChild(loadingMsg);
+            
+            // Format the answer using the same comprehensive formatting as explanations
+            let chatContent = data.answer;
+            
+            // Process tables
+            const chatTableRegex = /\|([^\n]*)\|\n\|([-\s|]*)\|\n((.*\|.*\n)+)/g;
+            chatContent = chatContent.replace(chatTableRegex, (match, headerRow, separator, bodyRows) => {
+                // Extract headers
+                const headers = headerRow.split('|').map(h => h.trim()).filter(h => h);
+                
+                // Extract body rows
+                const rows = bodyRows.trim().split('\n');
+                
+                // Create HTML table
+                let htmlTable = '<div class="table-responsive mt-3 mb-3"><table class="table table-bordered table-hover">';
+                
+                // Add header row
+                htmlTable += '<thead class="table-primary"><tr>';
+                headers.forEach(header => {
+                    htmlTable += `<th>${header}</th>`;
+                });
+                htmlTable += '</tr></thead>';
+                
+                // Add body rows
+                htmlTable += '<tbody>';
+                rows.forEach(row => {
+                    const cells = row.split('|').map(cell => cell.trim()).filter(cell => cell);
+                    htmlTable += '<tr>';
+                    cells.forEach(cell => {
+                        // Format various markdown in cell content
+                        cell = cell.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                        cell = cell.replace(/\*(.*?)\*/g, '<em>$1</em>');
+                        htmlTable += `<td>${cell}</td>`;
+                    });
+                    htmlTable += '</tr>';
+                });
+                
+                htmlTable += '</tbody></table></div>';
+                return htmlTable;
+            });
+            
+            // Format headings with icons
+            chatContent = chatContent.replace(/# (.*?)(\n|$)/g, 
+                '<h4 class="mt-3 mb-2"><i class="bi bi-info-circle-fill text-info me-2"></i>$1</h4>');
+            chatContent = chatContent.replace(/## (.*?)(\n|$)/g, 
+                '<h5 class="mt-2 mb-1"><i class="bi bi-arrow-right-circle-fill text-info me-2"></i>$1</h5>');
+            
+            // Format lists and bullet points
+            chatContent = chatContent.replace(/- (.*?)(\n|$)/g, 
+                '<div class="chat-list-item mb-1"><i class="bi bi-dot text-info me-2"></i>$1</div>');
+            
+            // Format numbered lists (like "1. Item")
+            chatContent = chatContent.replace(/(\d+)\.\s+(.*?)(\n|$)/g, 
+                '<div class="d-flex align-items-start mb-1"><span class="badge bg-info text-white me-2">$1</span><div>$2</div></div>');
+            
+            // Process asterisks for bold and italics
+            chatContent = chatContent.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            chatContent = chatContent.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            
+            // Replace line breaks with paragraph tags for better spacing
+            chatContent = '<div class="chat-content">' + 
+                          chatContent.replace(/\n\n/g, '</p><p class="my-2">').replace(/\n/g, '<br>') + 
+                          '</div>';
+            
+            // Add GPT response
+            const gptMsg = document.createElement('div');
+            gptMsg.className = 'chat-message chat-message-gpt';
+            gptMsg.innerHTML = `
+                <div class="d-flex align-items-center mb-1">
+                    <i class="bi bi-robot me-2 text-info"></i>
+                    <strong>Medical Expert</strong>
+                </div>
+                <div class="chat-body explanation-content">${chatContent}</div>
+                <div class="chat-time">${timeString}</div>
+            `;
+            chatMessages.appendChild(gptMsg);
+            
+            // Scroll to bottom
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        })
+        .catch(error => {
+            // Remove loading message
+            chatMessages.removeChild(loadingMsg);
+            
+            // Add error message
+            const errorMsg = document.createElement('div');
+            errorMsg.className = 'chat-message';
+            errorMsg.style.backgroundColor = '#ffe5e5';
+            errorMsg.innerHTML = `
+                <div class="d-flex align-items-center mb-1">
+                    <i class="bi bi-exclamation-triangle-fill me-2 text-danger"></i>
+                    <strong>Error</strong>
+                </div>
+                <div>Sorry, there was an error processing your request. Please try again.</div>
+                <div class="chat-time">${timeString}</div>
+            `;
+            chatMessages.appendChild(errorMsg);
+            
+            // Scroll to bottom
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        });
+    });
+    
+    // Allow pressing Enter to send chat message
+    chatInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            sendQuestionBtn.click();
+            e.preventDefault();
+        }
+    });
+});
+</script>
+{% endblock %}

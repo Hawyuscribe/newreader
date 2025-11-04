@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "Steroids are effective in reducing tumor-associated cerebral edema by decreasing capillary permeability and stabilizing the blood-brain barrier"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "An MRI showed an intramedullary, ill-defined, non-enhancing lesion. What is the most likely diagnosis?",
+    "options": {
+      "A": "Astrocytoma",
+      "B": "Ependymoma",
+      "C": "Meningioma",
+      "D": "Hemangioblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "Astrocytoma",
+      "B": "Ependymoma",
+      "C": "Hemangioblastoma",
+      "D": "Metastatic tumor"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "",
+    "options": {
+      "A": "patient has a left temporal lobe glioblastoma multiforme (GBM) with clear mass effect on imaging. What is the next step in management? The patient has right-sided weakness and confusion."
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a left-sided chronic headache and develops upper extremity weakness. Imaging reveals a mass with a dural tail. What is the most likely location of the mass?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q283",
+    "question_text": "Most common benign intracranial neoplasm:",
+    "options": {
+      "A": "Meningioma",
+      "B": "GBM",
+      "C": "Pituitary adenoma",
+      "D": "Schwannoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "",
+    "options": {
+      "A": "Meningiomas are the most common benign brain tumors in adults"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "young patient presented with new onset seizure. MRI of the brain showed a focal small hyperintensity on the cortical surface of the frontoparietal lobe. A biopsy was done, and histology reported a fried egg appearance. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "patient with CNS tumor pathology showed a Fried egg appearance on imaging. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "Radiotherapy and chemotherapy with PCV (procarbazine, lomustine, vincristine)"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "",
+    "options": {
+      "A": "patient with renal cell carcinoma presents with retinal hemangioblastoma and cerebellar hemangioblastoma. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old lady with dizziness, sensorineural hearing loss, and nystagmus was found to have a brain tumor on MRI originating from the pons near the 4th ventricle. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "Meningioma",
+      "B": "Schwannoma",
+      "C": "Glioblastoma",
+      "D": "Epidermoid cyst"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "Tumor pathology showing pseudorosette is indicative of which diagnosis?",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Meningioma",
+      "C": "Astrocytoma",
+      "D": "Oligodendroglioma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "",
+    "options": {
+      "A": "Medulloblastoma",
+      "B": "Ependymoma",
+      "C": "Schwannoma",
+      "D": "Oligodendroglioma"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "What histopathological feature is associated with glioblastoma?",
+    "options": {
+      "A": "Naked cells",
+      "B": "Pseudopalisading",
+      "C": "Blue cells",
+      "D": "Fried egg"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "",
+    "options": {
+      "A": "6-year-old girl has a headache and diplopia. On examination, she has impaired upward gaze, lid retraction, and convergence retraction nystagmus. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "male patient over the age of 50 presents with subcortical/cortical metastases. What is the most likely primary origin of his brain metastases?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "",
+    "options": {
+      "A": "tumor located in the lateral ventricle is most likely a:"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Meningioma",
+      "C": "Schwannoma",
+      "D": "Astrocytoma"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "In a case of cranial metastases, what is the most appropriate initial imaging study to perform?",
+    "options": {
+      "A": "Chest CT",
+      "B": "Brain MRI with contrast",
+      "C": "Skull X-ray",
+      "D": "PET scan"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "Chest CT scan",
+      "B": "Electroencephalogram (EEG)",
+      "C": "Colonoscopy",
+      "D": "Echocardiogram"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q417",
+    "question_text": "Pathology features of meningioma include psammoma bodies. What is the diagnosis?",
+    "options": {
+      "A": "Meningioma",
+      "B": "Schwannoma",
+      "C": "Glioblastoma",
+      "D": "Oligodendroglioma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "coronal brain MRI shows a frontal extra-axial homogeneous mass. What is the likely histopathology finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "Extra-axial mass with dural tail sign and whorled pattern of spindle cells on histology"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q152",
+    "question_text": "In Balint syndrome, which one of these clinical pictures is one of the presentations?",
+    "options": {
+      "A": "Simultagnosia",
+      "B": "Acalculia",
+      "C": "Vivid hallucination",
+      "D": "Oculomotor apraxia"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "female presents with abnormal movements and a greenish corneal ring (Kayser-Fleischer rings). What is the most common psychiatric presentation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with ALS, his son asks you not to tell his father about the diagnosis. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "What is the management of functional tremor?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Psychotherapy",
+      "C": "Physical therapy",
+      "D": "Botulinum toxin injection"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "Which of the following findings is in favor of a diagnosis of functional tremor?",
+    "options": {
+      "A": "Distraction of the patient improves the tremors",
+      "B": "Tremor frequency remains constant regardless of posture",
+      "C": "Tremor amplitude increases with voluntary movement",
+      "D": "Tremor is present during sleep"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "In a patient with Wernicke's aphasia, which of the following symptoms is most commonly observed?",
+    "options": {
+      "A": "Fluent but nonsensical speech with poor comprehension",
+      "B": "Nonfluent, effortful speech with good comprehension",
+      "C": "Difficulty in repeating words despite intact comprehension",
+      "D": "Loss of motor coordination and muscle weakness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q182",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a right occipital lesion and visual field defect. What condition could be associated with this finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q236",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with a history of tingling sensation, numbness, and paresthesia, indicating small fiber neuropathy. He has pale bands over his nails. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q457",
+    "question_text": "An HIV patient presents with a seizure. What is the likely culprit medication?",
+    "options": {
+      "A": "Efavirenz",
+      "B": "Zidovudine",
+      "C": "Lamivudine",
+      "D": "Tenofovir"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q476",
+    "question_text": "",
+    "options": {
+      "A": "patient with resected breast cancer who received radiotherapy developed Horner's syndrome and plexopathy. What is the underlying mechanism?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q453",
+    "question_text": "",
+    "options": {
+      "A": "lady with a history of lung cancer, treated with radiation therapy 6 months ago, presents with 2 months of shoulder discomfort, weak shoulder abduction, and elbow flexion. NCS/EMG showed fibrillations in her hands and forearm muscles. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q226",
+    "question_text": "What is the recommended treatment for severe arsenic poisoning?",
+    "options": {
+      "A": "Supportive care",
+      "B": "Chelating agents",
+      "C": "Anticonvulsants",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "",
+    "options": {
+      "A": "tuberculosis (TB) patient started on treatment and then had a seizure. What medication is causing the seizure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q529",
+    "question_text": "",
+    "options": {
+      "A": "52-year-old female with dyslipidemia on statin had pneumonia and was admitted to the hospital. After starting on erythromycin, she developed weakness. What increases the risk of suspected toxic myopathy?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q192",
+    "question_text": "What is the most common side effect of lithium?",
+    "options": {
+      "A": "Seizures",
+      "B": "Tremors",
+      "C": "Weight gain",
+      "D": "Renal impairment"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q540",
+    "question_text": "What medication causes sensory ataxia?",
+    "options": {
+      "A": "Pyridoxine",
+      "B": "Phenytoin",
+      "C": "Metronidazole",
+      "D": "Isoniazid"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q241",
+    "question_text": "What is the medication that causes neuropathy and myopathy?",
+    "options": {
+      "A": "Dapsone",
+      "B": "Chloroquine",
+      "C": "Hydralazine",
+      "D": "Statins"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q172",
+    "question_text": "",
+    "options": {
+      "A": "patient receiving intrathecal methotrexate presents with clinical and biological findings typical for subacute combined degeneration of the spinal cord. What else would you give the patient besides stopping methotrexate?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q377",
+    "question_text": "What medication can cause a positive Romberg sign and a scenario suggestive of sensory neuronopathy?",
+    "options": {
+      "A": "Pyridoxine",
+      "B": "Phenytoin",
+      "C": "Metronidazole",
+      "D": "Isoniazid"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q214",
+    "question_text": "",
+    "options": {
+      "A": "patient on anti-TB agents developed seizures. Which of the following agents can cause it?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q396",
+    "question_text": "Naloxone",
+    "options": {
+      "A": "Is an opioid receptor antagonist used to reverse opioid overdose",
+      "B": "Is a benzodiazepine used to treat seizures",
+      "C": "Is a stimulant used to treat attention deficit hyperactivity disorder",
+      "D": "Is an anticholinergic used to treat Parkinson\u2019s disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q320",
+    "question_text": "Flumazenil",
+    "options": {
+      "A": "Is used to treat opioid overdose",
+      "B": "Is primarily used as an antidote for benzodiazepine overdose/sedation reversal",
+      "C": "Is a dopamine receptor antagonist",
+      "D": "Is used to manage status epilepticus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV on HAART developed seizures. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "Which of the following agents can cause sensory ataxia, vibration, and proprioception loss?",
+    "options": {
+      "A": "Pyridoxine",
+      "B": "Arsenic",
+      "C": "Lead",
+      "D": "Mercury"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "young patient with a history of liver transplant on cyclosporine presents with severe lower limb tremors. What is the best treatment option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  }
+]

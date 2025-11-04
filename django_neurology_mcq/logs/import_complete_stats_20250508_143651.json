@@ -1,0 +1,15 @@
+{
+  "start_time": "2025-05-08T14:36:51.118725",
+  "files_processed": 1,
+  "total_questions": 18,
+  "new_mcqs": 8,
+  "updated_mcqs": 10,
+  "errors": 4,
+  "files_with_errors": 0,
+  "matched_by_question_number": 6,
+  "matched_by_exact_text": 0,
+  "matched_by_similarity": 0,
+  "matched_by_no_match": 0,
+  "end_time": "2025-05-08T14:36:51.363208",
+  "duration": 0.244483
+}

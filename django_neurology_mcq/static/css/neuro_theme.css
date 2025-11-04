@@ -1,0 +1,497 @@
+/* 
+ * Neurology MCQ Reader Theme
+ * A specialized theme inspired by neurological imagery and medical professionalism
+ */
+
+:root {
+  /* Neurological color palette inspired by brain imaging and neural structures */
+  --neuro-primary: #6b46c1;        /* Deep purple - similar to neuronal staining */
+  --neuro-secondary: #3182ce;      /* Blue - cerebrospinal fluid color */
+  --neuro-accent: #dd6b20;         /* Orange - action potential color */
+  --neuro-grey-matter: #718096;    /* Grey matter color */
+  --neuro-white-matter: #f7fafc;   /* White matter color */
+  --neuro-myelin: #edf2f7;         /* Myelin sheath color */
+  --neuro-danger: #e53e3e;         /* Red - alert/warning color */
+  --neuro-success: #38a169;        /* Green - success color */
+  --neuro-warning: #d69e2e;        /* Amber - caution color */
+  --neuro-dark: #2d3748;           /* Dark background color */
+  
+  /* Font families */
+  --neuro-font-heading: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+  --neuro-font-body: 'Open Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  
+  /* Neural network effect params */
+  --neural-size: 200px;
+  --neural-color: rgba(107, 70, 193, 0.05);
+  --synapse-color: rgba(107, 70, 193, 0.1);
+}
+
+/* Body background with subtle neural pattern */
+body {
+  background-color: var(--neuro-white-matter);
+  background-image: 
+    radial-gradient(var(--neural-size) var(--neural-size) at 10% 10%, var(--neural-color) 0%, transparent 50%),
+    radial-gradient(var(--neural-size) var(--neural-size) at 50% 30%, var(--neural-color) 0%, transparent 50%),
+    radial-gradient(var(--neural-size) var(--neural-size) at 80% 15%, var(--neural-color) 0%, transparent 50%),
+    radial-gradient(var(--neural-size) var(--neural-size) at 20% 65%, var(--neural-color) 0%, transparent 50%),
+    radial-gradient(var(--neural-size) var(--neural-size) at 70% 75%, var(--neural-color) 0%, transparent 50%);
+  background-attachment: fixed;
+  font-family: var(--neuro-font-body);
+  color: var(--neuro-dark);
+}
+
+/* Typography enhancements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--neuro-font-heading);
+  font-weight: 600;
+}
+
+h1 {
+  position: relative;
+  color: var(--neuro-primary);
+  margin-bottom: 1.5rem;
+}
+
+h1::after {
+  content: '';
+  position: absolute;
+  bottom: -0.5rem;
+  left: 0;
+  width: 50px;
+  height: 4px;
+  background: linear-gradient(to right, var(--neuro-primary), var(--neuro-secondary));
+  border-radius: 2px;
+}
+
+/* Navbar styling */
+.navbar {
+  background: linear-gradient(135deg, var(--neuro-primary), #5438a1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-family: var(--neuro-font-heading);
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand i {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.navbar-brand .brain-icon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  margin-right: 0.5rem;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+}
+
+.nav-link {
+  position: relative;
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+  padding: 0.5rem 1rem;
+  margin: 0 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-link.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 3px;
+  background-color: var(--neuro-accent);
+  border-radius: 1.5px;
+}
+
+/* Card enhancements */
+.card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.card-header {
+  font-weight: 600;
+  border-bottom: none;
+  padding: 1.25rem 1.5rem;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+/* Primary button styling */
+.btn-primary {
+  background-color: var(--neuro-primary);
+  border-color: var(--neuro-primary);
+  box-shadow: 0 2px 4px rgba(107, 70, 193, 0.2);
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #5a3cb0;
+  border-color: #5a3cb0;
+  box-shadow: 0 4px 8px rgba(107, 70, 193, 0.3);
+}
+
+/* Secondary button styling */
+.btn-secondary {
+  background-color: var(--neuro-secondary);
+  border-color: var(--neuro-secondary);
+  box-shadow: 0 2px 4px rgba(49, 130, 206, 0.2);
+}
+
+.btn-secondary:hover, .btn-secondary:focus {
+  background-color: #2b6cb0;
+  border-color: #2b6cb0;
+  box-shadow: 0 4px 8px rgba(49, 130, 206, 0.3);
+}
+
+/* Accent button styling */
+.btn-accent {
+  background-color: var(--neuro-accent);
+  border-color: var(--neuro-accent);
+  color: white;
+  box-shadow: 0 2px 4px rgba(221, 107, 32, 0.2);
+}
+
+.btn-accent:hover, .btn-accent:focus {
+  background-color: #c05621;
+  border-color: #c05621;
+  color: white;
+  box-shadow: 0 4px 8px rgba(221, 107, 32, 0.3);
+}
+
+/* Specialty card styling */
+.specialty-card {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+}
+
+.specialty-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1), 0 6px 10px rgba(0, 0, 0, 0.05);
+}
+
+.specialty-icon {
+  width: 80px;
+  height: 80px;
+  background-color: rgba(107, 70, 193, 0.1);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem auto;
+  transition: all 0.3s ease;
+}
+
+.specialty-card:hover .specialty-icon {
+  transform: scale(1.1);
+  background-color: rgba(107, 70, 193, 0.2);
+}
+
+.specialty-icon i {
+  font-size: 2.5rem;
+  color: var(--neuro-primary);
+}
+
+.specialty-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--neuro-primary);
+  margin-bottom: 0.5rem;
+}
+
+.specialty-progress {
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--neuro-myelin);
+  margin-top: 1rem;
+}
+
+.specialty-progress .progress-bar {
+  background: linear-gradient(to right, var(--neuro-primary), var(--neuro-secondary));
+  border-radius: 4px;
+}
+
+/* Dashboard enhancements */
+.dashboard-header {
+  background: linear-gradient(135deg, rgba(107, 70, 193, 0.1), rgba(49, 130, 206, 0.1));
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.dashboard-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%236b46c1' fill-opacity='0.03' fill-rule='evenodd'/%3E%3C/svg%3E");
+  opacity: 0.5;
+}
+
+.stats-card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.stats-card .stats-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.stats-card .stats-icon.purple {
+  background-color: rgba(107, 70, 193, 0.1);
+  color: var(--neuro-primary);
+}
+
+.stats-card .stats-icon.blue {
+  background-color: rgba(49, 130, 206, 0.1);
+  color: var(--neuro-secondary);
+}
+
+.stats-card .stats-icon.orange {
+  background-color: rgba(221, 107, 32, 0.1);
+  color: var(--neuro-accent);
+}
+
+.stats-number {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  color: var(--neuro-dark);
+}
+
+.stats-label {
+  color: var(--neuro-grey-matter);
+  font-size: 0.875rem;
+}
+
+/* MCQ styling */
+.mcq-card {
+  border-left: 4px solid var(--neuro-primary);
+}
+
+.mcq-question {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.option {
+  position: relative;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.option-correct {
+  background-color: rgba(56, 161, 105, 0.1);
+  border-left: 5px solid var(--neuro-success);
+}
+
+.option-incorrect {
+  background-color: rgba(229, 62, 62, 0.1);
+  border-left: 5px solid var(--neuro-danger);
+}
+
+.form-check-input {
+  margin-top: 0.25rem;
+}
+
+/* Footer styling */
+footer {
+  background-color: var(--neuro-dark);
+  color: white;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+footer a {
+  color: rgba(255, 255, 255, 0.8);
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* Specialty-specific accent colors */
+.specialty-vascular { --specialty-color: #e53e3e; } /* Red for vascular/stroke */
+.specialty-epilepsy { --specialty-color: #805ad5; } /* Purple for epilepsy */
+.specialty-movement { --specialty-color: #38a169; } /* Green for movement disorders */
+.specialty-neuroimmune { --specialty-color: #3182ce; } /* Blue for neuroimmunology */
+.specialty-headache { --specialty-color: #d69e2e; } /* Amber for headache */
+.specialty-neuromuscular { --specialty-color: #dd6b20; } /* Orange for neuromuscular */
+.specialty-critical { --specialty-color: #e53e3e; } /* Red for critical care */
+.specialty-dementia { --specialty-color: #718096; } /* Gray for dementia */
+.specialty-neurooncology { --specialty-color: #d53f8c; } /* Pink for neuro-oncology */
+.specialty-neurogenetics { --specialty-color: #319795; } /* Teal for neurogenetics */
+.specialty-neuroinfectious { --specialty-color: #dd6b20; } /* Orange for neuroinfectious */
+.specialty-neurotoxicology { --specialty-color: #718096; } /* Gray for neurotoxicology */
+.specialty-pediatric { --specialty-color: #3182ce; } /* Blue for pediatric neurology */
+.specialty-sleep { --specialty-color: #5a67d8; } /* Indigo for sleep neurology */
+.specialty-neuropsychiatry { --specialty-color: #667eea; } /* Indigo-blue for neuropsychiatry */
+.specialty-neuroophthalmology { --specialty-color: #6b46c1; } /* Purple for neuroophthalmology */
+.specialty-neuroanatomy { --specialty-color: #d53f8c; } /* Pink for neuroanatomy */
+.specialty-neurootology { --specialty-color: #4299e1; } /* Blue for neurootology */
+
+/* Animation for neural activity simulation */
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.5; }
+  50% { transform: scale(1.05); opacity: 0.7; }
+  100% { transform: scale(1); opacity: 0.5; }
+}
+
+.neural-pulse {
+  animation: pulse 3s infinite;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .dashboard-header {
+    padding: 1.5rem;
+  }
+  
+  .specialty-icon {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .specialty-icon i {
+    font-size: 1.75rem;
+  }
+}
+
+/* SVG Brain Icon Animation */
+.brain-svg-container {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+
+.brain-svg path {
+  fill: none;
+  stroke: white;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: dash 3s ease-in-out infinite alternate;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 100;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--neuro-myelin);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--neuro-grey-matter);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--neuro-primary);
+}
+
+/* Custom Tooltips */
+.neuro-tooltip {
+  position: relative;
+}
+
+.neuro-tooltip:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: calc(100% + 5px);
+  background-color: var(--neuro-dark);
+  color: white;
+  text-align: center;
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.neuro-tooltip:hover::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 100%;
+  border: 5px solid transparent;
+  border-top-color: var(--neuro-dark);
+  z-index: 1000;
+}
+
+/* Neuron connection lines */
+.neuron-connection {
+  position: absolute;
+  height: 2px;
+  background: linear-gradient(to right, transparent, var(--synapse-color), transparent);
+  transform-origin: left center;
+  z-index: -1;
+}

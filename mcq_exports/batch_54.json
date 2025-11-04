@@ -1,0 +1,351 @@
+[
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "brain tumor with characteristic cells encircling each other called psammoma bodies is:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "",
+    "options": {
+      "A": "brain MRI shows a butterfly mass. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "Histopathology for the attached MRI shows which of the following features indicative of Ependymoma grade II WHO?",
+    "options": {
+      "A": "Pseudopalisading",
+      "B": "Pseudorosette",
+      "C": "Fried egg appearance",
+      "D": "Psammoma bodies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "pediatric patient presented with expansile spinal cord signal changes with partial enhancement. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "spine MRI shows an intermediary non-enhancing mass. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Astrocytoma",
+      "C": "Metastatic carcinoma",
+      "D": "Hemangioblastoma"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "",
+    "options": {
+      "A": "pseudorosette is observed. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "Medulloblastoma",
+      "B": "Ependymoma",
+      "C": "Astrocytoma",
+      "D": "Oligodendroglioma"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "In HIV/AIDS patients, what are the most common subtypes of AIDS-associated lymphoma?",
+    "options": {
+      "A": "EBV-related lymphoma",
+      "B": "Burkitt\u2019s lymphoma (BL)",
+      "C": "Large B-cell lymphoma (DLBCL)",
+      "D": "Primary central nervous system lymphoma (PCNSL)"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "",
+    "options": {
+      "A": "patient with breast cancer post-treatment presented with horizontal nystagmus without fast components, clumsiness, and falling. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q477",
+    "question_text": "",
+    "options": {
+      "A": "patient who is a smoker has an X-ray showing a lung tumor and presents with peripheral neuropathy. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q517",
+    "question_text": "",
+    "options": {
+      "A": "gynecological ultrasound shows an ovarian tumor. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "",
+    "options": {
+      "A": "smoker presenting with polyneuropathy may have antibodies against which of the following?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q489",
+    "question_text": "",
+    "options": {
+      "A": "31-year-old female smoker with sensory neuropathy and motor symptoms has a chest X-ray showing a mass at the lung apex. What is the appropriate antibiotic treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q217",
+    "question_text": "An elderly patient came with sensory motor neuropathy with distal weakness (he has dorsiflexion weakness), weight loss, and malaise; what is the next step?",
+    "options": {
+      "A": "CT chest",
+      "B": "Send for Anti-Hu",
+      "C": "Electrophoresis",
+      "D": "Nerve biopsy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q486",
+    "question_text": "Upon workup of the same patient, you find an ovarian teratoma. What is the best management option?",
+    "options": {
+      "A": "Observation",
+      "B": "Chemotherapy",
+      "C": "Removal of the tumor",
+      "D": "Radiation therapy"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "An elderly patient came with sensory motor neuropathy with distal weakness (he has dorsiflexion weakness), weight loss, and malaise; what is the next step?",
+    "options": {
+      "A": "CT chest",
+      "B": "Send for Anti-Hu",
+      "C": "Electrophoresis",
+      "D": "Nerve biopsy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q217",
+    "question_text": "",
+    "options": {
+      "A": "Subacute sensory neuronopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q498",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of breast cancer presents post-resection and chemoradiation therapy with arm pain. Nerve conduction studies show evidence of lower plexopathy. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "44-year-old woman is evaluated for severe and progressive left shoulder pain radiating down to the left arm and forearm that started 5 weeks ago. Since then, she has developed left hand weakness and numbness in the fourth and fifth fingers. She has a history of localized left breast adenocarcinoma that was diagnosed 5 years ago and treated with lumpectomy and axillary node dissection followed by radiation therapy and chemotherapy, including paclitaxel. Examination shows anisocoria with the left pupil smaller than the right, mild left eyelid ptosis, weakness in intrinsic left hand muscles, and sensory loss in the left medial arm, forearm, and fourth and fifth fingers. Reflexes are normal. The rest of her neurologic examination is normal. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "Von Hippel-Lindau syndrome."
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q183",
+    "question_text": "",
+    "options": {
+      "A": "male patient exhibits behavior changes and has an MRI showing a frontal lesion with heterogeneous enhancement. What is the recommended next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old patient complains of inability to walk down the stairs. Upon examination, he has impaired vertical gaze, normal horizontal gaze, and normal visual acuity. Where is the lesion likely located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "female patient with a history of breast cancer underwent radical mastectomy followed by radiation therapy. She now presents with left upper limb weakness and paresthesia involving the last two and a half digits, along with decreased sensation in the medial forearm. EMG showed myokymic discharges. Which of the following is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "Which of the following tumors is most commonly associated with opsoclonus-myoclonus?",
+    "options": {
+      "A": "Breast cancer",
+      "B": "Ovarian cancer",
+      "C": "Bronchogenic cancer",
+      "D": "Neuroblastoma"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  }
+]

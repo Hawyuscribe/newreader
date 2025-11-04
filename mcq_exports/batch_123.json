@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "patient with an anterior communicating artery aneurysm, what is the most important risk factor for rupture?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypertension and diabetes mellitus, with a history of CABG, presents with bilateral lower limb slowing and parkinsonism. MRI shows leukoaraiosis and hydrocephalus ex vacuo. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with right side weakness; a CT scan shows a left basal ganglia hemorrhage with a 3mm midline shift. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "An elderly man with diabetes mellitus, hypertension, and a history of coronary artery bypass grafting (CABG) presents with progressive dementia over 6 months and falls. On examination, he had Parkinson\u2019s signs in the distal lower limb and limited vertical gaze. MRI showed ischemic changes. What\u2019s the diagnosis?",
+    "options": {
+      "A": "Vascular parkinsonism",
+      "B": "Normal pressure hydrocephalus (NPH)",
+      "C": "Parkinson's disease (PD)",
+      "D": "Progressive supranuclear palsy (PSP)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q226",
+    "question_text": "An elderly man with diabetes mellitus, hypertension, and a history of coronary artery bypass grafting presents with progressive dementia over 6 months and falls. On examination, he has Parkinson\u2019s signs in the distal lower limb and limited vertical gaze. An MRI shows ischemic changes. What is the diagnosis?",
+    "options": {
+      "A": "Progressive supranuclear palsy (PSP)",
+      "B": "Vascular parkinsonism",
+      "C": "Dementia with Lewy bodies (DLB)",
+      "D": "Multiple system atrophy (MSA)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q214",
+    "question_text": "An elderly patient with a history of diabetes mellitus, hypertension, and end-stage renal disease (ESRD) came with decreased level of consciousness. His wife mentioned that he told her he was seeing animals before deteriorating. A CT scan showed left occipital hypodensity. What will you do?",
+    "options": {
+      "A": "CTA",
+      "B": "EEG",
+      "C": "MRI brain",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with Parkinsonism restricted to the lower limbs with slowing and no tremor, responding to L-Dopa. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with left side weakness, and an MRI shows a right lacunar stroke. A CTA reveals severe intracranial right MCA stenosis. What is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "Another patient came with a stroke; CT showed watershed infarction; what is the next step?",
+    "options": {
+      "A": "CTA",
+      "B": "MRI brain",
+      "C": "Echocardiography",
+      "D": "Carotid Doppler ultrasound"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "patient with stroke and fibromuscular dysplasia is being evaluated. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple hemorrhages in the brain was on aspirin; his lips showed petechiae. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male presented to the ER with a 2-day history of unilateral weakness and dysarthria. On examination, BP was 170/90 and HR in the 80s. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old healthy woman presented with a 10-day history of severe headache, blurred vision, and new onset symptomatic seizure. Neurological examination was unremarkable. Vital signs were stable. A CT brain was performed (image attached). Which of the following is the best diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male, known case of hypertension, went to sleep and then woke up in the morning with left-sided weakness and dysarthria. MRI of the brain was done. What is the most likely pathophysiology involved in his condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with acute limb weakness and dysarthria. A CT brain was performed and was normal. He was within the treatment window and IV t-PA was started. Twenty minutes later, the primary nurse called the physician as the patient had abnormal swelling around the mouth (image attached). Blood pressure was normal. Which of the following is the appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "An elderly male in his 60s with hypertension and diabetes mellitus presented with sudden onset right-sided weakness. Symptoms started 5 hours ago. BP was 180/100, HR 83. Examination showed aphasia with left gaze preference. NIHSS was 16. CT brain was done. Which of the following is the appropriate management for this patient?",
+    "options": {
+      "A": "Intraarterial thrombolysis",
+      "B": "Mechanical thrombectomy",
+      "C": "IV thrombolysis",
+      "D": "Supportive care with blood pressure control"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "female patient presented with an ischemic stroke, a history of two previous abortions, and elevated prothrombin time. What should be investigated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "What is the mainstay of treatment for patients with elevated INR due to vitamin K antagonists (VKAs) in the United States?",
+    "options": {
+      "A": "FFP + Vitamin K",
+      "B": "PCC",
+      "C": "rFVIIa",
+      "D": "Vitamin K alone"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "patient who underwent carotid stenting or endarterectomy presents with altered level of consciousness and a CT shows a small right frontal cortical hemorrhage. What condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "woman who was being investigated for stroke was found to have a high titer of anti-beta II glycoprotein antibodies and anticardiolipin antibodies. She was diagnosed with antiphospholipid syndrome. She has a history of a prior left lower deep vein thrombosis (DVT), and a small patent foramen ovale (PFO) was also found. What is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q187",
+    "question_text": "What is the first-line treatment for Reversible Cerebral Vasoconstriction Syndrome (RCVS)?",
+    "options": {
+      "A": "IV hydration",
+      "B": "Steroids",
+      "C": "Nimodipine",
+      "D": "ASA"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "Which vitamin is known to decrease the risk of stroke in patients with homocysteinemia?",
+    "options": {
+      "A": "B1",
+      "B": "Co-Q",
+      "C": "B6",
+      "D": "Carnitine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q215",
+    "question_text": "Homonymous hemianopia is most commonly associated with which artery?",
+    "options": {
+      "A": "Anterior cerebral artery (ACA)",
+      "B": "Middle cerebral artery (MCA)",
+      "C": "Anterior choroidal artery",
+      "D": "Posterior cerebral artery (PCA)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q289",
+    "question_text": "Which of the following statements about spinal dural arteriovenous fistula is true?",
+    "options": {
+      "A": "It is the most common vascular anomaly of the spine.",
+      "B": "It typically affects women in the sixth or seventh decade of life.",
+      "C": "It is not a treatable condition.",
+      "D": "It does not lead to sensory-motor symptoms."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q332",
+    "question_text": "What is the diagnosis for a 40-year-old female, medically free, with a previous history of two miscarriages, presenting with left side weakness, normal CBC, normal INR, normal chemistry, elevated ESR, and positive ANA?",
+    "options": {
+      "A": "Cerebral vasculitis",
+      "B": "Cerebral venous thrombosis (CVT)",
+      "C": "Multiple sclerosis",
+      "D": "Ischemic stroke due to atherosclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

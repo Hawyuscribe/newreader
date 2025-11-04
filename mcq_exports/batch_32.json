@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q126",
+    "question_text": "What is the best treatment for peak dose dyskinesia in patients with Parkinson's disease?",
+    "options": {
+      "A": "Increase levodopa\u2019s dose",
+      "B": "Amantadine",
+      "C": "Surgical intervention",
+      "D": "Reduce Carbidopa/Levodopa"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's patient takes Levodopa/Carbidopa 250/25mg QID and is complaining of wearing off in terms of pain and bradykinesia 30 minutes before the next dose. What is the management of his symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q155",
+    "question_text": "What is the benefit of deep brain stimulation of the subthalamic nucleus?",
+    "options": {
+      "A": "Dyskinesia",
+      "B": "Tremor",
+      "C": "Dystonia",
+      "D": "Reduction of dopaminergic medication"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q200",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease presents with increased dyskinesia and parkinsonism. He is on Levodopa 100/25 mg every 6 hours. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "",
+    "options": {
+      "A": "patient with idiopathic Parkinson disease, complaining of hallucinations, has mild rigidity, bradykinesia, and minimal dyskinesia. What medication should be discontinued?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q189",
+    "question_text": "",
+    "options": {
+      "A": "typical case of orthostatic tremor is presented. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "",
+    "options": {
+      "A": "patient who works as a chef has been complaining of a months-long history of upper limb resting tremor and rigidity. During the examination, he was found to have unilateral bradykinesia and resting tremor. The patient also mentioned he has a gambling problem. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "What is the next investigation for a patient with orthostatic tremor?",
+    "options": {
+      "A": "NCS/EMG",
+      "B": "MRI brain",
+      "C": "Dopamine transporter (DAT) scan",
+      "D": "Blood glucose levels"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q233",
+    "question_text": "Deep brain stimulation (DBS) of the globus pallidus interna (GPi) may be more effective than DBS of the subthalamic nucleus (STN) in treating which of the following features of Parkinson's disease?",
+    "options": {
+      "A": "Bradykinesia",
+      "B": "Dementia",
+      "C": "Dyskinesias",
+      "D": "On-off fluctuations"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "What is the recommended treatment for a patient with Parkinson's Disease (PD) who has features of Restless Legs Syndrome (RLS)?",
+    "options": {
+      "A": "Dopamine agonist",
+      "B": "Antidepressants",
+      "C": "Benzodiazepines",
+      "D": "Opioids"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "Which of the following Parkinsonian disorders commonly presents with asymmetrical features?",
+    "options": {
+      "A": "MSA",
+      "B": "PSP",
+      "C": "CBD",
+      "D": "Parkinson\u2019s disease"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q325",
+    "question_text": "",
+    "options": {
+      "A": "male patient, 85 years old, presents with gait freezing, cognitive changes, bradykinesia, and urinary incontinence. MRI shows moderate ventriculomegaly and mild brain atrophy. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male came with a history suggestive of Parkinson's disease (rigidity, tremors, bradykinesia). What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "Which of the following describes orthostatic tremor?",
+    "options": {
+      "A": "It improves with walking.",
+      "B": "It is characterized by unsteadiness on standing and a high frequency tremor in the legs.",
+      "C": "The typical onset is in the sixth decade of life.",
+      "D": "It is associated with resting tremor and bradykinesia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q456",
+    "question_text": "",
+    "options": {
+      "A": "female presents with action and intention tremor, dropping things, and a slightly asymmetric family history. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male presents with a history of left arm dystonia, bradykinesia, and myoclonus. He moves his head to look to the sides. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q202",
+    "question_text": "What is the treatment for hemifacial spasm?",
+    "options": {
+      "A": "Botox",
+      "B": "Carbamazepine",
+      "C": "Physical therapy",
+      "D": "Surgical decompression"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male presents with recent onset of progressive difficulty using the right hand. Clinically, he is found to have right hand myoclonus, rigidity, and cortical sensory loss, with no history of falls. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "In a scenario of orthostatic tremor not responding to clonazepam, which of the following is a second-line treatment?",
+    "options": {
+      "A": "Levodopa",
+      "B": "Propranolol",
+      "C": "Gabapentin",
+      "D": "Primidone"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q227",
+    "question_text": "Which of the following is most likely to be associated with essential palatal myoclonus?",
+    "options": {
+      "A": "Most likely due to stroke",
+      "B": "Symptomatic palatal myoclonus",
+      "C": "Essential palatal myoclonus",
+      "D": "Family history (FHX)"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "",
+    "options": {
+      "A": "patient with idiopathic Parkinson disease, complaining of hallucinations, has mild rigidity and bradykinesia with minimal dyskinesia. What medication should be discontinued?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "What type of focal dystonia improves when touching the face?",
+    "options": {
+      "A": "Torticollis",
+      "B": "Writer's cramp",
+      "C": "Blepharospasm",
+      "D": "Dystonic tremor"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q351",
+    "question_text": "",
+    "options": {
+      "A": "patient with tremor-predominant Parkinson's disease on levodopa/carbidopa (LDCD) 250/25 mg every 4 hours is experiencing off symptoms 2.5 hours before the next dose with peak dyskinesia. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male with a history of action tremor presents with symmetrical tremors that improve with alcohol and have a frequency of 12 Hz. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q210",
+    "question_text": "Which of the following symptoms is the most common side effect of botulinum toxin injection for cervical dystonia?",
+    "options": {
+      "A": "Muscle weakness",
+      "B": "Dysphagia",
+      "C": "Dry mouth",
+      "D": "Localized pain at the injection site"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

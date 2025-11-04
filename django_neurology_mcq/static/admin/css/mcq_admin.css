@@ -1,0 +1,93 @@
+/* MCQ Admin Custom CSS */
+
+/* Make explanation sections more prominent */
+fieldset#fieldset-3 {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Style the CKEditor fields */
+.field-conceptual_foundation,
+.field-option_analysis,
+.field-clinical_context,
+.field-key_insight,
+.field-quick_reference,
+.field-application_and_recall {
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Make labels bold and larger */
+.field-conceptual_foundation label,
+.field-option_analysis label,
+.field-clinical_context label,
+.field-key_insight label,
+.field-quick_reference label,
+.field-application_and_recall label {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Style help text */
+.field-conceptual_foundation .help,
+.field-option_analysis .help,
+.field-clinical_context .help,
+.field-key_insight .help,
+.field-quick_reference .help,
+.field-application_and_recall .help {
+    font-style: italic;
+    color: #666;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Ensure CKEditor has minimum height */
+.django-ckeditor-widget {
+    min-height: 200px;
+}
+
+/* Add visual indicators for populated fields */
+.field-conceptual_foundation:has(.django-ckeditor-widget:not(:empty))::before,
+.field-option_analysis:has(.django-ckeditor-widget:not(:empty))::before,
+.field-clinical_context:has(.django-ckeditor-widget:not(:empty))::before,
+.field-key_insight:has(.django-ckeditor-widget:not(:empty))::before,
+.field-quick_reference:has(.django-ckeditor-widget:not(:empty))::before,
+.field-application_and_recall:has(.django-ckeditor-widget:not(:empty))::before {
+    content: "✓";
+    color: green;
+    font-weight: bold;
+    float: right;
+    font-size: 20px;
+}
+
+/* Style the explanation sections fieldset header */
+#fieldset-3 h2 {
+    background-color: #6c5ce7;
+    color: white;
+    padding: 10px 15px;
+    margin: -20px -20px 20px -20px;
+    border-radius: 8px 8px 0 0;
+    font-size: 18px;
+}
+
+/* Add a visual separator between sections */
+.field-conceptual_foundation:not(:last-child)::after,
+.field-option_analysis:not(:last-child)::after,
+.field-clinical_context:not(:last-child)::after,
+.field-key_insight:not(:last-child)::after,
+.field-quick_reference:not(:last-child)::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background-color: #ddd;
+    margin: 20px -15px 0 -15px;
+}

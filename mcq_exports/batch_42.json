@@ -1,0 +1,378 @@
+[
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "patient with meningitis from Alhaj is found to have meningococcal meningitis. What prophylaxis should be given to close contacts?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "",
+    "options": {
+      "A": "young girl presents with a complaint of back pain, fever, and night sweats. She shows signs of stroke on examination. What is the best diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "In neuro-brucellosis, what is the recommended treatment?",
+    "options": {
+      "A": "Doxycycline",
+      "B": "Ceftriaxone",
+      "C": "Rifampicin",
+      "D": "Streptomycin"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q158",
+    "question_text": "Tropical spastic paraparesis due to human T-lymphotropic virus type 1 (HTLV-1) typically occurs in which of the following regions?",
+    "options": {
+      "A": "Endemic regions (equatorial and South Africa, the Caribbean, parts of Asia, Central and South America)",
+      "B": "United States",
+      "C": "Europe",
+      "D": "Australia"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "An HIV patient with a brain CT showing multiple ring-enhancing lesions, what is the next step?",
+    "options": {
+      "A": "CSF PCR",
+      "B": "Serology (most likely Toxoplasmosis) Ig",
+      "C": "Biopsy",
+      "D": "Empiric anti-toxoplasma therapy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q176",
+    "question_text": "",
+    "options": {
+      "A": "diabetic patient came to the ER with a black lesion in her nostril. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "Which infection causes bilateral internuclear ophthalmoplegia (INO)?",
+    "options": {
+      "A": "TB",
+      "B": "HSV",
+      "C": "Cysticercosis",
+      "D": "HIV"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "What is the most common organism associated with polyradiculopathy in HIV patients?",
+    "options": {
+      "A": "Cytomegalovirus (CMV)",
+      "B": "Epstein-Barr virus (EBV)",
+      "C": "Human immunodeficiency virus (HIV)",
+      "D": "Varicella-zoster virus (VZV)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "In the case of tuberculosis (TB), which artery is most commonly involved?",
+    "options": {
+      "A": "Middle cerebral artery (MCA)",
+      "B": "Anterior cerebral artery (ACA)",
+      "C": "Posterior cerebral artery (PCA)",
+      "D": "Basilar artery"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "In a scenario about mucormycosis (nasal dark lesion and history of diabetes mellitus), what is the likely diagnosis?",
+    "options": {
+      "A": "Mucormycosis",
+      "B": "Aspergillosis",
+      "C": "Necrotizing fasciitis",
+      "D": "Wegener's granulomatosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "An HIV patient comes to the clinic with a single ring-enhancing lesion in the brain. What is the next step in management?",
+    "options": {
+      "A": "CSF analysis",
+      "B": "Start antibiotics",
+      "C": "Toxoplasmosis management",
+      "D": "MRI"
+    },
+    "correct_answer": "C",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "What is the confirmation method for Whipple disease?",
+    "options": {
+      "A": "Jejunal biopsy",
+      "B": "Blood test",
+      "C": "MRI",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "In a scenario about mucormycosis (nasal dark lesion and history of DM), what is the likely diagnosis?",
+    "options": {
+      "A": "Mucormycosis",
+      "B": "Aspergillosis",
+      "C": "Necrotizing fasciitis",
+      "D": "Wegener's granulomatosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "healthy individual returns from hiking in the USA and presents with radiculopathy. CSF analysis shows WBC count of 22 with 90% lymphocytes, high protein, and normal glucose. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q174",
+    "question_text": "An HIV patient\u2019s MRI showed multiple brain abscesses. What is the causing organism?",
+    "options": {
+      "A": "Fungal",
+      "B": "Bacterial",
+      "C": "Parasite",
+      "D": "Viral"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "patient with sickle cell anemia presents with low back pain and fever. What is the most likely organism responsible for these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "An HIV patient on HAART has had a fever for a few days and confusion. After being diagnosed with possible meningitis and started on Ceftriaxone, CSF showed gram-positive rods. What else should be started?",
+    "options": {
+      "A": "Vancomycin",
+      "B": "Ampicillin",
+      "C": "Metronidazole",
+      "D": "Dexamethasone"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "Which of the following neuro manifestations is associated with Whipple disease?",
+    "options": {
+      "A": "Oculomasticatory myorhythmia",
+      "B": "Myasthenia gravis",
+      "C": "Multiple sclerosis",
+      "D": "Amyotrophic lateral sclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "",
+    "options": {
+      "A": "male nurse was exposed to a patient with meningococcal meningitis. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "In the case of cavernous mucormycosis, which statement is true?",
+    "options": {
+      "A": "Occurs through direct invasion",
+      "B": "Slowly progressive",
+      "C": "Occurs through haematological spread",
+      "D": "Very common infection"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "When should Metronidazole be added to a patient started on empirical anti-meningitis coverage?",
+    "options": {
+      "A": "History of Mastoiditis",
+      "B": "Presence of brain abscess",
+      "C": "Suspected anaerobic bacterial infection",
+      "D": "Recent neurosurgical procedure"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "diabetic patient comes to the ER with a black lesion in her nostril. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "In a scenario involving an HIV-positive patient with a low CD4 count and an MRI showing multiple ring-enhancing lesions, what is the most likely responsible organism?",
+    "options": {
+      "A": "Virus",
+      "B": "Parasite",
+      "C": "Bacteria",
+      "D": "Fungus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "In a scenario involving an HIV-positive patient with a low CD4 count and an MRI showing multiple ring-enhancing lesions, what is the most likely responsible organism?",
+    "options": {
+      "A": "Virus",
+      "B": "Parasite",
+      "C": "Bacteria",
+      "D": "Fungus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a young male IV drug user presented with fever and hemiparesis. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

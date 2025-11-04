@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q73",
+    "question_text": "",
+    "options": {
+      "A": "child presents with a history of falling and loss of tone usually after laughing. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "43-year-old man presents with complaints of unrefreshing sleep, excessive daytime sleepiness, and snoring at night. What is the best next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "patient came with symptoms of restlessness during nighttime, improving when she rubs her feet together (restless leg syndrome). What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+    "options": {
+      "A": "Restless legs syndrome (RLS)",
+      "B": "Periodic limb movement disorder",
+      "C": "Iron deficiency anemia",
+      "D": "Gestational hypertension"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "Restless Legs Syndrome (RLS) symptoms often worsen during pregnancy, especially in the third trimester.",
+      "B": "Narcolepsy symptoms are commonly exacerbated by pregnancy.",
+      "C": "REM Sleep Behavior Disorder (RBD) incidence increases during pregnancy.",
+      "D": "Periodic Limb Movement Disorder (PLMD) is typically improved during pregnancy."
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient is sleeping and exhibits aggressive movements in the legs while sleeping, and he used to walk around at night. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old male presents with poor sleeping and recent mood changes, with early awakening as reported by his wife. Which of the following is true?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "With destruction of the anterior hypothalamic nucleus, you will find:",
+    "options": {
+      "A": "Insomnia and hyperthermia",
+      "B": "Hypersomnolence",
+      "C": "REM sleep behavior disorder",
+      "D": "Hypothermia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old male is experiencing poor sleep and recent mood changes, with early awakening as reported by his wife. What is true regarding his condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "Cognitive-behavioral therapy for insomnia (CBT-I) combined with antidepressant medication",
+      "B": "Immediate use of benzodiazepines as first-line treatment",
+      "C": "Avoidance of any pharmacological treatment to prevent dependency",
+      "D": "Use of stimulant medications to counteract daytime sleepiness"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old male with poor sleeping and recent mood changes, early awakening reported by his wife. What is true?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "Decreased slow-wave sleep (SWS)"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+    "options": {
+      "A": "Restless legs syndrome (RLS)",
+      "B": "Periodic limb movement disorder",
+      "C": "Iron deficiency anemia",
+      "D": "Narcolepsy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+    "options": {
+      "A": "Restless legs syndrome (RLS)",
+      "B": "Periodic limb movement disorder",
+      "C": "Narcolepsy",
+      "D": "Sleep apnea"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+    "options": {
+      "A": "Restless legs syndrome (RLS)",
+      "B": "Periodic limb movement disorder",
+      "C": "Narcolepsy",
+      "D": "Sleep apnea"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "",
+    "options": {
+      "A": "woman presents with her husband, who complains of her movements at night that usually improve with movement. What factor is likely to worsen these movements?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q362",
+    "question_text": "",
+    "options": {
+      "A": "patient is sleeping all day and binge eating with increased weight. What medication would you consider?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q289",
+    "question_text": "",
+    "options": {
+      "A": "patient with narcolepsy is treated with which of the following medications?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with excessive daytime sleepiness and increased eating habits. What is the first-line treatment? [Suggests Kleine-Levin Syndrome or potentially narcolepsy variant]"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q258",
+    "question_text": "What is the sleep disorder associated with Parkinson's disease?",
+    "options": {
+      "A": "REM sleep behavior disorder",
+      "B": "Obstructive sleep apnea",
+      "C": "Narcolepsy",
+      "D": "Restless legs syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "In a case scenario of a patient with acute onset weakness and loss of pain and temperature sensation, sparing of vibration sense is noted. What is the likely diagnosis?",
+    "options": {
+      "A": "Spinal cord infarction",
+      "B": "Multiple sclerosis",
+      "C": "Peripheral neuropathy",
+      "D": "Anterior horn cell disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "CT brain scan shows right PICA territory infarction. What finding would you expect on examination?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "In a case scenario of a patient with left eye amaurosis fugax and transient dysarthria, what is your next step?",
+    "options": {
+      "A": "US carotid doppler",
+      "B": "Brain MRI",
+      "C": "Echocardiography",
+      "D": "Initiate anticoagulation therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q273",
+    "question_text": "",
+    "options": {
+      "A": "73-year-old female patient presented with decreased level of consciousness showing hemorrhage with fluid level. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with an inability to read his own handwriting, while his comprehension for spoken language, fluency, and repetition are normal. What is the most common artery involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

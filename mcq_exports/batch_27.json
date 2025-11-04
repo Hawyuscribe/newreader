@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "male presents with occipital headache radiating to the frontal area. On exam, he has tenderness over the occipital protuberance and his headache worsens with head movement. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "case of migraine presents with nausea and vomiting, liver function tests are normal, but there are elevated amylase and lipase levels. Which of the following preventive treatments for migraine is known to cause this side effect?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine presents with a new onset of headache that is unlike their previous migraine headaches and is not improving despite an increased dose and frequency of analgesics. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a positional headache that worsens with standing. A brain MRI shows pachymeningeal enhancement. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "pregnant woman in her 8th month presents with an acute migraine. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "What\u2019s the mechanism of action of Botox in migraine headache?",
+    "options": {
+      "A": "Inhibition of acetylcholine release at neuromuscular junctions",
+      "B": "Serotonin agonist",
+      "C": "Serotonin reuptake inhibitors",
+      "D": "Monoamine inhibitor"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with severe headache and papilledema, and no imaging has been performed. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "Which medication is recommended for migraine treatment in the 1st and 2nd trimester of pregnancy?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "NSAID",
+      "C": "Hydrocodone",
+      "D": "Sumatriptan"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "What is the best treatment for migraine-related nausea?",
+    "options": {
+      "A": "Domperidone",
+      "B": "Metoclopramide",
+      "C": "Prochlorperazine",
+      "D": "Ondansetron"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "What is the first-line treatment for migraine in pediatric patients?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Ibuprofen",
+      "C": "Triptans",
+      "D": "Propranolol"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "What is the best treatment for hypnic headache?",
+    "options": {
+      "A": "Lithium",
+      "B": "Indomethacin",
+      "C": "Caffeine",
+      "D": "Verapamil"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "Patient presented with recurrent migraine headache, disabling, causing loss of many hours per week, and has a history of asthma on inhalers. What is the treatment of choice?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Primidone",
+      "C": "Topiramate",
+      "D": "Amitriptyline"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old patient presented with a headache for the past 4 months. It is continuous with periods of exacerbation, unilateral, associated with lacrimation. The patient tried paracetamol and NSAIDs with no benefits. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "postpartum patient presents with a history of headache, and an attached picture shows pachymeningeal enhancement. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "Which of the following medications is considered a third-line treatment for migraine and is classified as pregnancy category C?",
+    "options": {
+      "A": "Sumatriptan",
+      "B": "Acetaminophen",
+      "C": "Ergotamine",
+      "D": "Valproic acid"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "Which medication is NOT recommended for migraine treatment in the 3rd trimester of pregnancy?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Hydrocodone",
+      "C": "Sumatriptan",
+      "D": "NSAID"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q207",
+    "question_text": "An obese female with a history of bronchial asthma is seeking migraine prophylaxis. Which medication is most appropriate?",
+    "options": {
+      "A": "Beta-blockers (BB)",
+      "B": "Verapamil (VA)",
+      "C": "Amitriptyline",
+      "D": "Topiramate (TPX)"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with headache, photophobia, phonophobia, and nausea. Her mother reports a history of menstrual-related headaches, and her sister has similar headaches that require a calm environment. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "Patient has migraine headache, tried multiple analgesics and NSAIDs with no benefits. What is the symptomatic treatment?",
+    "options": {
+      "A": "Caffeine with barbiturates",
+      "B": "Triptans",
+      "C": "Paracetamol and NSAIDs",
+      "D": "Ergotamine derivatives"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine presents with a new onset of headache that is unlike previous migraine headaches and is not improving despite an increased dose and frequency of analgesics. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old with migraine and peptic ulcer, what is the best medication for prevention?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "In the same scenario, what is the recommended treatment?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Sumatriptan",
+      "C": "Verapamil",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "migraine patient's MRI brain shows hyperintense small lesions. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q174",
+    "question_text": "",
+    "options": {
+      "A": "scenario of acute onset daily headache which is constant and not related to any triggering factors or other symptoms has been present for 3 months. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old female with a history of type 1 diabetes mellitus experiences migraines once a month that last more than 24 hours. She is in her final year at university. What medication will you prescribe for prophylaxis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

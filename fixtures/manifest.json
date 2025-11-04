@@ -1,0 +1,28 @@
+{
+  "total_mcqs": 0,
+  "subspecialties": [
+    {
+      "subspecialty": "Vascular Neurology Stroke",
+      "fixture_count": 17,
+      "fixture_files": [
+        "chunk_16_of_17.json",
+        "chunk_5_of_17.json",
+        "chunk_13_of_17.json",
+        "chunk_8_of_17.json",
+        "chunk_14_of_17.json",
+        "chunk_2_of_17.json",
+        "chunk_7_of_17.json",
+        "chunk_11_of_17.json",
+        "chunk_4_of_17.json",
+        "chunk_9_of_17.json",
+        "chunk_12_of_17.json",
+        "chunk_17_of_17.json",
+        "chunk_1_of_17.json",
+        "chunk_6_of_17.json",
+        "chunk_10_of_17.json",
+        "chunk_15_of_17.json",
+        "chunk_3_of_17.json"
+      ]
+    }
+  ]
+}

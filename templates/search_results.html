@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load exam_type_filters %}
+
+{% block title %}Search Results - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>Search Results</h1>
+        <p class="text-muted">Found {{ results|length }} results for "{{ query }}"</p>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <a href="{{ url_for('dashboard') }}" class="btn btn-outline-primary">
+            <i class="bi bi-arrow-left"></i> Back to Dashboard
+        </a>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0">Search Results</h3>
+    </div>
+    <div class="card-body">
+        {% if results %}
+        <div class="list-group">
+            {% for mcq in results %}
+            <a href="{{ url_for('view_mcq', mcq_id=mcq.id) }}" class="list-group-item list-group-item-action">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">{{ mcq.question_number }}</h5>
+                    <small>
+                        <span class="badge bg-secondary">{{ mcq.subspecialty }}</span>
+                        {% if mcq.exam_type %}<span class="badge {{ mcq.exam_type|exam_type_badge_class }}">{{ mcq.exam_type|display_exam_type }}</span>{% endif %}
+                        {% if mcq.exam_year %}<span class="badge bg-info">{{ mcq.exam_year }}</span>{% endif %}
+                    </small>
+                </div>
+                <p class="mb-1">{{ mcq.question_text|truncate(150) }}</p>
+            </a>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="alert alert-info">No results found. Try a different search term.</div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

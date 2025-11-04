@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "57 years old male presented with acute onset nausea, vomiting, vertigo and unsteady gait. He is diabetic and hypertensive. His examination was evident for right sided ptosis and miosis with ataxia and tendency to fall towards right side. NOTE vessel is affected?",
+    "options": {
+      "option_a": "PICA",
+      "option_b": "AICA",
+      "option_c": "SCA",
+      "option_d": "Middle cerebral artery",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a patient was admitted in stroke unit, no clinical features provided but they attached his brain CT. The patient's CT is shown SCA territory infarction at level of midbrain, which artery is affected?",
+    "options": {
+      "option_a": "PICA",
+      "option_b": "AICA",
+      "option_c": "SCA",
+      "option_d": "Middle cerebral artery",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "36 years old male, sustained MVA, presented with acute blurred vision. On examination he has right homonymous hemianopia. His brain CT reported left occipital acute infarction. What could explain the stroke mechanism in his case?",
+    "options": {
+      "option_a": "Large vessel atherosclerosis",
+      "option_b": "Artery-artery embolism",
+      "option_c": "Cardioembolic",
+      "option_d": "Small lacune",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "WOTF clinical features seen in superior cerebellar artery infarction?",
+    "options": {
+      "option_a": "Ipsilateral Horner",
+      "option_b": "Ipsilateral trochlear palsy",
+      "option_c": "Truncal Hypoalgesia",
+      "option_d": "Ipsilateral abducens palsy",
+      "option_e": ""
+    },
+    "correct_answer": "None",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Long case scenario, patient admitted in stroke unit. He is diabetic, hypertensive, dyslipidemic. They didn't give specific details. Examination: left sided hemiparesis. MRI DWI attached. WOTF is the expected mechanism of his stroke?",
+    "options": {
+      "option_a": "Vasculitis",
+      "option_b": "Cardioembolic",
+      "option_c": "Watershed",
+      "option_d": "Hypercoagulable state",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Typical case scenario of lateral medullary syndrome, with decreased right side hearing. Symptoms started acutely. Diagnosis?",
+    "options": {
+      "option_a": "PICA",
+      "option_b": "AICA",
+      "option_c": "SCA",
+      "option_d": "Middle cerebral artery",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "59 years old male, DM, HTN, DLP, presented with sudden dysarthria and right arm numbness, lasted for 10 minutes. Currently he is asymptomatic, NIHSS zero. Brain CT reported normal as well as normal basic labs. What is the best next step?",
+    "options": {
+      "option_a": "Reassurance",
+      "option_b": "Neck CTA",
+      "option_c": "ECHO",
+      "option_d": "Toxic screen",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "45 years old lady, has sudden severe headache following neck manipulation, predominantly on the right side. She has no other symptoms and no vascular factors. Attached image of her exam findings - which artery is likely dissected?",
+    "options": {
+      "option_a": "ICA dissection",
+      "option_b": "MCA dissection",
+      "option_c": "Ophthalmic artery",
+      "option_d": "Vertebral dissection",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "61 years old female presented with sudden severe headache, worst in her life, with double vision. Her headache was more on the right side, not responding to simple analgesia. Examination shows 6 mm right pupil not reactive to light, with no other neurological deficits. Which artery affected?",
+    "options": {
+      "option_a": "PCom artery aneurysm",
+      "option_b": "AICA",
+      "option_c": "SCA",
+      "option_d": "ICA dissection",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario of 65 years old male with multiple cardiovascular risk factors and afib, with 1 day history of right sided dense plegia and aphasia. His brain CT attached. His clinical status doesn't change. What is the best next treatment option to consider? NB: patient was clinically stable with no clinical features of TICP.",
+    "options": {
+      "option_a": "Anticoagulation",
+      "option_b": "Osmotic therapy",
+      "option_c": "Craniotomy/decompression",
+      "option_d": "Aspirin",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of patient with new onset slurred speech and left sided weakness. Symptoms started in the morning, he came to ER in the evening. Brain CT: right hemispheric stroke. BP was 180/95 mmHg. What is the best next step for BP control?",
+    "options": {
+      "option_a": "IV Hydralazine",
+      "option_b": "IV Labetalol",
+      "option_c": "No intervention needed",
+      "option_d": "Oral Amlodipine",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of patient with symptomatic ICA stenosis. He underwent carotid endarterectomy. Few days later developed new onset confusion and decreased level of consciousness. Urgent brain CT attached. What could explain his current condition?",
+    "options": {
+      "option_a": "Malignant MCA transformation",
+      "option_b": "Cerebral venous thrombosis",
+      "option_c": "Hyperperfusion",
+      "option_d": "provided.",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario of acute ischemic stroke, started on IV tPA, 30 minutes later he has headache, vomiting, lethargy, BP 180/100 mmHg. What is the best next step?",
+    "options": {
+      "option_a": "Brain CT",
+      "option_b": "Stop tPA",
+      "option_c": "IV Labetalol",
+      "option_d": "Close observation",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Direct case scenario of thunderclap headache, CT shows subarachnoid bleed. CTA identified PCom artery aneurysm. Patient is medically free in her 40s. What is the best intervention?",
+    "options": {
+      "option_a": "Endovascular coiling",
+      "option_b": "Surgical clipping",
+      "option_c": "Annual follow up",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario of 65 years old male with multiple cardiovascular risk factors and afib, with 1 day history of right sided dense plegia and aphasia. His brain CT attached. Clinically he is lethargic and poorly communicating. Best next treatment option to consider?",
+    "options": {
+      "option_a": "Anticoagulation",
+      "option_b": "Osmotic therapy",
+      "option_c": "Craniotomy/decompression",
+      "option_d": "Aspirin",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Elderly female admitted with stroke. Attached her brain MRI. What else you will find?",
+    "options": {
+      "option_a": "Left Horner syndrome",
+      "option_b": "Left facial sensory loss",
+      "option_c": "Left uvula deviation",
+      "option_d": "Facial nerve palsy",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "They brought the same scenario in question 28, but they added that: symptoms start to improve, she became following the commands but still has mild weakness and dysarthria. Next step?",
+    "options": {
+      "option_a": "IV tPA",
+      "option_b": "Brain CTA",
+      "option_c": "Thrombectomy",
+      "option_d": "Dual antiplatelets",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "82 years old female, DM/HTN/DLP. Presented with sudden left gaze preference, aphasia, dense right hemiplegia. Her basic labs and INR are fine. She has no contraindications for tPA. Brain CT attached (normal). What is next? NB: time from symptoms onset to ER arrival was 30 minutes.",
+    "options": {
+      "option_a": "IV tPA",
+      "option_b": "Brain CTA",
+      "option_c": "Thrombectomy",
+      "option_d": "Dual antiplatelets",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Elderly female with sudden onset of left gaze preference. She is DM/HTN/DLP. On examination she has persisted left sided gaze preference that couldn't be overcome. What else you might find in her examination?",
+    "options": {
+      "option_a": "Rt LMN Facial palsy",
+      "option_b": "Lt LMN Facial palsy",
+      "option_c": "Rt UMN Facial palsy",
+      "option_d": "Lt UMN Facial palsy",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What is the mechanism?",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  }
+]

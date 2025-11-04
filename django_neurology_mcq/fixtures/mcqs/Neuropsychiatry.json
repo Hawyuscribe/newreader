@@ -1,0 +1,822 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 96519096,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "Which condition is improved with acetylcholinesterase inhibitors?",
+      "options": {
+        "A": "Apathy",
+        "B": "Disinhibition",
+        "C": "Hallucinations",
+        "D": "Delusions"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the symptomatic treatment of apathy, a common neuropsychiatric symptom in various neurological disorders like dementia, using a class of drugs often employed in dementia but here targeting the specific behavioral symptom."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81387107,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "What is the most common psychiatric manifestation of Wilson's disease?",
+      "options": {
+        "A": "Psychosis",
+        "B": "Depression",
+        "C": "Mania",
+        "D": "Anxiety"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Directly asks about the primary psychiatric symptom associated with a neurological disease (Wilson's disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54800703,
+    "fields": {
+      "question_number": "Q23",
+      "question_text": "Which antipsychotic medication has the highest risk of weight gain?",
+      "options": {
+        "A": "Olanzapine",
+        "B": "Haloperidol",
+        "C": "Quetiapine",
+        "D": "Clozapine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the metabolic side effects (specifically weight gain) of antipsychotic medications, commonly used in neuropsychiatric conditions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40385361,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "A patient with behavioral changes is sent to psychiatry initially and then to neurology. What is the next step in management?",
+      "options": {
+        "A": "Send for ETOH level",
+        "B": "Send for ammonia level",
+        "C": "Order brain MRI",
+        "D": "Perform EEG"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Concerns the initial diagnostic workup for unexplained behavioral changes, considering common metabolic causes (like hepatic encephalopathy suggested by ammonia level) that manifest psychiatrically."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60388540,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "A delirious patient presents to the emergency department. What is your next step?",
+      "options": {
+        "A": "Metabolic panel",
+        "B": "Brain MRI",
+        "C": "Lumbar puncture",
+        "D": "Electroencephalogram"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the immediate management approach for delirium (acute confusional state), prioritizing the exclusion of common metabolic derangements."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47559271,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "Anxiety most commonly complicates which of the following diseases?",
+      "options": {
+        "A": "Frontotemporal Dementia (FTD)",
+        "B": "Alzheimer's Disease (AD)",
+        "C": "Parkinson\u2019s Disease",
+        "D": "Huntington's Disease"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the prevalence of a specific psychiatric symptom (anxiety) as a comorbidity in various neurodegenerative diseases."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17019639,
+    "fields": {
+      "question_number": "Q27",
+      "question_text": "Which of the following antipsychotic medications causes the most weight gain?",
+      "options": {
+        "A": "Olanzapine",
+        "B": "Clozapine",
+        "C": "Risperidone",
+        "D": "Quetiapine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the metabolic side effects (specifically weight gain) of antipsychotic medications."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80341529,
+    "fields": {
+      "question_number": "Q32",
+      "question_text": "In Alzheimer's disease, which antipsychotic medication is known to increase weight?",
+      "options": {
+        "A": "Clozapine",
+        "B": "Quetiapine",
+        "C": "Haloperidol",
+        "D": "Olanzapine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the side effect profile (weight gain) of antipsychotics specifically in the context of treating behavioral symptoms in Alzheimer's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30965634,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "In a case of Gerstmann syndrome, what is the associated language deficit?",
+      "options": {
+        "A": "Anomia",
+        "B": "Wernicke's aphasia",
+        "C": "Transcortical motor aphasia",
+        "D": "Broca's aphasia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the specific cognitive deficits (including language aspects like anomia) associated with Gerstmann syndrome, a topic within behavioral neurology/neuropsychiatry related to parietal lobe function."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6392562,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "What is the primary characteristic that differentiates apraxia of speech from dysarthria?",
+      "options": {
+        "A": "Muscle weakness",
+        "B": "Impaired coordination of speech movements",
+        "C": "Cognitive impairment",
+        "D": "Language comprehension"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with the differential diagnosis of motor speech disorders, focusing on the specific nature of impairment (motor planning vs. execution), a topic within behavioral neurology/neuropsychiatry."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30623861,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "After a traumatic brain injury (TBI), a patient wakes up apathetic. Which part of the brain is likely affected?",
+      "options": {
+        "A": "Frontal lobe",
+        "B": "Temporal lobe",
+        "C": "Occipital lobe",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links a specific neuropsychiatric symptom (apathy) following TBI to its most likely neuroanatomical correlate (frontal lobe)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9448145,
+    "fields": {
+      "question_number": "Q28",
+      "question_text": "An epilepsy patient on Levetiracetam presents with low mood. What would be a feature of depression?",
+      "options": {
+        "A": "Flight of ideas",
+        "B": "Catatonia",
+        "C": "Suicidal ideation",
+        "D": "Anhedonia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on recognizing symptoms of depression (suicidal ideation), a psychiatric condition, which can be a comorbidity or side effect in epilepsy patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29172688,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "A 60-year-old male patient had visual loss and denied it. Upon examination, he had a visual field defect. What is the diagnosis?",
+      "options": {
+        "A": "Acalculia",
+        "B": "Agraphia",
+        "C": "Optic ataxia",
+        "D": "Visual anosognosia"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the identification of visual anosognosia (Anton's syndrome), a specific deficit of awareness regarding a neurological deficit, falling under behavioral neurology/neuropsychiatry."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60567677,
+    "fields": {
+      "question_number": "Q29",
+      "question_text": "Which of the following is a common psychiatric manifestation in Wilson's disease?",
+      "options": {
+        "A": "Mania",
+        "B": "Psychosis",
+        "C": "Depression",
+        "D": "Anxiety"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the range of common psychiatric symptoms associated with Wilson's disease, emphasizing the neuropsychiatric interface."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22093114,
+    "fields": {
+      "question_number": "Q35",
+      "question_text": "An elderly patient presented with a visual field defect but denied having left homonymous hemianopia. A CT brain scan was performed. What is the explanation for her issue?",
+      "options": {
+        "A": "Visual anosognosia",
+        "B": "Psychiatric",
+        "C": "Apraxia",
+        "D": "Visual neglect"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying visual anosognosia, a lack of awareness of a visual deficit, which is a higher cortical function issue within behavioral neurology/neuropsychiatry."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58656061,
+    "fields": {
+      "question_number": "Q26",
+      "question_text": "Which of the following antipsychotic medications has the highest affinity for D2 dopamine receptors?",
+      "options": {
+        "A": "Olanzapine",
+        "B": "Risperidone",
+        "C": "Quetiapine",
+        "D": "Clonazepam"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the pharmacodynamics (receptor affinity) of antipsychotic medications, relevant to their efficacy and side effect profiles in neuropsychiatric treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27016909,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "A soldier who was driving a military tank that exploded has some injuries, but two of his friends died. He dreams at night, feels guilt, and wishes to leave the army. What is the most likely diagnosis?",
+      "options": {
+        "A": "Psychosis",
+        "B": "Acute depression",
+        "C": "Adjustment disorder",
+        "D": "Post-traumatic stress disorder"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires diagnosing a psychiatric condition (likely Adjustment Disorder or PTSD) triggered by a traumatic event, falling within the scope of psychiatry/neuropsychiatry."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54048771,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "An elderly patient presents with symptoms of delirium, showing decreased attention but no focal neurological signs. A CT scan of the brain and metabolic panel including CBC and U&E are normal. What is the next step in management?",
+      "options": {
+        "A": "Urine analysis and culture",
+        "B": "Lumbar puncture (LP)",
+        "C": "EEG to assess for subclinical seizures",
+        "D": "Review medications for possible delirium-inducing agents"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Addresses the diagnostic workup of delirium when initial metabolic and structural causes are ruled out, considering common underlying triggers like infection (UTI)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41849954,
+    "fields": {
+      "question_number": "Q115",
+      "question_text": "A middle-aged male presented to the outpatient clinic with his father, who stated that the patient had changed in the last few months. He is slower in cognitive function and has recently changed in personality, becoming easily agitated. He has a past history of a motor vehicle accident 3 years ago that resulted in 3 days of ICU admission. What is the appropriate next step?",
+      "options": {
+        "A": "EEG",
+        "B": "PET scan for frontotemporal dementia",
+        "C": "MRI",
+        "D": "Neuropsychological testing"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Deals with the investigation of delayed cognitive and personality changes following traumatic brain injury, a core neuropsychiatric presentation requiring neuroimaging to assess for structural sequelae."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74351279,
+    "fields": {
+      "question_number": "Q20",
+      "question_text": "A patient with generalized tonic-clonic seizures believes they are caused by the devil and refuses treatment, wanting to see a spiritual healer. The family agrees with him. What would you do?",
+      "options": {
+        "A": "Accept family wishes",
+        "B": "Send him to the ethical committee",
+        "C": "Insist on medical treatment",
+        "D": "Refer him to a psychiatrist"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Addresses an ethical dilemma involving treatment refusal potentially based on delusions or strong cultural beliefs in a patient with epilepsy, requiring consideration of capacity and psychiatric input."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96237244,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "A young female presents with a right arm focal clonic seizure lasting for 1 hour, triggered by stress, while on 4 antiepileptic drugs (AEDs). Prolonged video EEG was repeated multiple times and was always normal. What is the treatment?",
+      "options": {
+        "A": "Stop AEDs",
+        "B": "Avoid triggers",
+        "C": "Initiate psychotherapy",
+        "D": "Refer for psychiatric evaluation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes a classic presentation of Psychogenic Non-Epileptic Seizures (PNES), a functional neurological disorder, where management focuses on non-pharmacological approaches and addressing underlying psychological factors."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74235629,
+    "fields": {
+      "question_number": "Q158",
+      "question_text": "A patient with epilepsy, a trucker, asked you, his physician, not to disclose this information to his employer. What should you do?",
+      "options": {
+        "A": "Tell the employer",
+        "B": "Ask him to tell his employer",
+        "C": "Tell the designated authorities",
+        "D": "Not to tell, as this is related to patient confidentiality"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Presents an ethical conflict between patient confidentiality and public safety regulations concerning fitness to drive, a common issue in neurology with neuropsychiatric/ethical dimensions."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33298821,
+    "fields": {
+      "question_number": "Q186",
+      "question_text": "A bus driver has a seizure and requests that you do not inform his employer about the seizure. What will you do?",
+      "options": {
+        "A": "Tell him you have to inform his employer",
+        "B": "Inform the employer",
+        "C": "Tell him, \"OK, I will not inform the employer\"",
+        "D": "Advise him to stop driving and seek further medical evaluation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Similar to Q158, this is an ethical question regarding confidentiality versus public safety for a commercial driver after a seizure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9448145,
+    "fields": {
+      "question_number": "Q28",
+      "question_text": "A patient with refractory epilepsy is scheduled for EMU admission after a 1-year wait. The chairman calls in to cancel the admission and schedule his relative instead, who has a history of syncope. What should you do?",
+      "options": {
+        "A": "Call the chairman and discuss the case priority",
+        "B": "Ignore him and admit your patient",
+        "C": "Cancel your patient\u2019s admission and admit the chairman\u2019s relative",
+        "D": "Report the incident to the hospital ethics committee"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with medical ethics, resource allocation, and professionalism, which often intersect with patient management decisions but isn't specific to a neurological subspecialty knowledge base. It fits best under ethical considerations relevant to practice, sometimes covered in Neuropsychiatry contexts."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8508825,
+    "fields": {
+      "question_number": "Q194",
+      "question_text": "A patient with generalized tonic-clonic seizures believes his condition is caused by the devil and the evil eye. He refuses treatment and wants to see a spiritual healer, which his family supports. What would you do?",
+      "options": {
+        "A": "Accept family wishes",
+        "B": "Send him to the ethical committee",
+        "C": "Educate the patient and family about epilepsy and treatment options",
+        "D": "Assess the patient\u2019s decision-making capacity"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Identical concept to Q20, focusing on ethical management, capacity assessment, and cultural beliefs impacting treatment adherence in epilepsy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38958712,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "A 50-year-old male patient presents with confusion and delirium without fever, which has resolved. He does not remember what happened in the last two days, and the basic workup is normal. What should be done next?",
+      "options": {
+        "A": "EEG",
+        "B": "CT/CTA",
+        "C": "Urine toxicology",
+        "D": "CTA of head and neck"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes symptoms suggestive of Transient Global Amnesia (TGA), a benign neuropsychiatric syndrome characterized by sudden-onset anterograde amnesia. The question asks about appropriate workup (often EEG to rule out subtle seizures)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33036175,
+    "fields": {
+      "question_number": "Q228",
+      "question_text": "A patient with a traumatic brain injury (TBI) wakes up and exhibits apathy. Which lobe of the brain is likely affected?",
+      "options": {
+        "A": "Frontal lobe",
+        "B": "Temporal lobe",
+        "C": "Parietal lobe",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Links a neuropsychiatric symptom (apathy) post-TBI to its neuroanatomical substrate (frontal lobe)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55875331,
+    "fields": {
+      "question_number": "Q109",
+      "question_text": "A patient on pregabalin, suspected of drug abuse, is evaluated. What should you do?",
+      "options": {
+        "A": "Give pregabalin",
+        "B": "Refer to psychiatry",
+        "C": "Discontinue pregabalin abruptly",
+        "D": "Increase pregabalin dose"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the management of suspected prescription drug misuse/abuse, often requiring psychiatric or addiction medicine consultation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60388540,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "A patient with Parkinson's disease has developed dementia after several years and is now agitated. He is currently on Levodopa/Carbidopa and Rivastigmine. What is the appropriate treatment for his agitation?",
+      "options": {
+        "A": "Quetiapine",
+        "B": "Risperidone",
+        "C": "Memantine",
+        "D": "Clozapine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the pharmacological management of a behavioral disturbance (agitation) in the context of Parkinson's Disease Dementia (PDD), a common neuropsychiatric challenge."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98315083,
+    "fields": {
+      "question_number": "Q105",
+      "question_text": "A patient with Parkinson's Disease on treatment presents with visual hallucinations and agitation. Which antipsychotic will you give?",
+      "options": {
+        "A": "Risperidone",
+        "B": "Quetiapine",
+        "C": "Pimavanserin",
+        "D": "Clozapine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Deals with the specific management of medication-induced psychosis (hallucinations, agitation) in Parkinson's disease, requiring careful antipsychotic selection due to motor side effect risks."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69927049,
+    "fields": {
+      "question_number": "Q223",
+      "question_text": "A patient on pramipexol for Parkinson's Disease (PD) develops hallucinations. What is the recommended action?",
+      "options": {
+        "A": "Stop pramipexol",
+        "B": "Increase the dose of pramipexol",
+        "C": "Add an antipsychotic medication",
+        "D": "Continue pramipexol and monitor symptoms"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the management of a neuropsychiatric side effect (hallucinations) caused by a dopamine agonist used for Parkinson's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36256880,
+    "fields": {
+      "question_number": "Q124",
+      "question_text": "In a patient with Parkinson's disease who is experiencing hallucinations while on pramipexole, what is the recommended management?",
+      "options": {
+        "A": "Add Rivastigmine",
+        "B": "Increase Levodopa",
+        "C": "Stop pramipexole",
+        "D": "Start Quetiapine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the management strategy for drug-induced psychosis (hallucinations) in Parkinson's disease, a neuropsychiatric complication."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35119983,
+    "fields": {
+      "question_number": "Q190",
+      "question_text": "A patient with Parkinson's disease (PD) on multiple agents developed hallucinations. What is the recommended management?",
+      "options": {
+        "A": "Stop amantadine",
+        "B": "Increase levodopa",
+        "C": "Add a dopamine agonist",
+        "D": "Refer for psychiatric evaluation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on managing medication-induced hallucinations in Parkinson's disease, a common neuropsychiatric issue often addressed by adjusting offending medications like Amantadine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33989838,
+    "fields": {
+      "question_number": "Q239",
+      "question_text": "A newly diagnosed Huntington's disease patient states that he does not want to inform his employer. What should you do?",
+      "options": {
+        "A": "Document this in his records and respect the patient's wishes.",
+        "B": "Inform the employer without the patient's consent due to potential safety concerns.",
+        "C": "Encourage the patient to disclose the diagnosis but do not inform the employer yourself.",
+        "D": "Refer the patient to a genetic counselor to discuss implications of disclosure."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses an ethical dilemma involving patient autonomy, confidentiality, and the psychosocial implications of a neurodegenerative diagnosis (Huntington's disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47680354,
+    "fields": {
+      "question_number": "Q152",
+      "question_text": "In Balint syndrome, which one of these clinical pictures is one of the presentations?",
+      "options": {
+        "A": "Simultagnosia",
+        "B": "Acalculia",
+        "C": "Vivid hallucination",
+        "D": "Oculomotor apraxia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the components of Balint syndrome (simultanagnosia, optic ataxia, oculomotor apraxia), a disorder of higher visual processing and spatial attention falling under behavioral neurology/neuropsychiatry."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44691911,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "A female presents with abnormal movements and a greenish corneal ring (Kayser-Fleischer rings). What is the most common psychiatric presentation?",
+      "options": {
+        "A": "Depression (but mood disturbance more common)",
+        "B": "Mania",
+        "C": "Psychosis",
+        "D": "Anxiety"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Directly asks about the most frequent psychiatric comorbidity associated with Wilson's disease, highlighting the neuropsychiatric aspects of this condition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80341529,
+    "fields": {
+      "question_number": "Q32",
+      "question_text": "A patient diagnosed with ALS, his son asks you not to tell his father about the diagnosis. What should you do?",
+      "options": {
+        "A": "Tell the son that his father has the right to know about his condition.",
+        "B": "Agree with the son and withhold the diagnosis from the patient.",
+        "C": "Inform the patient gently, respecting his right to know, and offer support.",
+        "D": "Consult the hospital ethics committee before disclosing any information."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the ethical principle of patient autonomy and the right to information regarding one's diagnosis, a common ethical issue in neurology with neuropsychiatric relevance (capacity, coping)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8914954,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "What is the management of functional tremor?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Psychotherapy",
+        "C": "Physical therapy",
+        "D": "Botulinum toxin injection"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the primary treatment modality (psychotherapy) for functional neurological disorders, specifically functional tremor."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17019639,
+    "fields": {
+      "question_number": "Q27",
+      "question_text": "Which of the following findings is in favor of a diagnosis of functional tremor?",
+      "options": {
+        "A": "Distraction of the patient improves the tremors",
+        "B": "Tremor frequency remains constant regardless of posture",
+        "C": "Tremor amplitude increases with voluntary movement",
+        "D": "Tremor is present during sleep"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of clinical signs (distractibility, variability) used to support a diagnosis of a functional neurological disorder (functional tremor)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50071040,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "In a patient with Wernicke's aphasia, which of the following symptoms is most commonly observed?",
+      "options": {
+        "A": "Fluent but nonsensical speech with poor comprehension",
+        "B": "Nonfluent, effortful speech with good comprehension",
+        "C": "Difficulty in repeating words despite intact comprehension",
+        "D": "Loss of motor coordination and muscle weakness"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the clinical characteristics of Wernicke's aphasia, a language disorder studied within behavioral neurology/neuropsychiatry."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32858124,
+    "fields": {
+      "question_number": "Q182",
+      "question_text": "A patient presents with a right occipital lesion and visual field defect. What condition could be associated with this finding?",
+      "options": {
+        "A": "Visual anosognosia",
+        "B": "Optic ataxia",
+        "C": "Vitamin B6 sensory ganglionopathy",
+        "D": "Hemianopia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuropsychiatry",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Links an occipital lesion to potential higher-order visual processing deficits like visual anosognosia or optic ataxia (part of Balint's syndrome), which are topics in behavioral neurology/neuropsychiatry."
+    }
+  }
+]

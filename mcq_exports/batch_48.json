@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q43",
+    "question_text": "An Indian patient came with a headache. He is known to have epilepsy and is on medications. A CT brain scan is attached. What is the most likely diagnosis?",
+    "options": {
+      "A": "Cysticercosis",
+      "B": "Toxoplasmosis",
+      "C": "Tuberculoma",
+      "D": "Brain abscess"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male was brought to the ER with fever, confusion, and drowsiness. CSF analysis showed bacterial infection. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "",
+    "options": {
+      "A": "27-year-old pregnant woman living on a dairy farm presents with fever and neck stiffness. How should she be treated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q155",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old man is seen in the emergency department for evaluation of retinal hemorrhage, hepatosplenomegaly, headache, fever every 3 days, and right arm weakness. On examination, his temperature is 38.1\u00b0C. He has some weakness of the right arm; otherwise, his examination is non-focal. He recently arrived from Africa. Which of the following is a highly diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q229",
+    "question_text": "What is the duration of acyclovir treatment in HSV encephalitis?",
+    "options": {
+      "A": "7 days",
+      "B": "14 days",
+      "C": "21 days",
+      "D": "72 hours"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q231",
+    "question_text": "Which of the following statements is true regarding Primary Amoebic Meningoencephalitis (PAM)?",
+    "options": {
+      "A": "It is self-limited.",
+      "B": "The primary root of infection is through the cribriform plate.",
+      "C": "It is very common.",
+      "D": "It is caused by a bacterial infection."
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "",
+    "options": {
+      "A": "female patient with multiple sclerosis (MS) on Natalizumab presents with hemiparesis and hemianopia. MRI shows a subcortical white matter mass with no enhancement. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q230",
+    "question_text": "",
+    "options": {
+      "A": "patient with meningitis and a positive titer for Brucella requires treatment. What is the most appropriate antibiotic?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q234",
+    "question_text": "Infection with retinal whitening and orange spots is most commonly associated with which organism?",
+    "options": {
+      "A": "Bartonella",
+      "B": "TB",
+      "C": "CMV",
+      "D": "Toxoplasmosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q330",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old female, originally from Africa, presents with a history of back pain, gradual bilateral weakness, numbness, and sphincter issues. CSF analysis shows unpaired bands of OCB. MRI reveals long extensive T2 hyperintensity from the thoracic region to the cauda equina. What is the differential diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "patient from Africa presents with a Brucella infection. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q293",
+    "question_text": "",
+    "options": {
+      "A": "64-year-old man is brought to the emergency room by his family for fever and headache. On examination, his temperature is 39.1\u00b0C and he appears uncomfortable. He has resistance to passive range of motion of the neck and difficulty maintaining his level of alertness, but no focal deficits are seen. Which of the following is the most appropriate empiric regimen of antibiotics?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q337",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged male patient with a history of headache reports fever, night sweats, and weight loss. An MRI of the brain with contrast was performed. He also has a history of head injury a few years ago. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have MS on interferon therapy shifted to natalizumab after recurrent relapses. She developed cognitive impairment and dysarthria over 2 months. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "An 11-year-old girl is referred with rapidly deteriorating school performance and intellectual deficits over a course of a few weeks. She also has frequent seizures and unsteady gait. On examination, she has ataxia, hyperreflexia, and bilateral upgoing plantar responses. An EEG shows periodic bursts of high voltage slow waves followed by recurrent low voltage stretches. Clinically, she is worsening with an on-off lethargic state. A brain MRI shows large areas of signal change. What is the most likely diagnosis?",
+    "options": {
+      "A": "Progressive Multifocal Leukoencephalopathy (PML)",
+      "B": "Creutzfeldt-Jakob Disease (CJD)",
+      "C": "Subacute Sclerosing Panencephalitis (SSPE)",
+      "D": "Acute Disseminated Encephalomyelitis (ADEM)"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "What is the most common cause of polyradiculoneuropathy?",
+    "options": {
+      "A": "CMV",
+      "B": "West Nile",
+      "C": "HIV",
+      "D": "Lyme disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q189",
+    "question_text": "What is the cause of cavernous venous thrombosis (CVT) associated with a maxillary and nasal lesion with proptosis?",
+    "options": {
+      "A": "Direct invasion",
+      "B": "Veins",
+      "C": "Lymph nodes",
+      "D": "Arterial embolism"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q232",
+    "question_text": "An elderly patient came with low-grade fever, meningism, encephalopathy, and acute flaccid paralysis. What is your diagnosis?",
+    "options": {
+      "A": "West Nile Virus (WNV)",
+      "B": "Poliomyelitis",
+      "C": "HIV encephalopathy",
+      "D": "Guillain-Barr\u00e9 syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q182",
+    "question_text": "What is the typical treatment approach for a patient diagnosed with West Nile virus encephalitis?",
+    "options": {
+      "A": "Antiviral therapy",
+      "B": "Supportive care",
+      "C": "Corticosteroids",
+      "D": "Immunoglobulin therapy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q210",
+    "question_text": "In a case of Creutzfeldt-Jakob Disease (CJD) with a cortical ribbon sign on MRI, what is the next best step in management?",
+    "options": {
+      "A": "Surgery",
+      "B": "Reassurance",
+      "C": "Radiotherapy",
+      "D": "Yearly MRI"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q233",
+    "question_text": "What is the most common cause of spinal epidural abscess?",
+    "options": {
+      "A": "Osteomyelitis",
+      "B": "Penetrating Trauma",
+      "C": "LP",
+      "D": "Hematogenous spread from a distant source"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with flaccid weakness and no sensory symptoms. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "In the context of West Nile virus infection, which of the following is a common clinical feature?",
+    "options": {
+      "A": "Flaccid weakness",
+      "B": "Spasticity",
+      "C": "Increased muscle tone",
+      "D": "Sensory ataxia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV has multiple brain MRI lesions. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "What is the most common artery affected in TB vasculopathy?",
+    "options": {
+      "A": "Anterior cerebral artery",
+      "B": "Posterior cerebral artery",
+      "C": "Middle cerebral artery",
+      "D": "Basilar artery"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

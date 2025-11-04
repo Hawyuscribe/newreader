@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q43",
+    "question_text": "What is the diagnosis for a patient presenting with symptoms consistent with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)?",
+    "options": {
+      "A": "AIDP",
+      "B": "CIDP",
+      "C": "MMN",
+      "D": "ALS"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "female patient with a long history of multiple sclerosis (MS) on fingolimod presents with spasticity and gait issues, and her MRI shows no active disease. What should be done next for her gait?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "In a scenario of neuromyelitis optica (NMO) with bilateral optic neuritis and transverse myelitis extending over more than 3 segments, which of the following is most useful for diagnosis?",
+    "options": {
+      "A": "MRI of the brain",
+      "B": "Serum aquaporin-4 antibody testing",
+      "C": "Lumbar puncture",
+      "D": "Visual evoked potentials"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q208",
+    "question_text": "Trigeminal neuralgia in young age, diagnosis is best made by:",
+    "options": {
+      "A": "MRI",
+      "B": "CT",
+      "C": "Clinical Diagnosis",
+      "D": "LP"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q312",
+    "question_text": "",
+    "options": {
+      "A": "female patient with jaw claudication and temporal headache, who also has joint pain and diffuse muscle ache, what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "Which of the following adverse effects is most commonly associated with the first infusion of a B-cell lysis agent?",
+    "options": {
+      "A": "Anaphylaxis",
+      "B": "Flushing and throat irritation",
+      "C": "Upper respiratory infections",
+      "D": "Hypogammaglobulinemia"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old patient came with left lower limb paresthesia and heaviness that is getting worse, reaching to the upper limb, and intermittent abdominal pain, hyperhidrosis; he received a vaccine 2 weeks ago. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "An elderly patient presents with areflexia (tendon reflex not obtained), ophthalmoplegia, and impaired finger-to-nose test for the past 2 days, with no history of infection or vaccination. What is the likely antibody involved?",
+    "options": {
+      "A": "Anti-GQ1b",
+      "B": "Anti-GM1",
+      "C": "Anti-AQP4",
+      "D": "Anti-MAG"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "An 18-year-old boy presents with vertigo and an exaggerated dermatological reaction during IV insertion. MRI findings are pending. Which condition is most likely associated with these symptoms?",
+    "options": {
+      "A": "Beh\u00e7et's disease",
+      "B": "Sj\u00f6gren's syndrome",
+      "C": "Susac's syndrome",
+      "D": "Multiple sclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "",
+    "options": {
+      "A": "lady presents with personality changes and hearing loss. MRI findings are pending. Which condition is most likely associated with these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "Which statement is true regarding multiple sclerosis (MS)?",
+    "options": {
+      "A": "Simultaneous bilateral optic neuritis would suggest looking for other diagnoses.",
+      "B": "Incomplete recovery is typical with MS.",
+      "C": "MS lesions are typically found only in the spinal cord.",
+      "D": "MS always presents with a progressive course from onset."
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis presents with the left eye showing no abduction or adduction, while the right eye has abduction only. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "patient with MS on fingolimod has an image showing new activity. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "54-year-old male presents with neck pain and tingling sensations in both hands. He has a history of small joint pain and swelling. What is the most likely diagnosis based on the MRI findings?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "In multiple sclerosis (MS), what is the pattern of distribution of lesions?",
+    "options": {
+      "A": "Oligodendrocytes cell body",
+      "B": "Venules",
+      "C": "Arterioles",
+      "D": "Capillaries"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "young patient was found to be unresponsive in bed and sleepy but arousable. Upon examination in the emergency room, no focal neurologic deficits were found. An MRI of the brain showed bilateral hyperintensity of the thalamus and the area around the foramen and right insular. What is the most appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q196",
+    "question_text": "",
+    "options": {
+      "A": "15-year-old girl presents to the emergency room with confusion and seizure. Her parents note that she has been more forgetful and irritable, and her behavior has become bizarre. On the morning of presentation, she had a generalized tonic-clonic seizure. IV acyclovir and phenytoin were started. MRI of the brain and EEG are normal. After three days, her clinical status does not improve. CSF PCR is negative for HSV, VZV, EBV. Which of the following autoantibodies is most likely to be responsible for her presentation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q188",
+    "question_text": "What is the mechanism of action of Ocrelizumab?",
+    "options": {
+      "A": "CD20 (Same as Rituximab)",
+      "B": "Sphingosine-1-phosphate receptor modulator",
+      "C": "CD52",
+      "D": "Interleukin-2 receptor antagonist"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q187",
+    "question_text": "What is the odds ratio for smoking as a risk factor for multiple sclerosis?",
+    "options": {
+      "A": "1.3",
+      "B": "1.6",
+      "C": "2.0",
+      "D": "3.6"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q268",
+    "question_text": "",
+    "options": {
+      "A": "patient with systemic lupus erythematosus (SLE) complicated by nephritis presents with acute behavioral changes and seizures. Cerebrospinal fluid (CSF) analysis shows lymphocytosis and positive oligoclonal bands (OCB). Which of the following conditions is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis presents with optic neuritis (ON). The MRI shows one periventricular lesion. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q206",
+    "question_text": "Which of the following is a probable risk factor for multiple sclerosis with an odds ratio of 1.4?",
+    "options": {
+      "A": "Low sunlight exposure",
+      "B": "Shift work",
+      "C": "Vitamin D deficiency",
+      "D": "Infectious mononucleosis"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "young lady with systemic lupus erythematosus (SLE) complained of seizures and confusion. She has SLE nephritis and is on dialysis. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q265",
+    "question_text": "What is the best way to diagnose small vessel vasculitis?",
+    "options": {
+      "A": "Respond to corticosteroids",
+      "B": "Brain biopsy",
+      "C": "Digital subtraction angiography (DSA)",
+      "D": "Magnetic resonance imaging (MRI)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q301",
+    "question_text": "An 18-year-old woman is referred to your office after branch retinal artery occlusion occurred in each eye several months apart. Her examination reveals moderate hearing loss in the right ear in addition to visual field cuts in each eye. A brain MRI reveals multiple small cortical strokes in the frontal lobes and left parietal lobe. What is the diagnosis?",
+    "options": {
+      "A": "Multiple sclerosis",
+      "B": "ADEM",
+      "C": "Susac syndrome",
+      "D": "Conversion reaction"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

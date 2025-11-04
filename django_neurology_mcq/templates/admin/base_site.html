@@ -1,0 +1,90 @@
+{% extends "admin/base.html" %}
+{% load static %}
+
+{% block title %}{{ title }} | Neurology MCQ Admin{% endblock %}
+
+{% block branding %}
+<div id="branding">
+    <h1 id="site-name"><a href="{% url 'admin:index' %}">Neurology MCQ Administration</a></h1>
+</div>
+{% endblock %}
+
+{% block extrastyle %}
+{{ block.super }}
+<link rel="stylesheet" type="text/css" href="{% static 'css/ckeditor_custom.css' %}">
+<style>
+    /* Additional admin customizations */
+    .module h2, .module caption {
+        background-color: #007bff;
+        color: white;
+    }
+    
+    .button, input[type=submit], input[type=button], .submit-row input {
+        background-color: #007bff;
+        color: white;
+    }
+    
+    .button:hover, input[type=submit]:hover, input[type=button]:hover {
+        background-color: #0056b3;
+    }
+    
+    /* CKEditor Format Painter Help Text */
+    .ckeditor-help {
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 4px;
+        font-size: 13px;
+    }
+    
+    .ckeditor-help h4 {
+        margin-top: 0;
+        color: #333;
+    }
+    
+    .ckeditor-help kbd {
+        background: #fff;
+        border: 1px solid #ccc;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-family: monospace;
+    }
+</style>
+{% endblock %}
+
+{% block extrahead %}
+{{ block.super }}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Add help text for CKEditor format painter
+    if (typeof CKEDITOR !== 'undefined') {
+        CKEDITOR.on('instanceReady', function(evt) {
+            var editor = evt.editor;
+            var container = editor.container.$;
+            
+            // Create help text element
+            var helpDiv = document.createElement('div');
+            helpDiv.className = 'ckeditor-help';
+            helpDiv.innerHTML = `
+                <h4>Format Painter (Copy Formatting)</h4>
+                <p><strong>To copy formatting:</strong></p>
+                <ul>
+                    <li>Method 1: Select text with desired formatting, then click the <strong>Copy Formatting</strong> button (paintbrush icon)</li>
+                    <li>Method 2: Select text and press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd></li>
+                </ul>
+                <p><strong>To apply formatting:</strong></p>
+                <ul>
+                    <li>Method 1: With format copied, select target text and it will apply automatically</li>
+                    <li>Method 2: Select target text and press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd></li>
+                </ul>
+                <p><strong>Tip:</strong> Hold <kbd>Shift</kbd> while clicking Copy Formatting to apply it multiple times!</p>
+            `;
+            
+            // Insert help text before the editor
+            container.parentNode.insertBefore(helpDiv, container);
+        });
+    }
+});
+</script>
+{% endblock %}

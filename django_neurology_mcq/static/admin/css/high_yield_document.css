@@ -1,0 +1,74 @@
+body.high-yield-editor-body {
+    font-family: 'Calibri', 'Segoe UI', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #1f2937;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px 40px;
+    background: #ffffff;
+}
+
+body.high-yield-editor-body h2,
+body.high-yield-editor-body h3,
+body.high-yield-editor-body h4 {
+    font-weight: 600;
+    color: #0f172a;
+    margin-top: 1.6em;
+    margin-bottom: 0.6em;
+}
+
+body.high-yield-editor-body h2 {
+    font-size: 26px;
+}
+
+body.high-yield-editor-body h3 {
+    font-size: 22px;
+}
+
+body.high-yield-editor-body h4 {
+    font-size: 18px;
+}
+
+body.high-yield-editor-body table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 18px 0;
+    border: 1px solid #d0d7de;
+}
+
+body.high-yield-editor-body table th,
+body.high-yield-editor-body table td {
+    border: 1px solid #d0d7de;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+body.high-yield-editor-body blockquote {
+    border-left: 4px solid #2563eb;
+    padding-left: 16px;
+    color: #475569;
+    margin: 16px 0;
+}
+
+body.high-yield-editor-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.1);
+    margin: 18px 0;
+}
+
+body.high-yield-editor-body ul,
+body.high-yield-editor-body ol {
+    padding-left: 26px;
+    margin: 14px 0;
+}
+
+body.high-yield-editor-body pre {
+    background: #0f172a;
+    color: #f8fafc;
+    padding: 14px 18px;
+    border-radius: 8px;
+    overflow-x: auto;
+}

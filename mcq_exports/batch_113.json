@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q250",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male patient with a traumatic brain injury 5 days ago, intubated, and with respiratory settings within normal limits developed aphasia (features of vasospasm). What management, if given as prophylaxis, will improve or prevent further morbidity?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q182",
+    "question_text": "",
+    "options": {
+      "A": "patient with an acute stroke treated with tPA shows tongue angioedema and is stable but severely dysarthric. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "",
+    "options": {
+      "A": "woman presented with acute left-sided weakness and dysarthria. A right intracerebral hemorrhage (ICH) was found on CT. The patient's vital signs show a systolic blood pressure of 167. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q280",
+    "question_text": "Another patient came with a stroke; CT showed watershed infarction; what is the next step?",
+    "options": {
+      "A": "CTA",
+      "B": "MRI brain",
+      "C": "Carotid Doppler ultrasound",
+      "D": "Echocardiography"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "An elderly patient presented with swallowing difficulty. Examination found deviation of the uvula to the left side, and a brain MRI reported brainstem infarction. What would be an expected symptom?",
+    "options": {
+      "A": "Right Horner's syndrome (or ptosis)",
+      "B": "Left hand ataxia",
+      "C": "Right lower limb sensory loss",
+      "D": "Left facial numbness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged male presents with right hemiplegia and is found to have atrial fibrillation. What is the recommended treatment? [Answer provided is ASA, which is in for AFib stroke prevention]."
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "Which imaging technique is used to assess watershed infarction?",
+    "options": {
+      "A": "MRI",
+      "B": "CTA",
+      "C": "PET scan",
+      "D": "X-ray"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "What is the prognosis for global aphasia after one month?",
+    "options": {
+      "A": "Broca\u2019s aphasia",
+      "B": "Global aphasia",
+      "C": "Anomia",
+      "D": "Wernicke\u2019s aphasia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "In a patient with an anterior communicating artery (A.Com) aneurysm, which of the following factors is most predictive of aneurysm rupture?",
+    "options": {
+      "A": "Size of the aneurysm",
+      "B": "Location of the aneurysm",
+      "C": "Uncontrolled blood pressure",
+      "D": "Female gender"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a severe headache. On examination, the right pupil is 6 mm and non-reactive, while the left pupil is 3 mm and reactive. Where is the lesion likely located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "Scenario about a patient with Moyamoya syndrome and a history of ischemic stroke, what is the best treatment to prevent future stroke?",
+    "options": {
+      "A": "Chronic transfusion",
+      "B": "Aspirin and clopidogrel",
+      "C": "Revascularization surgery",
+      "D": "Anticoagulation with warfarin"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q246",
+    "question_text": "In the case of a 60-year-old male patient with a 3.5-hour history of sudden left-sided flaccid weakness, severe dysarthria, and facial weakness, who presented to the ER with a normal CT brain scan and later developed intracranial hemorrhage after receiving IV tPA, what is the protocol violation in community-based rTPA stroke treatment? [Similar to Q251, context implies a contraindication was missed]",
+    "options": {
+      "A": "Low deficit",
+      "B": "Out of tPA window",
+      "C": "Platelet count of 45,000",
+      "D": "Recent major surgery"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "",
+    "options": {
+      "A": "patient with sickle cell anemia is concerned about his risk of stroke due to a family history. What is the best method to predict the risk of stroke in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "54-year-old male, a known smoker, is admitted with stroke with right-sided weakness and facial asymmetry. Brain CT shows right capsular infarct. Brain CTA shows significant carotid artery stenosis. What is the best management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "",
+    "options": {
+      "A": "female patient with end-stage renal disease (ESRD) on regular hemodialysis complains of recurrent TIAs lasting less than 10 minutes in the form of left-sided weakness and dysarthria, which then resolved completely. These symptoms occur during the dialysis sessions. A CT brain showed evidence of old ischemic stroke, and a carotid ultrasound showed left ICA atherosclerotic changes with no visualized stenosis or occlusion. Which of the following is important to order during the evaluation of this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q176",
+    "question_text": "An 82-year-old female with a stroke has an NIHSS score of 20, blood pressure of 180/100, and presents 3 hours from symptom onset. A brain CT shows no clear hypodensity but subtle early ischemic changes in the basal ganglia and insular ribbon. What should be done next?",
+    "options": {
+      "A": "Labetalol",
+      "B": "Thrombolysis",
+      "C": "Thrombectomy",
+      "D": "Supportive care with monitoring"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "patient with a large left internal carotid artery (ICA) territory infarction, as shown in the CT image, was found to have atrial fibrillation. What is the appropriate treatment to start next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q284",
+    "question_text": "",
+    "options": {
+      "A": "patient with subarachnoid hemorrhage (SAH) has hyponatremia; what will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q203",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male presents with chronic fluctuating paraparesis. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female patient with hypertension and esophageal symptoms presented to the ED with headache, severe and altered level of consciousness. Her BP was 218/105 mmHg. What is the most likely diagnosis? [Esophageal symptoms might hint at scleroderma/systemic sclerosis]"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "Hemianopia [Likely an answer or finding related to a stroke localization question, e.g., PCA or MCA territory]",
+    "options": {
+      "A": "Middle cerebral artery (MCA) stroke",
+      "B": "Posterior cerebral artery (PCA) stroke",
+      "C": "Anterior cerebral artery (ACA) stroke",
+      "D": "Lacunar stroke"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with recurrent brainstem infarctions. Brain MRI attached shows right vertebral artery dissection extracranially. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q242",
+    "question_text": "What is the management for a patient with a history of ischemic stroke who is contraindicated for tPA? [Likely implies presenting with a new stroke eligible for other reperfusion]",
+    "options": {
+      "A": "IV thrombolytic therapy",
+      "B": "Mechanical thrombectomy",
+      "C": "Antiplatelet therapy",
+      "D": "Supportive care and rehabilitation"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q235",
+    "question_text": "In the scenario of a 65-year-old male with a history of diabetes and hypertension who presents to the ER with left-sided weakness lasting for 18 minutes, what is the 90-day risk of stroke?",
+    "options": {
+      "A": "Low",
+      "B": "Moderate",
+      "C": "High",
+      "D": "Very high"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with stroke syndrome findings suggestive of lateral pons involvement and has a hearing problem. Which vascular lesion is most likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

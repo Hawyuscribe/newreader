@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Scenario with attached Angio (suggestive of FM-DYSPLASIA) what to do:",
+    "options": {
+      "option_a": "Renal angio",
+      "option_b": "Alpha 1 antitrypsin",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario of lateral medullary:",
+    "options": {
+      "option_a": "PICA",
+      "option_b": "no vertebral artery in options",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "CSF finding in RCVS:",
+    "options": {
+      "option_a": "slightly high protein",
+      "option_b": "other choices was clearly wrong",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about CADASIL:",
+    "options": {
+      "option_a": "CADASIL",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Common question, SCENARIO about progressive symptoms of spinal fistula with attached MRI for spine:",
+    "options": {
+      "option_a": "DAVF",
+      "option_b": "Cavernoma",
+      "option_c": "AVM",
+      "option_d": "AVF best fits the clinical scenario of progressive symptoms related to a spinal fistula.",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "a woman who was being investigated for stroke, was found to have high titer of anti-beta II glycoprotein AB, and anticardiolipin AB. She was diagnosed with antiphospholipid syndrome. she has a history of a prior LL DVT, a small PFO was also found. what is the appropriate management?",
+    "options": {
+      "option_a": "DAPT",
+      "option_b": "warfarin",
+      "option_c": "closure of PFO",
+      "option_d": "ASA",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about dermatomyositis (they mentioned pt. With weakness and typical skin lesion, and cough) ??? (Not sure about details and choices) Which antibody:",
+    "options": {
+      "option_a": "Anti synthetase",
+      "option_b": "Anti mda5",
+      "option_c": "Anti SRP",
+      "option_d": "ANTI TIF",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stab wound with ulnar neuropathy what you will find in NCS after 5 days:",
+    "options": {
+      "option_a": "Decrease recruitment",
+      "option_b": "Fibrillations",
+      "option_c": "Insertional activity",
+      "option_d": "Complex repetitive discharges",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about essential myoclonus relieved by alcohol asking about dx.",
+    "options": {
+      "option_a": "Cortical myoclonus",
+      "option_b": "Essential myoclonus",
+      "option_c": "Physiological myoclonus",
+      "option_d": "Epileptic myoclonus",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "IV drug user came with acute stroke in 2 hours, CT image attached (good aspect) Was febrile and had a pan systolic murmur. What is the treatment?",
+    "options": {
+      "option_a": "antibiotics",
+      "option_b": "thrombolysis",
+      "option_c": "thrombectomy",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke and diagnosed with acute ischemic stroke, patient undergone work up and her vessels imaging showed atherosclerotic disease however no critical stenosis, ECHO is normal except for an EF of 55%, 8-hour Holter did not show any arrhythmia, HBA1C and lipid profile was accepted. What is the most likely mechanism of her stroke?",
+    "options": {
+      "option_a": "embolism (most likely it wasn\u2019t clear)",
+      "option_b": "hypoperfusion",
+      "option_c": "vessel stenosis",
+      "option_d": "thrombosis",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "short scenario with attached image of NCS showing drop of amplitude:",
+    "options": {
+      "option_a": "Conduction block",
+      "option_b": "Temporal dispersion",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "36-year-old patient who present with memory complaint and visual-spatial defect what is the responsible gene (Alzheimer scenario):",
+    "options": {
+      "option_a": "TREM",
+      "option_b": "ubiquitin",
+      "option_c": "EPO4",
+      "option_d": "APP",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Essential tremor scenario with asthma rx;",
+    "options": {
+      "option_a": "Primidone",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario of old pt. Had stroke and became hyperactive, flight of ideas and pressured speech (mania) where will expect the lesion:",
+    "options": {
+      "option_a": "Caudate",
+      "option_b": "Thalamus",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario for GCA what is the most likely mechanism (or artery):",
+    "options": {
+      "option_a": "Posterior ciliary artery",
+      "option_b": "RCAO",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Giant cell arteritis what is next:",
+    "options": {
+      "option_a": "Steroid",
+      "option_b": "biopsy",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario of young female with picture of 2 attacks and 2 objective findings came with new relapse of sudden left-sided weakness for 5 days after hx of exhaustion what to do: (or scenario of clinical isolated syndrome not sure)",
+    "options": {
+      "option_a": "Start fingolimod",
+      "option_b": "Start interferon",
+      "option_c": "Emergent pulse steroid",
+      "option_d": "MRI brain",
+      "option_e": "MRI?"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "A pediatric patient who presented with expansile spinal cord signal changes with partial enhancement:",
+    "options": {
+      "option_a": "Astrocytoma",
+      "option_b": "Ependymoma",
+      "option_c": "Hemangioma",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Vague scenario of pt. With no hx available because no family around brought to ER with decrease level of consciousness and fever (not mentioned rigidity) ct brain and csf normal what to do:",
+    "options": {
+      "option_a": "Dantrolene",
+      "option_b": "Acyclovir",
+      "option_c": "Antibiotics",
+      "option_d": "Toxicity screening",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  }
+]

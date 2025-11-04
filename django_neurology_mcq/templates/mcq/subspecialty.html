@@ -1,0 +1,246 @@
+{% extends "mcq/base.html" %}
+
+{% block title %}{{ subspecialty }} - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<div class="subspecialty-header mb-4">
+    <div class="row">
+        <div class="col-md-8 d-flex align-items-center">
+            <div class="specialty-icon-container me-3" data-specialty="{{ subspecialty }}" data-size="lg"></div>
+            <div>
+                <h1>{{ subspecialty }}</h1>
+                <p class="lead mb-0 subspecialty-description">{{ subspecialty }} MCQs and clinical knowledge assessment</p>
+            </div>
+        </div>
+        <div class="col-md-4 text-md-end d-flex align-items-center justify-content-end">
+            <a href="{% url 'dashboard' %}" class="btn btn-outline-primary animate__animated animate__pulse">
+                <i class="bi bi-arrow-left"></i> Back to Dashboard
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-8">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h3 class="card-title mb-0"><i class="bi bi-funnel"></i> Filter MCQs</h3>
+                <span class="badge bg-primary">{{ mcqs|length }} found of {{ total_mcqs }} total</span>
+            </div>
+            <div class="card-body">
+                <form action="{% url 'subspecialty' subspecialty %}" method="get">
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <label for="exam_type" class="form-label">Examination Type</label>
+                            <select class="form-select" id="exam_type" name="exam_type">
+                                <option value="All Types" {% if exam_type == 'All Types' %}selected{% endif %}>All Types</option>
+                                <option value="Basic level" {% if exam_type == 'Basic level' or exam_type == 'Promotion' %}selected{% endif %}>Basic level</option>
+                                <option value="Advanced" {% if exam_type == 'Advanced' or exam_type == 'Part I' %}selected{% endif %}>Advanced</option>
+                                <option value="Board-level" {% if exam_type == 'Board-level' or exam_type == 'Part II' %}selected{% endif %}>Board-level</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <label for="start_year" class="form-label">Start Year</label>
+                            <select class="form-select" id="start_year" name="start_year">
+                                <option value="2018" {% if start_year == "2018" %}selected{% endif %}>2018</option>
+                                <option value="2019" {% if start_year == "2019" %}selected{% endif %}>2019</option>
+                                <option value="2020" {% if start_year == "2020" %}selected{% endif %}>2020</option>
+                                <option value="2021" {% if start_year == "2021" %}selected{% endif %}>2021</option>
+                                <option value="2022" {% if start_year == "2022" %}selected{% endif %}>2022</option>
+                                <option value="2023" {% if start_year == "2023" %}selected{% endif %}>2023</option>
+                                <option value="2024" {% if start_year == "2024" %}selected{% endif %}>2024</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <label for="end_year" class="form-label">End Year</label>
+                            <select class="form-select" id="end_year" name="end_year">
+                                <option value="2018" {% if end_year == "2018" %}selected{% endif %}>2018</option>
+                                <option value="2019" {% if end_year == "2019" %}selected{% endif %}>2019</option>
+                                <option value="2020" {% if end_year == "2020" %}selected{% endif %}>2020</option>
+                                <option value="2021" {% if end_year == "2021" %}selected{% endif %}>2021</option>
+                                <option value="2022" {% if end_year == "2022" %}selected{% endif %}>2022</option>
+                                <option value="2023" {% if end_year == "2023" %}selected{% endif %}>2023</option>
+                                <option value="2024" {% if end_year == "2024" %}selected{% endif %}>2024</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-filter"></i> Apply Filters
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="card shadow-sm">
+            <div class="card-header">
+                <h3 class="card-title mb-0"><i class="bi bi-list-check"></i> MCQ List</h3>
+            </div>
+            <div class="card-body">
+                {% if mcqs %}
+                <div class="list-group">
+                    {% for mcq in mcqs %}
+                    <a href="{% url 'view_mcq' mcq_id=mcq.id %}" class="list-group-item list-group-item-action d-flex gap-3 py-3 align-items-center">
+                        <div class="badge mcq-number">{{ mcq.question_number }}</div>
+                        <div class="d-flex gap-2 w-100 justify-content-between">
+                            <div>
+                                <p class="mb-0 opacity-75">{{ mcq.question_text|truncatechars:150 }}</p>
+                            </div>
+                            <small class="opacity-50 text-nowrap">
+                                {% if mcq.exam_type %}{{ mcq.exam_type }}{% endif %}
+                                {% if mcq.exam_year %}{{ mcq.exam_year }}{% endif %}
+                            </small>
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
+                {% else %}
+                <div class="alert alert-info">
+                    <i class="bi bi-info-circle me-2"></i> No MCQs found matching your criteria. Try adjusting your filters.
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h3 class="card-title mb-0"><i class="bi bi-info-circle"></i> About This Specialty</h3>
+            </div>
+            <div class="card-body">
+                <div class="specialty-info">
+                    <div id="specialty-description"></div>
+                    
+                    <h5 class="mt-4">Key Topics</h5>
+                    <div id="specialty-key-topics">Loading key topics...</div>
+                    
+                    <h5 class="mt-4">Study Strategy</h5>
+                    <div id="specialty-strategy">Loading study strategy...</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h3 class="card-title mb-0"><i class="bi bi-lightning"></i> Quick Actions</h3>
+            </div>
+            <div class="card-body">
+                <div class="d-grid gap-2">
+                    <a href="{% url 'dashboard' %}" class="btn btn-outline-primary">
+                        <i class="bi bi-grid"></i> View All Subspecialties
+                    </a>
+                    <a href="{% url 'review_flashcards' %}" class="btn btn-outline-success">
+                        <i class="bi bi-card-text"></i> Review Flashcards
+                    </a>
+                    <a href="{% url 'import_mcqs_form' %}" class="btn btn-outline-secondary">
+                        <i class="bi bi-upload"></i> Import More MCQs
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Get specialty name from h1
+    const specialtyName = document.querySelector('h1').textContent.trim();
+    
+    // Populate specialty information
+    if (window.neurologyIcons && window.neurologyIcons.NEUROLOGY_SPECIALTIES) {
+        const specialtyInfo = window.neurologyIcons.NEUROLOGY_SPECIALTIES[specialtyName] || {};
+        
+        // Update description if available
+        if (specialtyInfo.description) {
+            document.querySelector('.subspecialty-description').textContent = specialtyInfo.description;
+        }
+        
+        // Add specialty-specific className to body if available
+        if (specialtyInfo.className) {
+            document.body.classList.add(specialtyInfo.className);
+            
+            // Also update header color based on specialty
+            const headerElements = document.querySelectorAll('.card-header');
+            headerElements.forEach(header => {
+                header.style.borderLeft = `5px solid var(--${specialtyInfo.className}-color, var(--neuro-primary))`;
+                header.style.backgroundColor = `rgba(var(--${specialtyInfo.className}-color, var(--neuro-primary)), 0.1)`;
+            });
+            
+            // Style MCQ badge numbers with specialty color
+            const mcqBadges = document.querySelectorAll('.mcq-number');
+            mcqBadges.forEach(badge => {
+                badge.style.backgroundColor = specialtyInfo.color || '#6b46c1';
+                badge.style.color = 'white';
+                badge.style.fontWeight = 'bold';
+                badge.style.borderRadius = '50%';
+                badge.style.width = '32px';
+                badge.style.height = '32px';
+                badge.style.display = 'flex';
+                badge.style.alignItems = 'center';
+                badge.style.justifyContent = 'center';
+            });
+        }
+        
+        // Generate key topics based on specialty
+        const topicsBySpecialty = {
+            "Critical Care Neurology": ["Stroke", "Status Epilepticus", "Guillain-Barré Syndrome", "Myasthenic Crisis", "Encephalitis"],
+            "Dementia": ["Alzheimer's Disease", "Frontotemporal Dementia", "Lewy Body Dementia", "Vascular Dementia", "Prion Diseases"],
+            "Epilepsy": ["Focal Seizures", "Generalized Seizures", "Status Epilepticus", "Antiepileptic Drugs", "Surgical Treatment"],
+            "Headache": ["Migraine", "Tension-Type Headache", "Cluster Headache", "Medication Overuse Headache", "Intracranial Hypertension"],
+            "Movement Disorders": ["Parkinson's Disease", "Dystonia", "Essential Tremor", "Huntington's Disease", "Ataxia"],
+            "Neuroanatomy": ["Brain Structures", "Spinal Pathways", "Cranial Nerves", "Vascular Supply", "Functional Systems"],
+            "Neurogenetics": ["Hereditary Neuropathies", "Muscular Dystrophies", "Spinocerebellar Ataxias", "Neurometabolic Disorders", "Genetic Testing"],
+            "Neuroimmunology": ["Multiple Sclerosis", "Neuromyelitis Optica", "Autoimmune Encephalitis", "Myasthenia Gravis", "Paraneoplastic Syndromes"],
+            "Neuro-infectious": ["Meningitis", "Encephalitis", "Brain Abscess", "Neuroborreliosis", "HIV-Associated Neurological Disorders"],
+            "Neuro-oncology": ["Primary Brain Tumors", "CNS Metastases", "Paraneoplastic Syndromes", "Radiation Necrosis", "Chemotherapy Neurotoxicity"],
+            "Neuro-otology": ["Vertigo", "Meniere's Disease", "Vestibular Neuritis", "Auditory Neuropathy", "Balance Disorders"],
+            "Neuroophthalmology": ["Optic Neuritis", "Papilledema", "Visual Field Defects", "Ocular Motility Disorders", "Nystagmus"],
+            "Neuropsychiatry": ["Depression in Neurological Disorders", "Conversion Disorder", "Psychosis", "Anxiety Disorders", "Behavioral Neurology"],
+            "Neurotoxicology": ["Heavy Metal Toxicity", "Carbon Monoxide Poisoning", "Medication-Induced Neuropathy", "Alcohol-Related Neurological Disorders", "Neurotoxins"],
+            "Neuromuscular": ["Myopathies", "Peripheral Neuropathies", "Neuromuscular Junction Disorders", "Anterior Horn Cell Diseases", "Muscular Dystrophies"],
+            "Pediatric Neurology": ["Developmental Disorders", "Epilepsy in Children", "Metabolic Disorders", "Neuromuscular Disorders", "Congenital Malformations"],
+            "Sleep Neurology": ["Obstructive Sleep Apnea", "Narcolepsy", "Restless Legs Syndrome", "Parasomnias", "Insomnia"],
+            "Vascular Neurology/Stroke": ["Ischemic Stroke", "Hemorrhagic Stroke", "TIA", "Cerebral Venous Thrombosis", "Aneurysms"]
+        };
+        
+        const topics = topicsBySpecialty[specialtyName] || ["Comprehensive Knowledge", "Clinical Skills", "Neurological Diagnosis", "Treatment Approaches", "Research Updates"];
+        
+        let topicsHtml = '<ul class="specialty-topics">';
+        topics.forEach(topic => {
+            topicsHtml += `<li><span class="topic-bullet"></span>${topic}</li>`;
+        });
+        topicsHtml += '</ul>';
+        
+        document.getElementById('specialty-key-topics').innerHTML = topicsHtml;
+        
+        // Generate study strategy
+        const strategy = `
+            <ul class="study-strategy">
+                <li>Focus on high-yield topics specific to ${specialtyName}</li>
+                <li>Create flashcards for key concepts and pathways</li>
+                <li>Study clinical presentations and diagnostic criteria</li>
+                <li>Review recent guidelines and landmark studies</li>
+                <li>Practice with timed MCQ sessions to build testing endurance</li>
+            </ul>
+        `;
+        
+        document.getElementById('specialty-strategy').innerHTML = strategy;
+        
+        // Style the bullets based on specialty color
+        const bullets = document.querySelectorAll('.topic-bullet');
+        bullets.forEach(bullet => {
+            bullet.style.display = 'inline-block';
+            bullet.style.width = '8px';
+            bullet.style.height = '8px';
+            bullet.style.borderRadius = '50%';
+            bullet.style.backgroundColor = specialtyInfo.color || '#6b46c1';
+            bullet.style.marginRight = '8px';
+        });
+    }
+});
+</script>
+{% endblock %}

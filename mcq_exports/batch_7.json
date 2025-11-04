@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits changes in eating habits towards sweet foods. Imaging shows changes consistent with frontotemporal dementia (FTD). What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "77-year-old man came with his wife to the clinic with a 3-year history of personality changes and cognitive impairment. She reported that he keeps seeing small animals around him and he moves a lot while he is sleeping. There are days when he is extremely confused and agitated and days when he is closer to his prior baseline. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "The same imaging findings as previous but with agrammatic aphasia are present. What is the diagnosis?",
+    "options": {
+      "A": "Frontotemporal dementia (FTD)",
+      "B": "Alzheimer's disease",
+      "C": "Vascular dementia",
+      "D": "Prion disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "male patient was brought to the hospital by his wife for forgetfulness issues. He has difficulty with speech expression with his friends, which has made his social life difficult. On examination, he couldn\u2019t recall 3 items on the MMSE. He has impaired naming and repetition, with intact comprehension. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "In the context of primary progressive aphasia, which of the following is true regarding the semantic variant (PPA-S)?",
+    "options": {
+      "A": "It affects fluency and grammar",
+      "B": "It is associated with impairments of object naming and word comprehension",
+      "C": "It is due to right temporal atrophy",
+      "D": "It is characterized by severe dysarthria"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits changes in eating habits towards sweet foods. Imaging shows changes consistent with frontotemporal dementia (FTD). What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with apathy and cerebral atrophy, along with changes in eating habits. Imaging from a PET scan and brain MRI shows decreased metabolism in the frontal and temporal lobes, particularly in the left frontal lobe. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "77-year-old man came with his wife to the clinic with a 3-year history of personality changes and cognitive impairment. She reported that he keeps seeing small animals around him and he moves a lot while he is sleeping. There are days when he is extremely confused and agitated and days when he is closer to his prior baseline. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "What is the pathology associated with ALS-FTD?",
+    "options": {
+      "A": "TDP-43",
+      "B": "Tau protein",
+      "C": "Ubiquitin",
+      "D": "SOD1"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "In a patient with mild cognitive impairment who is still independent, what is the most appropriate management option?",
+    "options": {
+      "A": "Donepezil",
+      "B": "Lifestyle modification",
+      "C": "Memantine",
+      "D": "Rivastigmine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "In a patient with Alzheimer\u2019s Dementia, what is the most common symptom observed?",
+    "options": {
+      "A": "Apathy",
+      "B": "Delusion",
+      "C": "Memory loss",
+      "D": "Disorientation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "In Alzheimer\u2019s dementia, which gene mutation is related to earlier onset?",
+    "options": {
+      "A": "APP",
+      "B": "APOE",
+      "C": "PSEN1",
+      "D": "PSEN2"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "Alzheimer\u2019s dementia is most commonly related to which gene mutation?",
+    "options": {
+      "A": "APP",
+      "B": "APOE",
+      "C": "PSEN1",
+      "D": "PSEN2"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q243",
+    "question_text": "What is the second most common cause of dementia?",
+    "options": {
+      "A": "Vascular dementia",
+      "B": "Dementia with Lewy bodies",
+      "C": "Frontotemporal dementia (FTD)",
+      "D": "Alzheimer's disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q292",
+    "question_text": "What is the LBD PET finding associated with?",
+    "options": {
+      "A": "Occipital hypometabolism",
+      "B": "Frontal hypometabolism",
+      "C": "Temporal hypometabolism",
+      "D": "Parietal hypometabolism"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q281",
+    "question_text": "",
+    "options": {
+      "A": "long scenario describes a male with behavior issues, myoclonus, and ataxia for 3 months, along with dementia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q322",
+    "question_text": "An Alzheimer\u2019s patient presents with depression symptoms (sadness, insomnia) and agitation. What medication would you give?",
+    "options": {
+      "A": "Cipralex",
+      "B": "Trazodone",
+      "C": "Quetiapine",
+      "D": "Rivastigmine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q331",
+    "question_text": "Which of the following suggests Alzheimer Disease (AD) rather than Lewy Body Dementia (LBD)?",
+    "options": {
+      "A": "Staring into space for long periods",
+      "B": "Visual hallucinations",
+      "C": "Parkinsonian motor features",
+      "D": "Anterograde memory loss"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q399",
+    "question_text": "In the context of Alzheimer's Disease (AD), which medication is considered first-line for hallucinations and agitation?",
+    "options": {
+      "A": "Quetiapine",
+      "B": "Clozapine",
+      "C": "Trazodone",
+      "D": "Rivastigmine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q288",
+    "question_text": "What clinical features help to distinguish Dementia with Lewy Bodies (DLB) from Alzheimer Disease (AD)?",
+    "options": {
+      "A": "Fluctuations in cognitive function with varying levels of alertness and attention",
+      "B": "Visual hallucinations",
+      "C": "Parkinsonian motor features",
+      "D": "Anterograde memory impairment"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q227",
+    "question_text": "Rivastigmine is the only cholinesterase inhibitor FDA approved for use in which condition?",
+    "options": {
+      "A": "Alzheimer's disease",
+      "B": "Lewy body dementia",
+      "C": "Parkinson disease dementia",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "An Alzheimer patient presents with CSF results showing low amyloid beta and high tau levels. What does this indicate?",
+    "options": {
+      "A": "Alzheimer disease",
+      "B": "Normal aging",
+      "C": "Frontotemporal dementia",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "picture of ribboning is presented. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q325",
+    "question_text": "",
+    "options": {
+      "A": "husband reported that his wife started to have gait instability that worsened over 5 years, becoming bed-bound and associated with elements of dementia. Which condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "What is the best test to check cognitive impairment with Mild Cognitive Impairment (MCI)?",
+    "options": {
+      "A": "MOCA",
+      "B": "MMSE",
+      "C": "Serial seven",
+      "D": "Clock Drawing Test"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  }
+]

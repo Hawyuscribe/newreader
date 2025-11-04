@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "young patient with a history of CNS infection presents with fever and CSF pleocytosis. Cultures and gram stains are negative, and HSV PCR is also negative. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "In a patient with HIV presenting with progressive multifocal leukoencephalopathy (PML), what is the recommended treatment?",
+    "options": {
+      "A": "HAART",
+      "B": "Steroids",
+      "C": "Intravenous immunoglobulin (IVIG)",
+      "D": "Antiviral therapy with acyclovir"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "Oculomasticatory myorhythmia is diagnosed by which of the following?",
+    "options": {
+      "A": "CSF analysis",
+      "B": "MRI",
+      "C": "Jejunal biopsy",
+      "D": "EEG"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with weight loss and fever. MRI shows a frontal epidural collection. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "What is the duration of acyclovir that will most likely decrease the chance of HSV recurrence?",
+    "options": {
+      "A": "21 days",
+      "B": "24 days",
+      "C": "14 days",
+      "D": "10 days"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "young Indian lady, who works as a nurse, was brought by her friend complaining of a headache for a few days, then developed new-onset seizures. An MRI of the brain showed multiple cysts. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "An HIV patient has an MRI that is typical for toxoplasmosis. What is the recommended treatment?",
+    "options": {
+      "A": "Start trimethoprim-sulfamethoxazole",
+      "B": "Praziquantel",
+      "C": "Doxycycline",
+      "D": "Pyrimethamine with sulfadiazine"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q172",
+    "question_text": "An HIV patient who is non-compliant with his medication has an MRI that showed non-enhanced posterior hyperintensities. What is the treatment?",
+    "options": {
+      "A": "HAART",
+      "B": "Fluconazole",
+      "C": "Corticosteroids",
+      "D": "Intravenous immunoglobulin"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "Patient with decreased level of consciousness and signs of meningitis. CSF positive VDRL, how to treat?",
+    "options": {
+      "A": "IV Penicillin G 4g Q4hrs for 2 weeks",
+      "B": "IM Penicillin G 2.5g",
+      "C": "Bactrim",
+      "D": "IV Ceftriaxone 2g daily for 10 days"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "19-year-old man is hospitalized in a psychiatric ward after developing visual and auditory hallucinations. He has a seizure soon after being admitted and is transferred to the emergency room. There, he is postictal and noted to have a fever and meningeal signs. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "Patient presented with bilateral facial weakness, and image of erythema migrans. He had a trip to the US for hiking. CSF was done, showed lymphocytosis, how to treat? (No doxycycline)",
+    "options": {
+      "A": "Ceftriaxone",
+      "B": "Amoxicillin",
+      "C": "Azithromycin",
+      "D": "Penicillin G"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "",
+    "options": {
+      "A": "patient from India is found to have schistosomiasis. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old man is seen in the emergency department for evaluation of retinal hemorrhage, hepatosplenomegaly, headache, fever every 3 days, and right arm weakness. On examination, his temperature is 38.1\u00b0C. He has some weakness of the right arm; otherwise, his examination is non-focal. He recently arrived from Africa. Which of the following is a highly diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "female patient diagnosed with HIV came to the clinic for evaluation of possible associated peripheral neuropathy. What is the most common type of peripheral neuropathy associated with HIV?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with features of mucormycosis, including a black nasal mass with maxillary pain and bilateral cavernous sinus involvement. What is the mechanism of infection?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "",
+    "options": {
+      "A": "10- or 12-year-old female is brought by her family for complaints of progressive decline in school performance and abnormal behavior. Her family took her to a psychiatrist who prescribed antipsychotics. After that, her condition worsened and she became unresponsive. EEG showed periodic bursts. MRI of the brain showed large areas of a signal (diffuse cortical/subcortical) process. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "In the same scenario of mucormycosis, what is the recommended treatment?",
+    "options": {
+      "A": "Fluconazole",
+      "B": "Amphotericin",
+      "C": "Voriconazole",
+      "D": "Caspofungin"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "In the case of HSV encephalitis, what is the recommended duration of Acyclovir treatment?",
+    "options": {
+      "A": "14 days",
+      "B": "21 days",
+      "C": "28 days",
+      "D": "30 days"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "young male presented with headache and fever. A CT of the brain was normal. A lumbar puncture was performed, and CSF analysis showed WBCs 48, RBCs 780, normal protein, and glucose. What is the most likely interpretation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "",
+    "options": {
+      "A": "patient with meningitis, who came from Alhaj, was found to have meningococcal meningitis. What is the appropriate prophylactic antibiotic for close contacts?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "",
+    "options": {
+      "A": "young Saudi male, studying in Africa, just returned with symptoms of radiculopathy. CSF analysis showed eosinophilia, and MRI revealed hyperintense conus medullaris. Diagnosis of Schistosomiasis was confirmed by lab workup. What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old man is seen in the emergency department for evaluation of retinal hemorrhage, hepatosplenomegaly, headache, fever every 3 days, and right arm weakness. On examination, his temperature is 38.1\u00b0C. He has some weakness of the right arm; otherwise, his examination is non-focal. He recently arrived from Africa. Which of the following is a highly diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "female patient diagnosed with HIV came to the clinic for evaluation of possible associated peripheral neuropathy. What is the most common type of peripheral neuropathy associated with HIV?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with features of mucormycosis, including a black nasal mass with maxillary pain and bilateral cavernous sinus involvement. What is the mechanism of infection?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "",
+    "options": {
+      "A": "10- or 12-year-old female is brought by her family for complaints of progressive decline in school performance and abnormal behavior. Her family took her to a psychiatrist who prescribed antipsychotics. After that, her condition worsened and she became unresponsive. EEG showed periodic bursts. MRI of the brain showed large areas of a signal (diffuse cortical/subcortical) process. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

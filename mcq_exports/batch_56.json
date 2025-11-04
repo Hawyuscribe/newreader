@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of breast cancer presents with weight loss and loss of sensation in the medial forearm. Which trunk is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "male known case of testicular cancer presented with encephalitis. Which antibodies might be involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q208",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a brain tumor, and his first-degree relative had a history of spine tumor and persisting high blood pressure. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with proptosis and decreased eye movements, and he has brown pigmentations. What is the diagnosis of his eye condition? (Pigmentations likely suggest NF1)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "Brun's nystagmus localizes to the cerebellopontine angle (CPA) and is most commonly indicative of what?",
+    "options": {
+      "A": "Schwannoma",
+      "B": "Aneurysm",
+      "C": "Arachnoid cyst",
+      "D": "Meningioma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "An elderly patient with a history of pituitary adenoma found on multiple brain MRIs had decreased vision in the right eye and visual field deficits in the left eye. Where is the lesion?",
+    "options": {
+      "A": "Anterior chiasm",
+      "B": "Optic chiasm",
+      "C": "Optic tract",
+      "D": "Optic nerve"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q380",
+    "question_text": "In Foster Kennedy syndrome with right optic atrophy, where is the lesion located?",
+    "options": {
+      "A": "Right frontal mass",
+      "B": "Left frontal mass",
+      "C": "Right temporal lobe mass",
+      "D": "Left occipital lobe mass"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with proptosis and decreased eye movements, and he has brown pigmentations. What is the diagnosis of his eye condition? (Pigmentations likely suggest NF1)"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "Pilocytic astrocytoma",
+      "B": "Medulloblastoma",
+      "C": "Ependymoma",
+      "D": "Oligodendroglioma"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "An 8-year-old girl with a pineal gland tumor and obstructive hydrocephalus is being examined. What is expected to be found in her neuro-ophthalmological exam?",
+    "options": {
+      "A": "Convergence-retraction nystagmus",
+      "B": "Oculogyric crisis",
+      "C": "Internuclear ophthalmoplegia",
+      "D": "Optic neuritis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "young female presented with a severe headache; CT imaging shows pituitary apoplexy. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "patient presented to the ER with vertigo and vomiting. What is the feature that can differentiate peripheral from central causes of vertigo?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "In a case of central vertigo, which of the following is true?",
+    "options": {
+      "A": "No latency",
+      "B": "Severe",
+      "C": "Direction-changing nystagmus",
+      "D": "Non-fatigable nystagmus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "patient has vertical and torsional nystagmus. What is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "",
+    "options": {
+      "A": "young patient is complaining of hearing impairment. She has ataxia, dizziness, and nystagmus. Her sister has dizziness and depression, and the head impulse test is normal. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q180",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female presented with visual blurring and is diagnosed with Brun's nystagmus... The large-amplitude nystagmus is caused by compression of which structure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q246",
+    "question_text": "",
+    "options": {
+      "A": "patient with benign paroxysmal positional vertigo (BPPV), what is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q294",
+    "question_text": "Central nystagmus vs peripheral nystagmus will exhibit which of the following characteristics?",
+    "options": {
+      "A": "Torsional horizontal",
+      "B": "Absent latency",
+      "C": "Fatigability with fixation",
+      "D": "Direction-changing nystagmus"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q364",
+    "question_text": "Which of the following structures is most likely to be abnormal on VRE in a patient with oscillopsia?",
+    "options": {
+      "A": "Left inferior cerebellar peduncle",
+      "B": "Left inferior olive",
+      "C": "Optic chiasm",
+      "D": "Right brachium conjunctivum"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q400",
+    "question_text": "What supports central nystagmus rather than peripheral nystagmus?",
+    "options": {
+      "A": "Absence of latency",
+      "B": "Severe nausea and vomiting",
+      "C": "Disappearance and loss with visual fixation",
+      "D": "Direction-changing nystagmus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro otology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q291",
+    "question_text": "Between the optic tract and the visual cortex, which structure is located?",
+    "options": {
+      "A": "Lateral geniculate body",
+      "B": "Medial geniculate body",
+      "C": "Superior colliculus",
+      "D": "Pulvinar nucleus"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "Prosopagnosia is primarily associated with which brain region?",
+    "options": {
+      "A": "Temporo-occipital gyrus",
+      "B": "Prefrontal cortex",
+      "C": "Parietal lobe",
+      "D": "Hippocampus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with 3rd nerve palsy and ipsilateral ataxia. Where is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "patient has tongue deviation to the left. Which area of the brain is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "Which area of the brain is primarily associated with prosopagnosia, the inability to recognize faces?",
+    "options": {
+      "A": "Temporal",
+      "B": "Parietal",
+      "C": "Frontal",
+      "D": "Occipito-temporal"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  }
+]

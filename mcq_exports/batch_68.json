@@ -1,0 +1,384 @@
+[
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "child presents with symptoms suggestive of multiple sclerosis (MS). What is the most significant risk factor for developing MS?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "Intravenous methylprednisolone (1,000 mg for 5 days)",
+      "B": "Plasma exchange for severe or refractory deficits",
+      "C": "A slow prednisone tapered therapy",
+      "D": "Oral azathioprine maintenance therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "Anti-GLUR3",
+      "B": "Anti-NMDA",
+      "C": "Anti-GAD",
+      "D": "Anti-CASPR2"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "Observe",
+      "B": "Start treatment",
+      "C": "Perform MRI after 3 months",
+      "D": "Refer for physical therapy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "Start Natalizumab",
+      "B": "Continue Interferon",
+      "C": "Start Glatiramer acetate",
+      "D": "Start corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "Stiff person syndrome",
+      "B": "Multiple sclerosis",
+      "C": "Parkinson\u2019s disease",
+      "D": "Amyotrophic lateral sclerosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "ACE level",
+      "B": "JC virus PCR",
+      "C": "Anti-JCV antibodies",
+      "D": "Repeat MRI in 3 months"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "Multiple Sclerosis",
+      "B": "Sarcoidosis",
+      "C": "Neuromyelitis Optica",
+      "D": "Amyotrophic Lateral Sclerosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "Anti-GQ",
+      "B": "Anti-GM",
+      "C": "Anti-ganglionic Acetylcholine antibody",
+      "D": "Anti-Hu antibody"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "",
+    "options": {
+      "A": "Susac syndrome",
+      "B": "Kearns-Sayre syndrome",
+      "C": "Multiple Sclerosis",
+      "D": "Myasthenia Gravis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "72%",
+      "D": "0%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "Leg weakness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "0.2%",
+      "B": "16%",
+      "C": "2%",
+      "D": "90%"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "",
+    "options": {
+      "A": "Use is encouraged",
+      "B": "Use should be avoided if possible",
+      "C": "Use is mandatory",
+      "D": "No recommendation is given"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "",
+    "options": {
+      "A": "Pulse steroid course",
+      "B": "Beta-interferon therapy",
+      "C": "Amantadine",
+      "D": "Plasma exchange"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with multiple sclerosis and started on disease-modifying therapy (DMT) one year later had a relapse. MRI shows long extensive spinal hyperintensity of the spinal cord with an axial view showing a trident sign. What is the pathophysiology of this diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old with symptoms of optic neuritis and brain MRI showing bilateral extensive enhancement in the optic nerve, with the rest of the MRI normal, what is the diagnosis? (No NMOSD in the choices)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "",
+    "options": {
+      "A": "Start fingolimod",
+      "B": "Start beta interferon",
+      "C": "Observation while doing more confirmatory tests",
+      "D": "Reassure her"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "",
+    "options": {
+      "A": "Cleft palate",
+      "B": "Transient leukocytosis",
+      "C": "Immunosuppression",
+      "D": "Premature labor"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "",
+    "options": {
+      "A": "patient with one clinical attack of multiple sclerosis has:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "",
+    "options": {
+      "A": "No disease-modifying therapy (DMT)",
+      "B": "Start DMT",
+      "C": "Observation only",
+      "D": "Immediate hospitalization"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q158",
+    "question_text": "",
+    "options": {
+      "A": "Multiple Sclerosis",
+      "B": "Clinically Isolated Syndrome (CIS)",
+      "C": "Radiologically Isolated Syndrome (RIS)",
+      "D": "Neuromyelitis Optica"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "",
+    "options": {
+      "A": "7-year-old boy has recurrent focal seizures involving the right side of his body. Sometimes, these evolve to epilepsia partialis continua. On examination, he has right-sided weakness and his MRI shows perisylvian atrophy. Which of the following antibodies is likely to be present in his CSF?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "",
+    "options": {
+      "A": "Fingolimod",
+      "B": "Teriflunomide",
+      "C": "Natalizumab",
+      "D": "Dimethyl fumarate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "",
+    "options": {
+      "A": "Microglia",
+      "B": "Neurons",
+      "C": "Oligodendrocytes",
+      "D": "Astrocytes"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

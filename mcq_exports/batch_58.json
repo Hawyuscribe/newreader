@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q259",
+    "question_text": "Frontal operculum",
+    "options": {
+      "A": "Is part of the primary visual cortex",
+      "B": "Contains Broca\u2019s area involved in speech production",
+      "C": "Is located in the occipital lobe",
+      "D": "Is primarily responsible for balance and coordination"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q213",
+    "question_text": "Which type of aphasia is similar to that seen in thalamic lesions?",
+    "options": {
+      "A": "Transcortical sensory aphasia",
+      "B": "Broca's aphasia",
+      "C": "Wernicke's aphasia",
+      "D": "Global aphasia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q414",
+    "question_text": "An 18-year-old female presents with hearing loss and vision loss. What will you see on MRI?",
+    "options": {
+      "A": "Corpus callosum lesion",
+      "B": "Cerebellar atrophy",
+      "C": "Temporal lobe sclerosis",
+      "D": "Brainstem demyelination"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "In a scenario of Broca's aphasia, where is the lesion typically located?",
+    "options": {
+      "A": "Frontal lobe",
+      "B": "Frontoparietal operculum",
+      "C": "Temporal lobe",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "What is the localization of laryngeal spasms?",
+    "options": {
+      "A": "Insula",
+      "B": "Amygdala",
+      "C": "Frontal lobe",
+      "D": "Temporal lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "In a case scenario about Weber's syndrome, where is the lesion located?",
+    "options": {
+      "A": "Midbrain basis",
+      "B": "Medulla",
+      "C": "Pons",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q238",
+    "question_text": "",
+    "options": {
+      "A": "patient with headache, MRI showed a picture of Arnold Chiari malformation. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with Broca\u2019s aphasia. What is the localization of the affected area?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old man developed ankle dorsiflexion weakness, and sensation over the dorsum of the foot was decreased. What structure is most likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "In a case of alexia without agraphia with a visual field defect, the lesion is located in:",
+    "options": {
+      "A": "Angular gyrus",
+      "B": "Splenium of corpus callosum",
+      "C": "Left occipital lobe",
+      "D": "Posterior limb of internal capsule"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "Prosopagnosia localization is associated with which area of the brain?",
+    "options": {
+      "A": "Frontal lobe",
+      "B": "Parietal lobe",
+      "C": "Corpus callosum",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q281",
+    "question_text": "What is the location of the olfactory gyrus?",
+    "options": {
+      "A": "Parahippocampal gyrus",
+      "B": "Hippocampus",
+      "C": "Cingulate gyrus",
+      "D": "Fusiform gyrus"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "Which language disorder is associated with Gerstmann syndrome?",
+    "options": {
+      "A": "Broca's aphasia",
+      "B": "Anomia",
+      "C": "Transcortical motor aphasia",
+      "D": "Alexia without agraphia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q512",
+    "question_text": "Which of the following thalamic structures connects the optic tracts to the visual cortex?",
+    "options": {
+      "A": "Lateral geniculate",
+      "B": "Pulvinar nucleus",
+      "C": "Medial geniculate",
+      "D": "Ventral posterior nucleus"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a clear description of left fourth cranial nerve palsy and a head tilted to the right. Where is the lesion located in the brainstem?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old female presented to the clinic with a history of progressive bilateral upper limb decrease in pain sensation, with no weakness. Examination was significant for decreased pinprick sensation bilaterally over the upper limbs. Motor and vibration sensation were intact. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "What is the characteristic feature of syringomyelia?",
+    "options": {
+      "A": "Fluid-filled cyst in the spinal cord parenchyma",
+      "B": "Cystic expansion of the central canal with ependymal lining preserved",
+      "C": "Disruption of the ependyma",
+      "D": "Cavitation within the spinal cord without ependymal lining"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "In the lateral geniculate nucleus (LGN), visual information from the ipsilateral eye synapses in which layers?",
+    "options": {
+      "A": "1, 4, 6",
+      "B": "2, 3, 5",
+      "C": "1, 2, 3",
+      "D": "4, 5, 6"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "In Wernicke's Aphasia, the lesion is located in:",
+    "options": {
+      "A": "Posteroinferior perisylvian",
+      "B": "Posterior perisylvian",
+      "C": "Frontoparietal operculum",
+      "D": "Broca's area"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "What is the Schaffer collateral?",
+    "options": {
+      "A": "Entorhinal cortex to CA1.",
+      "B": "CA3 pyramidal neurons to CA1 pyramidal neurons.",
+      "C": "Dentate gyrus granule cells to CA3 pyramidal neurons.",
+      "D": "CA1 pyramidal neurons to subiculum."
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "lesion of the facial nerve in the stylomastoid foramen leads to which of the following?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "Which muscle is supplied by the 12th cranial nerve?",
+    "options": {
+      "A": "Hyoid muscle",
+      "B": "Iliopsoas",
+      "C": "Quadriceps",
+      "D": "Obturator internus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "patient came with Broca\u2019s aphasia. What is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with symptoms of bilateral lower limb weakness, loss of all sensory modalities up to the umbilicus, and bladder involvement. Where is the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with third nerve palsy and ipsilateral ataxia. Which of the following syndromes is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  }
+]

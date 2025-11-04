@@ -1,0 +1,716 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "99993086",
+    "fields": {
+      "question_number": "312",
+      "question_text": "Patient with tongue deviation to the left side and ptosis in his left upper eyelid, what is the artery involved?",
+      "options": {
+        "A": "ICA"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "This question tests knowledge of brainstem vascular territories. A patient presenting with ipsilateral tongue deviation implies a lesion of the hypoglossal nerve (CN XII) or its nucleus in the medulla, and ipsilateral ptosis suggests disruption of sympathetic fibers, often seen in Horner syndrome. These findings together point toward a combined medullary involvement that is typically seen with a vertebral artery insult.",
+        "pathophysiology": "The vertebral artery and its branches supply both the medial and lateral parts of the medulla. Infarction in this region can affect the hypoglossal nucleus (resulting in tongue deviation toward the lesion) and the adjacent descending sympathetic fibers (leading to ptosis as part of Horner syndrome). This pattern may result from vertebral artery dissection or thrombosis compromising both the paramedian branches (feeding the medial medulla) and the branches (such as PICA, which supplies the lateral medulla) when the occlusion is proximal enough to affect both territories.",
+        "clinical_correlation": "Clinically, patients may present with tongue deviation toward the side of the lesion due to ipsilateral hypoglossal nerve involvement, while ptosis is a hallmark of associated Horner syndrome. This constellation of signs should prompt imaging workup for medullary infarction, with attention to the vertebral artery.",
+        "diagnostic_approach": "Initial evaluation involves non-contrast CT to rule out hemorrhage, followed by MRI with diffusion‐weighted imaging and vascular imaging (MRA, CTA, or DSA) to confirm an infarct and assess the integrity of the vertebral artery. Differential diagnoses include isolated medial medullary syndrome (usually from anterior spinal artery occlusion) and lateral medullary (Wallenberg) syndrome, but the combined features point toward vertebral artery pathology.",
+        "classification_and_neurology": "The condition falls within the **ischemic stroke syndromes** classified by vascular territory involvement. The internal carotid artery stroke is categorized under large vessel occlusion strokes in the TOAST classification system, which stratifies ischemic strokes by etiology: large artery atherosclerosis, cardioembolism, small vessel occlusion, other determined etiology, and undetermined etiology.   This patient’s presentation aligns with a large artery atherosclerosis affecting the ICA and its branches. The classification helps guide diagnosis and management.   Controversies exist regarding the precise boundaries of vascular territories and overlap syndromes, but consensus supports the ICA as the primary artery involved in such combined cranial nerve deficits.",
+        "classification_and_nosology": "This presentation falls under the category of posterior circulation stroke. It may be classified as a brainstem stroke with overlapping features of medial medullary syndrome (tongue deviation from CN XII involvement) and lateral medullary syndrome (ptosis from disrupted sympathetic fibers).",
+        "management_principles": "Acute management follows standard ischemic stroke protocols: rapid neuroimaging, consideration of thrombolysis or endovascular intervention (if within the therapeutic window), and aggressive management of vascular risk factors. In cases of vertebral artery dissection, antithrombotic therapy (anticoagulants or antiplatelets) is indicated. In pregnant or lactating women, treatment decisions are made cautiously; intravenous thrombolysis may be considered if the benefits outweigh risks, and antithrombotic agents with established safety profiles in pregnancy (e.g., low-dose aspirin) might be used.",
+        "option_analysis": "Option A (ICA) is incorrect as the internal carotid artery supplies the anterior circulation and does not primarily supply the medulla. The marked answer D implies the vertebral artery, which is the correct vessel implicated as it supplies the medullary regions containing both the hypoglossal nucleus and the descending sympathetic fibers.",
+        "clinical_pearls": "1. Ipsilateral tongue deviation indicates a lesion of the hypoglossal nucleus or nerve; 2. Ptosis in the setting of brainstem stroke should prompt consideration of an associated Horner syndrome from lateral medullary involvement; 3. Combined medial and lateral medullary signs are highly suggestive of vertebral artery pathology.",
+        "current_evidence": "Recent studies underscore the importance of early vascular imaging in brainstem strokes. Advances in endovascular treatments and refined criteria for thrombolysis are improving outcomes in vertebral artery-related strokes. Current stroke guidelines emphasize detailed evaluation of the posterior circulation, especially in cases demonstrating mixed medullary findings."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993087",
+    "fields": {
+      "question_number": "313",
+      "question_text": "Brain CT showing right SCA territory infarction (level of midbrain) and asked about the artery",
+      "options": {
+        "A": "SCA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "This question focuses on the identification of the vascular territory involved in a midbrain infarction seen on CT. The Superior Cerebellar Artery (SCA) supplies not only portions of the cerebellum but also parts of the midbrain, making it the target vessel in SCA territory infarctions.",
+        "pathophysiology": "Occlusion of the SCA, which originates from the basilar artery near the rostral pons, can lead to infarction of the superior aspect of the cerebellum and nearby midbrain structures. This disruption of blood flow results in localized ischemia and consequent neurological deficits.",
+        "clinical_correlation": "Patients with SCA territory infarction may present with ataxia, dysmetria, and sometimes ocular motor disturbances if adjacent midbrain structures are compromised. The CT finding localizes the infarct to the SCA territory at the level of the midbrain, correlating with these clinical findings.",
+        "diagnostic_approach": "After an initial non-contrast CT to exclude hemorrhage, MRI with diffusion-weighted imaging provides better detail of the infarction. Vascular imaging such as MRA or CTA is used to confirm occlusion of the SCA. Differential diagnoses include infarctions in adjacent territories such as the posterior cerebral artery (PCA) territory, but the CT localization helps narrow the diagnosis.",
+        "classification_and_neurology": "SCA infarctions are classified under **posterior circulation strokes**, which include infarcts in territories supplied by the vertebral, basilar, posterior cerebral, and cerebellar arteries (including SCA, anterior inferior cerebellar artery [AICA], and posterior inferior cerebellar artery [PICA]).  The TOAST classification system categorizes ischemic strokes based on etiology (large artery atherosclerosis, cardioembolism, small vessel occlusion, other determined cause, and undetermined cause), which applies to SCA strokes as well. The SCA infarct falls under large artery or cardioembolic strokes depending on the mechanism.   Historically, cerebellar strokes were less well understood but are now recognized as distinct entities with specific clinical and radiologic features. The current consensus emphasizes detailed vascular territory localization to guide management.",
+        "classification_and_nosology": "This infarct is categorized as a posterior circulation stroke. Strokes involving the SCA are less common than other posterior circulation events but have a distinct vascular supply and clinical presentation.",
+        "management_principles": "Management of SCA infarcts follows standard ischemic stroke guidelines: prompt reperfusion therapy (if within the window), supportive care, and secondary prevention with antithrombotic therapy and risk factor modification. In pregnant or lactating patients, thrombolytics may be used with careful consideration of maternal and fetal risks, and antiplatelet agents with safety data in pregnancy are preferred.",
+        "option_analysis": "Option A, which identifies the Superior Cerebellar Artery as the vessel involved, is correct. Other potential options (not provided) would involve vessels not supplying this region (e.g., posterior cerebral or anterior inferior cerebellar arteries), making Option A the best choice in this scenario.",
+        "clinical_pearls": "1. The SCA supplies the rostral cerebellum and parts of the midbrain; 2. Infarction in this territory can lead to cerebellar ataxia and coordination deficits; 3. Accurate vascular localization on imaging is key to guiding appropriate management.",
+        "current_evidence": "Current stroke guidelines recommend detailed imaging of the posterior circulation in suspected SCA infarcts. Emerging endovascular techniques and improved MRI protocols are enhancing early diagnosis and management of these less common strokes."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_6.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993088",
+    "fields": {
+      "question_number": "314",
+      "question_text": "74-year-old male with CT brain image showing large hemorrhage in the cortex what to do next",
+      "options": {
+        "A": "(MRI): Though MRI (especially with SWI) is sensitive for detecting microbleeds and cavernous malformations, it is not the first",
+        "B": "(CTA): CTA is a rapid, non",
+        "C": "(Conventional angiography"
+      },
+      "correct_answer": "c",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "This question addresses the appropriate next step in the evaluation of a large cortical hemorrhage in a 74-year-old male, with suspicion for an underlying vascular malformation (e.g., cerebral angiodysplasia). The stepwise diagnostic process is critical for planning further therapeutic interventions.",
+        "pathophysiology": "A large cortical hemorrhage in an elderly patient may be due to rupture of abnormal vascular structures such as arteriovenous malformations (AVMs) or cavernous malformations. The vulnerability of these malformed vessels to bleeding necessitates detailed vascular imaging to delineate the lesion’s architecture and hemodynamics.",
+        "clinical_correlation": "Clinically, patients with cortical hemorrhages may present acutely with focal neurological deficits, headache, or seizures. When imaging reveals a cortical bleed, it is important to consider vascular malformations as a cause, especially in the absence of other risk factors such as severe hypertension.",
+        "diagnostic_approach": "Initial evaluation begins with a non-contrast CT to identify hemorrhage. While MRI (with specialized sequences like SWI) and CTA can provide additional information, conventional digital subtraction angiography (DSA) remains the gold standard for detailed visualization of cerebral vasculature, particularly in the assessment of complex vascular malformations. Differential diagnoses include hypertensive hemorrhage, amyloid angiopathy, or hemorrhagic transformation of an ischemic stroke, but the cortical location raises suspicion for an underlying malformation.",
+        "classification_and_neurology": "Intracerebral hemorrhages are classified based on location, etiology, and underlying pathology. The primary classification separates hemorrhages into lobar (cortical), deep (basal ganglia, thalamus), brainstem, and cerebellar. Etiologically, ICH is divided into hypertensive, amyloid angiopathy-related, vascular malformations (AVMs, cavernous malformations, dural arteriovenous fistulas), neoplastic, coagulopathic, and traumatic. The diagnosis of vascular malformations falls under the cerebrovascular disease category in the WHO classification of neurological disorders. Over time, advanced imaging modalities have refined classification by allowing identification of specific vascular lesions. Controversies remain regarding the classification of certain small vascular lesions and their hemorrhagic risk, but consensus supports angiographic evaluation to guide management.",
+        "classification_and_nosology": "Intracerebral hemorrhages are classified based on location (lobar vs. deep) and etiology (hypertensive, amyloid, vascular malformation). A large cortical hemorrhage in an elderly patient with suspected vascular malformation is best evaluated further by categorizing the lesion based on DSA findings.",
+        "management_principles": "Once a vascular malformation is identified, management may include endovascular embolization, surgical resection, or radiosurgery, guided by the lesion’s size, location, and vascular supply. In the acute setting, managing intracranial pressure and stabilizing the patient are priorities. For pregnant or lactating patients, imaging modalities that minimize radiation exposure are preferred; however, if DSA is indicated, appropriate shielding and risk–benefit analysis must be performed, as maternal neurological stability is paramount.",
+        "option_analysis": "• Option a (MRI): Though MRI (especially with SWI) is sensitive for detecting microbleeds and cavernous malformations, it is not the first-line test in the emergent evaluation of a large cortical hemorrhage due to limited availability and potential to miss high-flow abnormalities. \n• Option b (CTA): CTA is a rapid, non-invasive method but may not detect all subtleties of small or complex vascular malformations. \n• Option c (Conventional angiography - DSA): This option is correct because DSA is the gold standard, providing high-resolution and dynamic imaging necessary for detailed assessment of the lesion and for planning therapeutic interventions.",
+        "clinical_pearls": "1. In cortical hemorrhages, always consider an underlying vascular malformation; 2. DSA remains the definitive imaging technique for complex cerebrovascular evaluations; 3. Quick and accurate vascular assessment guides appropriate management and improves outcomes.",
+        "current_evidence": "Recent guidelines and studies have reinforced the use of DSA in cases of lobar hemorrhage with suspicion for vascular malformations. Emerging techniques in interventional neuroradiology continue to improve the safety and efficacy of endovascular treatments following DSA-based diagnosis."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json",
+      "image_url": "page_27.png"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993089",
+    "fields": {
+      "question_number": "315",
+      "question_text": "Patient post MVA came with symptoms of lateral medullar, mechanism of stroke?",
+      "options": {
+        "A": ", which posits a mechanism involving vertebral artery injury leading to artery"
+      },
+      "correct_answer": "a",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "This question evaluates understanding of the mechanism of stroke following trauma, specifically in the context of lateral medullary syndrome. The lateral medulla is most commonly affected by occlusion of the Posterior Inferior Cerebellar Artery (PICA), which itself is often compromised secondary to vertebral artery injury.",
+        "pathophysiology": "In patients following a motor vehicle accident (MVA), trauma can lead to injury of the vertebral artery. Such injury can result in dissection or intimal damage that promotes thrombus formation. The resulting artery-to-artery embolism can lodge in the branches of the vertebral artery (notably PICA) and cause ischemia in the lateral medulla, producing the classic symptoms of lateral medullary (Wallenberg) syndrome.",
+        "clinical_correlation": "Patients with lateral medullary syndrome typically present with a constellation of symptoms such as dysphagia, hoarseness, vertigo, ataxia, and loss of pain and temperature sensation on the ipsilateral face with contralateral body involvement. In the context of trauma, the mechanism of vertebral artery injury is highly relevant in explaining these clinical manifestations.",
+        "diagnostic_approach": "Diagnosis involves neuroimaging. CT and MRI help localize the infarct, while vascular imaging (CTA, MRA, or DSA) is essential to demonstrate vertebral artery injury and possible dissection. Differential diagnoses include cardioembolism, small vessel disease (typically causing lacunar infarcts), and venous thrombosis, but in trauma, vertebral artery dissection is most consistent with the presentation.",
+        "classification_and_neurology": "Lateral medullary syndrome is classified under ischemic strokes affecting the posterior circulation territory, specifically brainstem strokes. According to the TOAST classification, it falls under large artery atherosclerosis or artery-to-artery embolism if caused by vertebral artery dissection or thrombus. It is part of the broader category of brainstem infarcts, which are further subdivided by vascular territory (e.g., medial medullary, lateral medullary, pontine, midbrain strokes). The syndrome is named after Wallenberg, who first described the clinical features associated with lateral medullary infarction. The nosology has evolved with advances in neuroimaging, allowing more precise localization and identification of vascular lesions. While traditionally attributed to atherosclerosis, the recognition of traumatic vertebral artery dissection and artery-to-artery thromboembolism has refined the classification and understanding of its etiology. There remains some debate about subclassification based on etiology (dissection vs. atherosclerosis) but consensus supports artery-to-artery thrombus as a primary mechanism in trauma-related cases.",
+        "classification_and_nosology": "Lateral medullary syndrome is categorized as a posterior circulation stroke. When trauma is involved, the underlying etiology is typically arterial dissection with secondary thromboembolism.",
+        "management_principles": "Management includes stabilizing the patient, antithrombotic therapy (anticoagulation or antiplatelet therapy) to prevent further embolism, and close monitoring of neurological status. In cases of vertebral artery dissection, conservative management is often preferred. For pregnant and lactating patients, therapeutic choices should consider both maternal and fetal safety; for instance, low molecular weight heparin is often used due to its safety profile in pregnancy.",
+        "option_analysis": "Option a, which posits a mechanism involving vertebral artery injury leading to artery-to-artery thrombus formation, is correct. Other mechanisms such as cardioembolism, small vessel disease, or venous thrombosis are less consistent with the trauma-induced scenario and the specific vascular distribution of the lateral medulla.",
+        "clinical_pearls": "1. Lateral medullary syndrome (Wallenberg syndrome) is classically due to occlusion of PICA; in trauma, this is most often secondary to vertebral artery dissection. 2. Early vascular imaging is key in trauma patients to identify vertebral artery injury. 3. Management with antithrombotic therapy can prevent further embolic events in cases of arterial dissection.",
+        "current_evidence": "Recent literature emphasizes the importance of early recognition and treatment of vertebral artery dissection in the setting of trauma. Updated guidelines support the use of antithrombotic therapy and detailed vascular imaging (preferably DSA in complex cases) to guide management and improve outcomes in patients with lateral medullary syndrome."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993090",
+    "fields": {
+      "question_number": "316",
+      "question_text": "Acute stroke With CT image with no established stroke ASPECT 8? Was treated with tPA CTA done and prepared for thrombectomy then he vomited (increase ICP → (ICH)?) and become lethargic bp 180/110",
+      "options": {},
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "When managing an acute stroke patient who has received tPA, any sudden neurological deterioration must be evaluated immediately with imaging to determine complications, especially hemorrhagic transformation. The core concept is to use imaging as a decision-making tool before altering therapeutic measures.",
+        "pathophysiology": "Thrombolytic therapy can predispose patients to hemorrhagic transformation due to reperfusion injury. Vomiting and lethargy may indicate raised intracranial pressure secondary to bleeding. Additionally, high blood pressure can exacerbate hemorrhage by increasing the transmural capillary pressure, further compromising the blood-brain barrier.",
+        "clinical_correlation": "In the described case, the patient’s sudden deterioration (vomiting and lethargy) following tPA is highly concerning for hemorrhage. The clinical scenario necessitates a rapid, non‐contrast CT scan to distinguish between hemorrhagic transformation, malignant edema, or other complications.",
+        "diagnostic_approach": "The immediate diagnostic step is to obtain a non-contrast head CT to confirm or exclude intracranial hemorrhage. Differential diagnoses include hemorrhagic transformation (the most likely in this context), malignant cerebral edema post-stroke, or other intracranial events. Prompt imaging is vital to guide further interventions such as ceasing tPA or implementing controlled blood pressure reduction.",
+        "classification_and_neurology": "Acute ischemic stroke is classified under cerebrovascular diseases in the ICD-11 and the TOAST (Trial of Org 10172 in Acute Stroke Treatment) classification system, which categorizes ischemic stroke by etiology (large artery atherosclerosis, cardioembolism, small vessel occlusion, other determined cause, and undetermined cause). Hemorrhagic transformation is a secondary complication classified by radiological criteria (e.g., hemorrhagic infarction vs. parenchymal hematoma) and clinical severity. The management of acute ischemic stroke with reperfusion therapies is guided by clinical and imaging criteria, including ASPECTS for early ischemic changes and vessel imaging for thrombectomy candidacy. This case exemplifies the dynamic interplay between ischemic stroke classification and hemorrhagic complications.",
+        "classification_and_nosology": "This scenario falls under iatrogenic complications of thrombolytic therapy in acute ischemic stroke. It is classified as a potential hemorrhagic complication secondary to reperfusion injury, a recognized adverse event following tPA administration.",
+        "management_principles": "Based on the latest guidelines, after tPA administration, any clinical worsening should prompt an urgent CT scan. Once hemorrhage is confirmed, tPA must be stopped, and blood pressure should be managed carefully. Subsequent treatment may include reversal agents if available, neurosurgical consultation, and strict blood pressure control. In pregnant or lactating women, the benefits of rapid imaging and intervention outweigh potential risks; however, radiation exposure should be minimized with appropriate shielding if possible.",
+        "option_analysis": "Option (c) advocating for an immediate CT scan is the correct initial action. Option (b) (stopping tPA) and option (a) (decreasing blood pressure) are both important but should only be executed after imaging confirmation to avoid inappropriate management that might worsen ischemic injury. The marked answer (D) is therefore incorrect as it does not address the immediate diagnostic need.",
+        "clinical_pearls": "1. Neurological deterioration post-tPA mandates immediate non-contrast CT imaging to rule out hemorrhagic transformation. 2. Blood pressure and tPA management adjustments should be guided by imaging findings. 3. Timely diagnosis is crucial to modify therapy and prevent further complications.",
+        "current_evidence": "Recent studies and updated guidelines from the AHA/ASA emphasize the importance of prompt imaging to guide management in post-thrombolysis patients. Emerging evidence supports that immediate CT scanning improves outcomes by confirming the diagnosis of hemorrhage and ensuring targeted subsequent interventions."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993091",
+    "fields": {
+      "question_number": "317",
+      "question_text": "Patient with small left internal capsule infarction and right-sided weakness (not minor stroke) for 2 days found to have PFO (not mentioned if there was a specific feature of it) HTN with uncontrolled BP. What is the treatment?",
+      "options": {},
+      "correct_answer": "a",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Aspirin is a well-established first-line antiplatelet agent for secondary prevention in ischemic stroke, particularly in strokes resulting from small vessel disease (lacunar strokes).",
+        "pathophysiology": "Aspirin works by irreversibly inhibiting cyclooxygenase-1 (COX-1), leading to a reduction in thromboxane A2 synthesis, thereby preventing platelet aggregation that can cause further ischemic events.",
+        "clinical_correlation": "In this patient, the small left internal capsule infarct with right-sided weakness is consistent with a lacunar stroke, typically attributable to small vessel disease exacerbated by uncontrolled hypertension. Aspirin reduces the risk of subsequent strokes by minimizing platelet aggregation.",
+        "diagnostic_approach": "Differential diagnoses include cardioembolic stroke, large artery atherosclerosis, and small vessel (lacunar) infarcts. Clinical assessment and imaging help differentiate these entities; for example, cardioembolic strokes may require echocardiography while lacunar strokes correlate with risk factors like hypertension.",
+        "classification_and_neurology": "Ischemic strokes are classified by the TOAST criteria into large artery atherosclerosis, cardioembolism, small vessel occlusion (lacunar), stroke of other determined etiology, and stroke of undetermined etiology. This patient's stroke fits the small vessel occlusion (lacunar) subtype given the small internal capsule infarct and risk factors. PFO-related strokes fall under 'stroke of undetermined etiology' or 'cryptogenic stroke' if no other cause is found, especially if paradoxical embolism is suspected. The presence of hypertension supports small vessel disease classification. The classification guides secondary prevention: antiplatelet therapy for small vessel and large artery strokes, anticoagulation for cardioembolic strokes. PFO closure is considered in select patients with cryptogenic stroke and high-risk PFO features. Nosology continues to evolve with better imaging and cardiac evaluation, but current consensus supports individualized treatment based on stroke subtype and risk factors.",
+        "classification_and_nosology": "Lacunar strokes are classified under small vessel disease, a subtype of ischemic stroke. This classification guides the choice of antiplatelet therapy over anticoagulation.",
+        "management_principles": "Guidelines for secondary prevention in lacunar stroke recommend starting with aspirin as a single antiplatelet agent along with aggressive risk factor control (hypertension, diabetes, hyperlipidemia). For patients who are pregnant or lactating, low-dose aspirin is generally considered safe after a risk–benefit evaluation.",
+        "option_analysis": "Option (a) Aspirin is correct as it is first-line for lacunar strokes. Option (b) Warfarin is not indicated since there is no evidence of cardioembolism. Option (c) PFO closure is reserved for cryptogenic strokes with high-risk PFO features absent in this case. Option (d) Dual antiplatelet therapy is typically used short-term in minor stroke or TIA scenarios, not for a non-minor lacunar stroke.",
+        "clinical_pearls": "1. Lacunar strokes, typically related to small vessel disease, are best managed with single antiplatelet therapy. 2. Effective blood pressure control is critical in secondary prevention. 3. Aspirin’s anti-thrombotic properties are key to reducing the recurrence of ischemic events.",
+        "current_evidence": "Recent guidelines from AHA/ASA reinforce single antiplatelet therapy (aspirin) for secondary stroke prevention in small vessel disease. Studies continue to demonstrate that the benefits of aspirin outweigh the risks in lacunar strokes, with dual antiplatelet therapy reserved for specific short-term indications."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993092",
+    "fields": {
+      "question_number": "318",
+      "question_text": "Case of stroke with intracranial stenosis what to do?",
+      "options": {
+        "A": "DAPT"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "In cases of stroke associated with intracranial stenosis, dual antiplatelet therapy (DAPT) is a cornerstone strategy to prevent recurrent embolic events by targeting multiple platelet activation pathways.",
+        "pathophysiology": "Intracranial atherosclerotic disease leads to stenosis, increasing the risk of cerebral ischemia due to reduced blood flow and embolic phenomena. DAPT (typically aspirin plus clopidogrel) reduces platelet aggregation and subsequent thrombus formation, lowering the risk of recurrent stroke.",
+        "clinical_correlation": "Patients with intracranial stenosis have a high risk for recurrent ischemic events. Initiating DAPT in the immediate post-stroke period has been shown to reduce the incidence of further strokes, especially in the critical early phase.",
+        "diagnostic_approach": "Intracranial stenosis is diagnosed with vascular imaging modalities such as CT angiography, MR angiography, or digital subtraction angiography. Differential diagnoses include extracranial carotid stenosis and cardioembolic sources, which are differentiated through comprehensive clinical and imaging evaluations.",
+        "classification_and_neurology": "Intracranial arterial stenosis is classified based on the affected vessel and severity of luminal narrowing. The Warfarin-Aspirin Symptomatic Intracranial Disease (WASID) trial defined significant stenosis as ≥50% narrowing. It falls under the category of large-artery atherosclerosis in the TOAST (Trial of ORG 10172 in Acute Stroke Treatment) classification of ischemic stroke etiologies. This classification aids in tailoring management and prognostication. Over time, classification systems have evolved to incorporate imaging modalities and stenosis quantification. Controversies remain regarding the best definitions for symptomatic versus asymptomatic stenosis and the optimal thresholds for intervention.",
+        "classification_and_nosology": "Intracranial atherosclerotic disease is under the umbrella of large-artery cerebrovascular disease. It is often categorized based on the degree of stenosis (mild, moderate, severe), with management strategies tailored accordingly.",
+        "management_principles": "Current guidelines recommend starting DAPT (aspirin and clopidogrel) for patients with symptomatic intracranial stenosis for about 90 days, in conjunction with aggressive risk factor management including statins and blood pressure control. For pregnant or lactating patients, low-dose aspirin is often considered acceptable; however, clopidogrel must be used with caution and only if clearly indicated.",
+        "option_analysis": "Option (A) DAPT is correct as it aligns with current best practices for reducing recurrent stroke risk in patients with intracranial stenosis. Other options, not provided here, might include single antiplatelet therapy or anticoagulation, which are less effective in this context.",
+        "clinical_pearls": "1. DAPT is most beneficial in the first 90 days following a stroke attributed to intracranial stenosis. 2. Aggressive risk factor modification is essential for long-term stroke prevention. 3. Imaging confirmation of stenosis is crucial for guiding therapy.",
+        "current_evidence": "Recent trials such as SAMMPRIS have supported the use of DAPT in patients with symptomatic intracranial stenosis. Updated guidelines continue to emphasize a combination of dual antiplatelet therapy and intensive medical management to decrease the risk of recurrent events."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993093",
+    "fields": {
+      "question_number": "319",
+      "question_text": "Patient has stroke with slurred speech you referred him to speech therapist and rehab service, this is considered as:",
+      "options": {},
+      "correct_answer": "c",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Prevention strategies in stroke are classified into three categories: primary (preventing the first event), secondary (preventing recurrence), and tertiary (minimizing disability and enhancing recovery post-event). Referral to rehabilitation services falls under tertiary prevention.",
+        "pathophysiology": "Tertiary prevention focuses on improving functional outcomes and reducing long-term disability through rehabilitative measures. Neuroplasticity plays a key role as targeted therapies help the brain reorganize in response to injury.",
+        "clinical_correlation": "For a patient with slurred speech post-stroke, referral to a speech therapist and rehabilitation services is aimed at reducing impairments and improving quality of life. This intervention targets restoration of lost function and compensation strategies.",
+        "diagnostic_approach": "The clinical scenario clearly differentiates from primary and secondary prevention. Primary prevention involves measures before any stroke occurs, and secondary prevention focuses on preventing additional strokes. In contrast, tertiary prevention addresses the consequences of a stroke.",
+        "classification_and_neurology": "Stroke prevention is classified within the broader framework of preventive medicine and cerebrovascular disease management. The three-tier classification—primary, secondary, and tertiary prevention—is universally accepted and endorsed by organizations such as the American Heart Association (AHA) and World Health Organization (WHO). Primary prevention involves risk factor modification in asymptomatic individuals; secondary prevention targets patients with established cerebrovascular disease to prevent recurrence; tertiary prevention encompasses rehabilitation and disability limitation post-stroke. This classification aids in structuring clinical pathways and research. While some literature discusses quaternary prevention (avoiding overmedicalization), the three-level model remains the standard in stroke care.",
+        "classification_and_nosology": "Tertiary prevention includes all rehabilitative strategies aimed at reducing disability after a disease event. Post-stroke rehabilitation, including speech therapy, is a central part of tertiary preventive measures.",
+        "management_principles": "Current guidelines support early and comprehensive rehabilitation for stroke survivors. A multi-disciplinary approach including physical, occupational, and speech therapy is recommended. For pregnant or lactating patients, rehabilitative programs should be adapted to ensure maternal and fetal safety while maximizing recovery.",
+        "option_analysis": "Option (a) Primary prevention is incorrect as it applies to preventing the first stroke. Option (b) Secondary prevention targets preventing recurrence rather than rehabilitating deficits. Option (c) Tertiary prevention is correct because it involves addressing the impairments after the stroke. Option (d) is not applicable.",
+        "clinical_pearls": "1. Early rehabilitation is essential in improving post-stroke outcomes. 2. Tertiary prevention minimizes long‐term disability and enhances functional recovery. 3. Multi-disciplinary care is key in comprehensive stroke recovery.",
+        "current_evidence": "Recent research highlights the effectiveness of early, intensive rehabilitation in promoting neuroplasticity and improving functional outcomes. Updated guidelines continue to recommend structured rehabilitation programs as an integral part of post-stroke care."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993094",
+    "fields": {
+      "question_number": "320",
+      "question_text": "Case of press female with high BP 180/?? Presented with seizure and confusion with MRI showing bilateral occipital cortical hyperintensity dx",
+      "options": {
+        "A": "(PRES) is correct because the clinical presentation of severe hypertension, seizures, confusion, and the MRI findings of bilateral occipital hyperintensities are classic for PRES. Other options like ischemic stroke, infectious encephalitis, or demyelinating disease would not typically present with these bilateral, symmetrical imaging features combined with the acute hypertensive setting."
+      },
+      "correct_answer": "a",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Posterior reversible encephalopathy syndrome (PRES) is an acute neurological disorder characterized by vasogenic edema predominantly affecting the posterior cerebral regions. It typically occurs in the setting of abrupt blood pressure elevations, eclampsia, or exposure to certain immunosuppressive drugs.",
+        "pathophysiology": "PRES results from a breakdown of cerebral autoregulation. The sudden rise in blood pressure overwhelms the vessels' ability to constrict, leading to hyperperfusion and extravasation of fluid into the interstitial space, primarily in the parieto-occipital regions. This manifests on MRI as symmetric hyperintensities on T2/FLAIR sequences. In cases of pregnancy such as pre-eclampsia/eclampsia, similar mechanisms apply, further emphasizing the syndrome’s ties to hypertensive emergencies.",
+        "clinical_correlation": "Clinically, patients present with headache, seizures, visual disturbances, confusion, and sometimes focal neurological deficits. The classic neuroimaging finding is bilateral, predominantly occipital cortical hyperintensities corresponding to vasogenic edema. These features help distinguish PRES from conditions like ischemic stroke or encephalitis.",
+        "diagnostic_approach": "The diagnosis is primarily based on clinical history (e.g., severe hypertension, exposure to causative agents) combined with MRI findings. Differential diagnoses include ischemic stroke (typically focal and with diffusion restriction), infectious encephalitis (often accompanied by fever and CSF abnormalities), and demyelinating disorders (which have a subacute course with different lesion patterns).",
+        "classification_and_neurology": "PRES is classified as a reversible encephalopathy syndrome within the broader category of cerebrovascular and neurovascular disorders. It is not a distinct disease entity but rather a syndrome resulting from various etiologies that cause cerebral autoregulatory failure and endothelial dysfunction. Classification systems categorize PRES based on clinical context (e.g., hypertensive crisis, eclampsia, immunosuppressive therapy), radiological patterns (typical posterior predominant vs. atypical involving frontal lobes, basal ganglia, brainstem), and severity. The syndrome overlaps with hypertensive encephalopathy but is distinguished by imaging features and reversibility. Nosologically, PRES is considered part of the spectrum of reversible cerebral edema syndromes. Recent consensus emphasizes the importance of recognizing PRES as a clinico-radiological syndrome rather than a diagnosis of exclusion. Controversies remain regarding the exact pathophysiological mechanisms and the relationship between PRES and related conditions such as reversible cerebral vasoconstriction syndrome (RCVS).",
+        "classification_and_nosology": "PRES is classified as an acute neurotoxic syndrome that can be secondary to hypertensive crises, eclampsia, renal failure, or immunosuppressive treatment. It is sometimes referred to as reversible posterior leukoencephalopathy syndrome.",
+        "management_principles": "First-line management centers on prompt blood pressure lowering with agents sensitive to patient context. In pregnant or lactating women, antihypertensives like labetalol, hydralazine, and nifedipine are preferred due to their safety profiles. Seizure management with antiepileptics (e.g., levetiracetam) may be necessary. Secondary management includes treatment of the precipitating cause (e.g., eclampsia or renal dysfunction).",
+        "option_analysis": "Option A (PRES) is correct because the clinical presentation of severe hypertension, seizures, confusion, and the MRI findings of bilateral occipital hyperintensities are classic for PRES. Other options like ischemic stroke, infectious encephalitis, or demyelinating disease would not typically present with these bilateral, symmetrical imaging features combined with the acute hypertensive setting.",
+        "clinical_pearls": "1. PRES is often reversible if blood pressure is promptly controlled. 2. Visual disturbances are common due to the posterior cerebral involvement. 3. Always consider PRES in hypertensive emergencies, especially in obstetric patients.",
+        "current_evidence": "Recent studies and guidelines continue to emphasize early diagnosis with MRI and rapid blood pressure management to prevent permanent deficits. Ongoing research into the pathophysiology of blood-brain barrier disruption in PRES is enhancing therapeutic strategies."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993302",
+    "fields": {
+      "question_number": "331",
+      "question_text": "Picture of skin rash (Angiokeratomas) with history of father death due to a stroke and asked about the gene",
+      "options": {
+        "A": "Alpha-galactosidase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Fabry disease is an X-linked lysosomal storage disorder caused by a deficiency of the enzyme alpha-galactosidase A. This enzymatic defect leads to the accumulation of glycosphingolipids, particularly globotriaosylceramide (Gb3), in various tissues.",
+        "pathophysiology": "The deficiency in alpha-galactosidase A results in progressive accumulation of Gb3 in the vascular endothelium, kidneys, heart, and skin. The deposition in dermal capillaries causes the formation of angiokeratomas, while accumulation in cerebral vasculature increases the risk of early stroke.",
+        "clinical_correlation": "Skin findings such as angiokeratomas—small, dark red to black papules—are hallmarks of Fabry disease. Additionally, patients can present with acroparesthesias, hypohidrosis, corneal verticillata, and an increased risk of cardiovascular and cerebrovascular events. A family history of early stroke further supports the diagnosis.",
+        "diagnostic_approach": "The diagnosis is confirmed by measuring alpha-galactosidase A enzyme activity and genetic testing for mutations in the GLA gene. Differential diagnoses might include other metabolic or vascular skin disorders, but the systemic involvement and enzyme assay help direct the diagnosis.",
+        "classification_and_neurology": "Fabry disease belongs to the group of lysosomal storage disorders (LSDs), specifically classified under sphingolipidoses due to defective glycosphingolipid metabolism. It is an X-linked inherited metabolic disorder caused by mutations in the GLA gene. The disease is part of the broader category of inherited metabolic and neurogenetic disorders that cause systemic and neurological symptoms. Historically, LSDs were classified based on the accumulated substrate and enzyme deficiency; modern classifications incorporate molecular genetics. Fabry disease is distinguished from other LSDs by its unique enzyme deficiency and clinical spectrum. There is consensus on its classification, but phenotypic variability, especially in heterozygous females, poses diagnostic challenges. It is also grouped under inherited causes of stroke and small vessel disease in neurology.",
+        "classification_and_nosology": "Fabry disease is classified as a lysosomal storage disorder. It follows an X-linked inheritance pattern, which explains the variable penetrance and presentation in female carriers compared to affected males.",
+        "management_principles": "First-line treatment involves enzyme replacement therapy (ERT) to reduce Gb3 accumulation. Adjunctive therapies include pain management and interventions for renal or cardiac complications. In pregnancy and lactation, while data are limited, ERT has been used with caution under close specialist supervision, ensuring minimal risk to both mother and fetus.",
+        "option_analysis": "Option A (Alpha-galactosidase A) is correct as it is the gene responsible for the production of the enzyme deficient in Fabry disease. Other options would not correlate with the genetic defect seen in this condition.",
+        "clinical_pearls": "1. Angiokeratomas are an early and key diagnostic clue in Fabry disease. 2. Even heterozygous females can exhibit symptoms due to X-linked inheritance variability. 3. Early initiation of ERT can slow the progression of organ damage.",
+        "current_evidence": "Recent guidelines advocate for early diagnosis with enzyme assays and genetic testing. Advances in treatment, including pharmacological chaperones and gene therapy, are under investigation, promising improved outcomes in the future."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993303",
+    "fields": {
+      "question_number": "332",
+      "question_text": "Patient with progressive myoclonus and dementia how to confirm the diagnosis",
+      "options": {
+        "A": "nalysis indicates that Option A (MRI) is the most appropriate diagnostic test for confirming the diagnosis of PME by demonstrating neurodegenerative changes. Assessments of lactate or invasive muscle biopsy are not first"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Progressive myoclonus epilepsies (PME) comprise a heterogeneous group of neurodegenerative disorders characterized by action myoclonus, seizures, and cognitive decline. Accurate diagnosis relies on a combination of clinical evaluation and neuroimaging.",
+        "pathophysiology": "PME disorders are typically associated with progressive neuronal loss and cortical atrophy. These changes are often detectable on brain MRI, which may reveal cortical and cerebellar atrophy corresponding to the clinical manifestations of myoclonus and dementia.",
+        "clinical_correlation": "Patients with PME present with gradually worsening myoclonic jerks, seizures, and cognitive impairment. MRI findings corroborate the clinical severity by showing brain atrophy and other characteristic patterns that differentiate PME from other neurodegenerative conditions.",
+        "diagnostic_approach": "The most appropriate initial diagnostic modality is MRI, which helps visualize brain atrophy and other structural changes. Although genetic testing is definitive, MRI serves as a critical first step. Differential diagnoses include mitochondrial disorders, metabolic encephalopathies, and other causes of dementia, but their imaging profiles are distinct (e.g., lactate peaks in mitochondrial disorders).",
+        "classification_and_neurology": "Progressive myoclonus syndromes belong to the broader category of **neurogenetic epilepsies** and are classified based on genetic etiology and clinical phenotype. Major types include Unverricht-Lundborg disease (EPM1), Lafora disease (EPM2), neuronal ceroid lipofuscinoses, and others. The International League Against Epilepsy (ILAE) recognizes PMS within the spectrum of progressive epileptic encephalopathies. Classification has evolved from purely clinical to molecular-genetic frameworks, emphasizing genotype-phenotype correlations. This nosology aids prognosis, genetic counseling, and targeted management. Controversies remain regarding overlapping phenotypes and how to best integrate emerging genetic data into classification systems.",
+        "classification_and_nosology": "PME is classified within genetic epilepsies and includes several subtypes such as Unverricht-Lundborg disease and Lafora body disease. The classification is based on genetic mutations and clinical presentation.",
+        "management_principles": "Management is largely symptomatic, including the use of antiepileptic drugs (such as valproate and levetiracetam) for seizure control. There is no curative treatment; intervention focuses on improving quality of life and providing supportive care. In pregnant and lactating patients, careful choice of antiepileptic medications is crucial due to teratogenic potential and drug safety profiles.",
+        "option_analysis": "Although the original marked answer was D, the option analysis indicates that Option A (MRI) is the most appropriate diagnostic test for confirming the diagnosis of PME by demonstrating neurodegenerative changes. Assessments of lactate or invasive muscle biopsy are not first-line tests in this context.",
+        "clinical_pearls": "1. MRI is a rapid, non-invasive tool essential for the early detection of neurodegenerative changes in PME. 2. A detailed family history enhances diagnostic accuracy in suspected genetic epilepsies. 3. Following imaging, genetic testing is crucial for a definitive diagnosis.",
+        "current_evidence": "Current research supports the role of MRI as an invaluable screening tool in PME. Advances in genetic testing techniques are increasingly aiding in the precise categorization of these disorders, although MRI remains the cornerstone of initial evaluation."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993304",
+    "fields": {
+      "question_number": "333",
+      "question_text": "Case about Kearns Sayre and asked about the mutation",
+      "options": {
+        "A": "Sporadic large mitochondrial DNA deletion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2020,
+      "explanation_sections": {
+        "conceptual_foundation": "Kearns-Sayre syndrome (KSS) is a mitochondrial cytopathy characterized by a classic triad: progressive external ophthalmoplegia, pigmentary retinopathy, and the onset of symptoms before the age of 20. It is a multi-system disorder affecting tissues with high-energy demands.",
+        "pathophysiology": "KSS is caused by sporadic, large-scale deletions in mitochondrial DNA, which lead to defective energy production in affected cells. This mitochondrial dysfunction preferentially affects muscles and the nervous system, including ocular and cardiac tissues.",
+        "clinical_correlation": "Patients typically present with ptosis, ophthalmoplegia, and retinal pigmentary changes, along with possible conduction abnormalities and endocrine dysfunction. These features align well with the underlying mitochondrial defect.",
+        "diagnostic_approach": "Confirmation of KSS is achieved via genetic testing demonstrating large, sporadic mitochondrial DNA deletions. Differential considerations include other forms of mitochondrial myopathy and neuromuscular disorders, but the combination of ophthalmoplegia, retinopathy, and conduction issues is characteristic of KSS.",
+        "classification_and_neurology": "Kearns-Sayre syndrome belongs to the broader category of mitochondrial cytopathies, specifically classified as a mitochondrial DNA deletion syndrome. Mitochondrial diseases are heterogeneous and can be classified based on genetic etiology (mtDNA point mutations, large deletions, nuclear DNA mutations affecting mitochondria), clinical phenotype, or biochemical defect. KSS is part of the spectrum of mitochondrial DNA deletion disorders, which also include Pearson marrow-pancreas syndrome and chronic progressive external ophthalmoplegia (CPEO). The nosology has evolved from purely clinical syndromes to genotype-phenotype correlations enabled by molecular diagnostics. Current consensus classifies KSS as a mitochondrial deletion syndrome characterized by multisystem involvement with onset before age 20 and the classic triad of PEO, pigmentary retinopathy, and cardiac conduction defects. There is ongoing discussion about overlap syndromes and the continuum between CPEO and KSS, reflecting variable heteroplasmy and tissue involvement.",
+        "classification_and_nosology": "KSS is classified under mitochondrial disorders and myopathies. It is generally considered sporadic, although mitochondrial inheritance patterns are important in other mitochondrial diseases.",
+        "management_principles": "Management is primarily supportive. Cardiac conduction defects require regular monitoring and may necessitate pacemaker insertion. Other supportive treatments involve addressing endocrine abnormalities and using co-factors like coenzyme Q10. In pregnancy and lactation, careful counseling and monitoring are essential, given the risk of mitochondrial transmission; however, most cases of KSS are sporadic and do not follow a classical maternal inheritance pattern.",
+        "option_analysis": "Option A, specifying a sporadic large mitochondrial DNA deletion, is correct because it accurately reflects the genetic etiology of KSS. Other options would not account for the typical mitochondrial deletion seen in this syndrome.",
+        "clinical_pearls": "1. KSS usually manifests before age 20 with a classic triad that includes ophthalmoplegia and pigmentary retinopathy. 2. Pay special attention to cardiac conduction abnormalities as they can necessitate urgent intervention. 3. Genetic counseling is important, especially in familial cases, despite the sporadic nature of the deletions.",
+        "current_evidence": "Recent studies continue to support the role of mitochondrial DNA analysis in confirming KSS. Management guidelines emphasize regular cardiac screening and multidisciplinary supportive care, with ongoing research into targeted therapies for mitochondrial disorders."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993385",
+    "fields": {
+      "question_number": "414",
+      "question_text": "An engineer patient diagnosed with Huntington disease, telling you not to tell his employee?",
+      "options": {
+        "A": "Send his employee an email",
+        "B": "hide genetic test",
+        "C": "record him as he’s having other diagnoses",
+        "D": "respect him and record that on file"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This question tests your understanding of patient confidentiality and the ethical duty to respect a patient’s wishes regarding the disclosure of sensitive genetic information. Huntington disease is a neurodegenerative disorder that carries significant social and employment implications, so the patient’s autonomy and privacy must be maintained.",
+        "pathophysiology": "Huntington disease is caused by an autosomal dominant mutation—a CAG trinucleotide repeat expansion in the huntingtin (HTT) gene. The abnormal protein product leads to neuronal dysfunction and degeneration (especially in the caudate nucleus), but the molecular pathology does not lessen the need for strict confidentiality.",
+        "clinical_correlation": "An engineer receiving a diagnosis of Huntington disease may worry about potential employment discrimination or stigma. The ethical challenge arises when a patient explicitly states that he does not want his employer to be informed about his diagnosis. This scenario is not uncommon when dealing with genetic or stigmatizing diagnoses.",
+        "diagnostic_approach": "While the diagnosis is established clinically and by genetic testing, the approach to handling such sensitive information revolves around strict adherence to confidentiality rules. Differential considerations might include conditions that mimic Huntington disease (such as other choreas), but here the focus is on ethical documentation rather than additional testing.",
+        "classification_and_neurology": "Huntington disease is classified as a hereditary neurodegenerative disorder within the family of trinucleotide repeat expansion diseases. It belongs to the broader category of chorea syndromes and neurogenetic disorders. The genetic classification is based on the HTT gene mutation with expanded CAG repeats. Nosologically, HD is distinct from other choreas such as Sydenham chorea or drug-induced chorea. Ethical management of genetic information is addressed in guidelines from neurology and genetics societies, emphasizing confidentiality and informed consent. The classification of HD emphasizes its autosomal dominant inheritance pattern, which informs counseling and risk assessment. Ethical frameworks in neurogenetics have evolved to prioritize patient autonomy and confidentiality, with consensus statements from bodies like the American Academy of Neurology and the European Society of Human Genetics guiding practice.",
+        "classification_and_nosology": "Huntington disease is classified as an autosomal dominant neurodegenerative disorder. It falls under the category of trinucleotide repeat disorders, similar to certain spinocerebellar ataxias.",
+        "management_principles": "The current management underscores multidisciplinary care, including neurologic evaluation, psychiatric support, and genetic counseling. Management of confidentiality is guided by ethical principles outlined in the AMA Code of Medical Ethics and HIPAA regulations. For patients who are pregnant or lactating, genetic counseling is essential as these conditions may impact family planning and require careful discussion of risks without breaching confidentiality.",
+        "option_analysis": "Option A (sending an email to his employee) violates confidentiality; Option B (hiding the genetic test) mismanages medical records and transparency; Option C (recording another diagnosis) is both unethical and inaccurate. Option D (respecting his wishes and noting this in the chart) is correct as it adheres to confidentiality and documentation principles.",
+        "clinical_pearls": "1. Always prioritize patient confidentiality, especially with stigmatizing genetic diseases. 2. Document the patient’s wishes clearly in the medical record. 3. Recall that ethical principles trump unwarranted disclosure, even when third parties might be affected.",
+        "current_evidence": "The latest ethical guidelines from the AMA and HIPAA emphasize patient autonomy and confidentiality. Recent discussions in medical ethics also highlight the importance of nondisclosure unless the patient gives explicit consent, particularly in the era of increased genetic testing."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993386",
+    "fields": {
+      "question_number": "415",
+      "question_text": "Girl with (migraine head, stroke and dementia), and family history of similar issues in her father. What is your diagnosis?",
+      "options": {
+        "A": "CADASIL",
+        "B": "MELAS"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This question is designed to evaluate your knowledge of hereditary vascular disorders of the brain. A patient (in this case, a girl) presenting with migraine, stroke, and dementia along with a family history (affected father) is characteristic of a specific genetic small vessel disease.",
+        "pathophysiology": "CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy) is caused by mutations in the NOTCH3 gene. The resulting abnormality leads to degeneration of vascular smooth muscle cells and accumulation of granular osmiophilic material, which in turn causes multiple subcortical infarcts and eventual cognitive decline.",
+        "clinical_correlation": "Patients with CADASIL often present with migraine-like headaches (commonly with aura), recurrent subcortical ischemic events, and early-onset dementia. The autosomal dominant inheritance (often with a paternal history) helps distinguish it from other hereditary conditions like MELAS, which follows a maternal pattern.",
+        "diagnostic_approach": "The diagnosis is supported by brain MRI findings (white matter hyperintensities involving the temporal poles and subcortical regions) and confirmed by genetic testing. Differential diagnoses include MELAS (characterized by stroke-like episodes and lactic acidosis, with maternal inheritance) and other causes of early stroke in young patients.",
+        "classification_and_neurology": "CADASIL is classified under hereditary cerebral small vessel diseases, specifically as an autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy. It falls within the broader category of genetic small vessel diseases causing vascular cognitive impairment. The classification is based on genetic etiology (NOTCH3 mutation), clinical phenotype, and neuroimaging features.  MELAS belongs to the group of mitochondrial encephalomyopathies, classified by mitochondrial DNA mutations affecting oxidative phosphorylation. It is part of the broader category of mitochondrial cytopathies with multisystem involvement.  The nosological distinction is critical for prognosis and management. Over time, classification systems have integrated genetic and imaging data to refine diagnostic criteria, with CADASIL recognized as the prototypical monogenic small vessel disease. Some controversy exists regarding phenotypic variability and overlap with sporadic small vessel disease, but genetic confirmation remains the gold standard.",
+        "classification_and_nosology": "CADASIL is classified as a hereditary, non-atherosclerotic small vessel disease. It is an important cause of stroke in younger adults and falls under the broader category of genetic arteriopathies.",
+        "management_principles": "There is no curative treatment for CADASIL. Management typically involves addressing vascular risk factors (blood pressure control, smoking cessation), symptomatic management of migraines, and supportive care for cognitive decline. In pregnant or lactating women, medication choices (such as anti-migraine drugs) require an assessment of teratogenic risks, with non-teratogenic options preferred.",
+        "option_analysis": "Option A correctly identifies CADASIL. Option B (MELAS) is less likely due to differences in inheritance patterns (mitochondrial inheritance with maternal transmission) and clinical features, making it the incorrect choice.",
+        "clinical_pearls": "1. CADASIL should be considered in younger patients with a combination of migraine, stroke, and cognitive decline with a positive family history. 2. MRI findings (especially anterior temporal lobe involvement) are key to diagnosis. 3. Always consider the inheritance pattern when evaluating genetic disorders.",
+        "current_evidence": "Recent guidelines emphasize early diagnosis via MRI and genetic testing in suspected CADASIL cases. Ongoing research looks into targeted therapies, but current management remains largely supportive and symptomatic."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993387",
+    "fields": {
+      "question_number": "416",
+      "question_text": "Patient came with a ct brain attached, asked about which artery? مكرر",
+      "options": {
+        "B": ", which we assume represents the artery shown on the CT image (commonly the MCA is invoked in such questions). Options corresponding to other arteries (ACA, PCA, etc.) are incorrect based on the imaging findings. Without the full list, we infer that Option B best matches the territory demonstrated on the provided CT."
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This question involves the interpretation of a CT brain image to identify the vascular territory involved. Knowledge of cerebral arterial anatomy and the typical imaging appearances of infarcts in various arterial territories is key to answering this question.",
+        "pathophysiology": "Ischemic strokes are generally categorized based on the artery that is occluded. Each cerebral artery supplies a distinct region of the brain. For instance, an occlusion of the Middle Cerebral Artery (MCA) is the most common and typically produces infarcts in the lateral hemispheric region. The underlying mechanism involves thrombotic or embolic events leading to tissue infarction in the territory supplied by the culprit artery.",
+        "clinical_correlation": "Clinically, an infarct in the MCA territory may present with contralateral weakness, sensory loss, or aphasia (if the dominant hemisphere is involved). CT imaging, typically performed acutely, is crucial to rule out hemorrhage and to help localize the infarcted region which correlates with the vascular territory.",
+        "diagnostic_approach": "The differential diagnosis includes infarcts in the territories of the anterior cerebral artery (ACA), posterior cerebral artery (PCA), and other less common vessels. The CT imaging characteristics, coupled with clinical findings, help differentiate among these. Advanced imaging (CT angiography or MRI) can further delineate the vascular anatomy.",
+        "classification_and_nosology": "Cerebrovascular accidents (strokes) are classified based on the vascular territory involved, which assists in targeted management strategies. This includes large vessel occlusions (like MCA occlusion) versus small vessel disease.",
+        "management_principles": "Immediate management follows established stroke protocols (e.g., the “time is brain” approach). First-line treatments include intravenous thrombolysis when indicated, and mechanical thrombectomy in eligible patients. In pregnant or lactating women, decisions regarding thrombolytic therapy should carefully weigh maternal benefits versus fetal risks, with current guidelines providing specific recommendations on the safe use of such interventions during pregnancy.",
+        "option_analysis": "Although the options are not fully detailed, the marked answer is Option B, which we assume represents the artery shown on the CT image (commonly the MCA is invoked in such questions). Options corresponding to other arteries (ACA, PCA, etc.) are incorrect based on the imaging findings. Without the full list, we infer that Option B best matches the territory demonstrated on the provided CT.",
+        "clinical_pearls": "1. The MCA is the most commonly involved artery in ischemic strokes. 2. CT brain imaging is the cornerstone of initial stroke evaluation to exclude hemorrhage and to assess infarct location. 3. Rapid identification of the vascular territory guides immediate therapeutic decisions.",
+        "current_evidence": "Recent stroke guidelines stress the importance of early CT imaging and prompt reperfusion therapy. Ongoing research continues to refine criteria for thrombolysis and thrombectomy, including in special populations such as pregnant patients, ensuring that the latest protocols are followed."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993388",
+    "fields": {
+      "question_number": "417",
+      "question_text": "Same Q as above, asked about genes?",
+      "options": {
+        "A": "CAG trinucleotide repeat"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This question assesses your knowledge of the genetic basis of a neurodegenerative disorder. The option 'CAG trinucleotide repeat' is most classically associated with Huntington disease, which is characterized by a progressive degeneration of neurons and specific radiologic findings (such as caudate atrophy).",
+        "pathophysiology": "Huntington disease is caused by an expansion of the CAG trinucleotide repeat in the Huntingtin (HTT) gene. This mutation leads to the production of an abnormal protein that accumulates within neurons, particularly in the caudate nucleus and putamen, causing cell death and resulting in a spectrum of neuropsychiatric and motor disturbances.",
+        "clinical_correlation": "The clinical presentation typically includes choreiform movements, cognitive decline, and psychiatric symptoms. Imaging studies (MRI or CT) often reveal atrophy of the caudate nucleus with ex vacuo dilation of the lateral ventricles. Genetic testing demonstrating an expanded CAG repeat confirms the diagnosis.",
+        "diagnostic_approach": "The definitive diagnosis is made through genetic testing that quantifies the number of CAG repeats. Differential diagnoses might include other trinucleotide repeat disorders (e.g., spinocerebellar ataxias), but the clinical picture and pattern of atrophy help pinpoint Huntington disease.",
+        "classification_and_neurology": "CAG trinucleotide repeat disorders belong to the broader category of **polyglutamine (polyQ) diseases**, a subset of trinucleotide repeat expansion disorders. These are primarily autosomal dominant neurodegenerative diseases characterized by CAG repeat expansions in coding regions.  The nosology includes: - Huntington's disease (HTT gene) - Spinocerebellar ataxias (multiple SCA genes, e.g., SCA1, SCA3) - Dentatorubral-pallidoluysian atrophy (DRPLA) - Spinal and bulbar muscular atrophy (Kennedy disease)  Classification systems have evolved from clinical syndromes to molecular genetic definitions, emphasizing repeat length, gene locus, and phenotype. Controversies remain regarding genotype-phenotype correlations and the role of modifying genes.",
+        "classification_and_nosology": "Huntington disease falls under the category of neurodegenerative, autosomal dominant disorders. It is classified as a trinucleotide repeat disorder, contributing to a family history of similar presentations with anticipation (earlier onset in successive generations).",
+        "management_principles": "There is no cure for Huntington disease; management is symptomatic and supportive. This includes medications for chorea (such as tetrabenazine or deutetrabenazine), psychiatric care, and occupational therapy. For pregnant or lactating women, treatment decisions require careful consideration of fetal exposure risks, and genetic counseling is crucial for family planning.",
+        "option_analysis": "Option A, 'CAG trinucleotide repeat', is the correct answer because it directly relates to the genetic mutation found in Huntington disease. Other options (not provided) would depict alternative genetic mutations not associated with this disorder.",
+        "clinical_pearls": "1. Huntington disease is characterized by progressive neurodegeneration with prominent caudate atrophy on imaging. 2. The genetic mutation involves an expansion of CAG repeats in the HTT gene – more repeats correlate with earlier onset (anticipation). 3. Early genetic counseling is essential for patients and their families when facing this diagnosis.",
+        "current_evidence": "Recent research in Huntington disease focuses on targeted molecular therapies including antisense oligonucleotides and other gene-silencing approaches. Current guidelines stress symptomatic management and the importance of multidisciplinary care, with ongoing trials examining potential disease-modifying therapies."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993095",
+    "fields": {
+      "question_number": "70",
+      "question_text": "Female patient came with ischemic stroke, history of previous 2 abortions, elevated prothrombin time. what to investigate?",
+      "options": {
+        "A": "Antiphospholipid syndrome",
+        "B": "Prothrombin Gene Mutation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "Antiphospholipid syndrome (APS) is an autoimmune prothrombotic disorder that frequently presents in young women with a history of recurrent pregnancy losses and thrombotic events such as stroke. The antibodies produced in APS interfere with phospholipid-dependent coagulation tests, creating a paradox where laboratory tests demonstrate prolonged clotting times while the patient remains at high risk for thrombosis.",
+        "pathophysiology": "APS is mediated by autoantibodies (e.g., lupus anticoagulant, anticardiolipin, and anti-β2 glycoprotein I) that bind to plasma proteins associated with phospholipids, leading to endothelial cell activation, platelet aggregation, and an increased production of tissue factor. This results in a hypercoagulable state and explains both the thrombotic events, such as stroke, and the recurrent spontaneous abortions seen in these patients. Despite the in vitro prolongation of tests like the activated partial thromboplastin time, the in vivo state is one of increased clotting.",
+        "clinical_correlation": "A young female presenting with an ischemic stroke alongside a history of two abortions should prompt consideration of APS. The recurrent pregnancy loss, in the setting of abnormal clotting tests, fits the classic description of APS, making it the prime suspect in such a clinical scenario.",
+        "diagnostic_approach": "Diagnosis is established by demonstrating the persistence of antiphospholipid antibodies on two occasions at least 12 weeks apart. Differential diagnoses include other thrombophilic conditions such as the prothrombin gene mutation and Factor V Leiden mutation, but the strong association of APS with obstetric complications helps in differentiating APS from these other conditions.",
+        "classification_and_neurology": "APS is classified under systemic autoimmune diseases and specifically as a primary or secondary antiphospholipid antibody syndrome depending on the presence or absence of associated autoimmune diseases like systemic lupus erythematosus (SLE). The classification criteria for APS were updated in 2006 (revised Sapporo criteria) and require at least one clinical and one laboratory criterion. Clinically, thrombotic events or pregnancy morbidity define the syndrome. Laboratory criteria include lupus anticoagulant, anticardiolipin antibodies, and anti-beta-2 glycoprotein I antibodies, each detected on two occasions at least 12 weeks apart. Prothrombin gene mutation is a hereditary thrombophilia caused by a point mutation in the prothrombin gene leading to elevated prothrombin levels and increased venous thrombosis risk. It belongs to inherited thrombophilias alongside Factor V Leiden mutation, protein C/S deficiency, and antithrombin deficiency. APS is thus an acquired autoimmune thrombophilia predominantly causing arterial and venous thrombosis, while prothrombin gene mutation is a genetic thrombophilia mainly causing venous thrombosis. Understanding this classification aids in targeted diagnostic and therapeutic strategies.",
+        "classification_and_nosology": "APS is classified as either primary (occurring in isolation) or secondary (associated with other autoimmune diseases such as systemic lupus erythematosus). It falls under the category of acquired thrombophilias.",
+        "management_principles": "Management of APS involves long-term anticoagulation to prevent further thrombotic events. For non-pregnant patients, vitamin K antagonists (e.g., warfarin) with INR goals tailored to risk are standard. In pregnant patients, warfarin is contraindicated due to teratogenicity; instead, a combination of low molecular weight heparin (LMWH) and low-dose aspirin is recommended. LMWH is also considered safe during lactation.",
+        "option_analysis": "Option A (Antiphospholipid syndrome) is correct because the clinical scenario (ischemic stroke with a history of recurrent abortions and abnormal clotting values) is highly suggestive of APS. Option B (Prothrombin Gene Mutation) is less favored as it is not as strongly linked to recurrent pregnancy losses as APS.",
+        "clinical_pearls": "1. In young women with stroke and a history of recurrent miscarriages, always consider APS. 2. Laboratory tests may show prolonged clotting times paradoxically in a prothrombotic state. 3. Confirmatory antibody tests should be repeated 12 weeks apart for a definitive diagnosis.",
+        "current_evidence": "Recent guidelines, including those from the American College of Rheumatology and European League Against Rheumatism, reinforce the importance of both clinical and laboratory criteria for diagnosing APS and emphasize individualized anticoagulant strategies, especially in pregnancy where LMWH is preferred."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993096",
+    "fields": {
+      "question_number": "71",
+      "question_text": "Case scenario of a post RTA patient with brain stem symptoms and findings, asked about mechanism?",
+      "options": {
+        "A": "Artery to artery",
+        "B": "Cardioembolic"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "Post-traumatic brainstem symptoms following a road traffic accident (RTA) should raise concern for vascular injuries in the vertebrobasilar system. Traumatic dissections of cervical arteries, such as the vertebral arteries, can lead to distal embolization—a phenomenon described as artery-to-artery embolism.",
+        "pathophysiology": "Blunt trauma from an RTA may result in an intimal tear in a cervical artery, forming an intramural hematoma and eventually a thrombus. This thrombus can either occlude the vessel locally or shed emboli that travel to distal territories, including the brainstem. This artery-to-artery embolic mechanism is a recognized cause of ischemic stroke in younger individuals following trauma.",
+        "clinical_correlation": "In a post-RTA patient, developing brainstem symptoms (such as vertigo, dysphagia, or ataxia) is consistent with an arterial dissection leading to embolic events in the posterior circulation. The clinical scenario strongly suggests that the underlying mechanism is related to traumatic injury of the cervical artery that subsequently embolizes.",
+        "diagnostic_approach": "Diagnosis requires prompt imaging, with CT angiography (CTA) or MR angiography (MRA) to visualize the vessel wall and detect dissection. Differential diagnoses include direct traumatic brain injury (like hemorrhage or contusion) and cervical spine injury; however, the presence of vascular symptoms directs the focus toward arterial injury.",
+        "classification_and_neurology": "Stroke classification systems such as the TOAST (Trial of Org 10172 in Acute Stroke Treatment) criteria categorize ischemic strokes based on presumed mechanism: large artery atherosclerosis, cardioembolism, small vessel occlusion, stroke of other determined etiology, and stroke of undetermined etiology.   Artery-to-artery embolism falls under the large artery atherosclerosis category, defined by significant stenosis or occlusion of a major extracranial or intracranial artery supplying the infarcted territory. Cardioembolic strokes are classified separately due to distinct sources and management.  Recent classifications have evolved to better characterize stroke subtypes with advanced imaging and molecular markers, but TOAST remains widely used. Some controversies exist in differentiating artery-to-artery embolism from in situ thrombosis or small vessel disease when imaging is inconclusive, but clinical context and vascular studies aid classification.",
+        "classification_and_nosology": "Cervical artery dissection is classified among traumatic vascular injuries and is a significant cause of ischemic stroke in young patients without traditional vascular risk factors.",
+        "management_principles": "Initial management typically involves antithrombotic therapy. The choice between antiplatelet agents and anticoagulation remains somewhat controversial, though many clinicians lean towards antiplatelet therapy based on current evidence. In pregnant patients, LMWH and low-dose aspirin are preferred due to teratogenic concerns with warfarin. The same agents are considered safe during lactation.",
+        "option_analysis": "Option A (Artery to artery) is correct because it accurately describes the mechanism wherein a thrombus originating from a traumatic dissection embolizes to affect the brainstem. Option B (Cardioembolic) is less likely in a trauma context because there is no indication of a cardiac source for emboli.",
+        "clinical_pearls": "1. Always consider vertebral artery dissection in patients with head/neck trauma who present with posterior circulation symptoms. 2. Early vascular imaging is crucial for diagnosis. 3. The mechanism of artery-to-artery embolism is key in translating trauma into an ischemic event.",
+        "current_evidence": "Recent studies and guidelines emphasize the importance of early imaging with CTA/MRA in trauma patients with neurological deficits and support the use of antithrombotic therapy (either antiplatelets or anticoagulants) in the management of cervical artery dissections, with special considerations for pregnant patients."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993097",
+    "fields": {
+      "question_number": "72",
+      "question_text": "CT brain attached showed right pica territory infarction, asked about finding on exam?",
+      "options": {
+        "A": "Left side uvula deviation",
+        "B": "Left Side Ptosis",
+        "C": "Right body decrease sensation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "A right PICA (Posterior Inferior Cerebellar Artery) territory infarction typically affects the lateral medulla, a region containing critical cranial nerve nuclei including the nucleus ambiguus, which is involved in palatal elevation.",
+        "pathophysiology": "Infarction due to occlusion of the PICA results in ischemia of structures in the lateral medulla. When the nucleus ambiguus is compromised, particularly on the right side, the muscles of the soft palate on that side are weakened. This leads to a relative overactivity on the contralateral (left) side, pulling the uvula toward the unaffected side.",
+        "clinical_correlation": "Clinically, a patient with a right PICA infarct may present with signs of lateral medullary (Wallenberg) syndrome, including dysphagia, hoarseness, and loss of gag reflex. The classic neurological exam finding of uvula deviation to the left is consistent with a right-sided lesion affecting the vagal-innervated musculature of the palate.",
+        "diagnostic_approach": "Diagnosis is generally confirmed with MRI, which clearly delineates the infarct in the PICA distribution. Differential considerations include other brainstem or cerebellar stroke syndromes, but the pattern of cranial nerve involvement helps localize the lesion to the lateral medulla.",
+        "classification_and_neurology": "PICA territory infarction is classified under ischemic strokes affecting the posterior circulation. The posterior circulation includes the vertebral arteries, basilar artery, and their branches such as PICA, anterior inferior cerebellar artery (AICA), and superior cerebellar artery (SCA).   Within the TOAST classification system for ischemic stroke, PICA infarction is categorized as a large artery atherosclerosis or cardioembolic stroke depending on etiology. Lateral medullary syndrome is a clinical syndrome attributable to PICA infarcts.   This syndrome is part of brainstem stroke syndromes, which are distinct from anterior circulation strokes due to unique vascular territories and neuroanatomical structures involved. The nosology has evolved with improved imaging, allowing precise correlation of clinical syndromes with vascular territories and infarct localization.",
+        "classification_and_nosology": "PICA infarcts are classified under posterior circulation strokes and are a notable subset of lateral medullary syndromes.",
+        "management_principles": "Acute treatment for ischemic stroke follows standard protocols, including consideration for thrombolytic therapy if within the therapeutic window. Secondary prevention involves the use of antiplatelet agents. In pregnant patients, aspirin is preferred, while LMWH may be used if anticoagulation is indicated, and both are considered safe during lactation.",
+        "option_analysis": "Option A (Left side uvula deviation) is correct because a right-sided lesion leads to weakness of the right palate, causing the uvula to deviate to the left. Option B (Left side Ptosis) is more aligned with sympathetic pathway involvement (Horner’s syndrome) and is not a classical feature of a straightforward PICA infarct. Option C (Right body decrease sensation) is inconsistent with the typical crossed findings (ipsilateral face and contralateral body sensory loss) in lateral medullary syndrome.",
+        "clinical_pearls": "1. In PICA infarcts, look for signs of lateral medullary syndrome including palatal weakness and uvula deviation. 2. Uvula deviation typically occurs away from the side of the lesion. 3. MRI is the imaging modality of choice in suspected posterior circulation strokes.",
+        "current_evidence": "Recent research supports the early use of advanced MRI techniques (including diffusion-weighted imaging) in the diagnosis of brainstem strokes. Updated guidelines also stress the importance of thorough neurological examination in localizing brainstem lesions such as those seen in PICA territory infarcts."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993098",
+    "fields": {
+      "question_number": "73",
+      "question_text": "Same as above Q asked about investigation?",
+      "options": {
+        "A": "MRI",
+        "B": "MRV (should rule out CVT)",
+        "C": "LP"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "In the investigation of an acute ischemic stroke, particularly one localized to a specific arterial territory such as the PICA, it is paramount to directly visualize the brain parenchyma. Magnetic Resonance Imaging (MRI) is the gold standard for detecting acute infarctions in the brain.",
+        "pathophysiology": "Ischemic strokes, like those in the PICA territory, result from occlusion of an arterial supply leading to cell death in the affected region. MRI, especially diffusion-weighted imaging (DWI), is highly sensitive to these early ischemic changes. MR Venography (MRV) is designed to evaluate the cerebral venous system and is most useful when cerebral venous thrombosis (CVT) is suspected—an entirely different pathologic process with distinct clinical features.",
+        "clinical_correlation": "For a patient exhibiting classic signs of a right PICA infarction (e.g., lateral medullary syndrome features), an MRI will confirm the arterial infarct. In contrast, CVT typically presents with symptoms such as headache, seizures, and signs of raised intracranial pressure, not with the focal deficits seen in arterial strokes.",
+        "diagnostic_approach": "The appropriate investigation in this setting is an MRI of the brain, which provides clear visualization of the infarcted tissue. MRV should be reserved for cases where there is clinical suspicion for CVT. Lumbar puncture (LP) does not play a role in the routine evaluation of arterial strokes.",
+        "classification_and_neurology": "CVT is classified under cerebrovascular disorders distinct from arterial ischemic stroke. The International Classification of Diseases (ICD-11) categorizes CVT as a subtype of stroke associated with venous thrombosis. Within CVT, classification can be based on the location of thrombosis (e.g., superior sagittal sinus, transverse sinus, deep cerebral veins), acute versus chronic presentation, and underlying etiology (e.g., infectious, non-infectious, idiopathic). The disease family includes venous thromboembolism disorders, overlapping with systemic hypercoagulability syndromes. Classification systems have evolved with advances in imaging and understanding of pathophysiology, emphasizing the need to distinguish CVT from arterial stroke due to differing management and prognosis.",
+        "classification_and_nosology": "Acute ischemic strokes are categorized by the arterial territory involved, with PICA strokes being a subset of posterior circulation strokes.",
+        "management_principles": "After confirming the diagnosis with MRI, acute management may include thrombolytic therapy if within the therapeutic window, followed by secondary prevention with antiplatelet agents and risk factor management. In pregnant patients, the use of thrombolytics must be carefully weighed against potential risks, and aspirin is often the antiplatelet agent of choice. During lactation, both aspirin (in low doses) and other approved agents are considered safe, while warfarin is avoided in pregnancy.",
+        "option_analysis": "Option A (MRI) is the correct investigation because it accurately images the brain parenchyma and can reliably detect infarctions in the PICA distribution. Option B (MRV) is incorrect as it is designed to evaluate the venous system for conditions such as CVT, which is not the suspected pathology in this case. Option C (LP) is not indicated in evaluating an arterial stroke.",
+        "clinical_pearls": "1. MRI with diffusion-weighted imaging is the investigation of choice in detecting acute ischemic strokes. 2. MRV is reserved for the assessment of cerebral venous thrombosis, which has a markedly different clinical presentation. 3. Accurate imaging is critical in determining time-sensitive stroke interventions.",
+        "current_evidence": "Current American Heart Association/American Stroke Association guidelines endorse the use of MRI (particularly DWI sequences) in the acute setting for the detection of cerebral ischemia. Recent studies also highlight the limited role of MRV in arterial strokes, reinforcing that MRV is not indicated unless CVT is specifically suspected."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993099",
+    "fields": {
+      "question_number": "74",
+      "question_text": "50-year-old patient, heavy smoker, hypertensive on medication, came with history of left eye visual changes & dysarthria for 10 min then resolved, asked about next?",
+      "options": {
+        "A": "MRI brain",
+        "B": "CTA neck"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This case describes a classic transient ischemic attack (TIA): a self‐limiting episode of neurological dysfunction caused by transient cerebral ischemia. Given the patient’s vascular risk factors (hypertension and heavy smoking) and the nature of his symptoms (transient visual changes and dysarthria), the next step is to evaluate the potential vascular source of embolism.",
+        "pathophysiology": "TIAs are typically due to temporary occlusion of a cerebral artery often from an embolus or in situ thrombosis over an atherosclerotic plaque. In patients with risk factors like atherosclerosis, an unstable plaque in the carotid artery may intermittently shed emboli leading to transient neurological deficits.",
+        "clinical_correlation": "The patient’s symptoms—transient visual changes (which may represent amaurosis fugax) and dysarthria—are indicative of ischemia in areas supplied by the carotid circulation. The presence of such symptoms in a high-risk patient mandates urgent evaluation to stratify risk and prevent subsequent stroke.",
+        "diagnostic_approach": "Initial evaluation of suspected TIA typically includes neuroimaging (CT or MRI) to rule out acute infarction, followed by vascular imaging. Differential diagnoses include migraine with aura, seizure-related transient deficits, and ocular causes. However, in a patient with vascular risk factors, evaluation of the carotids is paramount. Carotid imaging via CT angiography (CTA neck) or duplex ultrasound is used to identify significant stenosis.",
+        "classification_and_neurology": "TIA is classified under cerebrovascular diseases per the World Health Organization and American Heart Association/American Stroke Association (AHA/ASA) frameworks. Traditionally defined by symptom duration (<24 hours), newer definitions incorporate tissue-based criteria using MRI diffusion-weighted imaging (DWI) to exclude infarction, refining diagnosis to transient symptoms without imaging evidence of infarction. TIAs are further subclassified by etiology using the TOAST classification into large artery atherosclerosis, cardioembolism, small vessel occlusion, other determined etiology, and undetermined etiology. This patient likely falls into the large artery atherosclerosis category due to risk factors and symptom pattern. Contemporary nosology emphasizes urgent evaluation and secondary prevention to mitigate stroke risk. Controversies remain regarding the optimal imaging protocol and criteria for TIA diagnosis, but consensus supports a tissue-based approach.",
+        "classification_and_nosology": "TIAs are considered part of the ischemic cerebrovascular events spectrum. With advances in imaging, many now define TIA by the absence of permanent tissue infarction. TIA workups are categorized under stroke prevention protocols.",
+        "management_principles": "Management involves both diagnostic evaluation and secondary prevention. First-line evaluation includes brain imaging to exclude stroke and vascular imaging (CTA neck, carotid duplex) to evaluate for carotid stenosis. In addition, antiplatelet therapy (e.g., aspirin) and aggressive risk factor modification (smoking cessation, control of hypertension, statin therapy) are essential. In pregnant or lactating patients, alternative imaging modalities (like carotid duplex ultrasound) may be preferred to minimize radiation exposure, though CTA can be performed with proper shielding if necessary.",
+        "option_analysis": "Option A (MRI brain) is useful for detecting small infarcts but does not evaluate the carotid vasculature directly. Option B (CTA neck) is the most appropriate next step as it assesses the extracranial carotid arteries for atherosclerotic disease or dissection, which is critical in TIA workup. The other options are not provided and therefore are not considered.",
+        "clinical_pearls": "1. TIA is a warning sign of potential future strokes—prompt evaluation is crucial. 2. Vascular imaging (such as CTA neck) is indispensable to identify a treatable source of embolism. 3. Risk factor modification is a cornerstone of secondary prevention.",
+        "current_evidence": "Recent guidelines from the American Heart Association emphasize rapid vascular imaging in TIA patients to identify high-risk lesions and guide early intervention. Studies continue to support early carotid imaging as part of a comprehensive stroke prevention strategy."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993100",
+    "fields": {
+      "question_number": "75",
+      "question_text": "Case scenario of a patient with high NIHSS then dropped down to 6 but still has dysarthria and weakness what do next?",
+      "options": {
+        "A": "Give t-PA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This question concerns the management decision in acute ischemic stroke when there is dramatic early improvement but residual deficits persist. The key concept is that even if a patient’s NIH Stroke Scale (NIHSS) improves, if disabling deficits remain, treatment with IV t-PA is still indicated.",
+        "pathophysiology": "Acute ischemic stroke results from an arterial occlusion leading to brain tissue ischemia. Early reperfusion therapy (with t-PA) helps to salvage at-risk brain tissue. In some cases, spontaneous partial recanalization may occur, leading to improvement, but residual deficits (such as dysarthria and weakness) may still be significant and disabling.",
+        "clinical_correlation": "Despite an initial high NIHSS, the patient’s improvement to an NIHSS of 6 does not eliminate the possibility of a clinically significant and disabling stroke. Dysarthria and weakness can significantly impair daily functioning. The risk of deterioration or incomplete recovery supports proceeding with reperfusion therapy in eligible patients.",
+        "diagnostic_approach": "The diagnostic workup includes a non-contrast CT scan (to rule out hemorrhage) and clinical scoring using the NIHSS. Differential considerations include transient ischemic attack (if deficits resolve completely) versus an evolving stroke. In this case, the persistent deficits indicate a stroke that may benefit from thrombolytic therapy.",
+        "classification_and_neurology": "Acute ischemic stroke is classified within cerebrovascular diseases, specifically under ischemic strokes. The TOAST classification categorizes ischemic strokes into large artery atherosclerosis, cardioembolism, small vessel occlusion, stroke of other determined etiology, and stroke of undetermined etiology. The decision to administer thrombolysis is based on clinical presentation and timing rather than stroke subtype. The NIHSS provides a standardized measure of stroke severity and is integral to clinical trials and guidelines. This classification framework helps tailor secondary prevention but does not preclude acute reperfusion therapy when indicated.",
+        "classification_and_nosology": "Ischemic stroke is classified based on clinical presentation and imaging findings. The patient’s presentation falls under the category of an acute ischemic stroke with residual deficits despite some spontaneous improvement.",
+        "management_principles": "According to current guidelines, IV t-PA is indicated for acute ischemic stroke within the 4.5-hour window unless contraindicated. First-line management is rapid thrombolysis with t-PA. For patients with residual disabling deficits, even after some improvement, reperfusion therapy is recommended. In pregnant patients, the use of t-PA is controversial but may be justified if benefits outweigh risks, and similarly in lactating patients, t-PA is considered relatively safe.",
+        "option_analysis": "Option A (Give t-PA) is correct because the presence of residual disabling deficits (even with an improved NIHSS of 6) qualifies the patient for thrombolytic therapy provided he is within the window and no contraindications exist. The other options (B, C, D) were not provided, making t-PA the best and only provided management option.",
+        "clinical_pearls": "1. Improvement in NIHSS does not automatically preclude the use of t-PA if deficits remain disabling. 2. Even an NIHSS of 6 can represent a stroke that significantly impairs function. 3. ‘Rapidly improving’ is a relative contraindication only if the deficits are non-disabling.",
+        "current_evidence": "Recent stroke guidelines underscore that patients with ‘rapid improvement’ but residual disabling symptoms should not be excluded from thrombolysis. Updated research reinforces the benefit of t-PA in salvaging brain tissue in eligible patients, with several studies addressing the management of these borderline cases."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993101",
+    "fields": {
+      "question_number": "76",
+      "question_text": "Case scenario of a patient with stroke syndrome findings suggestive of lateral pons (patient has hearing problem)?",
+      "options": {
+        "A": "AICA",
+        "B": "PICA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This case centers on lateral pontine syndrome. The involvement of auditory pathways in the lateral pons is most characteristically associated with infarction of the territory supplied by the anterior inferior cerebellar artery (AICA).",
+        "pathophysiology": "An infarct in the AICA territory affects the lateral pons where important structures including the cochlear nuclei are located, leading to symptoms such as hearing loss. Damage to the adjacent neural structures may also produce deficits like facial paralysis and ataxia.",
+        "clinical_correlation": "In patients presenting with stroke symptoms localized to the lateral pons, the presence of hearing impairment strongly points toward an AICA infarct. This helps differentiate it from other brainstem syndromes (e.g., lateral medullary syndrome from PICA infarction) which rarely present with hearing loss.",
+        "diagnostic_approach": "Diagnosis is supported by clinical exam and confirmed with neuroimaging (CT or MRI). Differential diagnoses include lateral medullary syndrome (PICA infarct) and other brainstem pathologies; however, the notable finding of hearing loss is more specific for AICA involvement.",
+        "classification_and_neurology": "Brainstem strokes are classified based on the vascular territory involved: - **AICA syndrome:** lateral pontine infarction - **PICA syndrome:** lateral medullary infarction - **Basilar artery syndrome:** affecting midline pontine structures  This classification is part of the broader cerebrovascular disease taxonomy per the TOAST criteria and other stroke classification systems. The differentiation between AICA and PICA infarcts is crucial because they belong to distinct vascular territories with different clinical and therapeutic implications. Although both are posterior circulation strokes, their symptomatology and prognosis differ. Current consensus favors vascular territory-based classification to guide diagnosis and management, though overlap syndromes and anatomical variations can complicate classification.",
+        "classification_and_nosology": "Brainstem strokes are classified by the vascular territory involved. An AICA stroke, which presents as lateral pontine syndrome, is distinct from PICA infarcts (lateral medullary syndrome) based on the structures involved and clinical findings.",
+        "management_principles": "Acute management aligns with stroke protocols – rapid evaluation, consideration of thrombolytic therapy if within the window, and supportive care. Secondary prevention includes antiplatelets, statins, and risk factor management. In pregnancy or lactation, similar stroke guidelines apply; thrombolysis can be considered if benefits outweigh risks, with careful monitoring and multidisciplinary management.",
+        "option_analysis": "Option A (AICA) is correct because hearing loss is a hallmark of lateral pontine syndrome due to AICA infarction. Option B (PICA) is incorrect because lateral medullary syndrome from PICA infarct typically spares hearing. Options C and D were not provided.",
+        "clinical_pearls": "1. AICA infarcts classically present with ipsilateral hearing loss, vertigo, and facial weakness. 2. Differentiation from lateral medullary syndrome relies heavily on the presence of auditory symptoms. 3. Accurate localization aids in optimizing management strategies.",
+        "current_evidence": "Recent neuroimaging advances have improved the diagnostic accuracy of brainstem strokes. Current guidelines continue to recommend prompt reperfusion therapy for eligible patients with posterior circulation strokes, with careful attention to clinical localization."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993102",
+    "fields": {
+      "question_number": "77",
+      "question_text": "Attached picture of a patient with Horner’s (ptosis, miosis) came with thunderclap HA, ct brain and LP done within 4 hr, was normal!!",
+      "options": {
+        "A": "Pcom aneurysm rupture",
+        "B": "RCVS",
+        "C": "ICA dissection"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "This clinical scenario describes a patient who presents with thunderclap headache and signs of Horner’s syndrome (ptosis and miosis). These features are highly suggestive of an internal carotid artery (ICA) dissection, a known cause of such presentations.",
+        "pathophysiology": "ICA dissection occurs when a tear in the arterial wall allows blood to enter and split the layers of the vessel wall, often compromising the sympathetic plexus that runs along the artery. This results in Horner’s syndrome. The sudden, severe headache (“thunderclap headache”) is a common presenting feature.",
+        "clinical_correlation": "Patients with ICA dissection frequently present with a unilateral headache, neck pain, and ipsilateral Horner’s syndrome. The normal CT scan and lumbar puncture (LP) help rule out subarachnoid hemorrhage, making ICA dissection the most likely diagnosis in this setting.",
+        "diagnostic_approach": "Although the initial CT brain and LP are normal, further evaluation with CT angiography (or MR angiography) of the neck is essential to identify the dissection. Differentials include ruptured aneurysm (e.g., Pcom aneurysm rupture which typically shows hemorrhage on CT) and reversible cerebral vasoconstriction syndrome (RCVS, which usually lacks Horner’s syndrome).",
+        "classification_and_neurology": "ICA dissection is classified under extracranial arterial dissections within the broader category of cervicocranial arterial dissections, a subset of ischemic stroke etiologies. It is distinguished from intracranial dissections and other causes of thunderclap headache such as subarachnoid hemorrhage and RCVS. The nosology has evolved to recognize dissections as a distinct vascular pathology with unique clinical and imaging features. The International Classification of Headache Disorders (ICHD-3) includes headache attributed to arterial dissection as a secondary headache disorder, emphasizing the importance of identifying underlying vascular causes. Competing classifications sometimes group dissections with other vasculopathies, but current consensus supports their distinct categorization due to their specific pathophysiology and management.",
+        "classification_and_nosology": "ICA dissection falls under the category of arterial dissection and is a specific subtype of ischemic stroke etiology. It is distinct from aneurysmal subarachnoid hemorrhage and RCVS based on clinical and imaging findings.",
+        "management_principles": "Management of ICA dissection involves antithrombotic therapy (either antiplatelet agents or anticoagulation) to prevent thromboembolic complications. This is typically the first-line treatment. In cases where symptoms deteriorate or if there is evidence of compromised cerebral blood flow, endovascular repair may be considered. For pregnant or lactating patients, antithrombotic therapies (especially low-dose aspirin) are used with caution, considering the safety profiles and risk–benefit assessments in these populations.",
+        "option_analysis": "Option A (Pcom aneurysm rupture) would generally produce subarachnoid hemorrhage with positive CT/LP findings. Option B (RCVS) usually causes thunderclap headache without the classic finding of Horner’s syndrome. Option C (ICA dissection) is correct because it best explains the combination of thunderclap headache and Horner’s syndrome in the context of normal CT/LP findings.",
+        "clinical_pearls": "1. Horner’s syndrome in the setting of a thunderclap headache is a red flag for carotid dissection. 2. Normal CT and LP do not rule out ICA dissection; vascular imaging is required. 3. Early diagnosis and treatment with antithrombotic therapy can reduce the risk of subsequent stroke.",
+        "current_evidence": "Current guidelines and recent studies continue to support the use of antithrombotic therapy as first-line management for cervical artery dissection. Advances in vascular imaging have significantly improved early detection, and updated consensus statements provide guidance on management in special populations such as pregnant and lactating patients."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  },
+  {
+    "model": "mcq.mcq",
+    "pk": "99993103",
+    "fields": {
+      "question_number": "78",
+      "question_text": "SAH female young patient with symptomatic PComm aneurysm next?",
+      "options": {
+        "A": "Clipping",
+        "B": "Coiling",
+        "C": "Discharge",
+        "D": "Medical treatment"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Part I",
+      "exam_year": 2021,
+      "explanation_sections": {
+        "conceptual_foundation": "Aneurysmal subarachnoid hemorrhage (SAH) most often results from rupture of a cerebral aneurysm. In this case, a young female with a symptomatic posterior communicating artery (PComm) aneurysm presents a scenario where the key step is to secure the aneurysm to prevent rebleeding. Two primary methods are available: surgical clipping and endovascular coiling.",
+        "pathophysiology": "The rupture of an aneurysm leads to blood extravasation into the subarachnoid space, provoking a cascade of events including increased intracranial pressure, inflammation, and vasospasm due to breakdown products of blood. The PComm aneurysm’s location often makes it amenable to endovascular intervention because modern coiling techniques can effectively isolate the aneurysm from the circulation with lower invasiveness.",
+        "clinical_correlation": "Patients with SAH typically present with a sudden, severe headache ('thunderclap headache'), along with signs of meningeal irritation and possible focal deficits depending on the hemorrhage location. Securing the aneurysm rapidly is critical to reduce the high risk of rebleeding in the acute phase.",
+        "diagnostic_approach": "Initial diagnosis is made with a non-contrast CT scan of the head to identify hemorrhage. Following this, CT angiography or digital subtraction angiography is employed to localize and characterize the aneurysm, distinguishing it from other vascular lesions and guiding the treatment plan.",
+        "classification_and_neurology": "Intracranial aneurysms are classified based on morphology (saccular/fusiform), size (small <7mm, large 7-12mm, giant >25mm), location (anterior vs. posterior circulation), and rupture status (ruptured vs. unruptured). The PComm aneurysm is a subtype of anterior circulation saccular aneurysm. SAH is classified by etiology (aneurysmal, traumatic, perimesencephalic) and severity (Hunt and Hess, Fisher scales). The management of aneurysmal SAH is guided by international consensus, including the American Heart Association/American Stroke Association (AHA/ASA) guidelines, which stratify treatment based on rupture status, aneurysm characteristics, and patient factors. Controversies exist regarding the best treatment modality for specific aneurysm types, but the consensus supports early aneurysm securing either by microsurgical clipping or endovascular coiling.",
+        "classification_and_nosology": "Aneurysmal SAH is classified by the location and morphology of the aneurysm. PComm aneurysms are a subtype based on their anatomical location. The management approach falls under neurovascular interventions, where decisions between surgical clipping and endovascular coiling are made based on aneurysm characteristics, patient factors, and local expertise.",
+        "management_principles": "Current guidelines (supported by studies such as ISAT) favor endovascular coiling for many aneurysms due to its less invasive nature and lower immediate morbidity compared to clipping. First-line treatment in a suitable aneurysm is coiling, provided the aneurysm morphology supports it. In women of child‐bearing age, careful attention is needed with radiation exposure and contrast use; multidisciplinary input ensures that pregnancy (or potential pregnancy) is managed appropriately. Second-line or alternative treatment is surgical clipping, which may be considered based on aneurysm anatomy or if endovascular expertise is unavailable.",
+        "option_analysis": "Option A (Clipping) is a valid treatment modality but is more invasive; Option B (Coiling) is the chosen and correct option as it is typically preferred when the aneurysm’s morphology is favorable; Option C (Discharge) is inappropriate given the life‐threatening nature of aneurysmal SAH; Option D (Medical treatment) is inadequate since active intervention is required to prevent rebleeding.",
+        "clinical_pearls": "1) Nimodipine is used in SAH for vasospasm prophylaxis. 2) Endovascular coiling is less invasive and, in suitable aneurysms, has been shown to yield better short‐term outcomes. 3) Multidisciplinary evaluation is essential in determining the best approach for aneurysm management.",
+        "current_evidence": "Recent updates and evidence from the International Subarachnoid Aneurysm Trial (ISAT) and subsequent studies support the use of endovascular coiling in anatomically favorable aneurysms. Advancements in endovascular technology continue to refine patient selection and improve outcomes."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "migraine patient with daily persistent headache, who used to take daily triptans and NSAIDs, what is the next management step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with headache, congestion, tearing, with a duration of 15-30 minutes, occurring 5 times per day, always on the same side. His history includes pain provoked by touching the face. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "pregnant patient presents with a severe migraine attack, similar to her previous migraine attacks. What is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "young female patient, known to have migraine controlled on medications, now presents with unilateral headache associated with lacrimation and conjunctival injection, lasting for less than 2 minutes and resolving completely. It occurs up to 40 times per day, and she is completely asymptomatic between the attacks. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "young lady post uneventful delivery by cesarean section came with a history of positional headache that worsens with standing and improves with lying on her back for more than 2 weeks. MRI of the brain was done (image attached). Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old woman presents with a headache, describing 10 episodes a day of sharp pain over the left eye, lasting about 5 minutes each, which cause her to sit or lie quietly until the attacks pass. Which of the following autonomic phenomena is most commonly associated with this type of headache?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In the same case scenario as above, what is the recommended treatment?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Oxcarbazepine",
+      "C": "Lamotrigine",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "In a scenario of intracranial hypotension not responding to routine measures, what is the next step?",
+    "options": {
+      "A": "Blood patch",
+      "B": "Surgical intervention",
+      "C": "Increased hydration",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q180",
+    "question_text": "In a scenario of glossopharyngeal neuralgia, what should be done next?",
+    "options": {
+      "A": "MRI of the head and neck",
+      "B": "Refer to ENT specialist",
+      "C": "Start carbamazepine",
+      "D": "Perform a cervical spine MRI"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "In a case of a headache attributed to trigeminal neuralgia, what is the best treatment option?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Indomethacin",
+      "C": "Gabapentin",
+      "D": "Baclofen"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q321",
+    "question_text": "",
+    "options": {
+      "A": "male patient reports shock-like electric sensations in half of his face multiple times per day, and he avoids brushing and shaving. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q205",
+    "question_text": "",
+    "options": {
+      "A": "10-week pregnant woman presents with severe acute migraine. Which of the following is the recommended first-line treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a migraine patient who is doing well and has controlled headaches. He requests a prescription for pregabalin, which he takes occasionally on weekends to help him relax. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q350",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with severe periorbital episodic headache lasting 5 minutes. What is the most common associated feature?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "In a scenario of trigeminal neuralgia, what is needed to reach the diagnosis?",
+    "options": {
+      "A": "Clinical diagnosis, no need for imaging",
+      "B": "Brain MRI",
+      "C": "CT scan",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "Triptans can be used in patients with which of the following conditions?",
+    "options": {
+      "A": "Coronary artery disease",
+      "B": "Hemiplegic migraine",
+      "C": "Peptic ulcer disease",
+      "D": "Tension-type headache"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "patient has irritable bowel syndrome, is obese, and has migraine. What would you prescribe as a prophylactic agent?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "boy presents with a headache that is more pronounced in the morning and is associated with nausea and vomiting. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "",
+    "options": {
+      "A": "boy presents with headaches that are worse in the morning and associated with nausea and vomiting. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine underwent a brain MRI as a routine workup for chronic headache, which showed white matter lesions. What is the most appropriate action?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with lacinating pain lasting for seconds, and MRI shows SCA compression over the trigeminal nerve. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "In the evaluation of a patient suspected of suffering from glossopharyngeal neuralgia, which of the following is important to inquire about?",
+    "options": {
+      "A": "Presence of trigger factors",
+      "B": "Family history of headaches",
+      "C": "Previous surgeries",
+      "D": "Medication history"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences a visual aura for 10-20 minutes followed by a headache. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient has a severe headache with typical migraine features and has had previous episodes during menstruation. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "Patient came with tongue pain and paresthesia, radiating to the neck, increased with neck movement. What is the diagnosis?",
+    "options": {
+      "A": "Tongue neck syndrome",
+      "B": "Glossopharyngeal neuralgia",
+      "C": "Trigeminal neuralgia",
+      "D": "Cervical radiculopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

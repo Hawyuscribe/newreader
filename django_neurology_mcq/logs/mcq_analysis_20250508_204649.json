@@ -1,0 +1,45 @@
+{
+  "total_mcqs": 3044,
+  "subspecialty_distribution": {
+    "Epilepsy": 310,
+    "Critical Care Neurology": 124,
+    "Dementia": 114,
+    "Pediatric Neurology": 18,
+    "Neuropsychiatry": 40,
+    "Neurogenetics": 106,
+    "Neuroanatomy": 98,
+    "Vascular Neurology Stroke": 375,
+    "Neuro otology": 9,
+    "Other Unclassified": 88,
+    "Neuroimmunology": 323,
+    "Neuroophthalmology": 95,
+    "Movement Disorders": 260,
+    "Sleep Neurology": 34,
+    "Headache": 174,
+    "Neuro oncology": 164,
+    "Neuro-infectious": 222,
+    "Neuromuscular": 450,
+    "Neurotoxicology": 40
+  },
+  "explanation_stats": {
+    "with_explanation": 3044,
+    "good_explanations": 3044,
+    "html_formatted": 100,
+    "common_sections": {
+      "Conceptual Framework & Clinical Context": 100,
+      "Evidence-Based Analysis": 100,
+      "Incorrect Options Analysis": 100,
+      "Comparison Table": 100,
+      "Clinical Pearls": 100,
+      "Common Pitfalls and Misconceptions": 100,
+      "Latest Guidelines and Trials": 100,
+      "Board Examination Focus": 100,
+      "Diagnostic Algorithm": 27,
+      "Pharmacotherapy Focus": 39,
+      "Neuroanatomical Correlations": 37,
+      "Pathophysiology Breakdown": 35,
+      "Neuroimaging Pearls": 25
+    }
+  },
+  "timestamp": "2025-05-08T20:46:49.751743"
+}

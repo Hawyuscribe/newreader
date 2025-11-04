@@ -1,0 +1,19 @@
+{
+  "timestamp": "20250509_100724",
+  "subspecialties": {
+    "Critical Care Neurology": {
+      "subspecialty": "Critical Care Neurology",
+      "total_mcqs": 124,
+      "successful_updates": 91,
+      "failed_updates": 33,
+      "timestamp": "2025-05-09 10:08:15"
+    },
+    "Sleep Neurology": {
+      "subspecialty": "Sleep Neurology",
+      "total_mcqs": 34,
+      "successful_updates": 21,
+      "failed_updates": 13,
+      "timestamp": "2025-05-09 10:08:31"
+    }
+  }
+}

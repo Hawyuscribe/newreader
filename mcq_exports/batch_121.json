@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q208",
+    "question_text": "Based on the following imaging, which territory is involved?",
+    "options": {
+      "A": "Posterior cerebral artery",
+      "B": "PICA",
+      "C": "Superior cerebellar artery (SCA)",
+      "D": "AICA"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "",
+    "options": {
+      "A": "63-year-old male has acute bilateral lower limb weakness, lower back pain, and urinary incontinence. Examination shows dense paraplegia with preserved proprioception. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q446",
+    "question_text": "",
+    "options": {
+      "A": "young female with right ICA dissection shows a crescent shape on MRA. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q329",
+    "question_text": "",
+    "options": {
+      "A": "left ICA deep borderzone infarction is shown on DWI. What test would reveal the etiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q406",
+    "question_text": "",
+    "options": {
+      "A": "patient with a minor stroke (NIHSS 3) presents with decreased sensation on the left side and mild facial weakness. Within the treatment window, what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q508",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old female patient with a history of diabetes mellitus and hypertension, who had a previous stroke 2 months ago, presents with 3.5 hours of right-sided weakness, facial weakness, and dysarthria. Her NIHSS score is 8. What is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "patient with an intracranial bleed is being assessed for blood pressure management. What is the recommended blood pressure?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q210",
+    "question_text": "An 82-year-old woman presents with an acute ischemic stroke (onset 2 hours ago) and shows partial improvement of her deficit. What is the recommended treatment?",
+    "options": {
+      "A": "Give IV tPA",
+      "B": "Administer aspirin",
+      "C": "Perform a thrombectomy",
+      "D": "Observe and reassess"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q266",
+    "question_text": "What is the artery involved in a case of unconsciousness with CT brain findings?",
+    "options": {
+      "A": "MCA",
+      "B": "PCA",
+      "C": "Anterior choroidal artery",
+      "D": "Basilar artery"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q286",
+    "question_text": "",
+    "options": {
+      "A": "patient with end-stage renal disease (ESRD) presents with a right superficial borderzone infarction in the MCA/ACA territory. What is the next investigation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q191",
+    "question_text": "What is the direction of gaze deviation in a patient with hemispheric stroke?",
+    "options": {
+      "A": "Toward the lesion",
+      "B": "Away from the lesion",
+      "C": "Toward hemiparesis",
+      "D": "Away from hemiparesis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q311",
+    "question_text": "What is the mechanism of the patient's condition?",
+    "options": {
+      "A": "Aneurysm rupture",
+      "B": "Atherosclerosis",
+      "C": "Premesencephalic hemorrhage",
+      "D": "Arteriovenous malformation rupture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q356",
+    "question_text": "Endarterectomy",
+    "options": {
+      "A": "Is a surgical procedure to remove atherosclerotic plaque from carotid arteries to prevent ischemic stroke",
+      "B": "Is a treatment primarily used for intracerebral hemorrhage management",
+      "C": "Involves the placement of a stent in the middle cerebral artery",
+      "D": "Is a pharmacological therapy using anticoagulants to dissolve clots"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q434",
+    "question_text": "After all stroke workups are completed except for CTA, what is the next step?",
+    "options": {
+      "A": "CTA",
+      "B": "MRI brain",
+      "C": "Carotid Doppler ultrasound",
+      "D": "Echocardiogram"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q479",
+    "question_text": "",
+    "options": {
+      "A": "male patient developed weakness and ptosis. A CTA image is attached. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q284",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with left hemiparesis and confusion. The scenario is consistent with MELAS. Imaging shows multiple FLAIR DWI hyperintensities not following vascular territory. On admission, the patient's condition worsens. What should be ordered next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q330",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female presents with subarachnoid hemorrhage (SAH) and is found to have a posterior communicating artery aneurysm. What is the next appropriate step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q500",
+    "question_text": "",
+    "options": {
+      "A": "young male with internal carotid artery (ICA) occlusion is presented in a vessel image after a motor vehicle accident (MVA) with ischemic infarctions. What is the most likely cause of the occlusion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q257",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male presents with a history of progressive lower limb weakness for months, associated with examination findings of spastic paraparesis. An MRI of the spine shows flow void. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q391",
+    "question_text": "What is the mechanism of injury in a patient who presented unconscious with a brain CT showing:",
+    "options": {
+      "A": "Traumatic hemorrhage",
+      "B": "Intracerebral hemorrhage (ICH)",
+      "C": "Lobar hemorrhage",
+      "D": "Subarachnoid hemorrhage"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q194",
+    "question_text": "What is the direction of gaze deviation in a patient with pontine stroke?",
+    "options": {
+      "A": "Toward the lesion",
+      "B": "Away from the lesion",
+      "C": "Toward hemiparesis",
+      "D": "Away from hemiparesis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old patient comes to the ER with left-sided weakness, decreased proprioception on the left, and right tongue weakness. What artery is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q317",
+    "question_text": "Stent",
+    "options": {
+      "A": "Used primarily to treat demyelinating diseases",
+      "B": "A device implanted to maintain vessel patency in stenotic arteries",
+      "C": "A surgical technique for brain tumor removal",
+      "D": "A pharmacological agent to dissolve clots in ischemic stroke"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q267",
+    "question_text": "What is the mechanism of the patient's condition?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Coagulopathy",
+      "C": "Aneurysm",
+      "D": "Arteriovenous malformation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q310",
+    "question_text": "What is the mechanism of injury in a patient who presented unconscious with a brain CT showing:",
+    "options": {
+      "A": "Traumatic hemorrhage",
+      "B": "Intracerebral hemorrhage (ICH)",
+      "C": "Lobar hemorrhage",
+      "D": "Subarachnoid hemorrhage"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]
