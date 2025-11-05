@@ -127,6 +127,11 @@ class AiEditSafetyTests(unittest.TestCase):
         self.assertIsInstance(parsed, dict)
         self.assertEqual(parsed.get("explanation"), "Alpha reasoning")
 
+    def test_extract_json_from_text_repairs_unescaped_newlines(self):
+        raw = '{"explanation":"First line\nSecond line"}'.replace("\\n", "\n")
+        parsed = integration._extract_json_from_text(raw)
+        self.assertEqual(parsed, {"explanation": "First line\nSecond line"})
+
     def test_coerce_explanation_from_partial_json(self):
         raw = '{"explanation":"Segmented detail with newline\\nSecond line'
         explanation = integration._coerce_explanation_from_raw(raw)

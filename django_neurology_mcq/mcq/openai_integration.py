@@ -992,6 +992,60 @@ def _extract_json_string_value(text: str, key: str) -> Optional[str]:
     return None
 
 
+def _escape_unescaped_json_control_chars(text: str) -> str:
+    """Escape bare control characters that break JSON decoding."""
+
+    if not text:
+        return text
+
+    chars: list[str] = []
+    in_string = False
+    escaped = False
+
+    for ch in text:
+        if in_string:
+            if escaped:
+                chars.append(ch)
+                escaped = False
+                continue
+
+            if ch == "\\":
+                chars.append(ch)
+                escaped = True
+                continue
+
+            if ch == '"':
+                chars.append(ch)
+                in_string = False
+                continue
+
+            if ch == "\n":
+                chars.append("\\n")
+                continue
+
+            if ch == "\r":
+                chars.append("\\r")
+                continue
+
+            if ch == "\t":
+                chars.append("\\t")
+                continue
+
+            if ord(ch) < 32:
+                chars.append(f"\\u{ord(ch):04x}")
+                continue
+
+            chars.append(ch)
+            continue
+
+        if ch == '"':
+            in_string = True
+
+        chars.append(ch)
+
+    return "".join(chars)
+
+
 def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
     """
     Manually extract JSON from text that might contain explanations or other content.
@@ -1009,7 +1063,14 @@ def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
         if isinstance(parsed, dict):
             return parsed
     except json.JSONDecodeError:
-        pass
+        repaired = _escape_unescaped_json_control_chars(cleaned)
+        if repaired != cleaned:
+            try:
+                parsed = json.loads(repaired)
+                if isinstance(parsed, dict):
+                    return parsed
+            except json.JSONDecodeError:
+                pass
 
     candidate = _find_json_candidate(cleaned)
     if candidate:
@@ -1025,7 +1086,14 @@ def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
                 if isinstance(parsed, dict):
                     return parsed
             except json.JSONDecodeError:
-                pass
+                repaired_candidate = _escape_unescaped_json_control_chars(candidate)
+                if repaired_candidate != candidate:
+                    try:
+                        parsed = json.loads(repaired_candidate)
+                        if isinstance(parsed, dict):
+                            return parsed
+                    except json.JSONDecodeError:
+                        pass
 
     extracted = _extract_json_string_value(cleaned, "explanation")
     if extracted:
