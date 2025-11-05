@@ -213,6 +213,32 @@ def _sanitize_for_policy(text: str, *, limit: int = 800) -> str:
     return cleaned[:limit]
 
 
+def _prepare_editor_instructions(text: str, *, limit: int = 800) -> str:
+    """Normalize editor supplied instructions while preserving bullet structure."""
+    if not text:
+        return ""
+
+    normalized = text.replace("\r\n", "\n").replace("\r", "\n")
+    normalized = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", " ", normalized)
+
+    lines: List[str] = []
+    for raw_line in normalized.split("\n"):
+        cleaned_line = re.sub(r"\s+", " ", raw_line).strip()
+        if cleaned_line:
+            lines.append(cleaned_line)
+
+    collapsed = "\n".join(lines).strip()
+    if len(collapsed) <= limit:
+        return collapsed
+
+    truncated = collapsed[:limit].rstrip()
+    # Avoid truncating in the middle of a word when possible
+    last_space = truncated.rfind(" ")
+    if last_space > limit * 0.6:
+        truncated = truncated[:last_space]
+    return truncated.strip()
+
+
 def _run_agent_explanation(
     prompt: str,
     *,
@@ -588,6 +614,91 @@ def _detect_forbidden_hits(text: str, forbidden_terms: Sequence[str]) -> List[st
         if term_clean and term_clean in normalized:
             hits.append(term_clean)
     return hits
+
+
+def _validate_generated_options(
+    *,
+    generated: Dict[str, str],
+    expected_letters: Sequence[str],
+    existing_options: Optional[Dict[str, str]] = None,
+    correct_letter: str = "",
+    correct_answer_text: str = "",
+    forbidden_terms: Sequence[str] | None = None,
+    min_length: int = 12,
+) -> List[str]:
+    """Validate AI-generated options before applying them."""
+
+    errors: List[str] = []
+    expected_set = {letter.upper() for letter in expected_letters}
+    provided_set = {letter.upper() for letter in generated.keys()}
+
+    missing = expected_set - provided_set
+    if missing:
+        errors.append(
+            "Missing option keys: " + ", ".join(sorted(missing))
+        )
+
+    unexpected = provided_set - expected_set
+    if unexpected:
+        errors.append(
+            "Unexpected option keys returned: " + ", ".join(sorted(unexpected))
+        )
+
+    normalized_existing: Dict[str, str] = {}
+    if existing_options:
+        for letter, text in existing_options.items():
+            normalized_text = _normalize_question_text(text)
+            if normalized_text:
+                normalized_existing[normalized_text] = letter.upper()
+
+    correct_letter_upper = correct_letter.upper() if correct_letter else ""
+    correct_normalized = _normalize_question_text(correct_answer_text)
+
+    seen: Dict[str, str] = {}
+    for letter, text in generated.items():
+        normalized_letter = letter.upper()
+        candidate = str(text or "").strip()
+        normalized_text = _normalize_question_text(candidate)
+
+        if not candidate:
+            errors.append(f"Option {normalized_letter} is empty.")
+            continue
+
+        if len(candidate) < min_length:
+            errors.append(f"Option {normalized_letter} is too short to be credible.")
+
+        if normalized_text:
+            if normalized_text in seen and seen[normalized_text] != normalized_letter:
+                errors.append(
+                    f"Option {normalized_letter} duplicates option {seen[normalized_text]}."
+                )
+            else:
+                seen[normalized_text] = normalized_letter
+
+            existing_match = normalized_existing.get(normalized_text)
+            if existing_match and existing_match != normalized_letter:
+                errors.append(
+                    f"Option {normalized_letter} duplicates existing option {existing_match}."
+                )
+
+            if (
+                correct_letter_upper
+                and normalized_text
+                and normalized_text == correct_normalized
+                and normalized_letter != correct_letter_upper
+            ):
+                errors.append(
+                    f"Option {normalized_letter} matches the correct answer text."
+                )
+
+        hits = _detect_forbidden_hits(candidate, forbidden_terms or [])
+        if hits:
+            errors.append(
+                f"Option {normalized_letter} includes forbidden terms: "
+                + ", ".join(sorted(set(hits)))
+            )
+
+    return errors
 
 
 def _validate_question_revision(
@@ -3622,11 +3733,11 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
     """
     AI-powered question text editing that maintains the original concept while improving clarity.
     Uses the OpenAI Responses API with JSON schema enforcement and vector store support.
-    
+
     Args:
         mcq: The MCQ object containing the question to edit
         custom_instructions: Optional custom instructions from the user
-        
+
     Returns:
         str: The improved question text
     """
@@ -3657,8 +3768,16 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
 
     options_text = format_options_text(mcq) or "No answer choices available."
     correct_answer = getattr(mcq, "correct_answer", "").strip()
-    instructions_lower = (custom_instructions or "").lower()
-    forbidden_terms = _extract_forbidden_terms(custom_instructions)
+    prepared_instructions = _prepare_editor_instructions(custom_instructions)
+    instructions_lower = prepared_instructions.lower()
+    forbidden_terms = _extract_forbidden_terms(prepared_instructions)
+    sanitized_instructions = (
+        _sanitize_for_policy(prepared_instructions) if prepared_instructions else ""
+    )
+    sanitized_question_text = _sanitize_for_policy(question_text, limit=700)
+    sanitized_options_text = _sanitize_for_policy(options_text, limit=700)
+    prompt_sanitized = False
+
     wants_options = bool(
         re.search(r"\b(multiple[-\s]?choice|answer choices?|options?)\b", instructions_lower)
     )
@@ -3692,17 +3811,6 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
         },
     }
 
-    if forbidden_terms:
-        forbidden_bullets = "\n".join(f"- {term}" for term in forbidden_terms)
-        prohibited_block = f"Forbidden phrases that must NOT appear anywhere: \n{forbidden_bullets}"
-    else:
-        prohibited_block = ""
-
-    if custom_instructions:
-        custom_block = f"Custom instructions from the editor:\n{custom_instructions}"
-    else:
-        custom_block = ""
-
     quality_requirements = [
         "Preserve the exact clinical intent, key findings, and difficulty level tested by the original question.",
         "Write a polished neurology board-style vignette with rich clinical detail.",
@@ -3724,35 +3832,12 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
     if forbidden_terms:
         quality_requirements.append("Avoid every forbidden phrase exactly as listed.")
 
-    quality_block = "\n".join(f"- {item}" for item in quality_requirements)
-
-    user_prompt_parts = [
-        "# ORIGINAL QUESTION STEM",
-        question_text,
-        "\n## EXISTING ANSWER OPTIONS",
-        options_text or "Not provided.",
-        f"\n## CORRECT ANSWER (REFERENCE ONLY): {correct_answer or 'Unknown'}",
-        "\n## REVISION REQUIREMENTS",
-        quality_block,
-    ]
-    if custom_block:
-        user_prompt_parts.append("\n## USER PREFERENCES\n" + custom_block)
-    if prohibited_block:
-        user_prompt_parts.append("\n## FORBIDDEN TERMS\n" + prohibited_block)
-
-    user_prompt = "\n".join(user_prompt_parts)
-
-    system_prompt = (
+    system_prompt_base = (
         "You are a board-certified neurologist and medical educator. "
         "Rewrite MCQ vignettes to improve clarity, structure, and educational value while preserving the diagnosis. "
         "Follow the JSON schema provided by the developer exactly. "
         "Consult any attached knowledge base entries to enrich the scenario, but never contradict the original answer."
     )
-
-    base_messages = [
-        {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
-        {"role": "user", "content": [{"type": "text", "text": user_prompt}]},
-    ]
 
     feedback_template = (
         "The previous draft was rejected because:\n{issues}\n"
@@ -3763,7 +3848,58 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
     last_errors: List[str] = []
 
     for attempt in range(max_attempts):
-        messages = list(base_messages)
+        current_instructions = (
+            sanitized_instructions if prompt_sanitized else prepared_instructions
+        )
+        current_quality = list(quality_requirements)
+        if prompt_sanitized:
+            current_quality.append(
+                "The original stem content was sanitized for policy compliance; rely on neurologic board exam conventions without mentioning this notice."
+            )
+        quality_block = "\n".join(f"- {item}" for item in current_quality)
+
+        question_block = (
+            question_text
+            if not prompt_sanitized
+            else sanitized_question_text
+            or "Clinical details were removed for safety review. Preserve the underlying concept while producing a compliant vignette."
+        )
+        options_block = (
+            options_text
+            if not prompt_sanitized
+            else sanitized_options_text
+            or "Answer choices are withheld for policy compliance. Ensure the stem still leads to a single best answer."
+        )
+
+        prompt_sections = [
+            "# ORIGINAL QUESTION STEM",
+            question_block or "No question text provided.",
+            "\n## EXISTING ANSWER OPTIONS",
+            options_block or "No answer choices available.",
+            f"\n## CORRECT ANSWER (REFERENCE ONLY): {correct_answer or 'Unknown'}",
+            "\n## REVISION REQUIREMENTS",
+            quality_block,
+        ]
+
+        if current_instructions:
+            prompt_sections.append("\n## USER PREFERENCES\n" + current_instructions)
+        if forbidden_terms:
+            forbidden_bullets = "\n".join(f"- {term}" for term in forbidden_terms)
+            prompt_sections.append("\n## FORBIDDEN TERMS\n" + forbidden_bullets)
+
+        user_prompt = "\n".join(prompt_sections)
+
+        system_prompt = system_prompt_base
+        if prompt_sanitized:
+            system_prompt += (
+                "\nThe original request triggered safety filters; work with sanitized context and never reference the moderation event."
+            )
+
+        messages = [
+            {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
+            {"role": "user", "content": [{"type": "text", "text": user_prompt}]},
+        ]
+
         if attempt and last_errors:
             issues_text = "\n".join(f"- {err}" for err in last_errors)
             messages.append(
@@ -3796,6 +3932,19 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
                 max_attempts,
                 message,
             )
+            message_lower = message.lower()
+            if (
+                not prompt_sanitized
+                and any(keyword in message_lower for keyword in ("invalid prompt", "safety", "content policy", "filtered"))
+            ):
+                prompt_sanitized = True
+                last_errors = [
+                    "Prompt was rejected by safety filters; retrying with sanitized context.",
+                ]
+                logger.info(
+                    "Retrying question edit for MCQ #%s with sanitized prompt", mcq_id
+                )
+                continue
             if should_retry and attempt + 1 < max_attempts:
                 time.sleep(min(2 ** attempt, 3))
                 last_errors = [message]
@@ -3861,23 +4010,22 @@ def ai_edit_question(mcq, custom_instructions: str = "") -> str:
     error_message = "; ".join(last_errors) if last_errors else "unknown error"
     raise ValueError(f"AI question edit failed validation: {error_message}")
 
-
 def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
     """
     AI-powered option generation that ONLY fills missing options with USMLE-style distractors.
     Existing options are preserved unchanged.
-    
+
     Args:
         mcq: The MCQ object containing current options
         custom_instructions: Optional custom instructions from the user
-        
+
     Returns:
         dict: Dictionary with all options, filling only the missing ones
     """
     if not api_key or not client:
         logger.info("Using original options due to unavailable OpenAI API")
         return mcq.get_options_dict() if hasattr(mcq, 'get_options_dict') else {}
-    
+
     try:
         mcq_id = getattr(mcq, "id", "unknown")
         logger.info("AI filling missing options for MCQ #%s", mcq_id)
@@ -3901,7 +4049,16 @@ def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
 
         explanation = getattr(mcq, "explanation", "")
         subspecialty = getattr(mcq, "subspecialty", "General Neurology")
-        forbidden_terms = _extract_forbidden_terms(custom_instructions)
+        prepared_instructions = _prepare_editor_instructions(custom_instructions)
+        forbidden_terms = _extract_forbidden_terms(prepared_instructions)
+        sanitized_instructions = (
+            _sanitize_for_policy(prepared_instructions) if prepared_instructions else ""
+        )
+        sanitized_question_text = _sanitize_for_policy(question_text, limit=600)
+        existing_lines = "\n".join(f"{opt}) {text}" for opt, text in existing_options.items())
+        sanitized_existing_lines = _sanitize_for_policy(existing_lines, limit=600)
+        sanitized_explanation = _sanitize_for_policy(str(explanation)[:600], limit=600)
+        prompt_sanitized = False
 
         schema = {
             "type": "object",
@@ -3920,58 +4077,19 @@ def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
             },
         }
 
-        if forbidden_terms:
-            forbidden_text = "\n".join(f"- {term}" for term in forbidden_terms)
-            prohibited_block = (
-                "Avoid the following phrases entirely:\n" + forbidden_text
-            )
-        else:
-            prohibited_block = ""
-
-        if custom_instructions:
-            custom_block = "Custom instructions from editor:\n" + custom_instructions
-        else:
-            custom_block = ""
-
-        existing_lines = "\n".join(f"{opt}) {text}" for opt, text in existing_options.items())
-
-        user_prompt_sections = [
-            "# QUESTION STEM",
-            question_text,
-            "\n# EXISTING OPTIONS (LOCKED)",
-            existing_lines or "No existing distractors.",
-            "\n# OPTIONS TO GENERATE",
-            ", ".join(missing_options),
-            f"\n# CORRECT ANSWER (REFERENCE ONLY): {correct_answer}",
-            f"\n# SUBSPECIALTY: {subspecialty}",
-            "\n# REQUIREMENTS",
-            "- Generate only the missing options listed above.",
-            "- Each distractor must be clinically plausible but ultimately incorrect.",
-            "- Match the tone, length, and complexity of the existing options.",
-            "- Target common neurology board exam misconceptions.",
-            "- Avoid revealing or contradicting the correct answer.",
+        base_requirements = [
+            "Generate only the missing options listed above.",
+            "Each distractor must be clinically plausible but ultimately incorrect.",
+            "Match the tone, length, and complexity of the existing options.",
+            "Target common neurology board exam misconceptions.",
+            "Avoid revealing or contradicting the correct answer.",
         ]
-        if explanation:
-            user_prompt_sections.append(
-                "\n# CONTEXT FROM EXPLANATION (TRUNCATED)\n" + str(explanation)[:600]
-            )
-        if custom_block:
-            user_prompt_sections.append("\n# USER CUSTOM INSTRUCTIONS\n" + custom_block)
-        if prohibited_block:
-            user_prompt_sections.append("\n# FORBIDDEN TERMS\n" + prohibited_block)
 
-        user_prompt = "\n".join(user_prompt_sections)
-
-        system_prompt = (
+        system_prompt_base = (
             "You are a USMLE neurology item writer. "
             "Generate only the missing distractor options specified by the user while leaving existing options untouched. "
             "Follow the JSON schema provided and use attached references when available."
         )
-
-        base_messages = [
-            {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
-            {"role": "user", "content": [{"type": "text", "text": user_prompt}]},
-        ]
 
         feedback_template = (
             "Previous attempt was rejected because:\n{issues}\n"
@@ -3982,7 +4100,73 @@ def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
         last_errors: List[str] = []
 
         for attempt in range(max_attempts):
-            messages = list(base_messages)
+            current_instructions = (
+                sanitized_instructions if prompt_sanitized else prepared_instructions
+            )
+            requirements = list(base_requirements)
+            if prompt_sanitized:
+                requirements.append(
+                    "The stem and locked options were sanitized for policy compliance; produce exam-appropriate distractors without mentioning the sanitization event."
+                )
+            requirements_block = "\n".join(f"- {req}" for req in requirements)
+
+            question_block = (
+                question_text
+                if not prompt_sanitized
+                else sanitized_question_text
+                or "Clinical stem redacted for policy compliance. Use typical neurology board style when crafting distractors."
+            )
+            existing_block = (
+                existing_lines or "No existing distractors."
+                if not prompt_sanitized
+                else sanitized_existing_lines
+                or "Existing distractors withheld for policy compliance. Maintain parity with professional exam tone."
+            )
+            explanation_block = (
+                str(explanation)[:600]
+                if not prompt_sanitized
+                else sanitized_explanation
+            )
+
+            user_prompt_sections = [
+                "# QUESTION STEM",
+                question_block,
+                "\n# EXISTING OPTIONS (LOCKED)",
+                existing_block,
+                "\n# OPTIONS TO GENERATE",
+                ", ".join(missing_options),
+                f"\n# CORRECT ANSWER (REFERENCE ONLY): {correct_answer}",
+                f"\n# SUBSPECIALTY: {subspecialty}",
+                "\n# REQUIREMENTS",
+                requirements_block,
+            ]
+            if explanation:
+                user_prompt_sections.append(
+                    "\n# CONTEXT FROM EXPLANATION (TRUNCATED)\n" + explanation_block
+                )
+            if current_instructions:
+                user_prompt_sections.append(
+                    "\n# USER CUSTOM INSTRUCTIONS\n" + current_instructions
+                )
+            if forbidden_terms:
+                forbidden_text = "\n".join(f"- {term}" for term in forbidden_terms)
+                user_prompt_sections.append(
+                    "\n# FORBIDDEN TERMS\n" + forbidden_text
+                )
+
+            user_prompt = "\n".join(user_prompt_sections)
+
+            system_prompt = system_prompt_base
+            if prompt_sanitized:
+                system_prompt += (
+                    "\nYou are operating on sanitized context due to safety filters; avoid referencing the removal of details."
+                )
+
+            messages = [
+                {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
+                {"role": "user", "content": [{"type": "text", "text": user_prompt}]},
+            ]
+
             if attempt and last_errors:
                 issues_text = "\n".join(f"- {err}" for err in last_errors)
                 messages.append(
@@ -4016,6 +4200,19 @@ def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
                     max_attempts,
                     message,
                 )
+                message_lower = message.lower()
+                if (
+                    not prompt_sanitized
+                    and any(keyword in message_lower for keyword in ("invalid prompt", "safety", "content policy", "filtered"))
+                ):
+                    prompt_sanitized = True
+                    last_errors = [
+                        "Prompt was rejected by safety filters; retrying with sanitized context.",
+                    ]
+                    logger.info(
+                        "Retrying options edit for MCQ #%s with sanitized prompt", mcq_id
+                    )
+                    continue
                 if should_retry and attempt + 1 < max_attempts:
                     time.sleep(min(2 ** attempt, 3))
                     last_errors = [message]
@@ -4030,29 +4227,25 @@ def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
                 last_errors = [f"Invalid JSON output: {snippet or '[empty]'}"]
                 continue
 
-            missing_remaining = [
-                opt
+            candidate_options = {
+                opt: str(payload.get(opt, "")).strip()
                 for opt in missing_options
-                if not str(payload.get(opt, "")).strip()
-            ]
-            if missing_remaining:
-                last_errors = [
-                    f"Missing distractors for {', '.join(missing_remaining)}."
-                ]
+            }
+
+            validation_errors = _validate_generated_options(
+                generated=candidate_options,
+                expected_letters=missing_options,
+                existing_options=existing_options,
+                correct_letter=correct_answer,
+                correct_answer_text=str(current_options.get(correct_answer, "")),
+                forbidden_terms=forbidden_terms,
+            )
+            if validation_errors:
+                last_errors = validation_errors
                 continue
 
-            if forbidden_terms:
-                hits: List[str] = []
-                for text in payload.values():
-                    hits.extend(_detect_forbidden_hits(str(text), forbidden_terms))
-                if hits:
-                    unique_hits = ", ".join(sorted(set(hits)))
-                    last_errors = [f"Response contained forbidden terms: {unique_hits}"]
-                    continue
-
             final_options = current_options.copy()
-            for opt in missing_options:
-                final_options[opt] = str(payload.get(opt, "")).strip()
+            final_options.update(candidate_options)
 
             logger.info(
                 "Successfully filled missing options for MCQ #%s on attempt %s",
@@ -4069,23 +4262,22 @@ def ai_edit_options(mcq, custom_instructions: str = "") -> dict:
         logger.error("Error in ai_edit_options for MCQ #%s: %s", getattr(mcq, "id", "unknown"), message)
         raise ValueError(message) from e
 
-
 def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
     """
     AI-powered option improvement that enhances ALL options (except correct answer) to be
     educationally valuable USMLE-style distractors.
-    
+
     Args:
         mcq: The MCQ object containing current options
         custom_instructions: Optional custom instructions from the user
-        
+
     Returns:
         dict: Dictionary with all options, with incorrect ones improved
     """
     if not api_key or not client:
         logger.info("Using original options due to unavailable OpenAI API")
         return mcq.get_options_dict() if hasattr(mcq, 'get_options_dict') else {}
-    
+
     try:
         mcq_id = getattr(mcq, "id", "unknown")
         logger.info("AI improving all options for MCQ #%s", mcq_id)
@@ -4097,7 +4289,18 @@ def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
 
         explanation = getattr(mcq, "explanation", "")
         subspecialty = getattr(mcq, "subspecialty", "General Neurology")
-        forbidden_terms = _extract_forbidden_terms(custom_instructions)
+        prepared_instructions = _prepare_editor_instructions(custom_instructions)
+        forbidden_terms = _extract_forbidden_terms(prepared_instructions)
+        sanitized_instructions = (
+            _sanitize_for_policy(prepared_instructions) if prepared_instructions else ""
+        )
+        sanitized_question_text = _sanitize_for_policy(question_text, limit=600)
+        current_lines = "\n".join(
+            f"{opt}) {current_options.get(opt, '')}" for opt in ("A", "B", "C", "D")
+        )
+        sanitized_current_lines = _sanitize_for_policy(current_lines, limit=600)
+        sanitized_explanation = _sanitize_for_policy(str(explanation)[:600], limit=600)
+        prompt_sanitized = False
 
         schema = {
             "type": "object",
@@ -4117,56 +4320,19 @@ def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
             },
         }
 
-        if forbidden_terms:
-            forbidden_text = "\n".join(f"- {term}" for term in forbidden_terms)
-            prohibited_block = "Never include the following phrases:\n" + forbidden_text
-        else:
-            prohibited_block = ""
-
-        if custom_instructions:
-            custom_block = "Custom instructions from editor:\n" + custom_instructions
-        else:
-            custom_block = ""
-
-        current_lines = "\n".join(
-            f"{opt}) {current_options.get(opt, '')}" for opt in ("A", "B", "C", "D")
-        )
-
-        user_prompt_sections = [
-            "# QUESTION STEM",
-            question_text,
-            "\n# CURRENT OPTIONS",
-            current_lines or "Options not provided.",
-            f"\n# CORRECT ANSWER IDENTIFIER: {correct_answer}",
-            "\n# TASK",
-            "- Keep the correct answer text exactly the same (aside from correcting obvious typos).",
-            "- Upgrade every incorrect option into a high-quality USMLE-style distractor that is plausible but ultimately wrong.",
-            "- Ensure each distractor highlights a distinct misconception or differential diagnosis.",
-            "- Maintain comparable length, tone, and specificity across options.",
-            "- Avoid reiterating the same idea in multiple choices.",
+        base_requirements = [
+            "Keep the correct answer text exactly the same (aside from correcting obvious typos).",
+            "Upgrade every incorrect option into a high-quality USMLE-style distractor that is plausible but ultimately wrong.",
+            "Ensure each distractor highlights a distinct misconception or differential diagnosis.",
+            "Maintain comparable length, tone, and specificity across options.",
+            "Avoid reiterating the same idea in multiple choices.",
         ]
-        if explanation:
-            user_prompt_sections.append(
-                "\n# EXPLANATION CONTEXT (TRUNCATED)\n" + str(explanation)[:600]
-            )
-        user_prompt_sections.append(f"\n# SUBSPECIALTY: {subspecialty}")
-        if custom_block:
-            user_prompt_sections.append("\n# USER CUSTOM INSTRUCTIONS\n" + custom_block)
-        if prohibited_block:
-            user_prompt_sections.append("\n# FORBIDDEN TERMS\n" + prohibited_block)
 
-        user_prompt = "\n".join(user_prompt_sections)
-
-        system_prompt = (
+        system_prompt_base = (
             "You are a neurology board-exam content specialist. "
             "Refine MCQ answer choices so incorrect distractors are educational and clinically grounded while the correct answer remains untouched. "
             "Follow the JSON schema supplied by the developer."
         )
-
-        base_messages = [
-            {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
-            {"role": "user", "content": [{"type": "text", "text": user_prompt}]},
-        ]
 
         feedback_template = (
             "Previous attempt failed because:\n{issues}\n"
@@ -4177,7 +4343,71 @@ def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
         last_errors: List[str] = []
 
         for attempt in range(max_attempts):
-            messages = list(base_messages)
+            current_instructions = (
+                sanitized_instructions if prompt_sanitized else prepared_instructions
+            )
+            requirements = list(base_requirements)
+            if prompt_sanitized:
+                requirements.append(
+                    "Original question context was sanitized for policy compliance; produce balanced distractors without acknowledging the sanitization."
+                )
+            requirements_block = "\n".join(f"- {req}" for req in requirements)
+
+            question_block = (
+                question_text
+                if not prompt_sanitized
+                else sanitized_question_text
+                or "Question stem redacted for policy compliance. Maintain neurologic focus while updating distractors."
+            )
+            current_block = (
+                current_lines or "Options not provided."
+                if not prompt_sanitized
+                else sanitized_current_lines
+                or "Existing options withheld for safety review. Match board-style tone and length."
+            )
+            explanation_block = (
+                str(explanation)[:600]
+                if not prompt_sanitized
+                else sanitized_explanation
+            )
+
+            user_prompt_sections = [
+                "# QUESTION STEM",
+                question_block,
+                "\n# CURRENT OPTIONS",
+                current_block,
+                f"\n# CORRECT ANSWER IDENTIFIER: {correct_answer}",
+                "\n# TASK",
+                requirements_block,
+            ]
+            if explanation:
+                user_prompt_sections.append(
+                    "\n# EXPLANATION CONTEXT (TRUNCATED)\n" + explanation_block
+                )
+            user_prompt_sections.append(f"\n# SUBSPECIALTY: {subspecialty}")
+            if current_instructions:
+                user_prompt_sections.append(
+                    "\n# USER CUSTOM INSTRUCTIONS\n" + current_instructions
+                )
+            if forbidden_terms:
+                forbidden_text = "\n".join(f"- {term}" for term in forbidden_terms)
+                user_prompt_sections.append(
+                    "\n# FORBIDDEN TERMS\n" + forbidden_text
+                )
+
+            user_prompt = "\n".join(user_prompt_sections)
+
+            system_prompt = system_prompt_base
+            if prompt_sanitized:
+                system_prompt += (
+                    "\nYou are working with sanitized content; do not mention that sanitization occurred."
+                )
+
+            messages = [
+                {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
+                {"role": "user", "content": [{"type": "text", "text": user_prompt}]},
+            ]
+
             if attempt and last_errors:
                 issues_text = "\n".join(f"- {err}" for err in last_errors)
                 messages.append(
@@ -4211,6 +4441,19 @@ def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
                     max_attempts,
                     message,
                 )
+                message_lower = message.lower()
+                if (
+                    not prompt_sanitized
+                    and any(keyword in message_lower for keyword in ("invalid prompt", "safety", "content policy", "filtered"))
+                ):
+                    prompt_sanitized = True
+                    last_errors = [
+                        "Prompt was rejected by safety filters; retrying with sanitized context.",
+                    ]
+                    logger.info(
+                        "Retrying improve-all options for MCQ #%s with sanitized prompt", mcq_id
+                    )
+                    continue
                 if should_retry and attempt + 1 < max_attempts:
                     time.sleep(min(2 ** attempt, 3))
                     last_errors = [message]
@@ -4225,41 +4468,32 @@ def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
                 last_errors = [f"Invalid JSON output: {snippet or '[empty]'}"]
                 continue
 
-            missing_letters = [
-                letter for letter in ("A", "B", "C", "D")
-                if not str(payload.get(letter, "")).strip()
-            ]
-            if missing_letters:
-                last_errors = [f"Missing updated text for: {', '.join(missing_letters)}"]
-                continue
-
-            if forbidden_terms:
-                hits: List[str] = []
-                for text in payload.values():
-                    hits.extend(_detect_forbidden_hits(str(text), forbidden_terms))
-                if hits:
-                    unique_hits = ", ".join(sorted(set(hits)))
-                    last_errors = [f"Response contained forbidden terms: {unique_hits}"]
-                    continue
-
-            updated_options = {
+            candidate_options = {
                 letter: str(payload.get(letter, "")).strip()
                 for letter in ("A", "B", "C", "D")
             }
 
-            if correct_answer in updated_options and original_correct_text:
-                if (
-                    updated_options[correct_answer]
-                    and updated_options[correct_answer] != original_correct_text
-                ):
-                    updated_options[correct_answer] = original_correct_text
+            validation_errors = _validate_generated_options(
+                generated=candidate_options,
+                expected_letters=("A", "B", "C", "D"),
+                existing_options={correct_answer: original_correct_text} if original_correct_text else {},
+                correct_letter=correct_answer,
+                correct_answer_text=original_correct_text,
+                forbidden_terms=forbidden_terms,
+            )
+            if validation_errors:
+                last_errors = validation_errors
+                continue
+
+            if correct_answer in candidate_options and original_correct_text:
+                candidate_options[correct_answer] = original_correct_text
 
             logger.info(
                 "Successfully improved all options for MCQ #%s on attempt %s",
                 mcq_id,
                 attempt + 1,
             )
-            return updated_options
+            return candidate_options
 
         error_message = "; ".join(last_errors) if last_errors else "unknown error"
         raise ValueError(error_message)
@@ -4268,7 +4502,6 @@ def ai_improve_all_options(mcq, custom_instructions: str = "") -> dict:
         should_retry, message, status_code = _classify_openai_error(e)
         logger.error("Error in ai_improve_all_options for MCQ #%s: %s", getattr(mcq, "id", "unknown"), message)
         raise ValueError(message) from e
-
 
 def ai_edit_explanation_text(
     mcq,
