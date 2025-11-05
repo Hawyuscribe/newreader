@@ -98,6 +98,7 @@ class AiEditSafetyTests(unittest.TestCase):
     def test_ai_edit_options_retries_on_validation_errors(self):
         mcq = DummyMCQ(
             question_text="Neurology stem",
+            question_text="Neurology stem", 
             options={"A": "Correct answer text", "B": "Existing option", "C": "", "D": ""},
             correct="A",
             explanation="Key rationale",
