@@ -1,0 +1,842 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 20678682,
+    "fields": {
+      "question_number": "Q236",
+      "question_text": "A patient presented with a history of tingling sensation, numbness, and paresthesia, indicating small fiber neuropathy. He has pale bands over his nails. What is the likely diagnosis?",
+      "options": {
+        "A": "Gold",
+        "B": "Lead",
+        "C": "Arsenic",
+        "D": "Mercury"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly asks to identify a specific toxin (arsenic) based on characteristic neurological (neuropathy) and physical (Mees' lines) signs of poisoning."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84460837,
+    "fields": {
+      "question_number": "Q457",
+      "question_text": "An HIV patient presents with a seizure. What is the likely culprit medication?",
+      "options": {
+        "A": "Efavirenz",
+        "B": "Zidovudine",
+        "C": "Lamivudine",
+        "D": "Tenofovir"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying a medication (Efavirenz) known for its neurotoxic potential (lowering seizure threshold) as the cause of a seizure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25429489,
+    "fields": {
+      "question_number": "Q476",
+      "question_text": "A patient with resected breast cancer who received radiotherapy developed Horner's syndrome and plexopathy. What is the underlying mechanism?",
+      "options": {
+        "A": "Compressive",
+        "B": "Neoplastic",
+        "C": "Radiation-induced syndrome",
+        "D": "Inflammatory"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on neurological damage (plexopathy, Horner's) caused by an external agent (radiation), a form of localized toxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8646558,
+    "fields": {
+      "question_number": "Q453",
+      "question_text": "A lady with a history of lung cancer, treated with radiation therapy 6 months ago, presents with 2 months of shoulder discomfort, weak shoulder abduction, and elbow flexion. NCS/EMG showed fibrillations in her hands and forearm muscles. What should be done next?",
+      "options": {
+        "A": "Order MRI of the brachial plexus to assess for tumor recurrence or radiation fibrosis",
+        "B": "Start high-dose corticosteroids immediately",
+        "C": "Perform surgical decompression of the brachial plexus",
+        "D": "Reassure the patient and observe for spontaneous recovery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The scenario describes likely radiation-induced brachial plexopathy (a toxic effect of radiation given history, timing, EMG findings), and the question revolves around diagnosing/managing this specific complication."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42637578,
+    "fields": {
+      "question_number": "Q226",
+      "question_text": "What is the recommended treatment for severe arsenic poisoning?",
+      "options": {
+        "A": "Supportive care",
+        "B": "Chelating agents",
+        "C": "Anticonvulsants",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses specifically on the treatment (chelation) for poisoning caused by a neurotoxin (arsenic)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43776851,
+    "fields": {
+      "question_number": "Q102",
+      "question_text": "A tuberculosis (TB) patient started on treatment and then had a seizure. What medication is causing the seizure?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Ethambutol",
+        "C": "Rifampicin",
+        "D": "Pyrazinamide"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Identifies a specific neurological side effect (seizure) caused by a medication (Isoniazid), representing drug-induced neurotoxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45979681,
+    "fields": {
+      "question_number": "Q529",
+      "question_text": "A 52-year-old female with dyslipidemia on statin had pneumonia and was admitted to the hospital. After starting on erythromycin, she developed weakness. What increases the risk of suspected toxic myopathy?",
+      "options": {
+        "A": "Old age",
+        "B": "Female",
+        "C": "Recent infection",
+        "D": "Concomitant use of erythromycin"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: The question centers on a drug interaction (statin + erythromycin) causing muscle toxicity (myopathy), a form of drug-induced neuromuscular toxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93803252,
+    "fields": {
+      "question_number": "Q192",
+      "question_text": "What is the most common side effect of lithium?",
+      "options": {
+        "A": "Seizures",
+        "B": "Tremors",
+        "C": "Weight gain",
+        "D": "Renal impairment"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about a common neurological side effect (tremor) of a specific medication (lithium), falling under drug-induced neurotoxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24598273,
+    "fields": {
+      "question_number": "Q540",
+      "question_text": "What medication causes sensory ataxia?",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Phenytoin",
+        "C": "Metronidazole",
+        "D": "Isoniazid"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of a specific drug toxicity (pyridoxine excess) causing a distinct neurological syndrome (sensory neuronopathy/ataxia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47143573,
+    "fields": {
+      "question_number": "Q241",
+      "question_text": "What is the medication that causes neuropathy and myopathy?",
+      "options": {
+        "A": "Dapsone",
+        "B": "Chloroquine",
+        "C": "Hydralazine",
+        "D": "Statins"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of a medication (Chloroquine) known for its combined neurotoxic and myotoxic effects."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98989464,
+    "fields": {
+      "question_number": "Q172",
+      "question_text": "A patient receiving intrathecal methotrexate presents with clinical and biological findings typical for subacute combined degeneration of the spinal cord. What else would you give the patient besides stopping methotrexate?",
+      "options": {
+        "A": "Vitamin E",
+        "B": "Zinc",
+        "C": "Folinic acid (leucovorin)",
+        "D": "Thiamine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes a specific neurotoxic effect (myelopathy mimicking SCD) caused by intrathecal methotrexate and implicitly asks about managing this toxicity (likely requiring folinic acid)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73308357,
+    "fields": {
+      "question_number": "Q377",
+      "question_text": "What medication can cause a positive Romberg sign and a scenario suggestive of sensory neuronopathy?",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Phenytoin",
+        "C": "Metronidazole",
+        "D": "Isoniazid"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of drug-induced neurotoxicity, linking Pyridoxine excess to sensory neuronopathy/ataxia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6191544,
+    "fields": {
+      "question_number": "Q214",
+      "question_text": "A patient on anti-TB agents developed seizures. Which of the following agents can cause it?",
+      "options": {
+        "A": "INH",
+        "B": "Ethambutol",
+        "C": "Pyrazinamide",
+        "D": "Rifampicin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of neurotoxic side effects (seizures) of antituberculosis medications (INH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23064488,
+    "fields": {
+      "question_number": "Q396",
+      "question_text": "Naloxone",
+      "options": {
+        "A": "Is an opioid receptor antagonist used to reverse opioid overdose",
+        "B": "Is a benzodiazepine used to treat seizures",
+        "C": "Is a stimulant used to treat attention deficit hyperactivity disorder",
+        "D": "Is an anticholinergic used to treat Parkinson\u2019s disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Naloxone is primarily used as an antidote for opioid overdose, placing it firmly within the scope of toxicology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10764717,
+    "fields": {
+      "question_number": "Q320",
+      "question_text": "Flumazenil",
+      "options": {
+        "A": "Is used to treat opioid overdose",
+        "B": "Is primarily used as an antidote for benzodiazepine overdose/sedation reversal",
+        "C": "Is a dopamine receptor antagonist",
+        "D": "Is used to manage status epilepticus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Flumazenil is primarily used as an antidote for benzodiazepine overdose/sedation reversal, placing it within the scope of toxicology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11743074,
+    "fields": {
+      "question_number": "Q129",
+      "question_text": "A patient with HIV on HAART developed seizures. What is the most likely cause?",
+      "options": {
+        "A": "Zidovudine",
+        "B": "Efavirenz",
+        "C": "Maraviroc",
+        "D": "Lamivudine"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on identifying a specific medication (Efavirenz) known for its neurotoxic potential (lowering seizure threshold) as the cause of a seizure in an HIV patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62990281,
+    "fields": {
+      "question_number": "Q115",
+      "question_text": "Which of the following agents can cause sensory ataxia, vibration, and proprioception loss?",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Arsenic",
+        "C": "Lead",
+        "D": "Mercury"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the specific neurological toxicity (sensory neuronopathy/ataxia) caused by Pyridoxine excess."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95732343,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "A young patient with a history of liver transplant on cyclosporine presents with severe lower limb tremors. What is the best treatment option?",
+      "options": {
+        "A": "Decrease cyclosporine dose",
+        "B": "Start propranolol",
+        "C": "Start phenytoin",
+        "D": "Start lithium"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Concerns a tremor directly induced by a specific medication (cyclosporine), representing a neurotoxic side effect, and asks about management focused on the offending agent."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14563005,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "What medication causes sensory ataxia?",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Phenytoin",
+        "C": "Metronidazole",
+        "D": "Isoniazid"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of drug-induced sensory ataxia caused by pyridoxine toxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43381457,
+    "fields": {
+      "question_number": "Q100",
+      "question_text": "High-dose pyridoxine toxicity may cause which of the following symptoms?",
+      "options": {
+        "A": "Motor weakness",
+        "B": "Sensory ataxia",
+        "C": "Cranial nerve palsies",
+        "D": "Seizures"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the specific neurological complication (sensory ataxia/neuropathy) resulting from pyridoxine toxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12963858,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "A young patient with a history of alcohol abuse presents with hallucinations, nystagmus, and ataxic gait. MRI shows increased signal intensity in the medial thalamus. What is the most likely diagnosis?",
+      "options": {
+        "A": "Wernicke encephalopathy",
+        "B": "Korsakoff syndrome",
+        "C": "Alcoholic cerebellar degeneration",
+        "D": "Hepatic encephalopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes classic symptoms and MRI findings of Wernicke encephalopathy, a condition directly linked to thiamine deficiency, often secondary to chronic alcohol abuse."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66892297,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "A patient was found to have tuberculosis, started on medication, and later developed seizures. What is the likely cause of the seizures?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Ethambutol",
+        "C": "Rifampin",
+        "D": "Pyrazinamide"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Directly asks about a specific neurotoxic side effect (seizures) of an anti-tuberculosis medication (Isoniazid)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55337897,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "A patient on long-term use of colchicine developed myopathy and neuropathy. What is the likely cause of these symptoms?",
+      "options": {
+        "A": "Colchicine-induced myopathy",
+        "B": "Diabetic neuropathy",
+        "C": "Alcohol-related myopathy",
+        "D": "Statin-induced myopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on identifying a specific neuromuscular toxicity (myopathy and neuropathy) caused by long-term medication use (colchicine)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14563005,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "A patient who was arrested by police is encephalopathic and has a halitosis odor. What should you administer?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Flumazenil",
+        "C": "Naloxone",
+        "D": "Glucose"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: The presentation (encephalopathy, potential halitosis suggesting alcohol or other substance) strongly suggests possible Wernicke encephalopathy or intoxication, making Thiamine a key consideration in this potentially toxic/metabolic state."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78641951,
+    "fields": {
+      "question_number": "Q11",
+      "question_text": "B. Vitamin B12",
+      "options": {
+        "C": "Vitamin B6",
+        "D": "Vitamin E",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes symptoms classic for Wernicke encephalopathy (nystagmus, ataxia) precipitated by hyperemesis gravidarum, pointing to Thiamine (Vitamin B1) deficiency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11122728,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A 53-year-old male presents with abdominal pain, vomiting, diarrhea, and gait difficulty. He is found to have depressed deep tendon reflexes and pale fingernails. What is the most likely culprit toxin?",
+      "options": {
+        "A": "Lead",
+        "B": "Gold",
+        "C": "Mercury",
+        "D": "Arsenic"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on identifying a specific toxin (Arsenic) based on a constellation of systemic and neurological symptoms (GI upset, neuropathy, nail changes - potentially Mees' lines)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29383977,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "In Wernicke's encephalopathy, what type of memory is typically impaired?",
+      "options": {
+        "A": "Immediate memory",
+        "B": "Episodic memory",
+        "C": "Procedural memory",
+        "D": "Semantic memory"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge about the specific cognitive deficits (memory impairment) associated with Wernicke's encephalopathy, a condition linked to thiamine deficiency often due to toxicity (alcohol) or malnutrition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13380609,
+    "fields": {
+      "question_number": "Q60",
+      "question_text": "In the same scenario as above [Implicitly referring to Q53's Wernicke scenario], what is the recommended treatment?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Vitamin B12",
+        "C": "Corticosteroids",
+        "D": "Antiepileptic drugs"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the treatment of Wernicke encephalopathy (established in the linked scenario Q53), which is caused by thiamine deficiency often related to alcohol toxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75876129,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "An 85-year-old female treated for herpetic neuralgia became lethargic and confused 5 days after treatment. A CT scan of the brain and CSF analysis were normal. What is the most likely diagnosis?",
+      "options": {
+        "A": "VZV encephalitis",
+        "B": "Drug-induced encephalopathy",
+        "C": "Metabolic encephalopathy",
+        "D": "Stroke"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: The question presents a differential between infectious cause (VZV) and a drug side effect. Given the temporal relationship to treatment initiation and normal CSF/CT, drug-induced encephalopathy (a neurotoxic effect) is a primary consideration."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58418046,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "A post-bariatric surgery patient presents with nystagmus and ataxia, with findings suggestive of Wernicke\u2019s encephalopathy. What is the most likely cause?",
+      "options": {
+        "A": "Vitamin B1 deficiency",
+        "B": "Vitamin B12 deficiency",
+        "C": "Vitamin D deficiency",
+        "D": "Vitamin E deficiency"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links classic Wernicke's symptoms (nystagmus, ataxia) to its underlying cause (Vitamin B1 deficiency) in a specific context (post-bariatric surgery) known to predispose to nutritional deficiencies."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37924792,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "A tuberculosis (TB) patient started on treatment and then had a seizure. What medication is causing the seizure?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Ethambutol",
+        "C": "Rifampicin",
+        "D": "Pyrazinamide"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Repeats the concept of Q7, focusing on identifying the specific anti-TB drug (Isoniazid) known to cause neurotoxicity presenting as seizures."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27594742,
+    "fields": {
+      "question_number": "Q45",
+      "question_text": "Mees lines are associated with which type of poisoning?",
+      "options": {
+        "A": "Arsenic",
+        "B": "Lead",
+        "C": "Carbon monoxide",
+        "D": "Alcohol"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Directly tests knowledge of a specific physical sign (Mees' lines) associated with heavy metal poisoning (Arsenic)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97558699,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "In the same patient with colchicine toxicity [Implicitly referring to Q62], what is the expected biopsy finding?",
+      "options": {
+        "A": "Antitubular",
+        "B": "Autophagic vacuoles",
+        "C": "Myophosphorylase",
+        "D": "Rimmed vacuoles"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks about the specific pathological finding (autophagic vacuoles) in muscle biopsy associated with colchicine-induced myopathy, a drug toxicity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24789897,
+    "fields": {
+      "question_number": "Q4",
+      "question_text": "Intoxication with which of the following agents would cause sensory ataxia with proprioception and vibratory loss?",
+      "options": {
+        "A": "Dapsone",
+        "B": "Zidovudine",
+        "C": "Tacrolimus",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the specific neurological deficit (sensory ataxia due to proprioception/vibration loss) caused by toxicity from an agent (Pyridoxine overdose)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95818612,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A patient on anti-TB medication plus pyridoxine presents with painful neuropathy. Sensory exam and reflexes were normal. What is the diagnosis?",
+      "options": {
+        "A": "Pyridoxine toxicity",
+        "B": "Vitamin B12 deficiency",
+        "C": "Diabetic neuropathy",
+        "D": "Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on identifying neuropathy potentially caused by medication side effects (INH-induced neuropathy, possibly inadequately treated/masked by pyridoxine) or vitamin toxicity (pyridoxine toxicity itself causing a different neuropathy pattern). This falls under neurotoxic effects."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95818612,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A patient on anti-TB medication plus pyridoxine presents with painful neuropathy. Sensory exam and reflexes were normal. What is the diagnosis?",
+      "options": {
+        "A": "Pyridoxine toxicity",
+        "B": "Vitamin B12 deficiency",
+        "C": "Diabetic neuropathy",
+        "D": "Guillain-Barr\u00e9 syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on identifying neuropathy potentially caused by medication side effects (INH-induced neuropathy, possibly inadequately treated/masked by pyridoxine) or vitamin toxicity (pyridoxine toxicity itself causing a different neuropathy pattern). This falls under neurotoxic effects."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11122728,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A patient developed cognitive impairment and ataxia. MRI showed high signals in the mammillary bodies. What is the most likely deficiency?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Vitamin B12",
+        "C": "Copper",
+        "D": "Folate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to identify a specific nutritional deficiency (Thiamine) causing neurological symptoms (cognitive impairment, ataxia) based on characteristic MRI findings (mammillary body hyperintensities), indicative of Wernicke-Korsakoff syndrome, often related to alcohol toxicity/malnutrition."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50685870,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "What is the most common side effect of lithium?",
+      "options": {
+        "A": "Tremor",
+        "B": "Weight gain",
+        "C": "Polyuria",
+        "D": "Hypothyroidism"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on identifying a common neurological side effect (tremor) of a specific medication (lithium)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79266227,
+    "fields": {
+      "question_number": "Q359",
+      "question_text": "A case presents of a man with an ataxic gait and confusion, accompanied by a peculiar smell from his mouth. His pupils are normal. What is the most appropriate management?",
+      "options": {
+        "A": "Immediate intravenous antibiotics for suspected meningitis",
+        "B": "Administration of intravenous thiamine before glucose administration",
+        "C": "Emergent brain MRI to rule out stroke",
+        "D": "Administration of naloxone for suspected opioid overdose"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: The combination of ataxia and confusion strongly suggests an encephalopathy. The peculiar smell points towards a metabolic (e.g., DKA, hepatic encephalopathy) or toxic (e.g., alcohol, other ingestions) cause, or a nutritional deficiency (Wernicke's encephalopathy). Management depends on identifying this underlying non-infectious cause, fitting best under Neurotoxicology (which often includes metabolic/nutritional encephalopathies)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16108952,
+    "fields": {
+      "question_number": "Q203",
+      "question_text": "A patient was on Valproic acid and is discovered to be drowsy. What do you need to check?",
+      "options": {
+        "A": "Ammonia level",
+        "B": "Liver enzyme",
+        "C": "Complete blood count",
+        "D": "Electrolytes"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on investigating a potential complication/toxicity (hyperammonemia) associated with a specific medication (Valproic acid)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11395367,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "What is the case scenario associated with Strachan Syndrome?",
+      "options": {
+        "A": "Vitamin D deficiency",
+        "B": "Vitamin E deficiency",
+        "C": "Vitamin A deficiency",
+        "D": "Vitamin B12 deficiency"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of Strachan syndrome, a neurological disorder linked to nutritional deficiencies (specifically B vitamins, often in POW or malnourished populations), falling under toxic/metabolic/nutritional neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27257374,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "A patient on pregabalin (suspected to be abusing the drug); what will you do?",
+      "options": {
+        "A": "Give pregabalin",
+        "B": "Refer to psychiatry",
+        "C": "Gradually taper pregabalin dose",
+        "D": "Monitor for withdrawal symptoms"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neurotoxicology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with the issue of prescription drug abuse (Pregabalin), which falls under neurotoxicology/addiction, although management involves psychiatric referral."
+    }
+  }
+]

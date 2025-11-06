@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "A patient in the clinic he has continuous facial jerk and hand jerk (partials continua) how to treat:",
+    "options": {
+      "option_a": "iv valproic acid",
+      "option_b": "iv diazepam",
+      "option_c": "iv phenytoin",
+      "option_d": "iv \u2026\u2026",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with large left ICA territory infarction with image of CT shown (massive acute infarction), was found to have AFIB what is the appropriate treatment next to start:",
+    "options": {
+      "option_a": "Aspirin",
+      "option_b": "DAPT",
+      "option_c": "dabigatran",
+      "option_d": "warfarin",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "SCA artery infarction scenario what you will find also:",
+    "options": {
+      "option_a": "Rt. ptosis Ipsilateral",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "30 y/o male found unconscious at street What you expect as the mechanism of injury for attached CT (looked like coup countercoup bleed \"repeated question from previous exam\")",
+    "options": {
+      "option_a": "Aneurysmal",
+      "option_b": "Trauma",
+      "option_c": "HTN",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "A female who develops transverse sinus thrombosis what is the most accurate statement to describe this patient",
+    "options": {
+      "option_a": "female sex is a major risk",
+      "option_b": "seizure is the most common presenting symptoms",
+      "option_c": "transverse sinus is the most commonly affected sinus in CVT",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Site of lesion in weber syndrome",
+    "options": {
+      "option_a": "Base of midbrain",
+      "option_b": "tegmentum",
+      "option_c": "tectum",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "A man who has right side weakness and dysphasia, on stroke work up he was found to have left MCA severe stenosis what is the most appropriate management:",
+    "options": {
+      "option_a": "endarterectomy",
+      "option_b": "stenting",
+      "option_c": "Aspirin and plavix",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "A patient who presented with inability to read his own hand writing, his comprehension for spoken language, fluency and repetition is normal (nothing was mentioned on his ability to write) what is the most common artery :",
+    "options": {
+      "option_a": "PCA",
+      "option_b": "PICA",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Image of DWI showing watershed infarction in one side what to do :",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Clear scenario of old man presented within the window of tpa about what to give:",
+    "options": {
+      "option_a": "Tpa",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with weakness hemianesthesia and tongue deviation (? medial medullary syndrome):",
+    "options": {
+      "option_a": "Vertebral artery",
+      "option_b": "Anterior spinal artery (was not in options)",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Long scenario for patient with obesity and HTN and high BMI asking about best way for stroke prevention, vital signs and labs provided showed high b/p and hba1c around 6.9. And he is taking ant HTN and statin but not any dm medication:",
+    "options": {
+      "option_a": "Perindopril",
+      "option_b": "Metformin",
+      "option_c": "Or weight reduction",
+      "option_d": "Aspirin",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "A woman presented with acute left sided weakness and dysarthria a right ICH was found on CT (image shown without mentioning the diagnosis) patient vital signs as follows BP 167 systolic, what is the most appropriate management:",
+    "options": {
+      "option_a": "labetalol",
+      "option_b": "factor 7 infusion",
+      "option_c": "referral for NS for (minimally invasive?) evacuation",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about TIA management:",
+    "options": {
+      "option_a": "Dual antiplatelet",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about a patient with A.COM aneurysm, which of the following factor is the most predictive of aneurysm rupture:",
+    "options": {
+      "option_a": "Size",
+      "option_b": "Acom location less likely to rupture",
+      "option_c": "Uncontrolled b/p",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with sickle cell anemia wants to check on himself because his brother is also sickler and had previous stroke. How to predict:",
+    "options": {
+      "option_a": "Transcranial doppler",
+      "option_b": "CTA",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario of stroke with normal CT what do next (not thrombolysis):",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about Wernicke aphasia which artery:",
+    "options": {
+      "option_a": "Inferior division of MCA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with Sickle Cell Anemia who with symptoms of infarction, in investigation he was found to have severe intracranial MCA stenosis what would you do",
+    "options": {
+      "option_a": "ASA",
+      "option_b": "Stenting",
+      "option_c": "DAPT",
+      "option_d": "Exchange transfusion",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about CVT what will confirm diagnosis:",
+    "options": {
+      "option_a": "CTV",
+      "option_b": "If mri choose it",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part II"
+  }
+]

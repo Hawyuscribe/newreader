@@ -1,0 +1,1934 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+{% load drive_filters %}
+
+{% block title %}MCQ #{{ mcq.question_number }} - Neurology MCQ Reader{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'css/reasoning_pal.css' %}">
+<link rel="stylesheet" href="{% static 'css/modal_fix.css' %}">
+<style>
+    .option {
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+    .option-correct {
+        background-color: rgba(40, 167, 69, 0.2);
+        border-left: 5px solid #28a745;
+    }
+    .option-selected {
+        background-color: rgba(0, 123, 255, 0.2);
+        border-left: 5px solid #007bff;
+    }
+    .option-incorrect {
+        background-color: rgba(220, 53, 69, 0.2);
+        border-left: 5px solid #dc3545;
+    }
+    #explanation {
+        display: none;
+    }
+    .flashcard-panel {
+        margin-bottom: 20px;
+    }
+    .note-panel {
+        margin-bottom: 20px;
+    }
+    .hidden {
+        display: none;
+    }
+    
+    /* Animation for updated explanation content */
+    @keyframes explanation-highlight {
+        0% { background-color: rgba(25, 135, 84, 0.1); }
+        100% { background-color: transparent; }
+    }
+    
+    .explanation-updated {
+        animation: explanation-highlight 3s ease;
+    }
+    
+    /* Enhanced explanation content styling */
+    .explanation-content {
+        line-height: 1.6;
+        font-size: 16px;
+        color: #333;
+    }
+    
+    /* Professional section-based explanation styling */
+    .enhanced-explanation {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        color: #2c3e50;
+        margin-bottom: 2rem;
+    }
+    
+    .exam-source-info {
+        background-color: #f0f7ff;
+        padding: 0.75rem 1rem;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
+        display: flex;
+        align-items: center;
+        font-size: 0.95rem;
+        font-weight: 500;
+        color: #0d6efd;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        border-left: 3px solid #0d6efd;
+    }
+    
+    .exam-source-info i {
+        margin-right: 0.5rem;
+        font-size: 1.1rem;
+    }
+    
+    .explanation-section {
+        margin-bottom: 1.75rem;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 1px 5px rgba(0,0,0,0.08);
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.06);
+        transition: all 0.3s ease;
+    }
+    
+    .explanation-section:hover {
+        box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+    }
+    
+    .explanation-section .section-header {
+        display: flex;
+        align-items: center;
+        padding: 0.85rem 1.25rem;
+        border-bottom: 1px solid rgba(0,0,0,0.06);
+        background-color: #f8f9fa;
+    }
+    
+    .explanation-section .section-header i {
+        font-size: 1.25rem;
+        margin-right: 0.75rem;
+        color: #0d6efd;
+    }
+    
+    .explanation-section .section-header h3 {
+        margin: 0;
+        font-size: 1.15rem;
+        font-weight: 600;
+        color: #2c3e50;
+    }
+    
+    .explanation-section .section-content {
+        padding: 1.25rem;
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+    
+    /* Section-specific styling */
+    .explanation-section.conceptual-framework-clinical-context .section-header {
+        background-color: rgba(13, 110, 253, 0.08);
+    }
+    
+    .explanation-section.conceptual-framework-clinical-context .section-header i {
+        color: #0d6efd;
+    }
+    
+    .explanation-section.key-concepts .section-header {
+        background-color: rgba(255, 193, 7, 0.12);
+    }
+    
+    .explanation-section.key-concepts .section-header i {
+        color: #ffc107;
+    }
+    
+    .explanation-section.pathophysiology .section-header {
+        background-color: rgba(220, 53, 69, 0.08);
+    }
+    
+    .explanation-section.pathophysiology .section-header i {
+        color: #dc3545;
+    }
+    
+    .explanation-section.diagnostic-criteria .section-header {
+        background-color: rgba(25, 135, 84, 0.08);
+    }
+    
+    .explanation-section.diagnostic-criteria .section-header i {
+        color: #198754;
+    }
+    
+    .explanation-section.differential-diagnosis .section-header {
+        background-color: rgba(102, 16, 242, 0.08);
+    }
+    
+    .explanation-section.differential-diagnosis .section-header i {
+        color: #6610f2;
+    }
+    
+    .explanation-section.management-principles .section-header {
+        background-color: rgba(13, 202, 240, 0.08);
+    }
+    
+    .explanation-section.management-principles .section-header i {
+        color: #0dcaf0;
+    }
+    
+    .explanation-section.clinical-pearls .section-header {
+        background-color: rgba(111, 66, 193, 0.08);
+    }
+    
+    .explanation-section.clinical-pearls .section-header i {
+        color: #6f42c1;
+    }
+    
+    .explanation-section.why-this-answer-is-correct .section-header {
+        background-color: rgba(25, 135, 84, 0.08);
+    }
+    
+    .explanation-section.why-this-answer-is-correct .section-header i {
+        color: #198754;
+    }
+    
+    .explanation-section.why-other-options-are-incorrect .section-header {
+        background-color: rgba(220, 53, 69, 0.08);
+    }
+    
+    .explanation-section.why-other-options-are-incorrect .section-header i {
+        color: #dc3545;
+    }
+    
+    .explanation-section.references .section-header {
+        background-color: rgba(108, 117, 125, 0.08);
+    }
+    
+    .explanation-section.references .section-header i {
+        color: #6c757d;
+    }
+    
+    .explanation-section.default-explanation .section-header {
+        background-color: rgba(13, 202, 240, 0.08);
+    }
+    
+    .explanation-section.default-explanation .section-header i {
+        color: #0dcaf0;
+    }
+    
+    .verification-badge {
+        display: inline-flex;
+        align-items: center;
+        background-color: #f8f9fa;
+        padding: 0.35rem 0.75rem;
+        border-radius: 3rem;
+        margin-top: 1rem;
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: #198754;
+        border: 1px solid rgba(25, 135, 84, 0.2);
+    }
+    
+    .verification-badge i {
+        font-size: 1rem;
+        margin-right: 0.35rem;
+        color: #198754;
+    }
+    
+    /* Professional note style */
+    .professional-note {
+        border: 1px solid rgba(25, 135, 84, 0.2);
+        border-left: 4px solid #198754;
+    }
+    
+    /* Better table formatting */
+    .explanation-content table, 
+    .section-content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        border-radius: 6px;
+        overflow: hidden;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+        border: 1px solid #dee2e6;
+    }
+    
+    .explanation-content thead,
+    .section-content thead {
+        background-color: #f1f8ff;
+        border-bottom: 2px solid #dee2e6;
+    }
+    
+    .explanation-content th, 
+    .section-content th {
+        background-color: #f1f8ff;
+        padding: 12px;
+        text-align: center;
+        font-weight: 600;
+        color: #333;
+        border: 1px solid #dee2e6;
+    }
+    
+    .explanation-content td, 
+    .section-content td {
+        padding: 10px 12px;
+        border: 1px solid #dee2e6;
+        vertical-align: middle;
+    }
+    
+    .explanation-content tr:nth-child(even), 
+    .section-content tr:nth-child(even) {
+        background-color: #f8f9fa;
+    }
+    
+    .explanation-content table caption,
+    .section-content table caption {
+        font-style: italic;
+        padding: 8px;
+        caption-side: bottom;
+        color: #6c757d;
+        text-align: center;
+        font-size: 0.9rem;
+    }
+    
+    /* Better list formatting */
+    .explanation-content ul, 
+    .explanation-content ol,
+    .section-content ul, 
+    .section-content ol {
+        padding-left: 1.75rem;
+        margin: 1rem 0;
+        line-height: 1.6;
+    }
+    
+    .explanation-content li, 
+    .section-content li {
+        margin-bottom: 0.5rem;
+        padding-left: 0.25rem;
+    }
+    
+    .explanation-content ul li,
+    .section-content ul li {
+        list-style-type: disc;
+    }
+    
+    .explanation-content ul li li,
+    .section-content ul li li {
+        list-style-type: circle;
+    }
+    
+    /* Consistent heading styles */
+    .explanation-content h1, 
+    .explanation-content h2, 
+    .explanation-content h3 {
+        margin-top: 1.5rem;
+        margin-bottom: 1rem;
+        font-weight: 600;
+        line-height: 1.3;
+        color: #212529;
+    }
+    
+    .explanation-content h1 {
+        font-size: 1.75rem;
+        border-bottom: 2px solid #f0f0f0;
+        padding-bottom: 0.5rem;
+    }
+    
+    .explanation-content h2 {
+        font-size: 1.5rem;
+        padding-bottom: 0.3rem;
+    }
+    
+    .explanation-content h3 {
+        font-size: 1.25rem;
+    }
+    
+    /* Better spacing for paragraphs */
+    .explanation-content p,
+    .section-content p {
+        margin-bottom: 1rem;
+        line-height: 1.6;
+    }
+    
+    /* Improved references section */
+    .references-section,
+    .reference-box {
+        background-color: #f8f9fa;
+        border-radius: 6px;
+        padding: 1.25rem;
+        margin: 1.5rem 0;
+        border-left: 4px solid #0d6efd;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    
+    .references-header,
+    .reference-header {
+        font-weight: 600;
+        color: #0d6efd;
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+        display: flex;
+        align-items: center;
+    }
+    
+    .references-header i,
+    .reference-header i {
+        margin-right: 0.5rem;
+    }
+    
+    .references-list,
+    .reference-content {
+        font-size: 0.95rem;
+        color: #495057;
+    }
+    
+    /* Highlighted content box */
+    .highlighted-box {
+        background-color: #fff8e1;
+        border-left: 4px solid #ffc107;
+        padding: 1rem 1.25rem;
+        margin: 1.5rem 0;
+        border-radius: 5px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    
+    .highlighted-box p:last-child {
+        margin-bottom: 0;
+    }
+    
+    /* Verification box at the bottom of explanations */
+    .verification-box {
+        display: flex;
+        align-items: center;
+        background-color: #e8f4f8;
+        border-radius: 8px;
+        padding: 1rem 1.25rem;
+        border: 1px solid rgba(13, 202, 240, 0.2);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    
+    .verification-icon {
+        flex-shrink: 0;
+        width: 40px;
+        height: 40px;
+        background-color: #0dcaf0;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 1rem;
+        color: white;
+        font-size: 1.25rem;
+    }
+    
+    .verification-text {
+        flex: 1;
+    }
+    
+    .verification-text h5 {
+        margin: 0 0 0.35rem 0;
+        font-weight: 600;
+        color: #0dcaf0;
+        font-size: 1.1rem;
+    }
+    
+    .verification-text p {
+        margin: 0;
+        color: #495057;
+        font-size: 0.95rem;
+    }
+    
+    .references-list {
+        padding-left: 1.5rem;
+        margin-bottom: 0;
+    }
+    
+    .reference-item {
+        margin-bottom: 0.75rem;
+        line-height: 1.5;
+    }
+    
+    /* Prettier divider lines */
+    .explanation-content hr,
+    .ai-pal-section hr,
+    .ai-answer-content hr {
+        margin: 1.5rem 0;
+        border: 0;
+        border-top: 1px solid #e9ecef;
+    }
+    
+    /* Better blockquotes */
+    .explanation-content blockquote,
+    .ai-pal-section blockquote,
+    .ai-answer-content blockquote {
+        border-left: 4px solid #0d6efd;
+        background-color: #f8f9fa;
+        padding: 1rem;
+        margin: 1rem 0;
+        border-radius: 0 4px 4px 0;
+    }
+    
+    /* AI Assistant Styling */
+    .ai-pal-section .section-header {
+        background-color: rgba(111, 66, 193, 0.1);
+        border-left: 5px solid #6f42c1;
+        padding: 0.75rem 1rem;
+        border-radius: 4px 0 0 4px;
+    }
+    
+    .ai-pal-section .section-header h2 {
+        color: #6f42c1;
+        margin: 0;
+        font-size: 1.25rem;
+    }
+    
+    .ai-pal-section .section-content {
+        line-height: 1.6;
+        padding: 1.25rem;
+    }
+    
+    /* Also maintaining legacy AI assistant styling for compatibility */
+    .ai-answer-card {
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        margin-bottom: 15px;
+        background-color: #ffffff;
+    }
+    
+    .ai-answer-header {
+        background-color: #6f42c1;
+        color: white;
+        padding: 12px 15px;
+        font-size: 1.1rem;
+        display: flex;
+        align-items: center;
+    }
+    
+    .ai-answer-header i {
+        margin-right: 8px;
+    }
+    
+    .ai-answer-content {
+        padding: 15px;
+        line-height: 1.6;
+    }
+    
+    .ai-answer-footer {
+        padding: 8px 15px;
+        border-top: 1px solid #e9ecef;
+        text-align: right;
+        font-style: italic;
+        color: #6c757d;
+    }
+    
+    /* Option badges */
+    .option-badge {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        margin-right: 8px;
+        font-weight: bold;
+        font-size: 0.9rem;
+    }
+    .option-A { background-color: #0d6efd; color: white; }
+    .option-B { background-color: #198754; color: white; }
+    .option-C { background-color: #ffc107; color: black; }
+    .option-D { background-color: #dc3545; color: white; }
+    .option-E { background-color: #6c757d; color: white; }
+    
+    /* Improved code blocks */
+    .explanation-content code,
+    .ai-pal-section code,
+    .ai-answer-content code {
+        background-color: #f8f9fa;
+        border-radius: 4px;
+        padding: 2px 4px;
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        color: #d63384;
+    }
+    
+    .explanation-content pre,
+    .ai-pal-section pre,
+    .ai-answer-content pre {
+        background-color: #f8f9fa;
+        border-radius: 4px;
+        padding: 1rem;
+        margin: 1rem 0;
+        overflow-x: auto;
+        line-height: 1.45;
+        border: 1px solid #e9ecef;
+    }
+    
+    .explanation-content pre code,
+    .ai-pal-section pre code,
+    .ai-answer-content pre code {
+        background-color: transparent;
+        padding: 0;
+        color: inherit;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>
+            <small class="text-muted">{{ mcq.question_number }}</small>
+            {% if mcq.exam_type or mcq.exam_year %}
+            <small class="text-muted">
+                {% if mcq.exam_type %}{{ mcq.exam_type }}{% endif %}
+                {% if mcq.exam_year %}{{ mcq.exam_year }}{% endif %}
+            </small>
+            {% endif %}
+        </h1>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <div class="d-flex justify-content-end gap-2 mb-2">
+            <!-- Reclassify dropdown -->
+            <div class="dropdown">
+                <button class="btn btn-sm btn-dark dropdown-toggle" type="button" id="reclassifyDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-tag"></i> Reclassify
+                </button>
+                <div class="dropdown-menu" aria-labelledby="reclassifyDropdown">
+                    <form action="{% url 'reclassify_mcq' mcq_id=mcq.id %}" method="post" class="px-3 py-2">
+                        {% csrf_token %}
+                        <div class="mb-3">
+                            <label for="subspecialty" class="form-label small">Subspecialty:</label>
+                            <select class="form-select form-select-sm" id="subspecialty" name="subspecialty">
+                                {% for subspecialty in SUBSPECIALTIES %}
+                                <option value="{{ subspecialty }}" {% if mcq.subspecialty == subspecialty %}selected{% endif %}>
+                                    {{ subspecialty }}
+                                </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-sm btn-dark w-100">Save</button>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Report Question button -->
+            <button type="button" class="btn btn-sm btn-warning" data-bs-toggle="modal" data-bs-target="#reportQuestionModal">
+                <i class="bi bi-flag"></i> Report Question
+            </button>
+            
+            <!-- Hide/Show button -->
+            {% if is_hidden %}
+            <form action="{% url 'unhide_mcq' mcq_id=mcq.id %}" method="post">
+                {% csrf_token %}
+                <button type="submit" class="btn btn-sm btn-success">
+                    <i class="bi bi-eye"></i> Unhide
+                </button>
+            </form>
+            {% else %}
+            <form action="{% url 'hide_mcq' mcq_id=mcq.id %}" method="post" onsubmit="return confirm('Are you sure you want to hide this MCQ? It will no longer appear in your lists.');">
+                {% csrf_token %}
+                <button type="submit" class="btn btn-sm btn-secondary">
+                    <i class="bi bi-eye-slash"></i> Hide
+                </button>
+            </form>
+            {% endif %}
+            
+            <a href="{% url 'subspecialty' mcq.subspecialty %}" class="btn btn-sm btn-outline-primary">
+                <i class="bi bi-arrow-left"></i> Back to {{ mcq.subspecialty }}
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Quick Action Buttons (Flashcard, Bookmark, Notes) at top -->
+<div class="row mb-3">
+    <div class="col-12">
+        <div class="card shadow">
+            <div class="card-body py-2">
+                <div class="d-flex justify-content-between">
+                    <!-- AI Improvement buttons -->
+                    <div>
+                        <form action="{% url 'improve_mcq' mcq_id=mcq.id %}" method="post" class="d-inline me-2">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-sm btn-outline-secondary" title="Only improves clarity and grammar without changing medical content">
+                                <i class="bi bi-pencil"></i> Improve Question
+                            </button>
+                        </form>
+                        
+                        <form action="{% url 'new_options' mcq_id=mcq.id %}" method="post" class="d-inline me-2">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-sm btn-outline-secondary">
+                                <i class="bi bi-list-check"></i> New Options
+                            </button>
+                        </form>
+                    </div>
+                    
+                    <!-- User actions -->
+                    <div>
+                        <!-- Flashcard button with inline selection -->
+                        {% if is_flashcard %}
+                            <button class="btn btn-sm btn-warning me-2">
+                                <i class="bi bi-card-list"></i> Flashcard Added
+                            </button>
+                        {% else %}
+                            <form id="flashcardForm" action="{% url 'create_flashcard' mcq_id=mcq.id %}" method="post" class="d-inline-block me-2">
+                                {% csrf_token %}
+                                <div class="input-group input-group-sm">
+                                    <select class="form-select form-select-sm" name="interval" id="flashcardInterval" aria-label="Flashcard interval">
+                                        <option value="1" selected>1 day</option>
+                                        <option value="3">3 days</option>
+                                        <option value="7">7 days</option>
+                                        <option value="14">2 weeks</option>
+                                        <option value="30">1 month</option>
+                                    </select>
+                                    <button type="submit" class="btn btn-warning" id="addFlashcardBtn">
+                                        <i class="bi bi-card-list"></i> Add Flashcard
+                                    </button>
+                                </div>
+                            </form>
+                        {% endif %}
+                        
+                        <!-- Bookmark button -->
+                        <form action="{% url 'toggle_bookmark' mcq_id=mcq.id %}" method="post" class="d-inline me-2">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-sm btn-{% if is_bookmarked %}danger{% else %}outline-danger{% endif %}">
+                                <i class="bi bi-bookmark{% if is_bookmarked %}-check{% else %}-plus{% endif %}"></i> {% if is_bookmarked %}Bookmarked{% else %}Bookmark{% endif %}
+                            </button>
+                        </form>
+                        
+                        <!-- Notes button - toggles notes panel -->
+                        <button type="button" class="btn btn-sm btn-outline-info" onclick="toggleNotesPanel()">
+                            <i class="bi bi-journal-text"></i> My Notes
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Notes Panel (initially hidden) -->
+<div id="notes-panel" class="row mb-3" style="display: none;">
+    <div class="col-12">
+        <div class="card shadow">
+            <div class="card-header bg-info text-white">
+                <h5 class="mb-0">Personal Notes</h5>
+            </div>
+            <div class="card-body">
+                <form action="{% url 'save_note' mcq_id=mcq.id %}" method="post">
+                    {% csrf_token %}
+                    <div class="mb-3">
+                        <textarea class="form-control" id="note" name="note" rows="4" placeholder="Add your personal notes here...">{% if user_note %}{{ user_note.note_text }}{% endif %}</textarea>
+                    </div>
+                    <div class="text-end">
+                        <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleNotesPanel()">Close</button>
+                        <button type="submit" class="btn btn-info">
+                            <i class="bi bi-save"></i> Save Notes
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ReasoningPal Button Container -->
+<div id="reasoning-pal-button-container" style="margin-top: 15px; display: block;" class="text-center mb-3">
+    <!-- Button will be dynamically inserted by JavaScript after checking an answer -->
+    <div class="reasoning-button-placeholder text-muted small">
+        <i class="bi bi-info-circle"></i> Check your answer to see AI-powered reasoning analysis
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <!-- MCQ Question Card -->
+        <div class="card shadow mb-4">
+            <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Question</h5>
+                <div class="navigation-buttons">
+                    {% if prev_mcq %}
+                    <a href="{% url 'view_mcq' mcq_id=prev_mcq.id %}" class="btn btn-sm btn-outline-light me-1">
+                        <i class="bi bi-arrow-left"></i> Previous
+                    </a>
+                    {% else %}
+                    <button disabled class="btn btn-sm btn-outline-light me-1 opacity-50">
+                        <i class="bi bi-arrow-left"></i> Previous
+                    </button>
+                    {% endif %}
+                    
+                    {% if next_mcq %}
+                    <a href="{% url 'view_mcq' mcq_id=next_mcq.id %}" class="btn btn-sm btn-outline-light">
+                        Next <i class="bi bi-arrow-right"></i>
+                    </a>
+                    {% else %}
+                    <button disabled class="btn btn-sm btn-outline-light opacity-50">
+                        Next <i class="bi bi-arrow-right"></i>
+                    </button>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="card-body">
+                <p class="card-text">{{ mcq.question_text }}</p>
+
+                {% if mcq.image_url %}
+                <div class="question-image-container mb-4">
+                    {% if mcq.image_url|is_google_drive_url %}
+                    <!-- Google Drive images need iframe -->
+                    <div style="position: relative; width: 100%; max-width: 600px; margin: 0 auto;">
+                        <iframe src="{{ mcq.image_url|to_drive_preview_url }}" 
+                                style="border: 0; width: 100%; height: 400px; border-radius: 0.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.12);"
+                                allowfullscreen>
+                        </iframe>
+                    </div>
+                    {% else %}
+                    <!-- Regular images use img tag -->
+                    <img src="{{ mcq.image_url }}" alt="Question Image" class="img-fluid rounded question-image border shadow-sm" style="max-height: 400px;">
+                    {% endif %}
+                </div>
+                {% endif %}
+                
+                <form id="answerForm" action="{% url 'check_answer' mcq_id=mcq.id %}" method="post">
+                    {% csrf_token %}
+                    <div id="options">
+                        {% if mcq.options %}
+                            {% if mcq.options|stringformat:'s'|first == '{' %}
+                                <!-- Already parsed as JSON by the view -->
+                                {% for option_letter, option_text in mcq.options.items %}
+                                <div class="option" id="option-{{ option_letter }}">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="answer" id="answer-{{ option_letter }}" value="{{ option_letter }}">
+                                        <label class="form-check-label" for="answer-{{ option_letter }}">
+                                            <strong>{{ option_letter }}.</strong> {{ option_text }}
+                                        </label>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            {% else %}
+                                <!-- Try to render as is -->
+                                <div class="alert alert-warning">
+                                    <p>Options formatting issue. Please contact an administrator.</p>
+                                    <p>{{ mcq.options }}</p>
+                                </div>
+                            {% endif %}
+                        {% else %}
+                            <div class="alert alert-warning">No options available for this MCQ.</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="d-grid gap-2 d-md-block mt-4">
+                        <button type="button" id="checkAnswerBtn" class="btn btn-primary">
+                            <i class="bi bi-check-circle"></i> Check Answer
+                        </button>
+                        <button type="button" id="showExplanationBtn" class="btn {% if has_proper_explanation %}btn-outline-info{% else %}btn-outline-warning{% endif %}">
+                            <i class="bi bi-{% if has_proper_explanation %}lightbulb{% else %}exclamation-triangle{% endif %}"></i> <span>{% if has_proper_explanation %}Show Explanation{% else %}Show Placeholder{% endif %}</span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        
+        <!-- Explanation Card -->
+        <div class="card shadow mb-4" id="explanation">
+            <div class="card-header bg-info text-white d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Explanation {% if not has_proper_explanation %}<span class="badge bg-warning ms-2">Needs Generation</span>{% endif %}</h5>
+            </div>
+            <div class="card-body">
+                {% if mcq.explanation_sections %}
+                    <!-- Display structured explanation sections -->
+                    <div class="enhanced-explanation">
+                        {% if mcq.primary_category or mcq.exam_type or mcq.exam_year %}
+                        <div class="exam-source-info mb-4">
+                            <i class="bi bi-info-circle"></i>
+                            {% if mcq.primary_category %}<span class="badge bg-primary me-2">{{ mcq.primary_category }}</span>{% endif %}
+                            {% if mcq.secondary_category %}<span class="badge bg-secondary me-2">{{ mcq.secondary_category }}</span>{% endif %}
+                            {% if mcq.exam_type %}{{ mcq.exam_type }}{% endif %}
+                            {% if mcq.exam_year %}{{ mcq.exam_year }}{% endif %}
+                            {% if mcq.difficulty_level %}<span class="ms-2 badge bg-warning">{{ mcq.difficulty_level }}</span>{% endif %}
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Conceptual Foundation -->
+                        {% if mcq.explanation_sections.conceptual_foundation %}
+                        <div class="explanation-section conceptual-framework-clinical-context mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-lightbulb"></i>
+                                <h3>Conceptual Foundation</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.conceptual_foundation|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Pathophysiological Mechanisms -->
+                        {% if mcq.explanation_sections.pathophysiological_mechanisms %}
+                        <div class="explanation-section pathophysiology mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-diagram-3"></i>
+                                <h3>Pathophysiology</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.pathophysiological_mechanisms|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Clinical Correlation -->
+                        {% if mcq.explanation_sections.clinical_correlation %}
+                        <div class="explanation-section key-concepts mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-clipboard2-pulse"></i>
+                                <h3>Clinical Correlation</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.clinical_correlation|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Diagnostic Approach -->
+                        {% if mcq.explanation_sections.diagnostic_approach %}
+                        <div class="explanation-section diagnostic-criteria mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-search"></i>
+                                <h3>Diagnostic Approach</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.diagnostic_approach|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Classification and Nosology -->
+                        {% if mcq.explanation_sections.classification_and_nosology %}
+                        <div class="explanation-section differential-diagnosis mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-diagram-2"></i>
+                                <h3>Classification & Nosology</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.classification_and_nosology|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Management Principles -->
+                        {% if mcq.explanation_sections.management_principles %}
+                        <div class="explanation-section management-principles mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-clipboard2-check"></i>
+                                <h3>Management Principles</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.management_principles|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Option Analysis -->
+                        {% if mcq.explanation_sections.option_analysis %}
+                        <div class="explanation-section why-this-answer-is-correct mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-check-circle"></i>
+                                <h3>Option Analysis</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.option_analysis|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Clinical Pearls -->
+                        {% if mcq.explanation_sections.clinical_pearls %}
+                        <div class="explanation-section clinical-pearls mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-gem"></i>
+                                <h3>Clinical Pearls</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.clinical_pearls|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Current Evidence -->
+                        {% if mcq.explanation_sections.current_evidence %}
+                        <div class="explanation-section references mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-journal-medical"></i>
+                                <h3>Current Evidence</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.current_evidence|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        {% if mcq.key_concept %}
+                        <div class="highlighted-box">
+                            <strong>Key Concept:</strong> {{ mcq.key_concept }}
+                        </div>
+                        {% endif %}
+                        
+                        {% if mcq.verification_confidence %}
+                        <div class="verification-box mt-4">
+                            <div class="verification-icon">
+                                <i class="bi bi-check2-all"></i>
+                            </div>
+                            <div class="verification-text">
+                                <h5>Verified Answer: {{ mcq.correct_answer }}</h5>
+                                <p>Confidence: {{ mcq.verification_confidence }}</p>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                {% else %}
+                    <!-- Display regular explanation -->
+                    <div class="explanation-content">{{ clean_explanation|safe }}</div>
+                {% endif %}
+            </div>
+        </div>
+        
+        <!-- Removed AI Analysis Card -->
+        
+        <!-- Ask AI Card -->
+        <div class="card shadow mb-4">
+            <div class="card-header bg-purple text-white" style="background-color: #6f42c1;">
+                <h5 class="mb-0"><i class="bi bi-robot"></i> Ask AI-Pal</h5>
+            </div>
+            <div class="card-body">
+                <div class="p-3 bg-light rounded mb-3">
+                    <p class="small mb-1"><strong>Example questions you can ask:</strong></p>
+                    <ul class="small example-questions mb-0">
+                        <li>What's the pathophysiology behind this condition?</li>
+                        <li>Why is option B wrong in this case?</li>
+                        <li>How do I differentiate between these diagnoses?</li>
+                        <li>What are the latest treatment guidelines for this?</li>
+                        <li>Can you explain the neuroanatomy involved here?</li>
+                    </ul>
+                </div>
+
+                <form id="askAIForm" action="{% url 'ask_gpt' mcq_id=mcq.id %}" method="post">
+                    {% csrf_token %}
+                    <div class="mb-3">
+                        <label for="question" class="form-label">Your question about this MCQ:</label>
+                        <textarea class="form-control" id="question" name="question" rows="2" 
+                            placeholder="What would you like to understand better about this question?"></textarea>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <span class="text-muted small">Specific questions yield better answers</span>
+                        <button type="submit" class="btn btn-primary" style="background-color: #6f42c1; border-color: #6f42c1;">
+                            <i class="bi bi-send"></i> Ask AI-Pal
+                        </button>
+                    </div>
+                </form>
+                
+                <div id="aiAnswer" class="mt-4 hidden">
+                    <div class="d-flex justify-content-center mb-3" id="aiLoading">
+                        <div class="spinner-border text-primary" role="status" style="color: #6f42c1 !important;">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                        <span class="ms-2">AI-Pal is thinking...</span>
+                    </div>
+                    <div id="aiAnswerContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <!-- No panels here - moved to the top right corner -->
+    </div>
+</div>
+
+<!-- ReasoningPal Modal -->
+<div id="reasoning-pal-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2 id="reasoning-pal-modal-title">ReasoningPal - Clinical Reasoning Coach</h2>
+        
+        <div id="reasoning-request-section">
+            <div id="reasoning-request-prompt">
+                <!-- Dynamic content inserted here by JavaScript -->
+            </div>
+            <textarea id="user-reasoning" rows="6" class="form-control" placeholder="I thought this answer was correct because..."></textarea>
+            <button id="submit-reasoning" class="btn btn-primary mt-3">Submit My Reasoning</button>
+        </div>
+        
+        <div id="reasoning-response-section" style="display: none;">
+            <div id="loading-indicator" class="reasoning-loading-container">
+                <div class="reasoning-loading-content">
+                    <div class="reasoning-loading-icon">
+                        <div class="spinner-grow text-primary" role="status"></div>
+                        <div class="spinner-grow text-info" role="status" style="animation-delay: 0.2s"></div>
+                        <div class="spinner-grow text-success" role="status" style="animation-delay: 0.4s"></div>
+                    </div>
+                    <h4 class="reasoning-loading-title">Analyzing Clinical Reasoning</h4>
+                    <p class="reasoning-loading-text">Your reasoning is being analyzed by our AI system to provide personalized guidance...</p>
+                    <div class="reasoning-loading-progress">
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="reasoning-guidance" style="display: none;">
+                <!-- Guidance will be inserted here -->
+            </div>
+            
+            <div id="feedback-section" style="margin-top: 20px; padding-top: 15px; border-top: 1px solid #ddd;">
+                <p>Was this explanation helpful?</p>
+                <div class="satisfaction-buttons">
+                    <button class="btn btn-outline-success satisfaction-btn" data-value="very_helpful">Very Helpful</button>
+                    <button class="btn btn-outline-primary satisfaction-btn" data-value="somewhat_helpful">Somewhat Helpful</button>
+                    <button class="btn btn-outline-warning satisfaction-btn" data-value="not_helpful">Not Helpful</button>
+                </div>
+                
+                <div id="follow-up-section" style="margin-top: 15px; display: none;">
+                    <p>Do you have any specific questions about this topic?</p>
+                    <textarea id="follow-up-question" rows="3" class="form-control" placeholder="I still don't understand..."></textarea>
+                    <button id="submit-follow-up" class="btn btn-primary mt-2">Ask Question</button>
+                    
+                    <div id="follow-up-answer" style="margin-top: 15px; display: none;">
+                        <!-- Follow-up answer will be inserted here -->
+                    </div>
+                </div>
+                
+                <!-- Test understanding section -->
+                <div class="test-understanding-section" style="margin-top: 25px; border-top: 1px solid #ddd; padding-top: 20px;">
+                    <div class="d-grid">
+                        <button id="test-understanding-btn" class="btn btn-success" style="display: none;">
+                            <i class="bi bi-lightning-charge"></i> Test My Understanding
+                        </button>
+                    </div>
+                    
+                    <div id="test-question-section" style="display: none; margin-top: 20px;">
+                        <div class="card">
+                            <div class="card-header bg-success text-white">
+                                <h5 class="mb-0"><i class="bi bi-check-circle"></i> Challenge Question</h5>
+                            </div>
+                            <div class="card-body">
+                                <div id="test-question-content">
+                                    <!-- Test question will be inserted here -->
+                                </div>
+                                
+                                <div id="test-options-section" class="mt-3">
+                                    <!-- Options will be inserted here -->
+                                </div>
+                                
+                                <div class="d-grid mt-3">
+                                    <button id="submit-test-answer" class="btn btn-primary">Submit Answer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div id="test-result-section" style="display: none; margin-top: 20px;">
+                        <!-- Test result will be inserted here -->
+                    </div>
+                    
+                    <div id="test-followup-section" style="display: none; margin-top: 20px;">
+                        <div class="card">
+                            <div class="card-header bg-info text-white">
+                                <h5 class="mb-0"><i class="bi bi-chat-dots"></i> Explain Your Choice</h5>
+                            </div>
+                            <div class="card-body">
+                                <p>Why did you choose this answer? This helps us provide better guidance.</p>
+                                <textarea id="test-followup-reasoning" rows="3" class="form-control" placeholder="I chose this answer because..."></textarea>
+                                <div class="d-grid mt-3">
+                                    <button id="submit-test-followup" class="btn btn-info">Submit Reasoning</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// Debugging logger function - only logs visually for admin users
+function logUserAction(action, details = {}) {
+    // Always log to console for debugging
+    console.log(`[USER ACTION] ${action}`, details);
+
+    // Only add visual feedback if debug log container exists (admin users only)
+    const debugLogContainer = document.getElementById('debug-log-container');
+    if (debugLogContainer) {
+        const logEntry = document.createElement('div');
+        logEntry.className = 'debug-log-entry';
+        logEntry.innerHTML = `<strong>${new Date().toLocaleTimeString()}</strong>: ${action}`;
+        if (Object.keys(details).length > 0) {
+            logEntry.innerHTML += ` - ${JSON.stringify(details)}`;
+        }
+        debugLogContainer.prepend(logEntry);
+    }
+}
+
+// Function to toggle notes panel visibility
+function toggleNotesPanel() {
+    const notesPanel = document.getElementById('notes-panel');
+    const notesButton = document.querySelector('button[onclick="toggleNotesPanel()"]');
+    
+    if (notesPanel) {
+        if (notesPanel.style.display === 'none') {
+            // Open the panel
+            notesPanel.style.display = 'block';
+            
+            // Update button to show active state
+            if (notesButton) {
+                notesButton.classList.remove('btn-outline-info');
+                notesButton.classList.add('btn-info');
+            }
+            
+            // Scroll to the notes panel
+            notesPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            
+            // Log the action
+            if (window.logUserAction) {
+                logUserAction('Notes panel opened');
+            }
+        } else {
+            // Close the panel
+            notesPanel.style.display = 'none';
+            
+            // Update button to show inactive state
+            if (notesButton) {
+                notesButton.classList.remove('btn-info');
+                notesButton.classList.add('btn-outline-info');
+            }
+            
+            // Log the action
+            if (window.logUserAction) {
+                logUserAction('Notes panel closed');
+            }
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Flashcard Form Handler
+    const flashcardForm = document.getElementById('flashcardForm');
+    const addFlashcardBtn = document.getElementById('addFlashcardBtn');
+    const flashcardInterval = document.getElementById('flashcardInterval');
+
+    if (flashcardForm && addFlashcardBtn) {
+        // Add specific click handler for the button
+        addFlashcardBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+
+            // Get selected interval
+            const selectedInterval = flashcardInterval ? flashcardInterval.value : 1;
+
+            // Show loading state
+            addFlashcardBtn.disabled = true;
+            const originalText = addFlashcardBtn.innerHTML;
+            addFlashcardBtn.innerHTML = `<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Adding...`;
+
+            // Submit the form
+            flashcardForm.submit();
+        });
+    }
+    // Automatically open notes panel if it contains text
+    const noteTextarea = document.getElementById('note');
+    const notesPanel = document.getElementById('notes-panel');
+    
+    if (noteTextarea && notesPanel) {
+        // Check if the notes textarea has content
+        if (noteTextarea.value.trim()) {
+            // Show the notes panel if it has content
+            notesPanel.style.display = 'block';
+            // Update the button text/style to indicate open state
+            const notesButton = document.querySelector('button[onclick="toggleNotesPanel()"]');
+            if (notesButton) {
+                notesButton.classList.remove('btn-outline-info');
+                notesButton.classList.add('btn-info');
+            }
+            // Log this action
+            logUserAction('Notes panel automatically opened because it contains text');
+        }
+    }
+    
+    // Create debug log container only for admin users
+    {% if user.is_staff %}
+    const debugLogSection = document.createElement('div');
+    debugLogSection.innerHTML = `
+        <div class="card shadow mb-4">
+            <div class="card-header bg-dark text-white">
+                <h5 class="mb-0">Interaction Log (Admin Only)</h5>
+            </div>
+            <div class="card-body p-0">
+                <div id="debug-log-container" style="max-height: 200px; overflow-y: auto; padding: 10px;">
+                    <div class="debug-log-entry"><strong>${new Date().toLocaleTimeString()}</strong>: Page loaded</div>
+                </div>
+            </div>
+        </div>
+    `;
+    document.querySelector('.row').appendChild(debugLogSection);
+    {% endif %}
+    
+    // Add event listeners for tracking
+    document.querySelectorAll('button, a.btn').forEach(element => {
+        element.addEventListener('click', function(event) {
+            logUserAction(`Clicked: ${this.textContent.trim()}`, {
+                element_type: this.tagName,
+                element_id: this.id,
+                element_class: this.className
+            });
+        });
+    });
+    
+    // Get UI elements
+    const checkAnswerBtn = document.getElementById('checkAnswerBtn');
+    const showExplanationBtn = document.getElementById('showExplanationBtn');
+    const explanation = document.getElementById('explanation');
+    const askAIForm = document.getElementById('askAIForm');
+    const aiAnswer = document.getElementById('aiAnswer');
+    const aiAnswerContent = document.getElementById('aiAnswerContent');
+    const explainForm = document.getElementById('explainForm');
+    const generateExplanationBtn = document.getElementById('generateExplanation');
+    const explainStatus = document.getElementById('explainStatus');
+    const verifyAnswerBtn = document.getElementById('verifyAnswerBtn');
+    
+    // Initially hide the explanation
+    if (explanation) {
+        explanation.style.display = 'none';
+    }
+    
+    // Verify button functionality removed
+    
+    // Check Answer functionality
+    if (checkAnswerBtn) {
+        checkAnswerBtn.addEventListener('click', function() {
+            logUserAction('Checking answer');
+            const selectedAnswer = document.querySelector('input[name="answer"]:checked');
+            
+            if (!selectedAnswer) {
+                alert('Please select an answer first.');
+                logUserAction('No answer selected');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('answer', selectedAnswer.value);
+            formData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+            
+            fetch(`/mcq/{{ mcq.id }}/check_answer/`, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                logUserAction('Answer check response received', { is_correct: data.is_correct });
+                
+                // Reset all options
+                document.querySelectorAll('.option').forEach(option => {
+                    option.className = 'option';
+                });
+                
+                // Mark selected option
+                const selectedOption = document.getElementById(`option-${selectedAnswer.value}`);
+                
+                if (data.is_correct) {
+                    selectedOption.classList.add('option-correct');
+                } else {
+                    selectedOption.classList.add('option-incorrect');
+                    // Mark correct answer
+                    const correctOption = document.getElementById(`option-${data.correct_answer}`);
+                    if (correctOption) {
+                        correctOption.classList.add('option-correct');
+                    } else {
+                        // Handle case where correct answer doesn't match any option
+                        console.error(`No option found for correct answer: ${data.correct_answer}`);
+                        
+                        // Add warning message
+                        const warningDiv = document.createElement('div');
+                        warningDiv.className = 'alert alert-warning mt-3';
+                        warningDiv.innerHTML = `<i class="bi bi-exclamation-triangle"></i> <strong>Data Error:</strong> The correct answer "${data.correct_answer}" doesn't match any available option. This question may have incorrect data. Please report this issue.`;
+                        document.getElementById('options').appendChild(warningDiv);
+                    }
+                }
+                
+                // Show explanation
+                if (explanation) {
+                    explanation.style.display = 'block';
+                }
+                
+                // Add ReasoningPal button after checking answer
+                const reasoningPalContainer = document.getElementById('reasoning-pal-button-container');
+                if (reasoningPalContainer) {
+                    // Clear placeholder text
+                    reasoningPalContainer.innerHTML = '';
+                    
+                    // Create wrapper for better styling
+                    const buttonWrapper = document.createElement('div');
+                    buttonWrapper.className = 'reasoning-pal-button-wrapper';
+                    
+                    // Create button
+                    const reasoningPalButton = document.createElement('button');
+                    reasoningPalButton.id = 'launch-reasoning-pal';
+                    reasoningPalButton.className = 'btn btn-success animate__animated animate__pulse';
+                    reasoningPalButton.innerHTML = '<i class="bi bi-brain"></i> Analyze My Clinical Reasoning';
+                    
+                    // Add event listener to open ReasoningPal modal
+                    reasoningPalButton.addEventListener('click', function() {
+                        // Show the modal
+                        const reasoningPalModal = document.getElementById('reasoning-pal-modal');
+                        if (reasoningPalModal) {
+                            reasoningPalModal.style.display = 'block';
+                            
+                            // Generate prompt based on answer correctness
+                            const requestPromptDiv = document.getElementById('reasoning-request-prompt');
+                            if (requestPromptDiv) {
+                                if (data.is_correct) {
+                                    requestPromptDiv.innerHTML = `
+                                        <div class="alert alert-success">
+                                            <h4><i class="bi bi-check-circle"></i> Your answer (${selectedAnswer.value}) is correct!</h4>
+                                            <p>Please explain your clinical reasoning process. What key factors led you to select this answer?</p>
+                                        </div>
+                                    `;
+                                } else {
+                                    requestPromptDiv.innerHTML = `
+                                        <div class="alert alert-danger">
+                                            <h4><i class="bi bi-x-circle"></i> Your answer (${selectedAnswer.value}) is incorrect.</h4>
+                                            <p>The correct answer is ${data.correct_answer}. Please explain your clinical reasoning process. What factors led you to select the wrong answer?</p>
+                                        </div>
+                                    `;
+                                }
+                                
+                                // Set up the submit reasoning button
+                                const submitReasoningBtn = document.getElementById('submit-reasoning');
+                                if (submitReasoningBtn) {
+                                    submitReasoningBtn.onclick = function() {
+                                        const userReasoning = document.getElementById('user-reasoning').value;
+                                        
+                                        if (!userReasoning || userReasoning.trim().length < 10) {
+                                            alert('Please provide your reasoning (at least a few sentences)');
+                                            return;
+                                        }
+                                        
+                                        // Show loading indicator
+                                        document.getElementById('reasoning-request-section').style.display = 'none';
+                                        document.getElementById('reasoning-response-section').style.display = 'block';
+                                        document.getElementById('loading-indicator').style.display = 'block';
+                                        document.getElementById('reasoning-guidance').style.display = 'none';
+                                        
+                                        // Send reasoning to the server
+                                        const formData = new FormData();
+                                        formData.append('user_reasoning', userReasoning);
+                                        formData.append('selected_answer', selectedAnswer.value);
+                                        formData.append('is_correct', data.is_correct);
+                                        formData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+                                        
+                                        fetch(`/mcq/{{ mcq.id }}/reasoning_pal/`, {
+                                            method: 'POST',
+                                            body: formData
+                                        })
+                                        .then(response => response.json())
+                                        .then(data => {
+                                            // Set up polling for the result
+                                            const checkResultInterval = setInterval(function() {
+                                                fetch(`/mcq/{{ mcq.id }}/check_reasoning/?id=${data.placeholder_id || ''}`)
+                                                .then(response => response.json())
+                                                .then(resultData => {
+                                                    console.log("Received reasoning check response:", resultData);
+                                                    if (resultData.ready) {
+                                                        // Result is ready - clear interval and display
+                                                        clearInterval(checkResultInterval);
+                                                        
+                                                        // Hide loading, show guidance
+                                                        document.getElementById('loading-indicator').style.display = 'none';
+                                                        
+                                                        const guidanceEl = document.getElementById('reasoning-guidance');
+                                                        guidanceEl.style.display = 'block';
+                                                        
+                                                        // Show Test My Understanding button only after guidance is ready
+                                                        const testUnderstandingBtn = document.getElementById('test-understanding-btn');
+                                                        if (testUnderstandingBtn) {
+                                                            testUnderstandingBtn.style.display = 'block';
+                                                        }
+                                                        
+                                                        // Process the markdown-like content with better formatting
+                                                        let processedGuidance = resultData.guidance;
+                                                        
+                                                        // Add icons to headers
+                                                        processedGuidance = processedGuidance.replace(/# (.*?)(\n|$)/g, '<h1 class="reasoning-section-title"><i class="bi bi-brain"></i> $1</h1>');
+                                                        processedGuidance = processedGuidance.replace(/## (.*?)(\n|$)/g, '<h2 class="reasoning-section-subtitle"><i class="bi bi-lightbulb"></i> $1</h2>');
+                                                        processedGuidance = processedGuidance.replace(/### (.*?)(\n|$)/g, '<h3 class="reasoning-section-subtitle"><i class="bi bi-arrow-right-circle"></i> $1</h3>');
+                                                        
+                                                        // Format lists
+                                                        processedGuidance = processedGuidance.replace(/- (.*?)(\n|$)/g, '<li><i class="bi bi-check2-circle"></i> $1</li>');
+                                                        processedGuidance = processedGuidance.replace(/(<li>.*?<\/li>)+/g, '<ul class="reasoning-list">$&</ul>');
+                                                        
+                                                        // Format tables with better parsing
+                                                        // First, try to handle markdown tables by finding blocks of text with | characters
+                                                        let tableBlocks = processedGuidance.match(/\|.*\|[\s\S]*?\|.*\|/g) || [];
+                                                        
+                                                        tableBlocks.forEach(tableText => {
+                                                            // Build table HTML
+                                                            const lines = tableText.trim().split('\n');
+                                                            let tableHtml = '<div class="table-responsive"><table class="table table-bordered table-hover">';
+                                                            
+                                                            // Process header row
+                                                            if (lines.length > 0) {
+                                                                const headerCells = lines[0].split('|').filter(cell => cell.trim() !== '');
+                                                                tableHtml += '<thead><tr>';
+                                                                headerCells.forEach(cell => {
+                                                                    tableHtml += `<th>${cell.trim()}</th>`;
+                                                                });
+                                                                tableHtml += '</tr></thead>';
+                                                            }
+                                                            
+                                                            // Skip the separator row (line with dashes)
+                                                            const dataStartIndex = lines[1] && lines[1].includes('-') ? 2 : 1;
+                                                            
+                                                            // Process data rows
+                                                            tableHtml += '<tbody>';
+                                                            for (let i = dataStartIndex; i < lines.length; i++) {
+                                                                if (lines[i].trim() === '') continue;
+                                                                
+                                                                const cells = lines[i].split('|').filter(cell => cell.trim() !== '');
+                                                                tableHtml += '<tr>';
+                                                                cells.forEach(cell => {
+                                                                    tableHtml += `<td>${cell.trim()}</td>`;
+                                                                });
+                                                                tableHtml += '</tr>';
+                                                            }
+                                                            tableHtml += '</tbody></table></div>';
+                                                            
+                                                            // Replace the original table text with HTML
+                                                            processedGuidance = processedGuidance.replace(tableText, tableHtml);
+                                                        });
+                                                        
+                                                        // Format bold text
+                                                        processedGuidance = processedGuidance.replace(/\*\*(.*?)\*\*/g, '<strong class="highlight">$1</strong>');
+                                                        
+                                                        // Format section dividers
+                                                        processedGuidance = processedGuidance.replace(/---/g, '<hr class="reasoning-divider">');
+                                                        
+                                                        guidanceEl.innerHTML = `<div class="reasoning-guidance-content">${processedGuidance}</div>`;
+                                                    }
+                                                    // If not ready, will keep polling
+                                                })
+                                                .catch(error => {
+                                                    console.error('Error checking reasoning status:', error);
+                                                });
+                                            }, 3000); // Check every 3 seconds
+                                            
+                                            // Setup satisfaction buttons
+                                            document.querySelectorAll('.satisfaction-btn').forEach(btn => {
+                                                btn.onclick = function() {
+                                                    // Remove active class from all buttons
+                                                    document.querySelectorAll('.satisfaction-btn').forEach(b => {
+                                                        b.classList.remove('active');
+                                                    });
+                                                    
+                                                    // Add active class to clicked button
+                                                    this.classList.add('active');
+                                                    
+                                                    // Show follow-up section
+                                                    document.getElementById('follow-up-section').style.display = 'block';
+                                                    
+                                                    // Send feedback to server
+                                                    const feedbackData = new FormData();
+                                                    feedbackData.append('satisfaction_level', this.dataset.value);
+                                                    feedbackData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+                                                    
+                                                    fetch(`/reasoning_session/${data.session_id}/feedback/`, {
+                                                        method: 'POST',
+                                                        body: feedbackData
+                                                    });
+                                                };
+                                            });
+                                            
+                                            // Setup follow-up question submission
+                                            document.getElementById('submit-follow-up').onclick = function() {
+                                                const followUpQuestion = document.getElementById('follow-up-question').value;
+                                                
+                                                if (!followUpQuestion || followUpQuestion.trim().length < 5) {
+                                                    alert('Please enter a specific question');
+                                                    return;
+                                                }
+                                                
+                                                // Show loading for follow-up
+                                                const followUpAnswerEl = document.getElementById('follow-up-answer');
+                                                followUpAnswerEl.style.display = 'block';
+                                                followUpAnswerEl.innerHTML = '<div class="text-center"><div class="spinner-border spinner-border-sm" role="status"></div> Processing your question...</div>';
+                                                
+                                                // Send follow-up to server
+                                                const followUpData = new FormData();
+                                                followUpData.append('follow_up_question', followUpQuestion);
+                                                followUpData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+                                                
+                                                fetch(`/reasoning_session/${data.session_id}/feedback/`, {
+                                                    method: 'POST',
+                                                    body: followUpData
+                                                })
+                                                .then(response => response.json())
+                                                .then(data => {
+                                                    if (data.follow_up_answer) {
+                                                        followUpAnswerEl.innerHTML = `
+                                                            <div class="card mt-3">
+                                                                <div class="card-header bg-info text-white">
+                                                                    <i class="bi bi-question-circle"></i> Your Follow-up Question
+                                                                </div>
+                                                                <div class="card-body">
+                                                                    <p class="mb-3 font-italic">${followUpQuestion}</p>
+                                                                    <div class="answer-content">${data.follow_up_answer}</div>
+                                                                </div>
+                                                            </div>
+                                                        `;
+                                                    }
+                                                });
+                                            };
+                                        })
+                                        .catch(error => {
+                                            console.error('Error submitting reasoning:', error);
+                                            document.getElementById('loading-indicator').style.display = 'none';
+                                            document.getElementById('reasoning-guidance').style.display = 'block';
+                                            document.getElementById('reasoning-guidance').innerHTML = `
+                                                <div class="alert alert-danger">
+                                                    <h4><i class="bi bi-exclamation-triangle"></i> Error</h4>
+                                                    <p>An error occurred while processing your reasoning.</p>
+                                                    <p>Please try again later.</p>
+                                                </div>
+                                            `;
+                                        });
+                                    };
+                                }
+                            }
+                        }
+                    });
+                    
+                    // Add button to wrapper and wrapper to container
+                    buttonWrapper.appendChild(reasoningPalButton);
+                    reasoningPalContainer.appendChild(buttonWrapper);
+                    
+                    // Add close button functionality to modal
+                    const closeBtn = document.querySelector('#reasoning-pal-modal .close');
+                    if (closeBtn) {
+                        closeBtn.onclick = function() {
+                            document.getElementById('reasoning-pal-modal').style.display = 'none';
+                        };
+                    }
+                    
+                    // Close modal when clicking outside of it
+                    window.onclick = function(event) {
+                        const modal = document.getElementById('reasoning-pal-modal');
+                        if (event.target == modal) {
+                            modal.style.display = 'none';
+                        }
+                    };
+                }
+            })
+            .catch(error => {
+                logUserAction('Error checking answer', { error: error.toString() });
+                alert('An error occurred while checking your answer. Please try again.');
+            });
+        });
+    }
+    
+    // Show/Hide Explanation
+    if (showExplanationBtn) {
+        showExplanationBtn.addEventListener('click', function() {
+            // All explanations are now preloaded
+            logUserAction('Toggle explanation visibility', { has_explanation: true });
+            
+            if (explanation) {
+                if (explanation.style.display === 'none' || explanation.style.display === '') {
+                    explanation.style.display = 'block';
+                    showExplanationBtn.querySelector('i').className = 'bi bi-lightbulb-off';
+                    showExplanationBtn.querySelector('span').textContent = 'Hide Explanation';
+                } else {
+                    explanation.style.display = 'none';
+                    showExplanationBtn.querySelector('i').className = 'bi bi-lightbulb';
+                    showExplanationBtn.querySelector('span').textContent = 'Show Explanation';
+                }
+            }
+        });
+    }
+    
+    // Ask AI Assistant
+    if (askAIForm) {
+        askAIForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const question = document.getElementById('question').value;
+            
+            if (!question) {
+                alert('Please enter a question.');
+                return;
+            }
+            
+            logUserAction('Submitting AI question', { question_length: question.length });
+            
+            const formData = new FormData();
+            formData.append('question', question);
+            formData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+            
+            // Show loading
+            if (aiAnswer) {
+                aiAnswer.classList.remove('hidden');
+            }
+            if (aiAnswerContent) {
+                aiAnswerContent.innerHTML = '';
+            }
+            const aiLoading = document.getElementById('aiLoading');
+            if (aiLoading) {
+                aiLoading.style.display = 'flex';
+            }
+            
+            // Scroll to the answer container
+            if (aiAnswer) {
+                aiAnswer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+            
+            fetch(`/mcq/{{ mcq.id }}/ask_gpt/`, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                logUserAction('AI response received');
+                
+                // Hide loading indicator
+                if (aiLoading) {
+                    aiLoading.style.display = 'none';
+                }
+                
+                // Display the answer
+                if (aiAnswerContent) {
+                    aiAnswerContent.innerHTML = data.answer;
+                }
+            })
+            .catch(error => {
+                logUserAction('Error getting AI answer', { error: error.toString() });
+                
+                if (aiLoading) {
+                    aiLoading.style.display = 'none';
+                }
+                if (aiAnswerContent) {
+                    aiAnswerContent.innerHTML = '<div class="alert alert-danger"><i class="bi bi-exclamation-triangle"></i> An error occurred while processing your question.</div>';
+                }
+            });
+        });
+    }
+    
+    // All MCQs now have pre-loaded explanations
+    
+    // Add listeners for hide/unhide buttons
+    document.querySelectorAll('form[action*="hide_mcq"], form[action*="unhide_mcq"]').forEach(form => {
+        form.addEventListener('submit', function(event) {
+            const action = form.action.includes('hide_mcq') ? 'hide' : 'unhide';
+            logUserAction(`Submitting form to ${action} MCQ`, { form_action: form.action });
+        });
+    });
+    
+    // Test My Understanding button
+    const testUnderstandingBtn = document.getElementById('test-understanding-btn');
+    if (testUnderstandingBtn) {
+        testUnderstandingBtn.addEventListener('click', function() {
+            // Hide the button and show loading state
+            testUnderstandingBtn.disabled = true;
+            testUnderstandingBtn.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Generating test question...';
+            
+            // Get the current MCQ and reasoning guidance content for context
+            const mcqId = '{{ mcq.id }}';
+            const guidanceContent = document.getElementById('reasoning-guidance').innerText;
+            
+            // Make an API call to generate a related test question
+            const formData = new FormData();
+            formData.append('mcq_id', mcqId);
+            formData.append('guidance_content', guidanceContent);
+            formData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+            
+            fetch('/mcq/' + mcqId + '/generate_test_question/', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                const testQuestionSection = document.getElementById('test-question-section');
+                const testQuestionContent = document.getElementById('test-question-content');
+                const testOptionsSection = document.getElementById('test-options-section');
+                
+                // Show question section
+                testQuestionSection.style.display = 'block';
+                
+                // Display the API-generated question and options
+                testQuestionContent.innerHTML = `<p>${data.question}</p>`;
+                
+                // Generate options from the API response data
+                let optionsHTML = '';
+                const optionLetters = Object.keys(data.options);
+                
+                optionLetters.forEach(letter => {
+                    optionsHTML += `
+                        <div class="form-check mb-2">
+                            <input class="form-check-input" type="radio" name="test_answer" id="test_option_${letter}" value="${letter}">
+                            <label class="form-check-label" for="test_option_${letter}">
+                                <strong>${letter}.</strong> ${data.options[letter]}
+                            </label>
+                        </div>
+                    `;
+                });
+                
+                testOptionsSection.innerHTML = optionsHTML;
+                
+                // Store the correct answer from the API
+                testOptionsSection.dataset.correctAnswer = data.correct_answer;
+                
+                // Reset button
+                testUnderstandingBtn.style.display = 'none';
+                
+                // Set up submit button
+                const submitTestBtn = document.getElementById('submit-test-answer');
+                if (submitTestBtn) {
+                    submitTestBtn.addEventListener('click', function() {
+                        const selectedAnswer = document.querySelector('input[name="test_answer"]:checked');
+                        if (!selectedAnswer) {
+                            alert('Please select an answer.');
+                            return;
+                        }
+                        
+                        // Get the selected value
+                        const answerValue = selectedAnswer.value;
+                        const correctAnswer = testOptionsSection.dataset.correctAnswer; // Get the correct answer from the API
+                        const isCorrect = answerValue === correctAnswer;
+                        
+                        // Show result section
+                        const testResultSection = document.getElementById('test-result-section');
+                        testResultSection.style.display = 'block';
+                        
+                        if (isCorrect) {
+                            // Use the API-provided feedback for correct answers
+                            testResultSection.innerHTML = `
+                                <div class="alert alert-success">
+                                    <h5><i class="bi bi-check-circle"></i> Correct!</h5>
+                                    <p>${data.correct_feedback}</p>
+                                    <hr>
+                                    <p class="mb-0">This demonstrates your understanding of the key concepts.</p>
+                                </div>
+                                <div class="d-grid mt-3">
+                                    <button class="btn btn-success" onclick="document.getElementById('reasoning-pal-modal').style.display='none';">Continue Learning</button>
+                                </div>
+                            `;
+                        } else {
+                            // Show incorrect feedback and follow-up section
+                            // Use the API-provided feedback for incorrect answers
+                            const correctOptionText = document.querySelector(`label[for="test_option_${correctAnswer}"]`).innerText.replace(`${correctAnswer}.`, '');
+                            testResultSection.innerHTML = `
+                                <div class="alert alert-danger">
+                                    <h5><i class="bi bi-x-circle"></i> Not quite right</h5>
+                                    <p>You selected option ${answerValue}. The correct answer is option ${correctAnswer}: ${correctOptionText}</p>
+                                    <hr>
+                                    <p class="mb-0">${data.incorrect_feedback}</p>
+                                </div>
+                            `;
+                            
+                            // Show follow-up section for incorrect answers
+                            const testFollowupSection = document.getElementById('test-followup-section');
+                            testFollowupSection.style.display = 'block';
+                            
+                            // Set up follow-up reasoning submission
+                            const submitFollowupBtn = document.getElementById('submit-test-followup');
+                            if (submitFollowupBtn) {
+                                submitFollowupBtn.addEventListener('click', function() {
+                                    const followupReasoning = document.getElementById('test-followup-reasoning').value;
+                                    if (!followupReasoning) {
+                                        alert('Please explain your reasoning.');
+                                        return;
+                                    }
+                                    
+                                    // Show loading state
+                                    submitFollowupBtn.disabled = true;
+                                    submitFollowupBtn.innerHTML = '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Analyzing...';
+                                    
+                                    // Simulate processing time (would be API call in production)
+                                    setTimeout(function() {
+                                        // Make an API call to get detailed feedback based on the user's reasoning
+                                        const followupData = new FormData();
+                                        followupData.append('mcq_id', mcqId);
+                                        followupData.append('user_reasoning', followupReasoning);
+                                        followupData.append('selected_answer', answerValue);
+                                        followupData.append('correct_answer', correctAnswer);
+                                        followupData.append('csrfmiddlewaretoken', document.querySelector('[name=csrfmiddlewaretoken]').value);
+                                        
+                                        fetch('/mcq/' + mcqId + '/analyze_test_reasoning/', {
+                                            method: 'POST',
+                                            body: followupData
+                                        })
+                                        .then(response => response.json())
+                                        .then(feedbackData => {
+                                            // Add detailed feedback based on the user's reasoning
+                                            testResultSection.innerHTML += `
+                                                <div class="card mt-3">
+                                                    <div class="card-header bg-primary text-white">
+                                                        <h5 class="mb-0"><i class="bi bi-lightning"></i> Clarification</h5>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        ${feedbackData.detailed_feedback}
+                                                    </div>
+                                                </div>
+                                                <div class="d-grid mt-3">
+                                                    <button class="btn btn-primary" onclick="document.getElementById('reasoning-pal-modal').style.display='none';">Continue Learning</button>
+                                                </div>
+                                            `;
+                                            
+                                            // Hide follow-up section
+                                            testFollowupSection.style.display = 'none';
+                                        })
+                                        .catch(error => {
+                                            console.error('Error getting detailed feedback:', error);
+                                            testResultSection.innerHTML += `
+                                                <div class="alert alert-warning mt-3">
+                                                    <p>We encountered an error while analyzing your reasoning. Here's some general feedback:</p>
+                                                    <p>${data.detailed_explanation}</p>
+                                                </div>
+                                                <div class="d-grid mt-3">
+                                                    <button class="btn btn-primary" onclick="document.getElementById('reasoning-pal-modal').style.display='none';">Continue Learning</button>
+                                                </div>
+                                            `;
+                                            testFollowupSection.style.display = 'none';
+                                        });
+                                        
+                                        // Hide follow-up section
+                                        testFollowupSection.style.display = 'none';
+                                    }, 2000);
+                                });
+                            }
+                        }
+                        
+                        // Disable the submit button to prevent multiple submissions
+                        submitTestBtn.disabled = true;
+                    });
+                }
+            })
+            .catch(error => {
+                console.error('Error generating test question:', error);
+                
+                // Show error message if API fails
+                testQuestionSection.style.display = 'block';
+                testQuestionContent.innerHTML = `
+                    <div class="alert alert-warning">
+                        <h5><i class="bi bi-exclamation-triangle"></i> Error Generating Question</h5>
+                        <p>We encountered an error while creating your test question.</p>
+                        <p>Please try again later.</p>
+                    </div>
+                `;
+                testOptionsSection.innerHTML = '';
+                
+                // Reset button state
+                testUnderstandingBtn.disabled = false;
+                testUnderstandingBtn.innerHTML = '<i class="bi bi-lightning-charge"></i> Try Again';
+                testUnderstandingBtn.style.display = 'block';
+            });
+        });
+    }
+});
+</script>
+
+<!-- Include the Report Question Modal -->
+{% include 'mcq/report_question_modal.html' %}
+
+{% endblock %}

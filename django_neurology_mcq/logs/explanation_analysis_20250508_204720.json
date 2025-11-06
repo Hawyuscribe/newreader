@@ -1,0 +1,102 @@
+{
+  "total_analyzed": 50,
+  "section_stats": {
+    "Conceptual Framework & Clinical Context": {
+      "count": 50,
+      "total_length": 31816,
+      "min_length": 411,
+      "max_length": 955,
+      "avg_length": 636.32
+    },
+    "Evidence-Based Analysis": {
+      "count": 50,
+      "total_length": 35503,
+      "min_length": 101,
+      "max_length": 1068,
+      "avg_length": 710.06
+    },
+    "Incorrect Options Analysis": {
+      "count": 50,
+      "total_length": 40682,
+      "min_length": 451,
+      "max_length": 1193,
+      "avg_length": 813.64
+    },
+    "Comparison Table": {
+      "count": 50,
+      "total_length": 21814,
+      "min_length": 181,
+      "max_length": 694,
+      "avg_length": 436.28
+    },
+    "Clinical Pearls": {
+      "count": 50,
+      "total_length": 16372,
+      "min_length": 243,
+      "max_length": 454,
+      "avg_length": 327.44
+    },
+    "Common Pitfalls and Misconceptions": {
+      "count": 50,
+      "total_length": 11750,
+      "min_length": 156,
+      "max_length": 368,
+      "avg_length": 235.0
+    },
+    "Latest Guidelines and Trials": {
+      "count": 50,
+      "total_length": 17952,
+      "min_length": 39,
+      "max_length": 528,
+      "avg_length": 359.04
+    },
+    "Board Examination Focus": {
+      "count": 50,
+      "total_length": 11349,
+      "min_length": 164,
+      "max_length": 391,
+      "avg_length": 226.98
+    },
+    "Diagnostic Algorithm": {
+      "count": 15,
+      "total_length": 4313,
+      "min_length": 186,
+      "max_length": 509,
+      "avg_length": 287.53333333333336
+    },
+    "Pharmacotherapy Focus": {
+      "count": 23,
+      "total_length": 6283,
+      "min_length": 160,
+      "max_length": 608,
+      "avg_length": 273.17391304347825
+    },
+    "Neuroanatomical Correlations": {
+      "count": 20,
+      "total_length": 4299,
+      "min_length": 140,
+      "max_length": 389,
+      "avg_length": 214.95
+    },
+    "Pathophysiology Breakdown": {
+      "count": 18,
+      "total_length": 3615,
+      "min_length": 126,
+      "max_length": 434,
+      "avg_length": 200.83333333333334
+    },
+    "Neuroimaging Pearls": {
+      "count": 14,
+      "total_length": 2378,
+      "min_length": 90,
+      "max_length": 301,
+      "avg_length": 169.85714285714286
+    }
+  },
+  "content_lengths": {
+    "average": 11069.546938775511,
+    "min": 8890,
+    "max": 14555
+  },
+  "timestamp": "2025-05-08T20:47:20.257776"
+}

@@ -1,0 +1,1003 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS1",
+      "question_text": "lymphocytes , normal glucose what is the most likely diagnosis.",
+      "options": {
+        "A": "P. Falciparum",
+        "B": "P. Ovale",
+        "C": "Brucella",
+        "D": "Meningitis"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS2",
+      "question_text": "he can not do daily activities. What to give.",
+      "options": {
+        "A": "Reassurance",
+        "B": "Donepezil",
+        "C": "vitamin E"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS3",
+      "question_text": "showed occipital lope spike what is the management.",
+      "options": {
+        "A": "Carbamezapine",
+        "B": "Amitriptyline"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS4",
+      "question_text": "2nd line management of trigeminal N after carbamazepine.",
+      "options": {
+        "A": "Pregabalin",
+        "B": "Lamotrigine"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS7",
+      "question_text": "Boy with seizure, uncontrolled, he is known case of bipolar, management:",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Levetiracetam",
+        "C": "Valproate",
+        "D": "Lamotrigine"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS8",
+      "question_text": "protein high, glucose normal:",
+      "options": {
+        "A": "Lyme",
+        "B": "Aspergillosis",
+        "C": "TB",
+        "D": "Pneumococcal"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS9",
+      "question_text": "without, it was non-enhancing, management.",
+      "options": {
+        "A": "PLEX",
+        "B": "HAART"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS10",
+      "question_text": "especially on gum line.",
+      "options": {
+        "A": "Repeat workup of MS",
+        "B": "Shimmer test (SJS)"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS12",
+      "question_text": "MS pt with ON, MRI showed 1 periventricular lesion",
+      "options": {
+        "A": "CIS",
+        "B": "RRMS"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS13",
+      "question_text": "Parkinson Disease case came with hallucination and forgetfulness, management.",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "clozapine"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS14",
+      "question_text": "also mentioned family history of migraine.",
+      "options": {
+        "A": "Exercise related dyskinesia",
+        "B": "Paroxysmal kinesigenic dyskinesia"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS15",
+      "question_text": "she is scared of falling, after that she can walk normally.",
+      "options": {
+        "A": "Ataxic syndrome",
+        "B": "Orthostatic Tremor"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS16",
+      "question_text": "Carpidona 100/25 6 times per day, next step of management.",
+      "options": {
+        "A": "decrease Levodopa dose",
+        "B": "Amantadine",
+        "C": "Levodopa and entacpon",
+        "D": "Pramipexole"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS17",
+      "question_text": "Most psychiatric manifestation in AD",
+      "options": {
+        "A": "Apathy",
+        "B": "Agitation",
+        "C": "Disinhibition"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS18",
+      "question_text": "questions about fragile x, read about it)",
+      "options": {
+        "A": "Inherited anti-psychiatric test",
+        "B": "metabolic test",
+        "C": "confirm or r/o fragile x syndrome"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS19",
+      "question_text": "Pt with MS what is true about MS.",
+      "options": {
+        "A": "Simultaneous bilateral ON would suggest to look for other diagnosis",
+        "B": "Incomplete recovery is typical with MS"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS20",
+      "question_text": "Familial hx of ALS, gene mutation",
+      "options": {
+        "A": "sod1",
+        "B": "c9orf"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS21",
+      "question_text": "Wilson disease most common psychiatric manifestation. (No low mood in choices).",
+      "options": {
+        "A": "Psychosis",
+        "B": "Depression",
+        "C": "Mania"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS22",
+      "question_text": "Chrea, Cognitive Decline, Behavioral changes:",
+      "options": {
+        "A": "Huntington disease"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS23",
+      "question_text": "pinprick up to mid-shin, what test would be best for diagnosis.",
+      "options": {
+        "A": "NCS",
+        "B": "MRI spine",
+        "C": "Epidermal nerve fiver density"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS24",
+      "question_text": "neuropathy. (Both pregapalin and gapapentin came in choices)",
+      "options": {
+        "A": "Pregabaline",
+        "B": "Gapapentin",
+        "C": "Amitriptyline"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS25",
+      "question_text": "Pt came with peripheral neuropathy, his symptoms provoked after minor surgery.",
+      "options": {
+        "A": "Vitamin E",
+        "B": "Cobalamine",
+        "C": "Thiamine"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS26",
+      "question_text": "pain what lab to request.",
+      "options": {
+        "A": "Porphyria",
+        "B": "Paraproteinemia"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS27",
+      "question_text": "she presented within 60 min, CT done within 30 min, BP 220/110, next step.",
+      "options": {
+        "A": "Give tpa",
+        "B": "BP management",
+        "C": "CTA",
+        "D": "Mechanical Thrombectomy"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS28",
+      "question_text": "severe intracranial right MCA stenosis.",
+      "options": {
+        "A": "ASA",
+        "B": "IV thrombolysis",
+        "C": "DAPT",
+        "D": "Stent"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS29",
+      "question_text": "Female came with hand tremor improve with alcohol, there is family history.",
+      "options": {
+        "A": "Essential",
+        "B": "Enhanced physiological tremor"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS30",
+      "question_text": "appropriate management.",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Sumatriptan",
+        "C": "Opioid"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS31",
+      "question_text": "HIV patient came to the clinic with single ring enhancing lesion in brain next.",
+      "options": {
+        "A": "CSF",
+        "B": "Start Antibiotics",
+        "C": "Toxoplasmois management"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS32",
+      "question_text": "Patient with abdominal rising sensation, deja vu, Pathophysiology.",
+      "options": {
+        "A": "Activation dentate nuclear",
+        "B": "Schaffer collateral from c3 to c1",
+        "C": "mousse fiber Sth\u2026"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS33",
+      "question_text": "Patient has partial seizure, PET showed hypometabolism perysilvin.",
+      "options": {
+        "A": "GluR3",
+        "B": "GLUT-1"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS34",
+      "question_text": "EEG of slow spike charachteristic of",
+      "options": {
+        "A": "Lennox",
+        "B": "West",
+        "C": "JME"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS35",
+      "question_text": "Pic of ribboning. what is the most likely.",
+      "options": {
+        "A": "Prion disease"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS36",
+      "question_text": "wight, most important management",
+      "options": {
+        "A": "IVIG",
+        "B": "Tight glycemic control, and care of foot",
+        "C": "Extensive physiotherapy"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS37",
+      "question_text": "Patient known case of Duchenne, first symptoms.",
+      "options": {
+        "A": "Walk on toe",
+        "B": "Loss fine movement"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS38",
+      "question_text": "Patient came with hemianopia, alexia without agraphia, location.",
+      "options": {
+        "A": "Infra sylvan temporal",
+        "B": "Supra sylvan frontal",
+        "C": "Angular"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS39",
+      "question_text": "Prosopagnosia localization",
+      "options": {
+        "A": "Occipito-temporal",
+        "B": "Occipito-parietal"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS40",
+      "question_text": "Male known case of testicular cancer came with encephalitis.",
+      "options": {
+        "A": "Ant-Ma2",
+        "B": "anti-hu",
+        "C": "anti-LG1"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS41",
+      "question_text": "most likely cause.",
+      "options": {
+        "A": "Systemtic",
+        "B": "Vascular"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS42",
+      "question_text": "MMSE Test the most covered domain.",
+      "options": {
+        "A": "Orientation",
+        "B": "Memory"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS43",
+      "question_text": "week, her symptoms came again in the same side, what is the next step.",
+      "options": {
+        "A": "Urinalysis",
+        "B": "Pulse steroid",
+        "C": "Change DMT"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS44",
+      "question_text": "Patient with figure of 4, fencing, right side nose rubbing, localization.",
+      "options": {
+        "A": "Lt temporal",
+        "B": "Rt Temporal"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS45",
+      "question_text": "Migraine without aura, most relevant clinical picture.",
+      "options": {
+        "A": "30 to 60 minute in duration",
+        "B": "Throbbing quality",
+        "C": "Bilateral location",
+        "D": "Not aggravated by daily activity"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS46",
+      "question_text": "What is true about popping nystagmus.",
+      "options": {
+        "A": "Slow downward deviation and rapid upward return of the eyes to the primary position",
+        "B": "Rapid downward deviation and slow upward return of the eyes to the primary position",
+        "C": "Rapid upward deviation and slow downward return of the eyes to the primary position"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS47",
+      "question_text": "Where is the location of popping nys in tagmus.",
+      "options": {
+        "A": "Pons",
+        "B": "Midbrain"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS48",
+      "question_text": "Case of sturge weber (hint: bort wine on face) asked about what it comes with.",
+      "options": {
+        "A": "Renal Angiofibroma",
+        "B": "Cardiac Rhabdomyosarcoma",
+        "C": "Glaucoma"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS49",
+      "question_text": "SEGA with which disease.",
+      "options": {
+        "A": "Something not related",
+        "B": "Tuberous Sclerosis"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS50",
+      "question_text": "Patient came with hand extension weakness no sensory",
+      "options": {
+        "A": "PIN",
+        "B": "Radial"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS51",
+      "question_text": "thumb and latera forearm, improved index and 3rd finger, flextion 2 nerve impaired.",
+      "options": {
+        "A": "Suprascapular/long thoracic .",
+        "B": "Axillary and lateral antebrachial. radial",
+        "C": "Musculocutaneous"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS52",
+      "question_text": "Patient came after hysterectomy, there is hip flexion, knee extension weakness.",
+      "options": {
+        "A": "Femoral",
+        "B": "obturator"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS53",
+      "question_text": "after abdominal surgery, she is on warfarin, where is the lesion.",
+      "options": {
+        "A": "Femoral at illicus",
+        "B": "Femoral at psoas"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS54",
+      "question_text": "Thalamotomy in PD will improve.",
+      "options": {
+        "A": "Tremor",
+        "B": "Bradykinesia"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS55",
+      "question_text": "Most common side effect of lithium:",
+      "options": {
+        "A": "Tremor"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS56",
+      "question_text": "Patient came with blurry vision, ataxia, ophthalmoplegia.",
+      "options": {
+        "A": "SCA3",
+        "B": "Ataxia with ocular apraxia",
+        "C": "Laber"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS57",
+      "question_text": "Lady on OCP came with seizure, headache, CT normal, next.",
+      "options": {
+        "A": "LP",
+        "B": "EEG",
+        "C": "CTV"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS58",
+      "question_text": "thrombosis, what is true.",
+      "options": {
+        "A": "She has clear cause and no need workup",
+        "B": "Do thrombophilia workup"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS59",
+      "question_text": "tell the patient.",
+      "options": {
+        "A": "He is not at risk at all since he underwent 3 procedures without complication",
+        "B": "Still he has the risk",
+        "C": "He is at high risk"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "fields": {
+      "question_number": "KS60",
+      "question_text": "Patient known case of Myotonic Dystrophy came with shoulder pain management",
+      "options": {
+        "A": "Melxiten for pain",
+        "B": "Amantadine"
+      },
+      "correct_answer": "",
+      "subspecialty": "Other_Unclassified",
+      "source_file": "KSMC Revision 2024",
+      "exam_type": "Part I",
+      "exam_year": 2024,
+      "explanation": ""
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 57725765,
+    "fields": {
+      "question_number": "Q18",
+      "question_text": "A patient presented to the ER with vertigo and vomiting. What is the feature that can differentiate peripheral from central causes of vertigo?",
+      "options": {
+        "A": "Severe nausea and vomiting (Peripheral)",
+        "B": "Reproducible vertigo (Central absent latency and non-fatigable)",
+        "C": "Direction-changing nystagmus",
+        "D": "Hearing loss associated with vertigo"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Directly tests the core neuro-otological skill of differentiating central versus peripheral vertigo based on clinical features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40455384,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "In a case of central vertigo, which of the following is true?",
+      "options": {
+        "A": "No latency",
+        "B": "Severe",
+        "C": "Direction-changing nystagmus",
+        "D": "Non-fatigable nystagmus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Assesses knowledge of the specific characteristics (like lack of latency in nystagmus) that define central vertigo, a key concept in neuro-otology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 14434008,
+    "fields": {
+      "question_number": "Q99",
+      "question_text": "A patient has vertical and torsional nystagmus. What is the localization?",
+      "options": {
+        "A": "Interstitial nucleus of Cajal",
+        "B": "Inferior olive",
+        "C": "Medial longitudinal fasciculus",
+        "D": "Vestibular nuclei"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-otology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Connects specific nystagmus characteristics (vertical, torsional), indicative of central vestibular pathway dysfunction, to their precise neuroanatomical location (Interstitial Nucleus of Cajal), integrating clinical signs with functional neuroanatomy relevant to balance."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50150653,
+    "fields": {
+      "question_number": "Q148",
+      "question_text": "A young patient is complaining of hearing impairment. She has ataxia, dizziness, and nystagmus. Her sister has dizziness and depression, and the head impulse test is normal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Meniere disease",
+        "B": "Episodic ataxia type 2",
+        "C": "Perilymph fistula",
+        "D": "BPPV"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on diagnosing a condition (Episodic Ataxia Type 2) presenting with prominent episodic vestibular symptoms (dizziness, nystagmus), hearing impairment, and ataxia, requiring differentiation from other primary vestibular disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89794851,
+    "fields": {
+      "question_number": "Q180",
+      "question_text": "A 45-year-old female presented with visual blurring and is diagnosed with Brun's nystagmus... The large-amplitude nystagmus is caused by compression of which structure?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Ipsilateral vestibular system",
+        "C": "Midbrain",
+        "D": "Pons"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Deals with Brun's nystagmus, a specific sign resulting from combined peripheral vestibular and cerebellar pathway dysfunction (often due to CPA lesions), linking specific eye movement patterns to underlying pathology affecting balance systems."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85114705,
+    "fields": {
+      "question_number": "Q246",
+      "question_text": "A patient with benign paroxysmal positional vertigo (BPPV), what is the management?",
+      "options": {
+        "A": "Epley maneuver",
+        "B": "Vestibular suppressant medications",
+        "C": "Surgical removal of otoliths",
+        "D": "High-dose corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Directly addresses the specific treatment (Epley maneuver) for BPPV, a common peripheral vestibular disorder central to neuro-otology practice."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93348930,
+    "fields": {
+      "question_number": "Q294",
+      "question_text": "Central nystagmus vs peripheral nystagmus will exhibit which of the following characteristics?",
+      "options": {
+        "A": "Torsional horizontal",
+        "B": "Absent latency",
+        "C": "Fatigability with fixation",
+        "D": "Direction-changing nystagmus"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Assesses the ability to distinguish central from peripheral nystagmus based on clinical characteristics like latency, fundamental to neuro-otological diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83910568,
+    "fields": {
+      "question_number": "Q364",
+      "question_text": "Which of the following structures is most likely to be abnormal on VRE in a patient with oscillopsia?",
+      "options": {
+        "A": "Left inferior cerebellar peduncle",
+        "B": "Left inferior olive",
+        "C": "Optic chiasm",
+        "D": "Right brachium conjunctivum"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the specific central neuroanatomical structures involved in the vestibulo-ocular pathways whose dysfunction leads to oscillopsia, a key symptom in neuro-otology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 71279395,
+    "fields": {
+      "question_number": "Q400",
+      "question_text": "What supports central nystagmus rather than peripheral nystagmus?",
+      "options": {
+        "A": "Absence of latency",
+        "B": "Severe nausea and vomiting",
+        "C": "Disappearance and loss with visual fixation",
+        "D": "Direction-changing nystagmus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-otology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying clinical characteristics (absence of latency, failure to suppress with fixation) specific to central nystagmus, aiding in the differentiation crucial for neuro-otological assessment."
+    }
+  }
+]

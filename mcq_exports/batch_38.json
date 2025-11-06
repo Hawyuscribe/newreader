@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q227",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease and excessive sleep with motor fluctuations is experiencing difficulties. What medication should be considered?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "What is the treatment for a patient with Parkinson's Disease (PD) who has features of Restless Legs Syndrome (RLS)?",
+    "options": {
+      "A": "Dopamine agonist",
+      "B": "Iron supplementation",
+      "C": "Benzodiazepines",
+      "D": "Opioids"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "In a case scenario of hemiballismus, what is the localization?",
+    "options": {
+      "A": "Subthalamic nucleus (STN)",
+      "B": "Globus pallidus",
+      "C": "Caudate nucleus",
+      "D": "Putamen"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "In a case of familial Parkinson disease, which gene is associated with autosomal dominant inheritance and is one of the most common causes of familial Parkinson's disease?",
+    "options": {
+      "A": "PARK1 (\u03b1-synuclein)",
+      "B": "PARK2 (Parkin)",
+      "C": "LRRK2 (PARK8)",
+      "D": "DJ-1"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "For a patient with rubral tremor associated with multiple sclerosis, what is the recommended treatment?",
+    "options": {
+      "A": "Levodopa",
+      "B": "Botox",
+      "C": "Clonazepam",
+      "D": "Surgical treatment"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q287",
+    "question_text": "Which is a Tauopathy?",
+    "options": {
+      "A": "MSA",
+      "B": "PSP",
+      "C": "DLB",
+      "D": "CBD"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged lady presents with problems with attention, tremor, and progressive ataxia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "What will confirm the diagnosis of Wilson's disease?",
+    "options": {
+      "A": "Liver biopsy",
+      "B": "Genetic testing",
+      "C": "Serum ceruloplasmin levels",
+      "D": "24-hour urinary copper excretion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "In a scenario suggestive of Wilson's disease with Kayser-Fleischer ring and MRI features, what is the next step to confirm the diagnosis?",
+    "options": {
+      "A": "Liver biopsy",
+      "B": "Genetic test",
+      "C": "Ceruloplasmin level",
+      "D": "MRI follow-up"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "For a patient with dyt11, what is the first-line treatment if the condition improves with alcohol?",
+    "options": {
+      "A": "Clonazepam",
+      "B": "Zonisamide",
+      "C": "Trihexyphenidyl",
+      "D": "Levodopa"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male patient has a history of cognitive impairment for 6 months, accompanied by depression and abnormal movements. His father died at the age of 60 with a history suggestive of Huntington's disease. What is the gene associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "",
+    "options": {
+      "A": "9-year-old girl with a known case of developmental delay has a history of 10 months of abnormal postures and twitching of limbs with diurnal events. Genetic testing shows a mutation in the GCH1 gene. What is the proper treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "",
+    "options": {
+      "A": "34-year-old female is brought in by her family due to a history of abnormal movements of her hands and legs, as well as difficulty eating due to sustained contractions of her mouth. Her father had a similar history and died early. On examination, she is found to have orolingual dystonia. What should be done next to reach a diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q175",
+    "question_text": "",
+    "options": {
+      "A": "pediatric patient had mental retardation, tremor, and ataxia; his sister had ovarian insufficiency. What is the typical imaging finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q190",
+    "question_text": "",
+    "options": {
+      "A": "case of Huntington's disease shows CT brain imaging with head of caudate atrophy. What is the expected number of CAG repeats in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "",
+    "options": {
+      "A": "Peripheral blood film for acanthocytes",
+      "B": "Htt gene",
+      "C": "Slit lamp examination",
+      "D": "Serum ceruloplasmin"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "",
+    "options": {
+      "A": "child presented with dystonia and Parkinsonism. Brain MRI reported bilateral hyperintensity in the basal ganglia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "Hallervorden-Spatz syndrome is associated with which gene?",
+    "options": {
+      "A": "PKAN-1",
+      "B": "PANK2",
+      "C": "ATP7B",
+      "D": "SLC6A3"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "young lady with dystonia, chorea, and depression has a Brain MRI that shows caudate atrophy. What will likely be the cause on genetic test? (Case of Huntington disease)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "ASO titer",
+      "B": "MRI brain",
+      "C": "Serum ceruloplasmin",
+      "D": "EEG"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "",
+    "options": {
+      "A": "case presents with ataxia, slow saccades, and optic atrophy. Which type of spinocerebellar ataxia is most likely indicated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "patient came with ataxia, optic atrophy, hearing loss, and slow saccades; what is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "",
+    "options": {
+      "A": "75-year-old patient with progressive cognitive decline, chorea, and ataxia has no children, and his father died at age 65. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "patient with features of Friedreich Ataxia is asked about the associated gene. What is the gene involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with muscle weakness, optic atrophy, hearing loss, and a family history of a similar condition. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

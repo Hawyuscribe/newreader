@@ -1,0 +1,57 @@
+/* Custom CKEditor styles */
+
+/* Style the Copy Formatting button */
+.cke_button__copyformatting_icon {
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M2%202v3h3v-3h-3zm0%201h2v1h-2v-1zm4-1v3h3v-3h-3zm0%201h2v1h-2v-1zm4-1v3h3v-3h-3zm0%201h2v1h-2v-1zm-8%203v3h3v-3h-3zm0%201h2v1h-2v-1zm4-1v3h3v-3h-3zm0%201h2v1h-2v-1zm4-1v3h3v-3h-3zm0%201h2v1h-2v-1zm-8%203v3h3v-3h-3zm0%201h2v1h-2v-1zm4-1v3h3v-3h-3zm0%201h2v1h-2v-1zm4-1v3h3v-3h-3zm0%201h2v1h-2v-1z%22%20fill%3D%22%23000%22%2F%3E%3C%2Fsvg%3E) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: 16px 16px !important;
+}
+
+/* Highlight the Copy Formatting button when active */
+.cke_button__copyformatting.cke_button_on {
+    background-color: #cfe2f3 !important;
+    border-color: #6c9bd2 !important;
+}
+
+/* Add tooltip for Copy Formatting */
+.cke_button__copyformatting::after {
+    content: "Copy Format (Ctrl+Shift+C)";
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.2s;
+    pointer-events: none;
+}
+
+.cke_button__copyformatting:hover::after {
+    opacity: 1;
+}
+
+/* Add visual feedback when format is copied */
+.cke_button__copyformatting.cke_button_on .cke_button_icon {
+    filter: brightness(0.8) contrast(1.2);
+}
+
+/* Add a custom cursor when applying format */
+body.cke_editable.copyformatting_active {
+    cursor: crosshair !important;
+}
+
+/* Style the notification messages */
+.cke_notification_copyformatting {
+    background-color: #4caf50 !important;
+    color: white !important;
+}
+
+.cke_notification_copyformatting.cke_notification_warning {
+    background-color: #ff9800 !important;
+}

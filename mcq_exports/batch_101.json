@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q180",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female presented with visual blurring and is diagnosed with Brun's nystagmus. Brun's nystagmus is characterized by low-frequency, large-amplitude horizontal nystagmus when looking toward the side of the lesion, and high-frequency, small-amplitude nystagmus when looking away from the lesion. The large-amplitude nystagmus is caused by compression of which structure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q352",
+    "question_text": "What is the artery associated with a left sectoranopia sparing the horizontal meridian?",
+    "options": {
+      "A": "MCA",
+      "B": "Anterior choroidal artery",
+      "C": "Lateral posterior choroidal artery",
+      "D": "Posterior cerebral artery"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q268",
+    "question_text": "",
+    "options": {
+      "A": "patient with subarachnoid hemorrhage (SAH) complains of visual issues, and examination shows retinal problems (Terson syndrome). Where is the issue for vision?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q279",
+    "question_text": "",
+    "options": {
+      "A": "patient came with right optic atrophy and left papilledema. Where is the localization of the mass?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "In a scenario of idiopathic intracranial hypertension, what can you see on brain MRI?",
+    "options": {
+      "A": "Empty Sella",
+      "B": "Hydrocephalus",
+      "C": "Cerebral edema",
+      "D": "Tumor"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient is worse when he looks down to the left, with intact horizontal gaze and no other neurological symptoms. What is the localization of the issue?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "",
+    "options": {
+      "A": "patient with right relative afferent pupillary defect (RAPD) and right homonymous hemianopia; where is the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "patient had optic neuritis in the right eye. What is the finding in the visual potential test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "young male with Kearns-Sayre syndrome presents with weakness and progressive ophthalmoparesis, with no family history. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "case about a male with external ophthalmoplegia and ptosis, with onset before he was 10 years old. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "",
+    "options": {
+      "A": "young adult has progressive bilateral painless decrease in visual acuity over 2-3 years. His brother had similar symptoms a few years ago. What should be tested in this patient? (Case of Leber\u2019s disease)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "Patient came with Leber optic neuropathy; what is your next step?",
+    "options": {
+      "A": "ECG",
+      "B": "Visual field testing",
+      "C": "Genetic testing for mitochondrial DNA mutations",
+      "D": "Start corticosteroid therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "Which of the following infections can cause internuclear ophthalmoplegia (INO)?",
+    "options": {
+      "A": "Tuberculosis (TB)",
+      "B": "Human Immunodeficiency Virus (HIV)",
+      "C": "Cysticercosis",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "",
+    "options": {
+      "A": "73-year-old male presented with severe temporal-sided headache associated with jaw claudication and visual acuity reduced bilaterally. What vessel is likely affected in this typical scenario for Giant Cell Arteritis (GCA)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "Where is the location of popping nystagmus?",
+    "options": {
+      "A": "Pons",
+      "B": "Midbrain",
+      "C": "Medulla",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q194",
+    "question_text": "",
+    "options": {
+      "A": "Central scotoma",
+      "B": "Monocular vision loss",
+      "C": "Bitemporal hemianopia",
+      "D": "Contralateral homonymous hemianopia"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "Which condition is improved with acetylcholinesterase inhibitors?",
+    "options": {
+      "A": "Apathy",
+      "B": "Disinhibition",
+      "C": "Hallucinations",
+      "D": "Delusions"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "What is the most common psychiatric manifestation of Wilson's disease?",
+    "options": {
+      "A": "Psychosis",
+      "B": "Depression",
+      "C": "Mania",
+      "D": "Anxiety"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "Which antipsychotic medication has the highest risk of weight gain?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Haloperidol",
+      "C": "Quetiapine",
+      "D": "Clozapine"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "patient with behavioral changes is sent to psychiatry initially and then to neurology. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "delirious patient presents to the emergency department. What is your next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "Anxiety most commonly complicates which of the following diseases?",
+    "options": {
+      "A": "Frontotemporal Dementia (FTD)",
+      "B": "Alzheimer's Disease (AD)",
+      "C": "Parkinson\u2019s Disease",
+      "D": "Huntington's Disease"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "Which of the following antipsychotic medications causes the most weight gain?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Clozapine",
+      "C": "Risperidone",
+      "D": "Quetiapine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "In Alzheimer's disease, which antipsychotic medication is known to increase weight?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Quetiapine",
+      "C": "Haloperidol",
+      "D": "Olanzapine"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "In a case of Gerstmann syndrome, what is the associated language deficit?",
+    "options": {
+      "A": "Anomia",
+      "B": "Wernicke's aphasia",
+      "C": "Transcortical motor aphasia",
+      "D": "Broca's aphasia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuropsychiatry",
+    "explanation": ""
+  }
+]

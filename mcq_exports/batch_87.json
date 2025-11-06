@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q201",
+    "question_text": "What is the most common deficit that occurs post elbow joint trauma?",
+    "options": {
+      "A": "Wrist drop",
+      "B": "Claw hand",
+      "C": "Cheralgia Paraesthetica",
+      "D": "Volkmann\u2019s ischemic contracture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "In the same previous scenario, with a lesion distal to a nerve root, what is most useful in localization?",
+    "options": {
+      "A": "Decreased sensory nerve amplitude in the superficial peroneal nerve supplied area",
+      "B": "Impaired NCS parameter in common peroneal supplied muscle",
+      "C": "Impaired parameter for tibial innervated muscle",
+      "D": "Normal sensory nerve action potentials in the sural nerve"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q300",
+    "question_text": "",
+    "options": {
+      "A": "patient has myotonia symptoms since age 10 for 5 years. The father had myotonia, and there is no mention of weakness. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "In a dysferlinopathy scenario, which condition is indicated by gastrocnemius muscle atrophy?",
+    "options": {
+      "A": "Dysferlinopathy",
+      "B": "Duchenne muscular dystrophy",
+      "C": "Becker muscular dystrophy",
+      "D": "Facioscapulohumeral muscular dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q250",
+    "question_text": "Which of the following is NOT included in the Guillain-Barr\u00e9 syndrome (GBS) spectrum?",
+    "options": {
+      "A": "Bilateral facial palsy with paraesthesias",
+      "B": "Pure sensory variant",
+      "C": "Miller Fisher syndrome",
+      "D": "Myasthenia gravis"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q469",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with episodic weakness that worsens while eating tomatoes and bananas. What ion channel is likely involved in this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with lung cancer and treated for it presents with left hand weakness and numbness. CT of the neck and chest is unremarkable. Nerve conduction studies (NCS) show reduced sensory nerve action potential (SNAP) and compound muscle action potential (CMAP) in the distal ulnar, radial, and median distribution. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q465",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypertension and bulbar weakness presents with generalized weakness. What is the likely antibody involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q158",
+    "question_text": "",
+    "options": {
+      "A": "patient who recently underwent right femoral replacement surgery has weakness in hip adductors and slight hip flexor weakness. Where is the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "In Hyperkalemic Periodic Paralysis, the degree of paralysis is usually described as:",
+    "options": {
+      "A": "Mild",
+      "B": "Severe",
+      "C": "Occasionally severe",
+      "D": "Variable severity"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "In Hereditary Neuropathy with Liability to Pressure Palsies (HNPP), which nerve is most commonly affected?",
+    "options": {
+      "A": "Median nerve",
+      "B": "Ulnar nerve",
+      "C": "Fibular nerve",
+      "D": "Radial nerve"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q258",
+    "question_text": "",
+    "options": {
+      "A": "case of hypokalemic periodic paralysis is presented. What is the most helpful diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "What is the most common subtype of acetylcholine receptor (AchR) antibody?",
+    "options": {
+      "A": "Binding",
+      "B": "Modulating",
+      "C": "Blocking",
+      "D": "Neutralizing"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q558",
+    "question_text": "",
+    "options": {
+      "A": "Filipino man who did intense exercise then developed generalized weakness with an intact level of consciousness. What is the most useful test to send for?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old male with proximal upper and lower limb weakness associated with tremors and tongue atrophy and fasciculation. Labs reported elevated creatine kinase levels. What else is associated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q427",
+    "question_text": "",
+    "options": {
+      "A": "scenario is suggestive of amyloidosis with autonomic symptoms, lower limb pain, and carpal tunnel syndrome. Which test will confirm the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q516",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with proximal weakness and there is no history of statin use. A pathology slide is provided for analysis. Which of the following conditions could be indicated by the findings?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q545",
+    "question_text": "In a patient with AIDP, what cerebrospinal fluid (CSF) finding is expected?",
+    "options": {
+      "A": "Elevated protein with normal cell count",
+      "B": "Normal protein levels",
+      "C": "Increased white blood cell count",
+      "D": "Presence of red blood cells"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q198",
+    "question_text": "An 18-year-old patient presented with progressive limb weakness. On examination, he has normal facial muscle strength, bilateral weakness on shoulder abduction with scapular winging, and hip extension weakness. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Caveolin-3 related.",
+      "B": "Calpain-3 related.",
+      "C": "Fascioscapulohumeral muscular dystrophy.",
+      "D": "Scapuloperoneal muscular dystrophy."
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with upper limb numbness and pinprick sensation around the shoulder. The preserved position sense and weakness suggest which diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "In a vague scenario going with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) in an elderly female with neuropathy and paraproteinemia, what is the recommended treatment?",
+    "options": {
+      "A": "Monthly IVIg",
+      "B": "Periodic plasma exchange",
+      "C": "Prednisolone",
+      "D": "Azathioprine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "young patient with distal myopathy (posterior calf) has a high CK level of 7000. Which of the following conditions could be the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with weakness in hand flexors and quadriceps femoris. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "What is the typical age demographic affected by Multifocal Motor Neuropathy (MMN)?",
+    "options": {
+      "A": "Children under 12",
+      "B": "Young adults, with 2/3 being 45 years or less",
+      "C": "Elderly individuals over 65",
+      "D": "Middle-aged adults, ages 45-65"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old woman with breast cancer is treated with radiation therapy to the left axilla for lymph node metastases. A year later, she notes the gradual onset of numbness in the left hand extending proximally in the arm, followed by loss of muscle bulk in the arm. Examination shows weakness and sensory loss primarily in a C6-C7 distribution. Which of the following findings is more likely to suggest a radiation-induced problem than recurrent tumor in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "total_mcqs_analyzed": 3044,
+  "mcqs_missing_year": 38,
+  "mcqs_missing_exam_type": 0,
+  "mcqs_updated_year": 38,
+  "mcqs_updated_exam_type": 0,
+  "mcqs_with_matches": 22,
+  "mcqs_with_default_year": 38,
+  "mcqs_with_default_exam_type": 0,
+  "by_subspecialty": {
+    "Neuroimmunology": {
+      "missing_year": 38,
+      "missing_exam_type": 0,
+      "updated_year": 38,
+      "updated_exam_type": 0,
+      "with_matches": 22,
+      "with_default_year": 38,
+      "with_default_exam_type": 0
+    }
+  },
+  "by_year": {
+    "2019": 38
+  },
+  "by_exam_type": {}
+}

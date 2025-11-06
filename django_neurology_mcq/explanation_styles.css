@@ -1,0 +1,63 @@
+/* Add these styles to your existing CSS */
+
+/* Explanation sections styling */
+.explanation-section {
+    border-left: 3px solid #e9ecef;
+    padding-left: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.explanation-section:hover {
+    border-left-color: #007bff;
+}
+
+.section-header {
+    border-bottom: 2px solid #f8f9fa;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.section-content {
+    color: #495057;
+    line-height: 1.8;
+}
+
+/* Clinical pearls special styling */
+.clinical-pearls {
+    background-color: #fff9e6;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid #ffc107;
+}
+
+.clinical-pearls strong {
+    color: #856404;
+}
+
+/* Option analysis styling */
+.option-analysis-item {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color: #f8f9fa;
+    border-radius: 0.25rem;
+}
+
+/* Evidence section styling */
+.current-evidence ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.current-evidence li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 0.5rem;
+}
+
+.current-evidence li:before {
+    content: "•";
+    color: #17a2b8;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}

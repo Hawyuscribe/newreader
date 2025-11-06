@@ -1,0 +1,36 @@
+[
+  {
+    "question_number": "TEST001",
+    "question": "A 45-year-old woman presents with sudden onset of severe headache, neck stiffness, and photophobia. CT scan shows blood in the subarachnoid space. What is the most likely diagnosis?",
+    "options": [
+      "Migraine",
+      "Subarachnoid hemorrhage",
+      "Meningitis",
+      "Tension headache"
+    ],
+    "correct_answer": "B",
+    "correct_answer_text": "Subarachnoid hemorrhage",
+    "subspecialty": "Vascular Neurology / Stroke",
+    "exam_type": "Sample",
+    "exam_year": "2025",
+    "unified_explanation": "The clinical presentation of sudden severe headache ('thunderclap headache'), neck stiffness, and photophobia, combined with CT evidence of blood in the subarachnoid space, is diagnostic of subarachnoid hemorrhage. This is a medical emergency requiring immediate neurosurgical consultation.",
+    "ai_generated": false
+  },
+  {
+    "question_number": "TEST002",
+    "question": "Which medication is the first-line treatment for absence seizures in children?",
+    "options": [
+      "Phenytoin",
+      "Carbamazepine",
+      "Ethosuximide",
+      "Levetiracetam"
+    ],
+    "correct_answer": "C",
+    "correct_answer_text": "Ethosuximide",
+    "subspecialty": "Epilepsy",
+    "exam_type": "Sample",
+    "exam_year": "2025",
+    "unified_explanation": "Ethosuximide is the first-line treatment for absence seizures (petit mal) in children. It specifically targets T-type calcium channels and is highly effective for absence seizures. Valproic acid is an alternative first-line option, while phenytoin and carbamazepine may worsen absence seizures.",
+    "ai_generated": false
+  }
+]

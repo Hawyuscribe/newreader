@@ -1,0 +1,381 @@
+[
+  {
+    "question_number": "Q155",
+    "question_text": "",
+    "options": {
+      "A": "patient was not able to read his handwriting. Which artery is most likely involved in this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "DAPT",
+      "B": "IV TPa",
+      "C": "Single antiplatelets",
+      "D": "Mechanical thrombectomy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q185",
+    "question_text": "",
+    "options": {
+      "A": "Decompressive craniotomy improves functional outcomes but disability persists among survivors.",
+      "B": "Decompressive craniotomy is not associated with survival benefit in any age group.",
+      "C": "Decompressive craniotomy outcomes are improved when done more than 72 hours from stroke onset.",
+      "D": "Older patients (more than 60 years of age) have better outcomes after decompressive craniotomy than younger patients."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "Decrease blood pressure",
+      "B": "Stop tPA",
+      "C": "Send him for a CT scan",
+      "D": "Administer IV fluids"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "Primary prevention",
+      "B": "Secondary prevention",
+      "C": "Tertiary prevention",
+      "D": "Quaternary prevention"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q237",
+    "question_text": "",
+    "options": {
+      "A": "IV tPA",
+      "B": "IV tPA followed by thrombectomy",
+      "C": "Observation",
+      "D": "Intravenous fluids"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "",
+    "options": {
+      "A": "70-something female with diabetes mellitus and hypertension, fully independent, presents with a 90-minute onset of dense right hemiparesis and aphasia. A CT brain scan performed 30 minutes after arrival shows no hemorrhage. As her symptoms slightly improved on the way to the ER, what should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "Bridging veins",
+      "B": "Middle meningeal artery",
+      "C": "Cortical artery",
+      "D": "Venous sinus thrombosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "Single antiplatelet therapy",
+      "B": "Dual antiplatelet therapy",
+      "C": "Anticoagulation",
+      "D": "No treatment"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "Anterior cerebral artery",
+      "B": "Middle cerebral artery",
+      "C": "Posterior cerebral artery",
+      "D": "Basilar artery"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "",
+    "options": {
+      "A": "patient with stroke is receiving physiotherapy and speech therapy. What is the type of prevention being implemented?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q275",
+    "question_text": "",
+    "options": {
+      "A": "patient with an Acom aneurysm, what is the most important risk factor for rupture?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "Base of midbrain",
+      "B": "Tegmentum",
+      "C": "Tectum",
+      "D": "Pons"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q293",
+    "question_text": "In a case of livedo reticularis and strokes in the MCA territory, what is the diagnosis to rule out a cardioembolic cause?",
+    "options": {
+      "A": "Sneddon syndrome",
+      "B": "Antiphospholipid antibody syndrome",
+      "C": "Moyamoya disease",
+      "D": "Takayasu arteritis"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q232",
+    "question_text": "",
+    "options": {
+      "A": "ECHO",
+      "B": "CT scan",
+      "C": "MRI",
+      "D": "Carotid ultrasound"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "Aggressive reduction of BP",
+      "B": "Acute lowering of SBP to 140 mmHg",
+      "C": "No treatment required",
+      "D": "Gradual reduction of SBP over 24 hours"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "",
+    "options": {
+      "A": "Reassurance",
+      "B": "Neck CT angiography",
+      "C": "Echocardiogram",
+      "D": "Thrombolytic screening"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "CTV",
+      "B": "MRI",
+      "C": "CT scan",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient presented within the treatment window with a glucose level of 300, platelet count of 45,000, and blood pressure of 170/90. What is the contraindication for administering IV tPA?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q159",
+    "question_text": "An 82-year-old patient, medically free, presents with acute right-side weakness and global aphasia for 3 hours. His blood pressure is 180/100 mmHg, and his CT scan shows no hemorrhage with good ASPECT scores. What is your next step in management?",
+    "options": {
+      "A": "Reduce BP",
+      "B": "IV thrombolytic",
+      "C": "CTA",
+      "D": "Admit for supportive care and monitor"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q223",
+    "question_text": "",
+    "options": {
+      "A": "patient with perimesencephalic subarachnoid hemorrhage (SAH) has undergone two normal angiograms. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "Scenario of a patient with symptomatic ICA stenosis. He underwent carotid endarterectomy, and a few days later developed new onset confusion and decreased level of consciousness. An urgent brain CT was attached. What could explain his current condition?",
+    "options": {
+      "A": "Malignant MCA transformation",
+      "B": "Cerebral venous thrombosis",
+      "C": "Hyperperfusion",
+      "D": "Postoperative cerebral embolism"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q221",
+    "question_text": "",
+    "options": {
+      "A": "patient with acute stroke on dabigatran for atrial fibrillation underwent thrombectomy and developed hemorrhage over the MCA territory. What should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "Which factors increase the risk for aneurysm rupture?",
+    "options": {
+      "A": "Size and location of the aneurysm",
+      "B": "Age of the patient",
+      "C": "Family history of aneurysms",
+      "D": "Previous history of stroke"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "Scenario of a 65-year-old male with multiple cardiovascular risk factors and atrial fibrillation, with a 1-day history of right-sided dense plegia and aphasia. His brain CT was attached. His clinical status doesn't change. What is the best treatment option to consider?",
+    "options": {
+      "A": "Anticoagulation",
+      "B": "Osmotic therapy",
+      "C": "Craniotomy/decompression",
+      "D": "Aspirin"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

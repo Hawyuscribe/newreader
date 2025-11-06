@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "What to expect from O.A. infarction",
+    "options": {
+      "option_a": "Ipsilateral Horner",
+      "option_b": "Ipsilateral hearing loss",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "45 YO female came with SAH and found to have P-chom aneurysm what's next",
+    "options": {
+      "option_a": "Endovascular coiling",
+      "option_b": "Surgical clipping",
+      "option_c": "Observation",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Clear scenario of anterior choroidal artery infarction, they brought VF suggestive of it",
+    "options": {
+      "option_a": "anterior choroidal artery infarction",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Stroke all stroke workups mentioned except CTA asked what to do next",
+    "options": {
+      "option_a": "(CTA): Correct",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario patient feeling unwell, then start seeing animals after which he had decreased LOC intubated, decerebrate posturing CT brain attached showed hyperdense basilar sign otherwise no clear ischemic changes what to do next",
+    "options": {
+      "option_a": "(CTA) is correct because after seeing the hyperdense basilar sign, CTA is the appropriate next diagnostic step to determine the exact location and extent of the occlusion. Option B (EEG) is incorrect because EEG evaluates electrical brain activity and is not useful in diagnosing vascular occlusions.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Rt small thalamic hemorrhage since one day, BP normal, pic attached no hydro or ventricular extension what to do next",
+    "options": {
+      "option_a": "(Prophylactic LMWH) is correct and is supported by current guidelines for preventing thromboembolic complications in patients with stable intracerebral hemorrhage. Option B (EVD) is incorrect because external ventricular drainage is reserved for cases with significant hydrocephalus or intraventricular hemorrhage, which is not present in this case.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Male with progressive myelopathy attached image clearly showing slow void, and long cord signal changes, dx",
+    "options": {
+      "option_a": "(DAVF) is correct because the clinical presentation of a progressive myelopathy combined with the specific MRI findings (slow flow voids and long cord signal abnormalities) strongly supports a diagnosis of spinal dural arteriovenous fistula. Other options such as multiple sclerosis, transverse myelitis, or neoplasm lack the combination of flow voids and progressive cord changes seen in DAVF.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Male with renal impairment, stroke, angiokeratoma pic asking about enzyme supp",
+    "options": {
+      "option_a": ", which corresponds to enzyme replacement with alpha",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "14 years old boy with intense lancinating pain in feet. His 16 years old sister has same but milder symptoms. There is positive history of strokes in his maternal grandfather before age of 50. On examination; \u2193 pain sensation distally. His lower trunk evident for abnormal skin lesions as attached. What is the best test to reach diagnosis?",
+    "options": {
+      "option_a": "\u03b1-Galactosidase activity",
+      "option_b": "Transferritine",
+      "option_c": "VLCFA",
+      "option_d": "PME22 gene",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario typical for homocystinemia; thin tall patient with lens dislocation, slowly progressive cognitive delay. What is the best supplement to risk of further neurological symptoms and stroke?",
+    "options": {
+      "option_a": "Vitamin B6",
+      "option_b": "Folate",
+      "option_c": "Cobalamine",
+      "option_d": "Something unrelated",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Long scenario deafness visual issues myoclonus, and also came with stroke MERF. WHAT you will do??",
+    "options": {
+      "option_a": "NOTCH 3",
+      "option_b": "Measure pyruvate / lactate",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A 66-year-old male patient presented with dysarthria and right sided weakness for 10 hours. CT brain done and showed acute ischemic change over the the left internal capsule (No attached image).\n\nWhich of the following is the next step in the management?",
+    "options": {
+      "option_a": "Aspirin",
+      "option_b": "Dual antiplatelets",
+      "option_c": "IV Labetalol",
+      "option_d": "IV Nitroprusside",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A 60s-year-old male presented to the ER with 2 days history of unilateral weakness and dysarthria. On examination, BP 170/90, HR 80s. What is the next step in the management?",
+    "options": {
+      "option_a": "IV labetalol",
+      "option_b": "IV nitroprusside",
+      "option_c": "Observation",
+      "option_d": "Resume home medications",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "An elderly male presented to the ER with right sided weakness aphasia, Examination showed BP 220/120, HR 90s, patient was drowsy, aphasic, with right sided weakness NIHSS high (not sure about the number). What is the next step in management?",
+    "options": {
+      "option_a": "CT brain",
+      "option_b": "Control Blood pressure",
+      "option_c": "IV thrombolysis",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female patient with ESRD on regular hemodialysis complaining of recurrent TIAs last for less than 10 minutes inform of left sided weakness and dysarthria then resolved completely. These symptoms occur during the dialysis sessions. CT brain done and showed evidence of old ischemic stroke. Carotid US done and showed left ICA atherosclerotic changes with no visualized stenosis or occlusion.\nWhich of the following is important to order during evaluation of this patient?",
+    "options": {
+      "option_a": "CT angiography",
+      "option_b": "MRI brain",
+      "option_c": "CT Venogram",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female patient came with ischemic stroke, history of previous 2 abortions, elevated prothrombin time. What is the most helpful investigation in her case?",
+    "options": {
+      "option_a": "Anti phospholipid syndrome",
+      "option_b": "Prothrombin Gene Mutation",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A 30-year-old healthy women presented with 10 days history of severe headache, blurred vision and new onset symptomatic seizure. Neurological examination was unremarkable. Vitaly stable.\n\nCT brain done (image attached).\n\nWhich of the following is the best diagnostic test?",
+    "options": {
+      "option_a": "MRI brain",
+      "option_b": "CT angiogram.",
+      "option_c": "CT venogram",
+      "option_d": "Lumbar puncture",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient presented with acute limb weakness and dysarthria. CT brain done and was normal. He was within the window and IV t-PA started. 20 minutes later the primary nurse called the physician as the patient has abnormal swelling around the mouth (imaged attached). Blood pressure was normal.\n\nWhich of the following is the most likely associated risk factor for this condition?",
+    "options": {
+      "option_a": "Frontal lobe stroke",
+      "option_b": "ACE inhibitor",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient presented with acute limb weakness and dysarthria. CT brain done and was normal. He was within the window and IV t-PA started. 20 minutes later the primary nurse called the physician as the patient has abnormal swelling around the mouth (imaged attached). Blood pressure was normal.\n\nWhich of the following is the appropriate next step?",
+    "options": {
+      "option_a": "Stop t-PA",
+      "option_b": "Diphenhydramine",
+      "option_c": "Immediate intubation",
+      "option_d": "CT brain",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient presented to the ER with vertigo and vomiting, What is the feature that can differentiate peripheral from central cause of vertigo?",
+    "options": {
+      "option_a": "Severe nausea and vomiting",
+      "option_b": "Reproducible vertigo",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part I"
+  }
+]

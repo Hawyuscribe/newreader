@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q68",
+    "question_text": "In the same scenario of mucormycosis, what is the recommended treatment?",
+    "options": {
+      "A": "Fluconazole",
+      "B": "Amphotericin",
+      "C": "Voriconazole",
+      "D": "Caspofungin"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "In the case of HSV encephalitis, what is the recommended duration of Acyclovir treatment?",
+    "options": {
+      "A": "14 days",
+      "B": "21 days",
+      "C": "28 days",
+      "D": "30 days"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "young male presented with headache and fever. A CT of the brain was normal. A lumbar puncture was performed, and CSF analysis showed WBCs 48, RBCs 780, normal protein, and glucose. What is the most likely interpretation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "",
+    "options": {
+      "A": "patient with meningitis, who came from Alhaj, was found to have meningococcal meningitis. What is the appropriate prophylactic antibiotic for close contacts?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "",
+    "options": {
+      "A": "young lady with SLE nephritis on dialysis presents with seizures and confusion. CSF analysis shows high cell count with high-grade fever, and MRI shows high signals in the temporal lobe. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt; Originally Dementia",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "An Indian patient presents with seizures and multiple small brain lesions. What is the most likely diagnosis?",
+    "options": {
+      "A": "Cysticercosis",
+      "B": "Toxoplasmosis",
+      "C": "Tuberculoma",
+      "D": "Brain abscess"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "",
+    "options": {
+      "A": "patient from Sudan presents with fluctuating high fever, altered mental status (AMS), and anemia. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "In cases of Schistosoma Mansonia infection, what is the most common presentation?",
+    "options": {
+      "A": "Venous thrombosis",
+      "B": "Intracranial aneurysm",
+      "C": "Focal deficit",
+      "D": "Myelopathy"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q230",
+    "question_text": "What percentage of individuals infected with HTLV-1 will develop neurologic disease?",
+    "options": {
+      "A": "1% to 2%",
+      "B": "5% to 10%",
+      "C": "10% to 15%",
+      "D": "20% to 25%"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with meningococcal meningitis has family members asking about prevention and disease transmission. What is the information to provide?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "?? year-old female was brought by her family for the complaint of progressive decline in school performance and abnormal behavior over the last 3 months. Her condition worsened, and she became unresponsive. EEG showed periodic bursts and high voltage waves. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q231",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with meningitis. What should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt; Originally Epilepsy",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "An HIV patient has an MRI typical for neurocysticercosis. What is the cause?",
+    "options": {
+      "A": "Taenia solium",
+      "B": "Toxoplasma gondii",
+      "C": "Cryptococcus neoformans",
+      "D": "Mycobacterium tuberculosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q280",
+    "question_text": "TB affected which brain vessel?",
+    "options": {
+      "A": "MCA",
+      "B": "ACA",
+      "C": "PCA",
+      "D": "Pcom"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q326",
+    "question_text": "",
+    "options": {
+      "A": "patient came with headache, vomiting, fever, and nuchal rigidity. Two weeks back, she had a decompressive craniotomy due to Chiari malformation. What is the likely organism?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q220",
+    "question_text": "",
+    "options": {
+      "A": "patient came from Africa with fever and neurological symptoms. What is the most appropriate initial diagnostic test?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q340",
+    "question_text": "An Indian nurse came with a seizure. An MRI picture (FLAIR) attached showed a cyst with calcifications. What is the organism?",
+    "options": {
+      "A": "Taenia solium",
+      "B": "Toxoplasma gondii",
+      "C": "Echinococcus granulosus",
+      "D": "Entamoeba histolytica"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "",
+    "options": {
+      "A": "patient with a typical history of CJD has a family that wants him to be in an organ donation program. What is the best action?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q371",
+    "question_text": "",
+    "options": {
+      "A": "man with multiple cognitive domain involvement has ataxia and extrapyramidal features, with pathology showing PrPSc amyloid plaques. What type of prion disease does he have?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q175",
+    "question_text": "The best way to prevent post-herpetic neuralgia is?",
+    "options": {
+      "A": "Antiviral therapy (during acute shingles)",
+      "B": "Steroids",
+      "C": "Anticonvulsants",
+      "D": "Analgesics"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q365",
+    "question_text": "An Indian nurse presented with her first seizure and a history of headache one week prior. She was labeled as having a tension headache. What is the most likely diagnosis based on the CT findings?",
+    "options": {
+      "A": "Neurocysticercosis",
+      "B": "Tension-type headache",
+      "C": "Migraine",
+      "D": "Brain tumor"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q452",
+    "question_text": "What is the most common presentation of poliovirus infection?",
+    "options": {
+      "A": "Asymptomatic",
+      "B": "Meningitis",
+      "C": "Flu-like symptoms",
+      "D": "Flaccid weakness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q416",
+    "question_text": "",
+    "options": {
+      "A": "governmental clerk presents with meningitis. What is the most common organism responsible for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q402",
+    "question_text": "What is the most common organism responsible for bacterial meningitis?",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Listeria monocytogenes",
+      "C": "Neisseria meningitidis",
+      "D": "Haemophilus influenzae"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q379",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with fever and meningismus, and an MRI shows left temporal hyperintensity. What would you expect to find in the CSF?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  }
+]

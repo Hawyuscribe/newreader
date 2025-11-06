@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q151",
+    "question_text": "An elderly male presented to the ER with right-sided weakness and aphasia. Examination showed BP 220/120, HR in the 90s, and the patient was drowsy and aphasic with right-sided weakness. What is the next step in management?",
+    "options": {
+      "A": "CT brain",
+      "B": "Control blood pressure",
+      "C": "IV thrombolysis",
+      "D": "Obtain blood glucose level"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with weakness, and an MRI of the brain showed ischemic infarction in the superior cerebellar artery. What would be expected to be seen?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q285",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old patient came to the ER with left-sided weakness, decreased proprioception on the left, and right tongue weakness. What is the artery involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "In the context of carotid dissection, which statement is true regarding tongue deviation?",
+    "options": {
+      "A": "It is due to pre-ganglionic nerve damage.",
+      "B": "It is due to post-ganglionic nerve damage.",
+      "C": "It does not affect tongue movement.",
+      "D": "It is usually unilateral and caused by hypoglossal nerve palsy."
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q266",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with left MCA occlusion within 3.5 hours from symptom onset and has a history of ischemic stroke 2 months ago. What is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "In a patient with a hemorrhagic stroke and an INR of 3.1, what is the recommended treatment?",
+    "options": {
+      "A": "Prothrombin Complex Concentrate (PCC)",
+      "B": "Fresh Frozen Plasma (FFP)",
+      "C": "Vitamin K administration",
+      "D": "Platelet transfusion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "What is the management for a patient who developed angioedema after starting tPA?",
+    "options": {
+      "A": "Reassurance",
+      "B": "Intubate",
+      "C": "Anti-histamine & steroids",
+      "D": "Discontinue tPA"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "In a scenario of stroke with a normal CT scan, what is the next step if thrombolysis is not indicated?",
+    "options": {
+      "A": "Check for contraindications to thrombolysis",
+      "B": "Perform a CT Angiography (CTA)",
+      "C": "Admit for observation",
+      "D": "Start anticoagulation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q295",
+    "question_text": "In a sickle cell patient with multiple previous strokes, what is the most important preventive treatment?",
+    "options": {
+      "A": "Chronic transfusion",
+      "B": "Aspirin",
+      "C": "Anticoagulation",
+      "D": "Hydroxyurea"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with weakness, hemianesthesia, and tongue deviation. Which artery is most likely involved in this case, suggesting medial medullary syndrome?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "Which neurologic deficit is most commonly associated with SCA (Superior Cerebellar Artery) infarction?",
+    "options": {
+      "A": "Ataxia (gait or truncal instability)",
+      "B": "Vertigo",
+      "C": "Nystagmus",
+      "D": "Dysarthria"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q229",
+    "question_text": "",
+    "options": {
+      "A": "patient with CADASIL is being considered for prophylaxis against stroke. Which of the following is the most appropriate recommendation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q240",
+    "question_text": "Why is tPA contraindicated in patients who have had a stroke within the last 3 months?",
+    "options": {
+      "A": "It is a relative contraindication due to the presence of exclusion criteria",
+      "B": "It is an absolute contraindication",
+      "C": "It is safe to administer",
+      "D": "It is only contraindicated in patients over 80 years old"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "In a case of lateral pontine syndrome with a hint of hearing loss, which artery is most likely involved?",
+    "options": {
+      "A": "Anterior Inferior Cerebellar Artery (AICA)",
+      "B": "Posterior Inferior Cerebellar Artery (PICA)",
+      "C": "Superior Cerebellar Artery (SCA)",
+      "D": "Basilar Artery"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q202",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with a case about cerebral venous thrombosis (CVT). What is a possible risk factor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences symptoms of a transient ischemic attack (TIA) for 10 minutes. Both echocardiogram and Holter monitor results are negative. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "",
+    "options": {
+      "A": "patient with a small left internal capsule infarction and right-sided weakness for 2 days is found to have a patent foramen ovale (PFO) and uncontrolled hypertension. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient with a 1-day history of malignant MCA stroke is presented. The CT brain shows \u2154 hypodensity without midline shift or hydrocephalus. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q238",
+    "question_text": "",
+    "options": {
+      "A": "young male patient presents with third nerve palsy. What is the most likely diagnosis based on the attached image of a Pcom aneurysm?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "Scenario of a patient with new onset slurred speech and left-sided weakness. Symptoms started in the morning. Brain CT shows right hemispheric stroke. What is the best next step for blood pressure control?",
+    "options": {
+      "A": "IV Hydralazine",
+      "B": "IV Labetalol",
+      "C": "No intervention needed",
+      "D": "Oral Amlodipine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "74-year-old male presents with a CT brain image showing a large hemorrhage in the cortex. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q191",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old developed progressive symptoms starting with sensory loss in the left lower limb, which then progressed to involve both lower limbs. The symptoms increase with standing, and the sensory level is at T10. MRI shows a T2 hyperintense long lesion in the conus with a hypodense rim on T1. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "lady on oral contraceptive pills (OCP) presents with seizures and headaches, with a CT scan showing normal results. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "What is the recommended treatment for severe middle cerebral artery (MCA) stenosis in the elderly with stroke?",
+    "options": {
+      "A": "Aspirin (ASA)",
+      "B": "Angioplasty and stenting",
+      "C": "Aspirin (ASA) and Warfarin",
+      "D": "Intravenous thrombolysis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q220",
+    "question_text": "",
+    "options": {
+      "A": "patient with acute stroke on dabigatran for atrial fibrillation underwent thrombectomy and developed hemorrhage over the MCA territory. What should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

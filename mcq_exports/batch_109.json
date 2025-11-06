@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q206",
+    "question_text": "When should brain imaging be performed in pediatric patients with headaches?",
+    "options": {
+      "A": "Unilateral symptoms",
+      "B": "Occipital headache",
+      "C": "Photophobia",
+      "D": "Aura"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "What is the first-line treatment for migraine in children?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Triptans",
+      "C": "Aspirin",
+      "D": "Ibuprofen"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "What is the indication for brain imaging in a pediatric patient with migraine?",
+    "options": {
+      "A": "Occipital headache",
+      "B": "Bilateral headache",
+      "C": "New onset neurological deficit",
+      "D": "Headache worsening with Valsalva maneuver"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "",
+    "options": {
+      "A": "10-year-old boy has a headache that is preceded by red circular colors for a few seconds. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q213",
+    "question_text": "",
+    "options": {
+      "A": "baby presents with diplopia, dysarthria, ataxia followed by headache. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "",
+    "options": {
+      "A": "7-year-old boy presents with visual hallucinations in the form of colorful and circular objects moving from right to left, lasting for seconds to minutes, sometimes followed by a headache. An EEG shows occipital lobe spikes. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q197",
+    "question_text": "In a scenario of a young child with seizures, hypotonia, and a cherry red spot, which enzyme is affected?",
+    "options": {
+      "A": "Hexosaminidase A",
+      "B": "Glucocerebrosidase",
+      "C": "Arylsulfatase A",
+      "D": "Galactocerebrosidase"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "Epidural hematoma",
+      "B": "Subdural hematoma",
+      "C": "Concussion",
+      "D": "Intracerebral hemorrhage"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "In a case of Sturge-Weber syndrome (hint: port wine stain on the face), what associated condition is commonly asked about?",
+    "options": {
+      "A": "Renal Angiofibroma",
+      "B": "Cardiac Rhabdomyosarcoma",
+      "C": "Glaucoma",
+      "D": "Seizures"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Pediatric Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "Restless Legs Syndrome (RLS) is most commonly associated with which of the following?",
+    "options": {
+      "A": "Pregnancy is a risk factor",
+      "B": "Hypertension",
+      "C": "Diabetes mellitus",
+      "D": "Chronic obstructive pulmonary disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "What treatment is indicated for a young female with excessive daytime sleepiness, hyperphagia, and nighttime sleep issues, with no clear features of narcolepsy?",
+    "options": {
+      "A": "Donepezil",
+      "B": "Acetazolamide",
+      "C": "Topiramate",
+      "D": "Modafinil"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "65-year-old male presents with disturbed nocturnal sleep. His wife states that he has been shouting and lashing out violently during sleep. What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "patient has difficulty sleeping and is lying in bed looking at the clock. What is the next best treatment option for this sleep issue?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a diabetic patient with symptoms suggestive of Restless Legs Syndrome (RLS). What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "Pregnancy is a risk factor for which of the following?",
+    "options": {
+      "A": "Restless Legs Syndrome (RLS)",
+      "B": "Periodic limb movement disorder",
+      "C": "Narcolepsy",
+      "D": "Obstructive sleep apnea"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "Pregnancy is a risk factor for which of the following?",
+    "options": {
+      "A": "Restless Legs Syndrome (RLS)",
+      "B": "Periodic limb movement disorder",
+      "C": "Multiple sclerosis",
+      "D": "Parkinson\u2019s disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "Restless Legs Syndrome (RLS)",
+      "B": "Parkinson\u2019s Disease",
+      "C": "Multiple Sclerosis",
+      "D": "Epilepsy"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "Excessive daytime sleep and increasing eating habits may be treated with which of the following?",
+    "options": {
+      "A": "SSRI",
+      "B": "Methylphenidate (According to UpToDate)",
+      "C": "Sodium oxybate",
+      "D": "Modafinil"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "patient is impulsive and a drug seeker with a scenario of Restless Legs Syndrome (RLS). What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "Excessive daytime sleep and an increase in eating habits may indicate which condition?",
+    "options": {
+      "A": "SSRI",
+      "B": "Methylphenidate",
+      "C": "Serum oxybate",
+      "D": "Kleine-Levin Syndrome"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "female adult with drug-seeking behavior and compulsive actions has irritability in her legs that only improves when she rubs them together. She is pregnant. What should be given to her? (No mention of symptoms of anemia or current hemoglobin level)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old male presents with poor sleeping and recent mood changes, early awakening as reported by his wife. What is true regarding his treatment options?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "Excessive daytime sleep and an increase in eating habits can be treated with which of the following?",
+    "options": {
+      "A": "SSRI",
+      "B": "Methylphenidate",
+      "C": "Serum oxybate",
+      "D": "Modafinil"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "Modafinil",
+      "B": "Levodopa",
+      "C": "Carbamazepine",
+      "D": "Baclofen"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of visual hallucinations and inability to move from the bed, along with frequent episodes of falling asleep, presents for evaluation. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Sleep Neurology",
+    "explanation": ""
+  }
+]

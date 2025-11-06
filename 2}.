@@ -1,0 +1,5 @@
+/bin/bash: line 5: cd /app/django_neurology_mcq && python manage.py shell <<EOF
+from mcq.models import MCQ
+subspecialties = MCQ.objects.values_list('subspecialty', flat=True).distinct().order_by('subspecialty')
+for i, sub in enumerate(subspecialties, 1):
+    print(f{i:: No such file or directory

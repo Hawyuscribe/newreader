@@ -1,0 +1,2342 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 50623156,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "A patient presents with hyperphagia, personality changes, and memory loss. What is the likely diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Normal pressure hydrocephalus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests diagnosis of a dementia syndrome (FTD) based on classic behavioral and cognitive symptoms."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75807423,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "In the case of Gerstmann syndrome, what is the associated language deficit?",
+      "options": {
+        "A": "Anomic aphasia",
+        "B": "Wernicke\u2019s aphasia",
+        "C": "Transcortical motor aphasia",
+        "D": "Conduction aphasia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks about a specific cognitive deficit (language impairment) associated with Gerstmann syndrome, a cluster of symptoms often discussed in the context of focal cortical dysfunction and cognitive neurology/dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83705424,
+    "fields": {
+      "question_number": "Q32",
+      "question_text": "To differentiate between frontotemporal dementia (FTD) and Alzheimer's disease (AD), which imaging modality is most useful?",
+      "options": {
+        "A": "PET scan",
+        "B": "MRI",
+        "C": "CT brain",
+        "D": "CSF"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of diagnostic tools (neuroimaging) used specifically to differentiate between major dementia subtypes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25312113,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "For the same patient, what treatment would you recommend?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "Lifestyle modification",
+        "C": "Memantine",
+        "D": "Donepezil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assesses knowledge of treatment options (pharmacological vs. non-pharmacological) for a dementia condition implied by the context (\"same patient\", likely from a preceding dementia scenario)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28330741,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A patient presents with visual hallucinations and fluctuating levels of consciousness, with symptoms suggesting parkinsonism. What is the most likely diagnosis?",
+      "options": {
+        "A": "Lewy body disease",
+        "B": "Idiopathic Parkinson's disease",
+        "C": "Amyotrophic lateral sclerosis",
+        "D": "Frontotemporal dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the ability to diagnose Dementia with Lewy Bodies based on its core clinical features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89389290,
+    "fields": {
+      "question_number": "Q45",
+      "question_text": "A 70-year-old male presented with a shuffling gait, freezing, and urinary incontinence. Upon examination, he has a stooped posture and unsteady gait. What is the diagnosis?",
+      "options": {
+        "A": "Normal Pressure Hydrocephalus",
+        "B": "Vascular Dementia",
+        "C": "Parkinson's Disease",
+        "D": "Progressive Supranuclear Palsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on diagnosing Normal Pressure Hydrocephalus (NPH), a treatable cause of dementia and gait disturbance, based on its characteristic triad."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23025016,
+    "fields": {
+      "question_number": "Q25",
+      "question_text": "What is the differentiating feature between Alzheimer disease and Lewy body dementia?",
+      "options": {
+        "A": "Sleep disturbance",
+        "B": "Brain atrophy on MRI",
+        "C": "Anterograde memory loss",
+        "D": "Early shuffling gait"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of key clinical features that help distinguish between two common dementia syndromes (AD vs. DLB)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87944001,
+    "fields": {
+      "question_number": "Q71",
+      "question_text": "In a scenario of Mild Cognitive Impairment (MCI), what is the recommended treatment?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "High dose Vitamin E",
+        "C": "Cognitive training and lifestyle modification",
+        "D": "Memantine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about management strategies for Mild Cognitive Impairment (MCI), focusing on potential treatments."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11211011,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "B. Dementia [CORRECT]",
+      "options": {
+        "C": "Normal age-related memory loss",
+        "D": "Delirium",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to differentiate between Mild Cognitive Impairment (MCI) and Dementia based on the impact on activities of daily living (ADLs)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51325298,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "Dementia with Lewy Bodies (DLB)",
+      "options": {
+        "A": "Characterized by early memory loss and language deficits",
+        "B": "Typically presents with prominent visual hallucinations and fluctuating cognition",
+        "C": "Is primarily caused by vascular pathology",
+        "D": "Does not involve parkinsonism features"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: This MCQ likely refers to identifying DLB from a preceding case description or asks a question about it. It directly relates to a specific dementia diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17647373,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "A 70-year-old male presents with cognitive decline, ataxia, and a startle response. What is the likely diagnosis?",
+      "options": {
+        "A": "Alzheimer\u2019s disease",
+        "B": "Lewy body dementia",
+        "C": "Normal pressure hydrocephalus",
+        "D": "Creutzfeldt-Jakob disease"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests the differential diagnosis of cognitive decline associated with motor features (ataxia, startle response), potentially pointing towards CJD or other rapidly progressive dementias/movement disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59413363,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "In the context of Dementia with Lewy Bodies (DLB), which medication is used for cognitive symptoms?",
+      "options": {
+        "A": "Quetiapine",
+        "B": "Rivastigmine",
+        "C": "Clonazepam",
+        "D": "Pimavanserin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the specific pharmacological treatment (Rivastigmine) for cognitive enhancement in Dementia with Lewy Bodies (DLB)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33641932,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "Korsakoff dementia is characterized by impairment of which type of memory?",
+      "options": {
+        "A": "Episodic memory",
+        "B": "Immediate memory",
+        "C": "Working memory",
+        "D": "Procedural memory"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the specific cognitive profile (predominant episodic memory impairment) characteristic of Korsakoff syndrome, often discussed alongside dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35927908,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "A patient with cognitive decline also presents with urinary incontinence and a magnetic gait. What is the most likely diagnosis?",
+      "options": {
+        "A": "Parkinson's disease",
+        "B": "Normal pressure hydrocephalus",
+        "C": "Alzheimer's disease",
+        "D": "Multiple sclerosis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the ability to diagnose Normal Pressure Hydrocephalus (NPH) based on its classic triad including cognitive decline."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13033013,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "This is a 70-year-old female with a history of short-term memory impairment, long-term memory not affected, and depression with withdrawal from people. CSF shows low amyloid and positive TUA. What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal Dementia (FTD)",
+        "B": "Alzheimer's Disease (AD)",
+        "C": "Dementia with Lewy Bodies (DLB)",
+        "D": "Corticobasal Degeneration (CBD)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to diagnose Alzheimer's Disease based on clinical presentation (amnestic cognitive profile) and supportive CSF biomarker findings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35307383,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "What is the most common memory type affected in Korsakoff's encephalopathy?",
+      "options": {
+        "A": "Episodic memory",
+        "B": "Declarative memory",
+        "C": "Working memory",
+        "D": "Semantic memory"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the characteristic cognitive deficit (episodic memory impairment) in Korsakoff syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83571994,
+    "fields": {
+      "question_number": "Q83",
+      "question_text": "A patient came with behavioral changes; what is the gene defect?",
+      "options": {
+        "A": "TDP-43",
+        "B": "MAPT",
+        "C": "C9orf72",
+        "D": "FUS"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links behavioral changes (suggestive of bvFTD) to associated underlying pathology/proteinopathy (TDP-43), which is central to understanding FTD spectrum disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88891919,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "The second most common neurodegenerative dementia is:",
+      "options": {
+        "A": "Lewy Body Dementia (LBD)",
+        "B": "Frontotemporal Dementia (FTD)",
+        "C": "Alzheimer's Disease (AD)",
+        "D": "Vascular Dementia"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology and relative prevalence of different neurodegenerative dementia types. (Duplicate of Q70)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59561420,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A 60-year-old university professor started to forget things and frequently loses his bank cards, but it is not affecting his job. The patient is worried about his memory. What is the most likely diagnosis?",
+      "options": {
+        "A": "Mild cognitive impairment.",
+        "B": "Alzheimer disease.",
+        "C": "Frontotemporal dementia.",
+        "D": "Normal age-related memory decline."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the ability to diagnose Mild Cognitive Impairment (MCI) based on subjective and objective cognitive concerns without significant functional impairment in daily life."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56072405,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "A 56-year-old female presents with behavioral changes and personality alterations. She starts talking to strangers and receives warnings from work due to inappropriate sexual jokes. She has poor personal hygiene and a Mini-Mental State Examination (MMSE) score of 28/30. What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease (AD)",
+        "C": "Lewy body dementia (LBD)",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to diagnose behavioral variant Frontotemporal Dementia (bvFTD) based on characteristic personality and behavioral changes with relatively preserved cognition initially."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99925089,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "A 58-year-old female presents with changes in behavior, memory issues, and visual hallucinations. MRI shows frontal and parietal atrophy. What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease (AD)",
+        "C": "Dementia with Lewy bodies (DLB)",
+        "D": "Corticobasal degeneration (CBD)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the differential diagnosis of dementia presenting with a mix of behavioral, cognitive (memory), and psychotic (hallucinations) symptoms, considering DLB and atypical AD/FTD presentations."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53911282,
+    "fields": {
+      "question_number": "Q89",
+      "question_text": "For the same patient, what treatment would you recommend?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "Lifestyle modification",
+        "C": "Donepezil",
+        "D": "Memantine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assesses knowledge of standard pharmacological treatment options for dementia (likely AD or DLB based on typical options provided)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75596810,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "A 77-year-old man with a 3-year history of personality changes and cognitive impairment reports seeing small animals around him. His wife notes that there are days when he is extremely confused and agitated, and days when he is closer to his prior baseline. What is the most likely diagnosis?",
+      "options": {
+        "A": "Dementia with Lewy bodies (DLB)",
+        "B": "Mild cognitive impairment (MCI)",
+        "C": "Alzheimer\u2019s disease",
+        "D": "Schizophrenia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests the ability to diagnose Dementia with Lewy Bodies (DLB) based on its core features: cognitive decline, visual hallucinations, and fluctuations."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61019768,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "Apathy is more commonly seen in which condition?",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Parkinson disease",
+        "C": "Amyotrophic lateral sclerosis",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the relative prevalence of specific neuropsychiatric symptoms (apathy) across different neurodegenerative diseases, including common dementias."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52638449,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "A 62-year-old male exhibits inappropriate behavior, impaired social functioning, and a tendency to eat sweets. He pays no attention to personal hygiene for the last year. A PET scan shows frontal and temporal hypometabolism. What is the most likely diagnosis?",
+      "options": {
+        "A": "Alzheimer's Disease (Frontal type)",
+        "B": "Frontotemporal Dementia (FTD)",
+        "C": "Creutzfeldt-Jakob Disease (CJD)",
+        "D": "Vascular Dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to diagnose behavioral variant Frontotemporal Dementia (bvFTD) based on characteristic behavioral symptoms and supportive neuroimaging (PET)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10367181,
+    "fields": {
+      "question_number": "Q79",
+      "question_text": "What is the best test to check cognitive impairment in a patient with MCI?",
+      "options": {
+        "A": "MOCA",
+        "B": "MMSE",
+        "C": "Serial Seven",
+        "D": "Clock Drawing Test"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assesses knowledge of appropriate cognitive screening tools (MoCA often preferred over MMSE) for detecting Mild Cognitive Impairment (MCI)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64658543,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "Apathy is more commonly seen in which of the following conditions?",
+      "options": {
+        "A": "Frontotemporal dementia",
+        "B": "Idiopathic Parkinson's disease",
+        "C": "Traumatic brain injury",
+        "D": "Wilson's disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the relative prevalence of apathy across different neurological conditions, including FTD where it is a prominent feature."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69803714,
+    "fields": {
+      "question_number": "Q81",
+      "question_text": "Typical history of Lewy Body Dementia (LBD); PET showed posterior corpus callosum abnormality (the picture is not obvious); what is the diagnosis?",
+      "options": {
+        "A": "Lewy Body Dementia (clear from the history)",
+        "B": "Alzheimer\u2019s Disease",
+        "C": "Frontotemporal Dementia",
+        "D": "Vascular Dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Confirms the diagnosis of LBD based on a typical clinical history, despite possibly ambiguous or atypical imaging findings mentioned."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34877846,
+    "fields": {
+      "question_number": "Q84",
+      "question_text": "A patient with a history of neuropsychiatric symptoms and dementia for more than 5 years had PrPSc. What is the diagnosis?",
+      "options": {
+        "A": "Variant CJD",
+        "B": "Kuru",
+        "C": "Familial insomnia",
+        "D": "Familial CJD"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to differentiate subtypes of prion disease based on duration, clinical features (neuropsychiatric/dementia), and the presence of abnormal prion protein (PrPSc), suggesting familial CJD given the long duration."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53523866,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "The nonfluent/agrammatic variant of primary progressive aphasia (nfvPPA) is primarily associated with atrophy in which brain region?",
+      "options": {
+        "A": "Left inferior frontal gyrus (Broca area)",
+        "B": "Right temporal lobe",
+        "C": "Medial temporal lobe",
+        "D": "Occipital lobe"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about the specific neuroanatomical correlate (localization of atrophy) for a subtype of Primary Progressive Aphasia (nfvPPA), which falls under the FTD spectrum."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96337378,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "In a patient with normal semantic and language function, what is the pathology associated with behavioral variant frontotemporal dementia (bvFTD)?",
+      "options": {
+        "A": "TDP-43",
+        "B": "FTD type A TDP",
+        "C": "FTD type B TDP",
+        "D": "FTD type C TDP"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the common underlying neuropathology (TDP-43) associated with the clinical syndrome of bvFTD."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67293498,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "A 67-year-old male is brought to the clinic because of cognitive decline and multiple neurological symptoms over the last 6 months. Initially, he stopped worrying about his job and started to exhibit unusual behaviors. He leaves the house without showering, then he became apathetic and anhedonic. For the last month, he has ataxia, frequent falls, and myoclonic jerks. An MRI was obtained and shown. What is the most likely diagnosis?",
+      "options": {
+        "A": "Frontotemporal Dementia (FTD)",
+        "B": "Creutzfeldt-Jakob Disease (CJD)",
+        "C": "Alzheimer's Disease (AD)",
+        "D": "Lewy Body Dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to diagnose CJD based on a rapidly progressive course involving cognitive decline, behavioral changes, apathy, ataxia, and myoclonus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84719750,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "A patient has normal pressure hydrocephalus (NPH) and abdominal tuberculosis. What is the most appropriate management?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Flumazine",
+        "C": "Copper",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Primarily focuses on NPH, a cause of dementia. Although the options seem unrelated to NPH or TB management (potentially a flawed question), the core condition mentioned related to cognitive decline is NPH."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59945047,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "Pathology showed Lewy bodies. What is the diagnosis?",
+      "options": {
+        "A": "Lewy body dementia",
+        "B": "Parkinson\u2019s disease",
+        "C": "Alzheimer\u2019s disease",
+        "D": "Multiple system atrophy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly links the key neuropathological finding (Lewy bodies) to the corresponding dementia diagnosis (LBD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45184289,
+    "fields": {
+      "question_number": "Q63",
+      "question_text": "A patient exhibits word-finding difficulties and behavioral changes. What is the most likely diagnosis?",
+      "options": {
+        "A": "Pick's disease",
+        "B": "Alzheimer's disease",
+        "C": "Frontotemporal dementia",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the diagnosis of FTD spectrum disorders based on a combination of language (word-finding) and behavioral symptoms."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99822854,
+    "fields": {
+      "question_number": "Q88",
+      "question_text": "An elderly man has been acting out his dreams, kicking his wife, and experiencing vivid visual hallucinations. His delirium workup was negative. What is the most likely diagnosis?",
+      "options": {
+        "A": "Lewy body dementia",
+        "B": "Alzheimer's disease",
+        "C": "Corticobasal degeneration",
+        "D": "Frontotemporal dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the ability to diagnose DLB based on the combination of REM sleep behavior disorder (RBD) and visual hallucinations."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94796075,
+    "fields": {
+      "question_number": "Q35",
+      "question_text": "A patient comes with progressive dementia over the last 6 months, exhibiting startle and sensory myoclonus. A DWI image shows a cortical ribbon sign. What is the likely diagnosis?",
+      "options": {
+        "A": "Prion disease",
+        "B": "Alzheimer's disease",
+        "C": "Frontotemporal dementia",
+        "D": "Lewy body dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the ability to diagnose Prion disease (CJD) based on rapid progression, specific motor signs (startle myoclonus), and characteristic MRI findings (cortical ribboning on DWI)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38049060,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "In an Alzheimer patient, what are the expected cerebrospinal fluid (CSF) results?",
+      "options": {
+        "A": "Low Amyloid \u03b2, High Tau",
+        "B": "High Amyloid \u03b2, Low Tau",
+        "C": "Normal Amyloid \u03b2, Normal Tau",
+        "D": "Low Amyloid \u03b2, Low Tau"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic CSF biomarker profile (low A\u03b242, high total Tau, high phospho-Tau) found in Alzheimer's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26631618,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "What helps differentiate Alzheimer's disease from frontotemporal dementia?",
+      "options": {
+        "A": "Anterograde memory loss",
+        "B": "Language difficulties",
+        "C": "Behavioral changes",
+        "D": "Visual hallucinations"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks about key distinguishing clinical features between AD (typically prominent early anterograde memory loss) and FTD (typically prominent early behavioral or language changes)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28777460,
+    "fields": {
+      "question_number": "Q85",
+      "question_text": "A patient presents with one year of progressive apathy and memory loss. What is the most likely diagnosis?",
+      "options": {
+        "A": "Alzheimer's disease",
+        "B": "Frontotemporal dementia",
+        "C": "Vascular dementia",
+        "D": "Lewy body dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the differential diagnosis of dementia based on core symptoms of apathy and memory loss, requiring consideration of AD, FTD, and others."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52517385,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "Cholinesterase inhibitors are most useful for which condition?",
+      "options": {
+        "A": "Apathy",
+        "B": "Depression",
+        "C": "Anxiety",
+        "D": "Psychosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the symptomatic target (apathy) that can potentially improve with cholinesterase inhibitors in dementia. (Duplicate of Q26)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56727540,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "Typical history of Lewy Body Dementia (LBD), PET showed posterior corpus callosum abnormality (the picture is not obvious); what is the diagnosis?",
+      "options": {
+        "A": "Lewy Body Dementia (clear from the history)",
+        "B": "C9ORF/Ch9 (TDP-43)",
+        "C": "Behavioral variant Frontotemporal Dementia (bvFTD)",
+        "D": "Frontotemporal Dementia - Amyotrophic Lateral Sclerosis (FTD-ALS)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Confirms the diagnosis of LBD based on clinical history, contrasting it with other dementia-related entities. (Duplicate of Q81)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35590819,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "In the same scenario of MCI, what is the conversion rate of cognitive impairment to dementia?",
+      "options": {
+        "A": "6%",
+        "B": "10 - 20%",
+        "C": "21 - 30%",
+        "D": "31 - 90%"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assesses knowledge of the typical annual conversion rate from MCI to dementia. (Similar to Q13, Q15)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34207650,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "Which disorder most commonly presents with apathy?",
+      "options": {
+        "A": "Progressive supranuclear palsy (PSP)",
+        "B": "Parkinson's disease",
+        "C": "Frontotemporal dementia (FTD)",
+        "D": "Alzheimer's disease (AD)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the relative frequency of apathy across various neurodegenerative disorders, including FTD and AD. (Similar to Q37, Q47)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34702138,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "In the Mini-Mental State Examination (MMSE), which component carries the highest weight?",
+      "options": {
+        "A": "Orientation",
+        "B": "Registration",
+        "C": "Attention and calculation",
+        "D": "Recall"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Assesses knowledge about the structure and scoring of a standard cognitive screening tool (MMSE) used in dementia assessment. (Orientation and Recall are highest)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13033013,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "The same imaging findings as previous but with agrammatic aphasia are present. What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Prion disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links a specific language deficit (non-fluent/agrammatic aphasia) to the likely dementia syndrome (FTD/PPA)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56727540,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "A male patient was brought to the hospital by his wife for forgetfulness issues. He has difficulty with speech expression with his friends, which has made his social life difficult. On examination, he couldn\u2019t recall 3 items on the MMSE. He has impaired naming and repetition, with intact comprehension. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Semantic dementia",
+        "B": "Primary progressive aphasia",
+        "C": "Frontotemporal lobe dementia",
+        "D": "Alzheimer's disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes cognitive and language decline (impaired naming/repetition with intact comprehension, plus memory issues) pointing towards a Primary Progressive Aphasia variant within the FTD spectrum."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17647373,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "A patient exhibits changes in eating habits towards sweet foods. Imaging shows changes consistent with frontotemporal dementia (FTD). What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Prion disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links a specific behavioral change (altered eating habits - preference for sweets) often seen in FTD to the diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44265266,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "A 77-year-old man came with his wife to the clinic with a 3-year history of personality changes and cognitive impairment. She reported that he keeps seeing small animals around him and he moves a lot while he is sleeping. There are days when he is extremely confused and agitated and days when he is closer to his prior baseline. What is the most likely diagnosis?",
+      "options": {
+        "A": "Lewy body dementia",
+        "B": "Alzheimer\u2019s disease",
+        "C": "Schizophrenia",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes the core clinical features of Dementia with Lewy Bodies (cognitive decline, visual hallucinations, fluctuations, probable REM sleep behavior disorder)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13033013,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "The same imaging findings as previous but with agrammatic aphasia are present. What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Prion disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links a specific language deficit (non-fluent/agrammatic aphasia) to the likely dementia syndrome (FTD/PPA). (Duplicate classification)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56727540,
+    "fields": {
+      "question_number": "Q91",
+      "question_text": "A male patient was brought to the hospital by his wife for forgetfulness issues. He has difficulty with speech expression with his friends, which has made his social life difficult. On examination, he couldn\u2019t recall 3 items on the MMSE. He has impaired naming and repetition, with intact comprehension. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Semantic dementia",
+        "B": "Primary progressive aphasia",
+        "C": "Frontotemporal lobe dementia",
+        "D": "Alzheimer's disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes cognitive and language decline (impaired naming/repetition with intact comprehension) pointing towards a Primary Progressive Aphasia variant within the FTD spectrum. (Duplicate classification)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 52638449,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "In the context of primary progressive aphasia, which of the following is true regarding the semantic variant (PPA-S)?",
+      "options": {
+        "A": "It affects fluency and grammar",
+        "B": "It is associated with impairments of object naming and word comprehension",
+        "C": "It is due to right temporal atrophy",
+        "D": "It is characterized by severe dysarthria"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the specific clinical features of a dementia subtype (Semantic Variant PPA). (Duplicate classification)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17647373,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "A patient exhibits changes in eating habits towards sweet foods. Imaging shows changes consistent with frontotemporal dementia (FTD). What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Prion disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Links a specific behavioral change (altered eating habits) to the associated dementia syndrome (FTD). (Duplicate classification)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26221635,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A patient presents with apathy and cerebral atrophy, along with changes in eating habits. Imaging from a PET scan and brain MRI shows decreased metabolism in the frontal and temporal lobes, particularly in the left frontal lobe. What is the diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Lewy body dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Integrates behavioral symptoms (apathy, eating changes) and imaging findings (frontotemporal hypometabolism/atrophy) typical of FTD. (Duplicate classification)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44265266,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "A 77-year-old man came with his wife to the clinic with a 3-year history of personality changes and cognitive impairment. She reported that he keeps seeing small animals around him and he moves a lot while he is sleeping. There are days when he is extremely confused and agitated and days when he is closer to his prior baseline. What is the most likely diagnosis?",
+      "options": {
+        "A": "Lewy body dementia",
+        "B": "Alzheimer\u2019s disease",
+        "C": "Schizophrenia",
+        "D": "Frontotemporal dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes the core clinical features of Dementia with Lewy Bodies (cognitive decline, visual hallucinations, fluctuations, probable REM sleep behavior disorder). (Duplicate classification)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16168354,
+    "fields": {
+      "question_number": "Q128",
+      "question_text": "What is the pathology associated with ALS-FTD?",
+      "options": {
+        "A": "TDP-43",
+        "B": "Tau protein",
+        "C": "Ubiquitin",
+        "D": "SOD1"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the underlying molecular pathology (TDP-43 proteinopathy) common to Amyotrophic Lateral Sclerosis (ALS) and Frontotemporal Dementia (FTD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13033013,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "In a patient with mild cognitive impairment who is still independent, what is the most appropriate management option?",
+      "options": {
+        "A": "Donepezil",
+        "B": "Lifestyle modification",
+        "C": "Memantine",
+        "D": "Rivastigmine"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the management approach for Mild Cognitive Impairment (MCI), a stage often preceding dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89389290,
+    "fields": {
+      "question_number": "Q45",
+      "question_text": "In a patient with Alzheimer\u2019s Dementia, what is the most common symptom observed?",
+      "options": {
+        "A": "Apathy",
+        "B": "Delusion",
+        "C": "Memory loss",
+        "D": "Disorientation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of common clinical features and neuropsychiatric symptoms (apathy being very common) in Alzheimer's Disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28777460,
+    "fields": {
+      "question_number": "Q85",
+      "question_text": "In Alzheimer\u2019s dementia, which gene mutation is related to earlier onset?",
+      "options": {
+        "A": "APP",
+        "B": "APOE",
+        "C": "PSEN1",
+        "D": "PSEN2"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the specific genes (APP, PSEN1, PSEN2) associated with early-onset familial Alzheimer's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99925089,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "Alzheimer\u2019s dementia is most commonly related to which gene mutation?",
+      "options": {
+        "A": "APP",
+        "B": "APOE",
+        "C": "PSEN1",
+        "D": "PSEN2"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the most common genetic risk factor (APOE) associated with late-onset Alzheimer's disease, contrasting with early-onset genes like APP, PSEN1, and PSEN2."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68319194,
+    "fields": {
+      "question_number": "Q243",
+      "question_text": "What is the second most common cause of dementia?",
+      "options": {
+        "A": "Vascular dementia",
+        "B": "Dementia with Lewy bodies",
+        "C": "Frontotemporal dementia (FTD)",
+        "D": "Alzheimer's disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology and relative prevalence of different subtypes of dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 71037593,
+    "fields": {
+      "question_number": "Q292",
+      "question_text": "What is the LBD PET finding associated with?",
+      "options": {
+        "A": "Occipital hypometabolism",
+        "B": "Frontal hypometabolism",
+        "C": "Temporal hypometabolism",
+        "D": "Parietal hypometabolism"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about a characteristic neuroimaging finding (occipital hypometabolism on FDG-PET) associated with Dementia with Lewy Bodies (LBD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20457183,
+    "fields": {
+      "question_number": "Q281",
+      "question_text": "A long scenario describes a male with behavior issues, myoclonus, and ataxia for 3 months, along with dementia. What is the most likely diagnosis?",
+      "options": {
+        "A": "Creutzfeldt-Jakob disease (CJD)",
+        "B": "Alzheimer's disease (AD)",
+        "C": "Dementia with Lewy bodies (DLB)",
+        "D": "Frontotemporal dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes a rapidly progressive dementia with associated features (myoclonus, ataxia) highly suggestive of Creutzfeldt-Jakob disease (CJD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93328143,
+    "fields": {
+      "question_number": "Q322",
+      "question_text": "An Alzheimer\u2019s patient presents with depression symptoms (sadness, insomnia) and agitation. What medication would you give?",
+      "options": {
+        "A": "Cipralex",
+        "B": "Trazodone",
+        "C": "Quetiapine",
+        "D": "Rivastigmine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the pharmacological management of behavioral and psychological symptoms of dementia (BPSD), specifically depression and agitation in an Alzheimer's patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5880974,
+    "fields": {
+      "question_number": "Q331",
+      "question_text": "Which of the following suggests Alzheimer Disease (AD) rather than Lewy Body Dementia (LBD)?",
+      "options": {
+        "A": "Staring into space for long periods",
+        "B": "Visual hallucinations",
+        "C": "Parkinsonian motor features",
+        "D": "Anterograde memory loss"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to differentiate between Alzheimer's Disease and Lewy Body Dementia based on characteristic clinical features (prominent early memory loss in AD vs. fluctuations/hallucinations/parkinsonism in LBD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54141968,
+    "fields": {
+      "question_number": "Q399",
+      "question_text": "In the context of Alzheimer's Disease (AD), which medication is considered first-line for hallucinations and agitation?",
+      "options": {
+        "A": "Quetiapine",
+        "B": "Clozapine",
+        "C": "Trazodone",
+        "D": "Rivastigmine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the management of behavioral and psychological symptoms of dementia (BPSD), specifically hallucinations/agitation in Alzheimer's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92104649,
+    "fields": {
+      "question_number": "Q288",
+      "question_text": "What clinical features help to distinguish Dementia with Lewy Bodies (DLB) from Alzheimer Disease (AD)?",
+      "options": {
+        "A": "Fluctuations in cognitive function with varying levels of alertness and attention",
+        "B": "Visual hallucinations",
+        "C": "Parkinsonian motor features",
+        "D": "Anterograde memory impairment"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the core clinical features (fluctuations, hallucinations, parkinsonism) that differentiate DLB from AD."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63190344,
+    "fields": {
+      "question_number": "Q227",
+      "question_text": "Rivastigmine is the only cholinesterase inhibitor FDA approved for use in which condition?",
+      "options": {
+        "A": "Alzheimer's disease",
+        "B": "Lewy body dementia",
+        "C": "Parkinson disease dementia",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the specific FDA indications for dementia medications, linking Rivastigmine to Parkinson's Disease Dementia (as well as AD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10049097,
+    "fields": {
+      "question_number": "Q103",
+      "question_text": "An Alzheimer patient presents with CSF results showing low amyloid beta and high tau levels. What does this indicate?",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Normal aging",
+        "C": "Frontotemporal dementia",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests interpretation of CSF biomarkers (Amyloid-beta 42, total Tau, phospho-Tau) in the diagnosis of Alzheimer's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53938912,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "A picture of ribboning is presented. What is the most likely diagnosis?",
+      "options": {
+        "A": "Prion disease",
+        "B": "Alzheimer's disease",
+        "C": "Multiple sclerosis",
+        "D": "Amyotrophic lateral sclerosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests recognition of the characteristic DWI/FLAIR MRI finding (\"cortical ribboning\") associated with Creutzfeldt-Jakob disease (a prion disease)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75042572,
+    "fields": {
+      "question_number": "Q325",
+      "question_text": "A husband reported that his wife started to have gait instability that worsened over 5 years, becoming bed-bound and associated with elements of dementia. Which condition is most likely?",
+      "options": {
+        "A": "Fatal familial insomnia (FFI)",
+        "B": "Variant Creutzfeldt-Jakob disease (vCJD)",
+        "C": "Familial Creutzfeldt-Jakob disease (CJD)",
+        "D": "Alzheimer's disease (AD)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes a progressive neurological decline involving dementia and motor symptoms over years, consistent with potential familial CJD or FFI, differentiating from more common dementias."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21897943,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "What is the best test to check cognitive impairment with Mild Cognitive Impairment (MCI)?",
+      "options": {
+        "A": "MOCA",
+        "B": "MMSE",
+        "C": "Serial seven",
+        "D": "Clock Drawing Test"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the selection and application of cognitive assessment tools (MoCA, MMSE) specifically for evaluating patients with Mild Cognitive Impairment (MCI), a precursor stage to dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49974344,
+    "fields": {
+      "question_number": "Q142",
+      "question_text": "A patient with progressive myoclonus and dementia is suspected to have which condition?",
+      "options": {
+        "A": "CADASIL",
+        "B": "Alzheimer\u2019s disease",
+        "C": "Frontotemporal dementia",
+        "D": "Unverricht-Lundborg disease"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Centers on the differential diagnosis of conditions presenting with the combination of dementia and progressive myoclonus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30680206,
+    "fields": {
+      "question_number": "Q114",
+      "question_text": "A 63-year-old male has a 4-year history of Parkinson's Disease with visual hallucinations. What is the most likely diagnosis?",
+      "options": {
+        "A": "Parkinson's Disease",
+        "B": "Dementia with Lewy Bodies",
+        "C": "Multiple System Atrophy",
+        "D": "Progressive Supranuclear Palsy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on differentiating Parkinson's Disease from Dementia with Lewy Bodies, where the timing and prominence of visual hallucinations relative to motor symptoms are key distinguishing features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70568890,
+    "fields": {
+      "question_number": "Q228",
+      "question_text": "A Parkinson's patient came with increased hallucinations and memory loss; what is the treatment?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "Clozapine",
+        "C": "Quetiapine",
+        "D": "Donepezil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on managing significant cognitive decline (memory loss) and psychosis (hallucinations) in a Parkinson's patient, characteristic of Parkinson's Disease Dementia (PDD), using appropriate medications (cholinesterase inhibitors, atypical antipsychotics)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 7983116,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "In a case scenario of a Parkinson's disease patient presenting with hallucinations and memory problems, what is the recommended treatment?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "Quetiapine",
+        "C": "Clozapine",
+        "D": "Donepezil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the pharmacological management of cognitive impairment and psychosis (hallucinations) within the context of Parkinson's disease (PD-Dementia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37224999,
+    "fields": {
+      "question_number": "Q109",
+      "question_text": "A patient with Parkinson's disease presents with hallucinations and memory problems. What medication should be given?",
+      "options": {
+        "A": "Clozapine",
+        "B": "Quetiapine",
+        "C": "Rivastigmine",
+        "D": "Memantine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the pharmacological treatment choices for managing psychosis (hallucinations) and cognitive decline (memory problems) in Parkinson's disease, indicative of PD-Dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19152369,
+    "fields": {
+      "question_number": "Q139",
+      "question_text": "Which of the following is a common side effect of cholinesterase inhibitors in individuals with parkinsonism?",
+      "options": {
+        "A": "Nausea",
+        "B": "Worsening tremor",
+        "C": "Insomnia",
+        "D": "Weight gain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns side effects of cholinesterase inhibitors, a class of drugs primarily used to treat cognitive impairment/dementia associated with parkinsonian syndromes like Parkinson's Disease Dementia (PDD) or Dementia with Lewy Bodies (LBD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78844604,
+    "fields": {
+      "question_number": "Q215",
+      "question_text": "An 80-year-old patient presents with concerns about his memory function, as he is forgetting names of people and where he is putting his belongings; he is totally independent. What is the diagnosis?",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Normal aging",
+        "C": "Mild cognitive impairment",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on differentiating subjective memory complaints in a high-functioning elderly individual, assessing for normal aging versus early cognitive impairment/dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31282541,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "An 80-year-old patient presents with concerns about his memory function, as he is forgetting names and where he is putting his belongings. He is totally independent. What is the likely diagnosis?",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Mild cognitive impairment (MCI)",
+        "C": "Normal aging",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the differential diagnosis of memory complaints in an elderly, independent person, specifically distinguishing Normal Aging, Mild Cognitive Impairment (MCI), and early Dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16869953,
+    "fields": {
+      "question_number": "Q207",
+      "question_text": "A patient with dementia presents with insomnia and agitation. What medication would you prescribe?",
+      "options": {
+        "A": "Trazodone",
+        "B": "Haloperidol",
+        "C": "Lorazepam",
+        "D": "Donepezil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the management of behavioral and psychological symptoms of dementia (BPSD), specifically insomnia and agitation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97308437,
+    "fields": {
+      "question_number": "Q140",
+      "question_text": "What is the second most common type of neurodegenerative dementia?",
+      "options": {
+        "A": "Alzheimer's Disease (AD)",
+        "B": "Lewy Body Dementia (LBD)",
+        "C": "Frontotemporal Dementia (FTD)",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the epidemiology and relative prevalence of different types of neurodegenerative dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47631631,
+    "fields": {
+      "question_number": "Q184",
+      "question_text": "A patient with frontotemporal dementia (FTD) shows frontal and temporal atrophy on MRI. What is the most likely diagnosis?",
+      "options": {
+        "A": "Alzheimer's disease",
+        "B": "Frontotemporal dementia",
+        "C": "Lewy body dementia",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Direct question correlating clinical syndrome (FTD) and characteristic imaging findings to the diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67293498,
+    "fields": {
+      "question_number": "Q38",
+      "question_text": "An elderly patient presented to the neurology clinic with complaints of progressive memory problems. The physician prescribed medication for him. After 2 weeks, he presented with nausea, anorexia, and diarrhea. Which of the following is the most likely prescribed medication?",
+      "options": {
+        "A": "Memantine",
+        "B": "Rivastigmine",
+        "C": "Donepezil",
+        "D": "Galantamine"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the side effects of a common medication class (cholinesterase inhibitors like Rivastigmine) used to treat dementia symptoms."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99925089,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "What is the mechanism of action of Donepezil?",
+      "options": {
+        "A": "Acetylcholine esterase inhibitor",
+        "B": "Acetylcholine esterase agonist",
+        "C": "NMDA antagonist",
+        "D": "Dopamine receptor antagonist"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about the pharmacological mechanism of a drug primarily used for treating Alzheimer's disease."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26221635,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A young patient with a history of memory loss has a family history of similar issues. Which gene is most likely involved?",
+      "options": {
+        "A": "APP",
+        "B": "PSEN1",
+        "C": "MAPT",
+        "D": "APOE"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links early-onset familial memory loss (suggestive of Alzheimer's disease) to a causative gene (APP - Amyloid Precursor Protein)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75427485,
+    "fields": {
+      "question_number": "Q225",
+      "question_text": "What is the most likely diagnosis for a patient with a PET scan showing low FOG uptake in the parietal cortex and temporal and frontal regions in advanced stages?",
+      "options": {
+        "A": "Frontotemporal Dementia (FTD)",
+        "B": "Alzheimer's Disease (AD)",
+        "C": "Dementia with Lewy Bodies (DLB)",
+        "D": "Parkinson's Disease (PD)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Requires interpreting PET scan findings (FDG-PET hypometabolism pattern) to differentiate between types of dementia (likely AD pattern described)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12851532,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "Q40. (Source: Part 1 2021_mcqs.txt) Which type of pathology is most commonly associated with the semantic variant of primary progressive aphasia (semantic dementia)?",
+      "options": {
+        "A": "FTLD\u2013tau type pathology",
+        "B": "Alzheimer\u2019s disease pathology",
+        "C": "FTLD\u2013TDP\u201343 type C pathology",
+        "D": "Vascular dementia pathology"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of the underlying molecular pathology typically associated with a specific clinical dementia syndrome (semantic variant PPA -> FTLD-TDP Type C)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35590819,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "Which gene is related to early onset Alzheimer's disease (AD)?",
+      "options": {
+        "A": "APOE",
+        "B": "APP",
+        "C": "Presenilin 1",
+        "D": "Presenilin 2"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks to identify genes specifically linked to early-onset Alzheimer's disease (APP, PSEN1, PSEN2 vs APOE which is risk factor mainly for late-onset)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44887770,
+    "fields": {
+      "question_number": "Q111",
+      "question_text": "What is the drug that showed evidence to treat visual hallucinations in dementia with Lewy bodies (DLB)?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "Quetiapine",
+        "C": "Donepezil",
+        "D": "Clonazepam"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the specific pharmacological management of neuropsychiatric symptoms (visual hallucinations) within the context of a specific dementia subtype (DLB)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21897943,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "In a scenario about DLB, if a patient developed hallucinations and psychiatric symptoms, which treatment is indicated?",
+      "options": {
+        "A": "Quetiapine",
+        "B": "Rivastigmine",
+        "C": "Clozapine",
+        "D": "Donepezil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the treatment of specific symptoms (hallucinations/psychosis) in Dementia with Lewy Bodies."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88129102,
+    "fields": {
+      "question_number": "Q126",
+      "question_text": "Q126. (Source: Part II 2019_mcqs.txt) A young patient presents with Alzheimer\u2019s disease with a family history of autosomal dominant inheritance. Which genetic mutation is most commonly associated with early-onset Alzheimer\u2019s disease?",
+      "options": {
+        "A": "APP",
+        "B": "APOE4",
+        "C": "Presenilin 1",
+        "D": "Presenilin 2"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the specific genetics underlying early-onset Alzheimer's disease, a primary dementia syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17608447,
+    "fields": {
+      "question_number": "Q101",
+      "question_text": "Q101. (Source: Part II 2018_mcqs.txt) In the context of Lewy body dementia, which of the following behavioral symptoms is commonly observed?",
+      "options": {
+        "A": "Euphoria",
+        "B": "Psychosis",
+        "C": "Hyperactivity",
+        "D": "Mania"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of characteristic non-cognitive symptoms (behavioral disturbance - psychosis) of Lewy Body Dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 90163894,
+    "fields": {
+      "question_number": "Q20",
+      "question_text": "A patient presents with young-onset familial Alzheimer's disease and a family history of the condition. What is the gene associated with this type of Alzheimer's?",
+      "options": {
+        "A": "APP",
+        "B": "PSEN1",
+        "C": "PSEN2",
+        "D": "APOE"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the specific genes (APP, PSEN1, PSEN2) responsible for early-onset familial Alzheimer's disease, a primary dementia syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15883672,
+    "fields": {
+      "question_number": "Q127",
+      "question_text": "Which of the following conditions is characterized by 3-repeat tau and ubiquitin?",
+      "options": {
+        "A": "FTD-pick",
+        "B": "FTD-parkinsonism",
+        "C": "bvFTD",
+        "D": "FTD-ALS"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the specific neuropathological proteinopathy (3-repeat tau) underlying a subtype of Frontotemporal Dementia (FTD-Pick's disease), a major dementia category."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25312113,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "Which of the following genes is commonly linked to Alzheimer's disease?",
+      "options": {
+        "A": "APOE4",
+        "B": "APP",
+        "C": "PSEN1",
+        "D": "MAPT"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about genes associated with Alzheimer's disease (including the risk factor APOE4 and causative genes like APP/PSEN1), a primary dementia syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93217174,
+    "fields": {
+      "question_number": "Q92",
+      "question_text": "Which of the following genes is associated with familial Alzheimer\u2019s disease?",
+      "options": {
+        "A": "APP",
+        "B": "PSEN1",
+        "C": "PSEN2",
+        "D": "Apolipoprotein E"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the specific genes (like APP, PSEN1, PSEN2) implicated in early-onset familial Alzheimer's disease, a primary dementia syndrome. APOE is a risk factor, not typically causative for familial AD."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83170536,
+    "fields": {
+      "question_number": "Q105",
+      "question_text": "A patient came with behavioral changes; what is the gene defect?",
+      "options": {
+        "A": "Progranulin/Ch17 (TDP-43)",
+        "B": "TDP-43",
+        "C": "FTD-parkinsonism",
+        "D": "MAPT/Ch17 (4-repeat tau)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links behavioral changes suggestive of Frontotemporal Dementia (FTD) to specific causative gene mutations (e.g., Progranulin/GRN or MAPT), classifying based on the primary clinical syndrome (dementia)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48328189,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "A young man with a family history of early onset Alzheimer disease. Which of the following genes increases the risk of sporadic Alzheimer disease?",
+      "options": {
+        "A": "APP",
+        "B": "Apolipoprotein E",
+        "C": "PSEN1",
+        "D": "MAPT"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses specifically on genetic risk factors (ApoE) for sporadic Alzheimer's disease, contrasting with familial genes, placing it within the dementia field due to the disease context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1046948,
+    "fields": {
+      "question_number": "Q49",
+      "question_text": "A patient with dementia has insomnia and agitation. What medication would you prescribe?",
+      "options": {
+        "A": "Trazodone",
+        "B": "Quetiapine",
+        "C": "Clozapine",
+        "D": "Risperidone"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the management of behavioral and psychological symptoms of dementia (BPSD), specifically insomnia and agitation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59561420,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A patient with a history of memory changes and forgetfulness has cerebrospinal fluid (CSF) analysis showing high tau protein and low amyloid levels. What is the most likely diagnosis?",
+      "options": {
+        "A": "Alzheimer's disease",
+        "B": "Frontotemporal dementia",
+        "C": "Lewy body dementia",
+        "D": "Normal pressure hydrocephalus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on using specific CSF biomarkers (Tau, Amyloid) to diagnose Alzheimer's disease, a primary cause of dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27487752,
+    "fields": {
+      "question_number": "Q46",
+      "question_text": "Which of the following most accurately summarizes the current situation with respect to the use of cholinesterase inhibitors to delay or prevent the progression from Mild Cognitive Impairment (MCI) to Alzheimer's disease or other forms of dementia?",
+      "options": {
+        "A": "Not proven to be effective in delaying or preventing the development of dementia",
+        "B": "Highly effective in preventing progression to Alzheimer's disease",
+        "C": "Recommended as first-line treatment for all patients with MCI",
+        "D": "Shown to reverse cognitive decline in MCI patients"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Discusses the efficacy of a class of drugs (cholinesterase inhibitors) specifically in the context of MCI and its progression to dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64658543,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "An individual with mild cognitive impairment is more likely to progress to dementia or Alzheimer disease if he/she:",
+      "options": {
+        "A": "Is an APOE4 carrier.",
+        "B": "Has atrophic hippocampi on MRI.",
+        "C": "Has an elevated tau level in the CSF.",
+        "D": "Has positive amyloid imaging on PET scan."
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of risk factors and biomarkers (genetic, imaging, CSF) that predict progression from Mild Cognitive Impairment (MCI) to dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45184289,
+    "fields": {
+      "question_number": "Q63",
+      "question_text": "A male patient presents with recent behavioral changes, and MRI shows frontal and temporal atrophy. What is the most likely diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Lewy body dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Links clinical presentation (behavioral changes) and neuroimaging findings (frontotemporal atrophy) to a specific type of dementia (FTD)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67812983,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "An elderly male was brought in by his family with urinary incontinence for years and cognitive decline (MMSE 25/30). He has bradykinesia, mild rigidity, and a shuffling gait with magnetic gait. MRI shows ventriculomegaly and mild volume loss. What is your management?",
+      "options": {
+        "A": "Trial of dopaminergic therapy",
+        "B": "Deep brain stimulation (DBS)",
+        "C": "Refer for elective shunt",
+        "D": "Symptomatic treatment only"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes the classic triad (cognitive decline, gait disturbance, urinary incontinence) and MRI findings of Normal Pressure Hydrocephalus (NPH), a treatable cause of dementia, and asks about management (ventricular shunting)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75807423,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "Cognitive symptoms in Lewy body dementia are treated with which of the following medications?",
+      "options": {
+        "A": "Cholinesterase inhibitors",
+        "B": "Antidepressants",
+        "C": "Antipsychotics",
+        "D": "Mood stabilizers"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the specific pharmacological treatment (cholinesterase inhibitors) for cognitive symptoms in Lewy body dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99822854,
+    "fields": {
+      "question_number": "Q88",
+      "question_text": "Declarative memory with remembering past experiences is referred to as:",
+      "options": {
+        "A": "Episodic memory",
+        "B": "Semantic memory",
+        "C": "Procedural memory",
+        "D": "Implicit memory"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of specific types of memory, a core concept within cognitive neurology and the assessment of dementia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75807423,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "Fatigue during the daytime and increased sleepiness in a patient with Alzheimer\u2019s disease is due to which of the following?",
+      "options": {
+        "A": "Atrophy in subthalamic nuclei",
+        "B": "Disturbance in serotonin pathway",
+        "C": "Decrease in glucose level",
+        "D": "Suprachiasmatic nucleus degeneration"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The question focuses on a symptom (sleep disturbance) specifically within the context of Alzheimer's disease pathology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11864644,
+    "fields": {
+      "question_number": "Q256",
+      "question_text": "What is the mechanism of action of donepezil?",
+      "options": {
+        "A": "Acetylcholinesterase inhibitor",
+        "B": "Direct thrombin inhibitor",
+        "C": "NMDA receptor antagonist",
+        "D": "ACE inhibitor"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the pharmacology (mechanism of action) of a primary medication used for treating dementia symptoms."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59573995,
+    "fields": {
+      "question_number": "Q198",
+      "question_text": "A 52-year-old woman presents with behavioral changes over the course of 2 years. Her concentration is decreasing, making it difficult to accomplish her work, and she does not care about her poor performance. She has gained 25 pounds in 4 months, is charged at work for telling inappropriate jokes, has stopped bathing, and refuses to take care of her personal hygiene. On examination, she has grasp and palmo-mental reflexes but no other abnormalities. Her MMSE is 29/30, but her clock drawing test was poor. What is the diagnosis?",
+      "options": {
+        "A": "Vascular dementia",
+        "B": "Frontotemporal dementia (FTD)",
+        "C": "Normal pressure hydrocephalus (NPH)",
+        "D": "Presenilin dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests the ability to diagnose a specific dementia syndrome (Frontotemporal Dementia) based on its characteristic clinical features (prominent behavioral/personality changes, executive dysfunction)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70830854,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Q51. (Source: Part 1 2021_mcqs.txt) A case scenario of a patient with urinary urgency, gait problems, and memory problems, with MRI showing very extensive white matter lesions. What is the most likely diagnosis?",
+      "options": {
+        "A": "Normal Pressure Hydrocephalus (NPH)",
+        "B": "Binswanger's disease",
+        "C": "Multiple sclerosis",
+        "D": "Alzheimer's disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes the classic triad of NPH symptoms along with imaging findings (extensive white matter lesions can be seen in Binswanger's, but the triad strongly suggests NPH, though ventriculomegaly isn't mentioned). Binswanger's (subcortical arteriosclerotic encephalopathy) also causes cognitive/gait issues but fits under the umbrella of vascular dementia. Given the triad, Dementia (specifically NPH differential) is appropriate, though it overlaps with Vascular."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22067397,
+    "fields": {
+      "question_number": "Q217",
+      "question_text": "Cognitive fluctuation is more common in which of the following conditions?",
+      "options": {
+        "A": "Dementia with Lewy Bodies (DLB)",
+        "B": "Alzheimer\u2019s Disease (AD)",
+        "C": "Frontotemporal Dementia (FTD)",
+        "D": "Vascular Dementia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of core clinical features used to differentiate between dementia syndromes, specifically recognizing cognitive fluctuations as characteristic of Dementia with Lewy Bodies (DLB)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5922284,
+    "fields": {
+      "question_number": "Q164",
+      "question_text": "A 56-year-old male with a history of memory loss for 24 hours and asking the same question repeatedly should undergo which investigation?",
+      "options": {
+        "A": "CT & CTA",
+        "B": "MRI",
+        "C": "EEG",
+        "D": "Carotid Doppler"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the diagnostic workup (preferentially MRI) for an acute amnestic syndrome typical of Transient Global Amnesia (TGA), which falls under the scope of cognitive/memory disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35307383,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "In a case of transient global amnesia (TGA) lasting 4 hours, with the patient confused, repeating questions, and preserving identity, what is the next step in management?",
+      "options": {
+        "A": "EEG",
+        "B": "Brain CT & CTA",
+        "C": "Lumbar puncture",
+        "D": "Observation and supportive care"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the appropriate initial investigations for a patient presenting with classic symptoms of Transient Global Amnesia (TGA), an episodic memory disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43695845,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "What is the commonest pathological change in neurodegenerative diseases?",
+      "options": {
+        "A": "Tangles",
+        "B": "Glial cytoplasmic inclusions",
+        "C": "Lewy bodies",
+        "D": "Neurofibrillary tangles"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Addresses the most frequent neuropathological finding across neurodegenerative diseases. Neurofibrillary tangles (tangles) are characteristic of Alzheimer's disease, the most common cause of dementia and arguably the most prevalent neurodegenerative disease overall, making Dementia the most relevant category."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50623156,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "A patient presents with hyperphagia, personality changes, and memory loss. What is the likely diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Normal pressure hydrocephalus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests diagnosis of a dementia syndrome (FTD) based on classic behavioral and cognitive symptoms."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50623156,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "A patient presents with hyperphagia, personality changes, and memory loss. What is the likely diagnosis?",
+      "options": {
+        "A": "Frontotemporal dementia",
+        "B": "Alzheimer's disease",
+        "C": "Vascular dementia",
+        "D": "Normal pressure hydrocephalus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests diagnosis of a dementia syndrome (FTD) based on classic behavioral and cognitive symptoms."
+    }
+  }
+]

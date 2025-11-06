@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "pregnant woman at 10 weeks of gestation presents with severe migraine. What is the most appropriate medication to administer?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient has continuous headache for 3 months with some increase in baseline pain. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "migraine patient with daily persistent headache has been taking daily triptans and NSAIDs. What is the next management step?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "patient with chronic migraine, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "Which of the following is NOT a criterion for neuroimaging in children with headaches?",
+    "options": {
+      "A": "Abnormal findings at neurologic examination",
+      "B": "Atypical presentation, including vertigo",
+      "C": "Recent headache of less than 6 months' duration",
+      "D": "Family history of migraine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "What is the sign on brain MRI of a patient with intracranial hypotension?",
+    "options": {
+      "A": "Leptomeningeal enhancement",
+      "B": "Decrease in venous sinus size",
+      "C": "Pituitary enlargement",
+      "D": "Decrease in anterior-posterior diameter of the brainstem"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q180",
+    "question_text": "In the same scenario asking about treatment, what is the appropriate medication?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Sumatriptan",
+      "C": "Propranolol",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "27-year-old female presents with a severe headache located over the right side of her head, characterized by throbbing pain, nausea, and phonophobia. Her neurological examination is normal, and a magnetic resonance imaging (MRI) of the brain is also normal. Which of the following would be a reasonable first-line agent for her headache?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "33-year-old female with a history of migraines calls the office because of a severe migraine at 32 weeks of pregnancy. There are no complicating features to her headache, and this headache is similar to all her prior headaches. Which of the following abortive therapies would be the most appropriate for this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "male presents with an occipital headache radiating to the frontal area. On examination, he has tenderness over the occipital protuberance, and the headache worsens with head movement. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "23-year-old female with type 1 diabetes mellitus is seeking prophylaxis for her migraines. What medication should be prescribed?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "What is the treatment for an acute attack of short-lasting unilateral neuralgiform headache?",
+    "options": {
+      "A": "Lidocaine",
+      "B": "Indomethacin",
+      "C": "Gabapentin",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged female presents with unilateral headache associated with tearing and ptosis. What should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of trigeminal neuralgia (TN) is presented, where the condition is triggered by touching his face and he also has lacrimation. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "What is the treatment for hypnic headache?",
+    "options": {
+      "A": "Lithium",
+      "B": "Oxygen",
+      "C": "Amitriptyline",
+      "D": "Indomethacin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "What percentage of migraine patients report their attack in the emergency room as disabling after 24 hours?",
+    "options": {
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "What is the physiology of cluster headache?",
+    "options": {
+      "A": "Imbalance neurotraumatic in the trigeminal nerve",
+      "B": "Brainstem change modulation",
+      "C": "Ipsilateral hypothalamus in the CNS",
+      "D": "Dysfunction of the autonomic nervous system"
+    },
+    "correct_answer": "C",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "young lady experiences severe headaches with orgasm, and similar episodes occur every time. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "In SUNCT, what are the minimum ipsilateral autonomic symptoms?",
+    "options": {
+      "A": "Conjunctival injection and lacrimation",
+      "B": "Nasal congestion and rhinorrhea",
+      "C": "Eyelid edema and miosis",
+      "D": "Forehead sweating and ptosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old man presents with episodic, unilateral, throbbing headaches associated with nausea and light and noise sensitivity. They are triggered by some foods, including cheddar cheese. Most of his headaches occur without any obvious precipitant. He generally has one headache on the weekend that keeps him from his regular activities on the days they occur. He has had this occurring at least 1 to 2 days per week with at least 50% time loss. He has tried multiple over-the-counter remedies without satisfactory relief. Which of the following medications for symptomatic treatment of his headache would be most appropriate at this time?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "In a case of paroxysmal hemicrania, what is the treatment?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Sumatriptan",
+      "C": "Propranolol",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "pregnant patient at 12 weeks gestational age with status migrainosus is asking about management. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a history of unilateral headache, severe, lasting less than 5 minutes, with stabbing pain and associated autonomic symptoms on the same side (tearing). What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old female patient, known to have migraine, presented with a new headache unlike her usual migraines for more than 3 months. It is more constant, not associated with nausea, vomiting, photophobia, or phonophobia, and not improved with usual analgesics. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "What is a contraindication for using NSAIDs in the 3rd trimester of pregnancy?",
+    "options": {
+      "A": "Risk of headache",
+      "B": "Premature closure of the ductus arteriosus",
+      "C": "Increased risk of nausea",
+      "D": "Ineffectiveness in treating migraines"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

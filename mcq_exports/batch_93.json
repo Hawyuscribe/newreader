@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q52",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with scapular winging and weakness, and he has very high CK levels. Muscle biopsy showed eosinophils. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of diabetes mellitus presents with peripheral neuropathy and has impaired sensation for pinprick up to mid-shin. What test would be best for diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "patient came with neuropathy after a mild car accident, with PMP 22 deletion. What are the pathology findings?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "young patient presented with weakness and cannot extend his elbow; he has toe walking, and ECG showed RBBB. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "In a patient with a familial history of amyotrophic lateral sclerosis (ALS), which gene mutations are commonly associated?",
+    "options": {
+      "A": "SOD1",
+      "B": "C9orf72",
+      "C": "TARDBP",
+      "D": "FUS"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "In a typical scenario of a stiff person, EMG showed continuous contractions. What is the antibody?",
+    "options": {
+      "A": "Anti-GAD",
+      "B": "Anti-AChR",
+      "C": "Anti-MuSK",
+      "D": "Anti-Hu"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "22-year-old female patient presented with difficulty walking and climbing stairs; however, she has normal lifestyle function. Her parents are relatives, and her brother and sister have similar complaints. Genetic study for the family revealed a positive SMN1 gene mutation. Which of the following will correspond to the patient\u2019s diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "In a case scenario of a patient with inner arm and forearm tingling sensation, thenar muscle weakness, and pain when raising the arm, where is the localization?",
+    "options": {
+      "A": "C8-T1",
+      "B": "C7",
+      "C": "Upper brachial plexus",
+      "D": "T1 dermatome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged man presents to the outpatient clinic with a history of peripheral neuropathy. His past medical history is significant for asthma and recurrent sinusitis. Laboratory tests show positive P-ANCA. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "patient with shoulder pain had weakness in the forearm and arm. What is the most commonly involved structure?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "An elderly thin female presents with foot drop and decreased sensation in the first and second toes. What is the likely cause?",
+    "options": {
+      "A": "Tibial nerve injury",
+      "B": "Peroneal nerve injury",
+      "C": "Femoral nerve injury",
+      "D": "Sciatic nerve injury"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old male presented to the clinic due to weakness that started in the last 3 years and progressed. His weakness is described as difficulty in climbing stairs and standing from a chair. He has a family history of similar weakness. Physical examination showed mild weakness in shoulder abduction bilaterally and lower limb weakness bilaterally. Reflexes were depressed in the knee and ankle bilaterally, and EMG showed lower limb fibrillation. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "",
+    "options": {
+      "A": "patient with back pain radiating to the left lower limb and normal ankle reflex. What muscle is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "young patient with congenital myasthenia gravis (MG) has a history suggestive of slow channel type. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "In a scenario of Miller Fisher syndrome, what is the associated antibody?",
+    "options": {
+      "A": "GQ1b",
+      "B": "GM1",
+      "C": "GD1a",
+      "D": "GQ1a"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "Typical case of a young lady with diurnal proximal muscle weakness with dysarthria and tongue fasciculations. What is the likely diagnosis?",
+    "options": {
+      "A": "Lambert-Eaton Myasthenic Syndrome (LEMS)",
+      "B": "Anti-muscle antibody Myasthenia Gravis",
+      "C": "Congenital Myasthenic Syndrome",
+      "D": "Botulism"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q198",
+    "question_text": "Case of muscle weakness with deltoid sparing?",
+    "options": {
+      "A": "Myotonic dystrophy type 2",
+      "B": "Facioscapulohumeral dystrophy",
+      "C": "Limb-girdle muscular dystrophy",
+      "D": "Inclusion body myositis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q323",
+    "question_text": "",
+    "options": {
+      "A": "scenario about a patient with CIDP is presented. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q339",
+    "question_text": "",
+    "options": {
+      "A": "patient with polymyalgia rheumatica is on steroids (5 mg) post-myocardial infarction and is also taking atorvastatin (40 mg). The patient presents with proximal muscle weakness and cannot rise from a seated position, with a creatine kinase level of 1880. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q343",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old female with a picture of Miller Fisher syndrome is asked about treatment. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q354",
+    "question_text": "In Myasthenia Gravis, which statement is correct regarding the association with thymoma?",
+    "options": {
+      "A": "Related to thymoma",
+      "B": "Bad prognosis",
+      "C": "No response to steroids",
+      "D": "More common in males"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q384",
+    "question_text": "In a case of neurofascin 51, what is the pathophysiology?",
+    "options": {
+      "A": "Paranodal dissection",
+      "B": "Complement mediated",
+      "C": "Antibody mediated",
+      "D": "Demyelination"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "",
+    "options": {
+      "A": "lady who has symptoms of peripheral neuropathy (among other symptoms) and electrophoresis showed the presence of IgM antibody. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "",
+    "options": {
+      "A": "MAG antibodies",
+      "B": "Anti-MAG antibodies",
+      "C": "Anti-GM1 antibodies",
+      "D": "Anti-MuSK antibodies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q195",
+    "question_text": "",
+    "options": {
+      "A": "Cold",
+      "B": "Conduction block in some fibres",
+      "C": "Increased threshold",
+      "D": "Prolonged stimulation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

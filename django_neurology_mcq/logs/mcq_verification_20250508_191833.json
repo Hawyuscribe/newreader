@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-05-08 19:18:33",
+  "total_mcqs": 310,
+  "subspecialties": {
+    "Epilepsy": 310
+  },
+  "exam_types": {
+    "Part II": 182,
+    "Part I": 87,
+    "Promotion": 41
+  },
+  "exam_years": {
+    "2021": 78,
+    "2020": 43,
+    "2022": 50,
+    "2019": 25,
+    "2018": 39,
+    "2023": 32,
+    "2024": 43
+  },
+  "with_explanation": 310,
+  "explanation_with_table": 309,
+  "options_count": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 310,
+    "5": 0
+  },
+  "sample_mcq": {
+    "id": 100022082,
+    "question_text": "Typical juvenile myoclonic epilepsy (JME) patient on topiramate is well controlled; he wants to stop the medication. What is the recommendation?",
+    "options": {
+      "A": "Lifelong treatment",
+      "B": "Gradual tapering off after 2 years seizure-free",
+      "C": "Immediate discontinuation of medication",
+      "D": "Switch to another antiepileptic drug before stopping"
+    },
+    "correct_answer": "A",
+    "subspecialty": "Epilepsy",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "question_number": "45",
+    "explanation_length": 5201,
+    "has_table": true
+  }
+}

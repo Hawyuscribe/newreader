@@ -1,0 +1,15 @@
+{
+  "name": "mcq-agent-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "agents"
+  ],
+  "scripts": {
+    "heroku-postbuild": "npm --prefix agents install --omit=dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

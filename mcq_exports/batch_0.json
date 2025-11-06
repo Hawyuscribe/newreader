@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "female patient fell from a height of 3 meters while cleaning her house and presents with severe headache and nausea. What is the most appropriate next step in her management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "An elderly patient presented with fluctuating levels of consciousness. Which of the following should be done?",
+    "options": {
+      "A": "Metabolic panel screen",
+      "B": "Brain MRI",
+      "C": "Lumbar puncture",
+      "D": "Electroencephalogram (EEG)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "Which of the following is a therapeutic effect of mannitol?",
+    "options": {
+      "A": "Decreased mean arterial pressure",
+      "B": "Increased intravascular volume",
+      "C": "Increased intracranial pressure",
+      "D": "Decreased blood viscosity"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "patient with intracerebral hemorrhage (ICH) followed by midline shift had an EVD inserted and then developed signs of infection. Blood and CSF cultures were sent. You want to start empirical treatment. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "patient on warfarin develops intracranial hemorrhage. What is the next step? (No PCC in answers)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "",
+    "options": {
+      "A": "patient with head trauma arrives at the emergency department conscious and oriented. After one hour, he loses consciousness and has a dilated right pupil. What abnormality would you expect to see on a brain CT?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "What is a potential complication of using hypertonic saline in the treatment of increased ICP?",
+    "options": {
+      "A": "Cerebral edema",
+      "B": "Pulmonary edema",
+      "C": "Increased intracranial pressure",
+      "D": "Decreased mean arterial pressure"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "An elderly patient is brought to the emergency department by his family after they found him unresponsive in bed. The last time he was seen well was 1 day ago. A CT scan of the brain shows a large infarction in the right middle cerebral artery (MCA) with midline shift. What is the most important thing to do?",
+    "options": {
+      "A": "Decompressive craniectomy",
+      "B": "Admission to stroke unit",
+      "C": "Initiate intravenous thrombolysis",
+      "D": "Start antiplatelet therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "An elderly patient was admitted after a cardiac arrest and is now in the ICU. He is intubated, sedated, and given muscle relaxants. His pupils are non-reactive, and there is no motor response. What should be done next?",
+    "options": {
+      "A": "Perform an EEG",
+      "B": "Obtain an MRI",
+      "C": "Start hypothermia measures",
+      "D": "Administer intravenous fluids"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "female patient post subarachnoid hemorrhage (SVD) presented with headache, visual field deficit, and suspected SIADH. With blood pressure low below 90, what is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q155",
+    "question_text": "",
+    "options": {
+      "A": "female patient diagnosed with cerebral venous thrombosis (CVT) was admitted to the ICU and then deteriorated. A CT scan showed brain edema. What is in favor of hypertonic saline over mannitol?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "When should a patient with Guillain-Barr\u00e9 syndrome be admitted to the ICU?",
+    "options": {
+      "A": "Rapid progression of weakness",
+      "B": "Severe autonomic or swallowing dysfunction",
+      "C": "Evolving respiratory distress",
+      "D": "Persistent severe pain"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "brain CT shows coup contrecoup injury (left frontal and right temporal bleed). What is the mechanism of injury?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "What is the difference between mannitol and hypertonic saline?",
+    "options": {
+      "A": "Decrease intracranial pressure (ICP)",
+      "B": "More nephrotoxicity",
+      "C": "Increase cerebral blood flow",
+      "D": "Different effects on serum sodium levels"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "What is the most important predictor of outcome in cardiac arrest?",
+    "options": {
+      "A": "Duration of CPR",
+      "B": "Bilateral somatosensory evoked potentials (SSEP)",
+      "C": "Absent pupillary response in 24 hours",
+      "D": "Initial rhythm at time of arrest"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "EVD associated with infection:",
+    "options": {
+      "A": "Less than 3% risk of infection.",
+      "B": "Infection improved if the catheter changed every 5 days.",
+      "C": "Increasing after 7 days.",
+      "D": "Prophylactic antibiotics reduce infection rates."
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "Which of the following statements is true regarding the duration of effect between hypertonic saline and mannitol?",
+    "options": {
+      "A": "The effects of hypertonic saline typically last longer than those of mannitol.",
+      "B": "The effects of mannitol typically last longer than those of hypertonic saline.",
+      "C": "Both have the same duration of effect.",
+      "D": "Neither has a significant duration of effect."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "patient came with high blood pressure and a picture of PRESS syndrome. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q344",
+    "question_text": "Which of the following statements is true regarding mannitol and hypertonic saline in the management of increased intracranial pressure (ICP)?",
+    "options": {
+      "A": "Both agents improve red blood cell rheology.",
+      "B": "Both agents can cause metabolic acidosis.",
+      "C": "A rebound exacerbation of increased ICP may occur after stopping a continuous infusion of either agent.",
+      "D": "Both agents reduce cerebral edema by decreasing blood-brain barrier permeability."
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "vague scenario describes a patient with no history available, brought to the ER with decreased level of consciousness and fever. A CT scan of the brain and CSF analysis are normal. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "In a case of subarachnoid hemorrhage (SAH), the patient is found to have hyponatremia, high urine sodium, and high osmolarity. What is the appropriate treatment?",
+    "options": {
+      "A": "Fluid restriction",
+      "B": "Intravenous fluids (IVF)",
+      "C": "Diuretics",
+      "D": "Hypertonic saline"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "What is the most important predictor of outcome in cardiac arrest?",
+    "options": {
+      "A": "Duration of CPR",
+      "B": "Bilateral SSEP",
+      "C": "Absent pupillary response in 24 hours",
+      "D": "Initial rhythm on ECG"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "What is the best predictor for a patient in a coma (not considering brain death or time)?",
+    "options": {
+      "A": "Etiology",
+      "B": "Somatosensory Evoked Potential (SSPE)",
+      "C": "Pupillary light reflex",
+      "D": "Glasgow Coma Scale score"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "19-year-old female patient came with encephalopathy; MRI showed high signal intensity in the basal ganglia and thalamus; what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "",
+    "options": {
+      "A": "patient with a long ICU stay developed neuropathy/myopathy. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  }
+]

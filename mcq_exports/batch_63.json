@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q76",
+    "question_text": "What are potential endocrine abnormalities associated with Kearns-Sayre Syndrome?",
+    "options": {
+      "A": "Hyperthyroidism and hyperaldosteronism",
+      "B": "Hypothyroidism and diabetes mellitus",
+      "C": "Hypoparathyroidism and adrenal insufficiency",
+      "D": "Growth hormone deficiency"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+    "options": {
+      "A": "Adrenoleukodystrophy",
+      "B": "Duchenne muscular dystrophy",
+      "C": "Hemophilia A",
+      "D": "Fragile X syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q294",
+    "question_text": "What is the likely diagnosis for a patient presenting with hyperammonemia and low L-citrulline levels?",
+    "options": {
+      "A": "Urea cycle disorder",
+      "B": "Maple syrup urine disease",
+      "C": "Mitochondrial encephalopathy",
+      "D": "Ornithine transcarbamylase deficiency"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "Which disease is characterized by the presence of globoid cells?",
+    "options": {
+      "A": "Krabbe Disease",
+      "B": "Tay-Sachs Disease",
+      "C": "Metachromatic Leukodystrophy",
+      "D": "Niemann-Pick Disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "Pediatric patient had a bullous rash that worsens with sun exposure, and he has conjunctivitis; what is the diagnosis?",
+    "options": {
+      "A": "Xeroderma pigmentosum",
+      "B": "Epidermolysis bullosa",
+      "C": "Porphyria cutanea tarda",
+      "D": "Systemic lupus erythematosus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "Pediatric patient had mental retardation, tremor, and ataxia; his sister had ovarian insufficiency; what is the typical imaging finding?",
+    "options": {
+      "A": "Bilateral cerebellar hyperintensity",
+      "B": "Cerebral cortical atrophy",
+      "C": "Basal ganglia calcifications",
+      "D": "White matter demyelination"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q175",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male presented at age 40 with ophthalmoplegia and visual symptoms but no visual loss. Later, at age 50, he developed parkinsonism and gait issues along with cardiac symptoms. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q235",
+    "question_text": "",
+    "options": {
+      "A": "patient with ADHD presents with light brown lesions. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "In a scenario of Fabry disease, what is the enzyme that is defective?",
+    "options": {
+      "A": "Alpha-galactosidase A",
+      "B": "Beta-glucocerebrosidase",
+      "C": "Sphingomyelinase",
+      "D": "Hexosaminidase A"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "Same scenario asking about diagnosis:",
+    "options": {
+      "A": "Fragile X syndrome",
+      "B": "Down syndrome",
+      "C": "Rett syndrome",
+      "D": "Angelman syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with blurry vision, ataxia, and ophthalmoplegia. Which condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "7-year-old boy presents with myoclonic epilepsy, cognitive decline, and hypotonia. Pathology shows lysosome accumulation. Which of the following conditions is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "child presents with encephalopathy and hyperammonemia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q235",
+    "question_text": "In a case of Neurofibromatosis type 1 (NF1) with light brown macules, what is the name of the skin lesion?",
+    "options": {
+      "A": "Caf\u00e9 au lait spot",
+      "B": "Lisch nodules",
+      "C": "Ash leaf spot",
+      "D": "Port-wine stain"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q296",
+    "question_text": "An infant presents with a head circumference at the 100th percentile, height at the 10th percentile, and weight at the 20th percentile. The infant also has multiple caf\u00e9 au lait spots and axillary flickering [freckling]. What is the most likely diagnosis?",
+    "options": {
+      "A": "Neurofibromatosis Type 1 (NF1)",
+      "B": "Neurofibromatosis Type 2 (NF2)",
+      "C": "Tuberous Sclerosis Complex (TSC)",
+      "D": "Fetal Alcohol Spectrum Disorder"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q297",
+    "question_text": "",
+    "options": {
+      "A": "child with a facial port wine stain and a CT brain showing tram-track calcification is diagnosed with:"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "child presents with areas of sun-exposed pigmentation, eye problems, and seizures. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "2-week-old infant developed progressive hypotonia and feeding difficulties. He was found to have increased branched amino acids in urine. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "4-year-old male patient presents with microcephaly, seizures, and has a musty odor to his urine. Which of the following conditions is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "Phenylketonuria (PKU) is caused by a defect in the hydroxylation of which amino acid?",
+    "options": {
+      "A": "Tyrosine",
+      "B": "Tryptophan",
+      "C": "Phenylalanine",
+      "D": "Leucine"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "Which of the following is a symptom of untreated Phenylketonuria (PKU)?",
+    "options": {
+      "A": "Normal development at birth",
+      "B": "Severe mental retardation",
+      "C": "Eczema",
+      "D": "Seizures"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "Biotinidase deficiency",
+      "B": "Phenylketonuria",
+      "C": "Maple syrup urine disease",
+      "D": "Homocystinuria"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "Pediatric patients with presentations suggestive of Menkes disease (friable hair) will typically show which of the following findings?",
+    "options": {
+      "A": "Low copper level",
+      "B": "Elevated serum ceruloplasmin",
+      "C": "Increased urinary copper excretion",
+      "D": "Normal serum copper level"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "hypotonic baby with colorless hair and seizures has a CT brain showing subdural collection. What lab findings are expected in Glutaric aciduria type 1 (GA1)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "child is diagnosed with ataxia-telangiectasia. Which of the following is a common non-neurologic sign associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  }
+]

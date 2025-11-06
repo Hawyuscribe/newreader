@@ -1,0 +1,565 @@
+/* ReasoningPal styling */
+/* Modal styling */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 3% auto;
+    padding: 30px;
+    border: 1px solid #888;
+    width: 95%;
+    max-width: 1400px;
+    max-height: 90vh;
+    overflow-y: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+}
+
+/* ReasoningPal Button Styling */
+#reasoning-pal-button-container {
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+    transition: all 0.3s ease;
+}
+
+.reasoning-pal-button-wrapper {
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+}
+
+.reasoning-pal-button-wrapper:hover {
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+    transform: translateY(-2px);
+}
+
+#launch-reasoning-pal {
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+#launch-reasoning-pal:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.2);
+    transform: translateX(-100%);
+    transition: transform 0.6s ease;
+}
+
+#launch-reasoning-pal:hover:after {
+    transform: translateX(100%);
+}
+
+/* Animation classes */
+@keyframes pulse {
+    0% {transform: scale(1);}
+    50% {transform: scale(1.05);}
+    100% {transform: scale(1);}
+}
+
+.animate__animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+.animate__pulse {
+    animation-name: pulse;
+}
+
+/* ReasoningPal content styling */
+.reasoning-guidance-content {
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.8;
+    color: #333;
+    word-wrap: break-word;
+    word-break: normal;
+    overflow-wrap: break-word;
+    font-size: 16px;
+    max-width: 100%;
+}
+
+.reasoning-guidance-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+    max-width: 100%;
+}
+
+.reasoning-guidance-content * {
+    max-width: 100%;
+}
+
+/* Headings */
+.reasoning-section-title {
+    color: #0d6efd;
+    font-size: 1.8rem;
+    font-weight: 700;
+    border-bottom: 2px solid #0d6efd;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    clear: both;
+}
+
+.reasoning-section-title i {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color: #0d6efd;
+}
+
+.reasoning-section-subtitle {
+    color: #343a40;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 8px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    clear: both;
+}
+
+.reasoning-section-subtitle i {
+    font-size: 1.3rem;
+    margin-right: 10px;
+    color: #0d6efd;
+}
+
+.reasoning-guidance-content h1,
+.reasoning-guidance-content h2,
+.reasoning-guidance-content h3,
+.reasoning-guidance-content h4,
+.reasoning-guidance-content h5,
+.reasoning-guidance-content h6 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    line-height: 1.3;
+    clear: both;
+}
+
+.reasoning-guidance-content h1 {
+    font-size: 1.8rem;
+    color: #0d6efd;
+    border-bottom: 2px solid #e9ecef;
+    padding-bottom: 0.5rem;
+}
+
+.reasoning-guidance-content h2 {
+    font-size: 1.6rem;
+    color: #343a40;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 0.3rem;
+}
+
+.reasoning-guidance-content h3 {
+    color: #343a40;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.reasoning-guidance-content h4 {
+    color: #495057;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* Lists */
+.reasoning-list {
+    padding-left: 5px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.reasoning-list li {
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    background-color: #f8f9fa;
+    border-radius: 6px;
+    border-left: 3px solid #6610f2;
+    display: flex;
+    align-items: flex-start;
+}
+
+.reasoning-list li i {
+    color: #6610f2;
+    margin-right: 10px;
+    margin-top: 3px;
+    flex-shrink: 0;
+}
+
+.reasoning-guidance-content ul,
+.reasoning-guidance-content ol {
+    margin-top: 1.2rem;
+    margin-bottom: 1.8rem;
+    padding-left: 2rem;
+}
+
+.reasoning-guidance-content ul li,
+.reasoning-guidance-content ol li {
+    margin-bottom: 0.8rem;
+    line-height: 1.7;
+    padding-left: 0.25rem;
+}
+
+/* Standard list styles */
+.reasoning-guidance-content ul:not(.reasoning-list) {
+    list-style-type: disc;
+}
+
+.reasoning-guidance-content ol {
+    list-style-type: decimal;
+}
+
+/* Highlights and dividers */
+.highlight {
+    color: #dc3545;
+    font-weight: 600;
+}
+
+.reasoning-divider {
+    height: 2px;
+    background: linear-gradient(to right, transparent, #6c757d, transparent);
+    margin: 30px 0;
+    border: none;
+    clear: both;
+}
+
+/* Tables - Major improvements here */
+.reasoning-guidance-content .table-responsive {
+    overflow-x: auto;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.reasoning-guidance-content table {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+    overflow: hidden;
+    clear: both;
+    border: 1px solid #e0e0e0;
+    background-color: #fff;
+    font-size: 14px;
+    table-layout: auto;
+}
+
+/* Remove display: table which was causing vertical table rendering */
+.reasoning-guidance-content table thead,
+.reasoning-guidance-content table tbody {
+    width: 100%;
+}
+
+.reasoning-guidance-content table th {
+    background-color: #f1f8ff;
+    padding: 12px 16px;
+    text-align: left;
+    font-weight: 600;
+    border: 1px solid #dee2e6;
+    vertical-align: middle;
+    color: #343a40;
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: normal;
+    font-size: 14px;
+    min-width: 120px;
+    max-width: none;
+}
+
+.reasoning-guidance-content table td {
+    padding: 10px 14px;
+    border: 1px solid #dee2e6;
+    vertical-align: top;
+    line-height: 1.6;
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: normal;
+    font-size: 14px;
+    min-width: 120px;
+    max-width: none;
+}
+
+/* Prevent vertical letters in table cells */
+.reasoning-guidance-content table th *,
+.reasoning-guidance-content table td * {
+    word-break: normal;
+    overflow-wrap: break-word;
+    white-space: normal;
+}
+
+.reasoning-guidance-content table tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.reasoning-guidance-content table tr:hover {
+    background-color: #f1f8ff;
+}
+
+/* Specific styling for table headings */
+.reasoning-guidance-content table thead th {
+    background-color: #e9f2ff;
+    border-bottom: 2px solid #0d6efd;
+    color: #0d6efd;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+/* Other elements */
+.reasoning-guidance-content pre {
+    background-color: #2d2d2d;
+    color: #f8f8f2;
+    padding: 15px;
+    border-radius: 8px;
+    white-space: pre-wrap;
+    font-family: 'Fira Code', monospace, Consolas, Monaco, 'Andale Mono';
+    margin: 20px 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+.reasoning-guidance-content code {
+    background-color: #f8f9fa;
+    color: #e83e8c;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: 'Fira Code', monospace, Consolas, Monaco, 'Andale Mono';
+    font-size: 0.9em;
+}
+
+.reasoning-guidance-content blockquote {
+    border-left: 5px solid #6610f2;
+    padding: 10px 20px;
+    margin: 20px 0;
+    background-color: #f8f9fa;
+    color: #495057;
+    font-style: italic;
+}
+
+.text-table {
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+    margin-bottom: 10px;
+    width: 100%;
+    display: block;
+    clear: both;
+}
+
+/* Better spacing for adjacent elements */
+.reasoning-guidance-content p + ul,
+.reasoning-guidance-content p + ol,
+.reasoning-guidance-content p + table,
+.reasoning-guidance-content table + p,
+.reasoning-guidance-content ul + p,
+.reasoning-guidance-content ol + p {
+    margin-top: 1.2rem;
+}
+
+/* Satisfaction buttons */
+.satisfaction-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.satisfaction-btn.active {
+    font-weight: bold;
+}
+
+/* Loading indicator - professional version */
+.reasoning-loading-container {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    margin: 20px 0;
+    box-shadow: inset 0 0 15px rgba(0,0,0,0.05);
+}
+
+.reasoning-loading-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.reasoning-loading-icon {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.reasoning-loading-title {
+    color: #0d6efd;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+.reasoning-loading-text {
+    color: #495057;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.reasoning-loading-progress {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.reasoning-loading-progress .progress {
+    height: 10px;
+    border-radius: 5px;
+    background-color: rgba(13, 110, 253, 0.1);
+}
+
+.spinner-grow {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+    border-width: 0.25em;
+}
+
+/* Placeholder text */
+.reasoning-button-placeholder {
+    padding: 10px;
+    border: 1px dashed #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .reasoning-guidance-content {
+        padding: 15px;
+    }
+    
+    .reasoning-section-title {
+        font-size: 1.5rem;
+    }
+    
+    .reasoning-section-subtitle {
+        font-size: 1.2rem;
+    }
+    
+    .reasoning-guidance-content h1 {
+        font-size: 1.5rem;
+    }
+    
+    .reasoning-guidance-content h2 {
+        font-size: 1.3rem;
+    }
+    
+    .reasoning-guidance-content table {
+        margin: 15px 0;
+    }
+    
+    .reasoning-guidance-content table th,
+    .reasoning-guidance-content table td {
+        padding: 8px 10px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Fix for tables in case markup is in markdown format */
+.reasoning-guidance-content table tbody tr td:first-child,
+.reasoning-guidance-content table thead tr th:first-child {
+    width: auto;
+    min-width: 120px;
+}
+
+/* Specific table column width adjustments */
+.reasoning-guidance-content table.comparison-table th:first-child,
+.reasoning-guidance-content table.comparison-table td:first-child {
+    width: 25%;
+}
+
+.reasoning-guidance-content table.comparison-table th:last-child,
+.reasoning-guidance-content table.comparison-table td:last-child {
+    width: 30%;
+}
+
+/* Force tables to be responsive */
+@media (max-width: 1200px) {
+    .reasoning-guidance-content table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    .reasoning-guidance-content table th,
+    .reasoning-guidance-content table td {
+        max-width: none;
+        min-width: 120px;
+    }
+}
+
+/* Styling for term-definition pairs that might appear in responses */
+.reasoning-guidance-content dt {
+    font-weight: 700;
+    margin-top: 1rem;
+    color: #0d6efd;
+}
+
+.reasoning-guidance-content dd {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+/* Fix for images that might be in responses */
+.reasoning-guidance-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}

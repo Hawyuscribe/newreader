@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Patient presented with weakness, MRI brain showed ischemic infarction in superior cerebellar artery, what would be expected to be seen?",
+    "options": {
+      "option_a": "Ipsilateral Horner/ ptosis",
+      "option_b": "Ipsilateral fourth nerve palsy",
+      "option_c": "?",
+      "option_d": "?",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Elderly patient brought to emergency by his family who saw him unresponsive in bed, last time seen well was 1 day ago, CT brain attached showing large infarction area (Right MCA) with midline shift, what is the most important thing to do?",
+    "options": {
+      "option_a": "decompressive craniectomy",
+      "option_b": "admission to stroke unit",
+      "option_c": "?",
+      "option_d": "?",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "A 45-year-old man suffers bilateral vertebral artery dissections and multiple brain stem and cerebellar infarctions causing right hemiplegia, dysarthria, and dysphagia. Two years later he returns, complaining of oscillopsia at rest. (Not mentioned: Examination of his eyes reveals a 1-Hz pendular oscillation comprising conjugate vertical and torsional components; the right eye intorts as",
+    "options": {
+      "option_a": "(Ipsilateral Horner/ptosis) is more indicative of a lateral medullary (PICA) infarct, involving disruption of the descending sympathetic fibers. Option B (Ipsilateral fourth nerve palsy) points toward a midbrain lesion affecting the trochlear nerve. Neither of these options captures the classic presentation of an SCA infarct. The expected clinical finding would be cerebellar dysfunction, such as ipsilateral limb ataxia or other markers of cerebellar involvement, which we assume corresponds to option C (though not explicitly listed).",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Elderly patient presented with swallowing difficulty, examination found deviation of uvula to left side, Brain MRI reported brainstem infarction, what would be an expected symptom?",
+    "options": {
+      "option_a": "Right Horner (or Ptosis)",
+      "option_b": "Left horror",
+      "option_c": "Left hand ataxia",
+      "option_d": "Right LL sensory loss",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Elderly presented with 6 hours right sided weakness including arm, leg and face with mild dysarthria. Brain CT attached showing acute left internal capsule infarction. What is the earlier finding of brain cell ischemia?",
+    "options": {
+      "option_a": "Astrocyte fragmentations",
+      "option_b": "Cells or neuronal swelling",
+      "option_c": "Microglial proliferation",
+      "option_d": "?",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient presented with 6 hours right sided weakness including arm, leg and face with mild dysarthria. Brain CT showed acute left internal capsule infarction. What is the next step?",
+    "options": {
+      "option_a": "IV tpa",
+      "option_b": "DAPT",
+      "option_c": "Aspirin",
+      "option_d": "?",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke patient presented within window brain Ct and CTA normal. NIHS 16 with BP200/140 what is next step.",
+    "options": {
+      "option_a": "Drop BP below 185/110 then give tPA",
+      "option_b": "Cut perfusion",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Elderly with quadriplegia, horizontal gaze palsy with spared vertical gaze, localization:",
+    "options": {
+      "option_a": "Pons",
+      "option_b": "Thalamus",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Stroke patient presented within the window glucose 300 platelet 45000 BP 170/90 IV tPA not given, what the contraindication:",
+    "options": {
+      "option_a": "Glu",
+      "option_b": "Platelet count",
+      "option_c": "BP",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "One of the ICA branches:",
+    "options": {
+      "option_a": "SCA",
+      "option_b": "Posterior Communicating",
+      "option_c": "Ant com",
+      "option_d": "AICA",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Which of the following best describes the evidence for use of decompressive craniectomy in the management of malignant edema following large hemispheric stroke?",
+    "options": {
+      "option_a": "Decompressive craniotomy improves functional outcomes but disability persists among survivors.",
+      "option_b": "Decompressive craniotomy is not associated with survival benefit in any age group.",
+      "option_c": "Decompressive craniotomy outcomes are improved when done more than 72 hours from stroke onset.",
+      "option_d": "Older patients (more than 60 years of age) have better outcomes after decompressive craniotomy than younger patients.",
+      "option_e": "Smaller decompressive craniotomy resection is associated with improved outcomes."
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "ICH, which is correct:",
+    "options": {
+      "option_a": "ICH score is for mortality, including age, GCS, IVH volume and coagulopathy age risk factor",
+      "option_b": "Spot sign ..... Is not beneficial for reverse anticoagulation",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Young female (case about CVT), Possible risk factor:",
+    "options": {
+      "option_a": "HTN",
+      "option_b": "DM",
+      "option_c": "UC",
+      "option_d": "migraine",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Case about young patient and malignant MCA stroke. Next step:",
+    "options": {
+      "option_a": "hemicraniectomy",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Case scenario about Lateral medullary syndrome. What is the diagnosis? (Clear).",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "65-year-old man presents with an abrupt severe headache and drowsiness. His past medical history is remarkable for alcohol and tobacco abuse. On admission, his blood pressure is 150/90 mm hg, GCS score is 13, and the pupils are both 3 mm and reactive. A non-contrast CT of the head reveals a 10 cm right basal ganglia hemorrhage with extension into the right lateral and third ventricles. Two hours later he is noted to be poorly responsive, and his GCS falls to 9. Repeat CT shows no change in hematoma size but marked enlargement of the third and lateral ventricles. Which of the following interventions is most likely to improve this patient's clinical status?",
+    "options": {
+      "option_a": "Administration of mannitol",
+      "option_b": "Administration of thiamine",
+      "option_c": "External ventricular drainage",
+      "option_d": "Hypothermia",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "Patient was playing tennis then brought to emergency room after car accident was fine, doing well. CT brain and labs comes up normal BP160/95. Two hours later developed left hemianopia. he had history of migraine since age of 15, with recurrent episode every 6 months. What is the diagnosis?",
+    "options": {
+      "option_a": "Vert dissection",
+      "option_b": "RCVS",
+      "option_c": "PRESS",
+      "option_d": "ICA stenosis",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "patient with acute stroke on dabigatrin for AF, the patient underwent for thrombectomy, the patient developed hemorrhage over MCA territory, what to give:",
+    "options": {
+      "option_a": "Vit K.",
+      "option_b": "Idarocizumab.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "patient with acute stroke received tpa then developed ICH what to give:",
+    "options": {
+      "option_a": "Cryoprecipitate.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Promotion"
+  },
+  {
+    "question_text": "what is the mechanism of the following antiplatelets is correct:",
+    "options": {
+      "option_a": "Ticagrelor antagonist of p2y12",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Promotion"
+  }
+]

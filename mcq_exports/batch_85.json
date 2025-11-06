@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q17",
+    "question_text": "In a case scenario of POEMS syndrome, what will you find in the serum?",
+    "options": {
+      "A": "Anti-GM1",
+      "B": "Anti-MAG",
+      "C": "VEGF",
+      "D": "Monoclonal protein"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q553",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with flaccid weakness. What is a possible cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q424",
+    "question_text": "",
+    "options": {
+      "A": "patient on statin therapy develops necrotizing myositis. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q484",
+    "question_text": "",
+    "options": {
+      "A": "female patient complains of hand numbness that wakes her from sleep and improves with shaking her hand. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "male patient presented to the outpatient clinic for evaluation of limb weakness. He has upper limb weakness that started 6 years ago, initially affecting the right hand and progressively involving all three limbs. On physical examination, he has muscle atrophy, absent triceps reflex, and intact brachioradialis reflex. Sensory examination was normal. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "patient post hip replacement surgery presents with right lower limb weakness. Examination showed hip flexion and extension 5/5, foot dorsal flexion 0/5, plantarflexion 3/5 with sensory loss of the lateral leg. EMG/NCS showed involvement of the anterior tibial, gastrocnemius, and short head of biceps femoris. What is the most likely injured nerve?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old male patient is complaining of chronic progressive bilateral ptosis associated with difficulty swallowing and difficulty speaking. On physical examination, he has mild weakness over shoulder and pelvic muscles bilaterally. Muscle biopsy shows internuclear tubular filaments. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "",
+    "options": {
+      "A": "patient with typical features of myasthenia gravis has negative ACHR antibody and Anti-MUSK tests. What lab investigation should be sent next to confirm the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "male patient presented with symptoms suggestive of proximal muscle weakness. He has two cousins with the same presentation. EMG showed prolonged motor unit action potentials (MUAPs). Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "In a patient with median nerve conduction studies (NCS) at the elbow and wrist, what is the likely finding?",
+    "options": {
+      "A": "Conduction block",
+      "B": "Temporal dispersion",
+      "C": "Reduced amplitude",
+      "D": "Prolonged distal latency"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "patient with Limb-Girdle Muscular Dystrophy (LGMD) and a positive family history is likely to have which of the following conditions?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "In a case of acute inflammatory demyelinating polyneuropathy (AIDP) with prior diarrhea 4 weeks ago, what type is indicated if only motor function is affected with intact sensory function?",
+    "options": {
+      "A": "Acute motor axonal neuropathy (AMAN)",
+      "B": "Acute motor-sensory axonal neuropathy (AMSAN)",
+      "C": "Acute inflammatory demyelinating polyneuropathy (AIDP)",
+      "D": "Miller Fisher syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "Which muscle is tested in L5 EMG testing?",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Gastrocnemius",
+      "C": "Gluteus medius",
+      "D": "Extensor hallucis longus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "In a case of Dermatomyositis, which of the following findings is typically observed?",
+    "options": {
+      "A": "Perifascicular atrophy",
+      "B": "Rimmed vacuoles",
+      "C": "Muscle fiber necrosis",
+      "D": "Endomysial inflammation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "case of Facioscapulohumeral muscular dystrophy is presented. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "Paramyotonia is associated with which type of channel?",
+    "options": {
+      "A": "Sodium Channel (SCN4A)",
+      "B": "Chloride Channel",
+      "C": "Potassium Channel",
+      "D": "Calcium Channel"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q253",
+    "question_text": "What is a potential early complication of Guillain-Barr\u00e9 syndrome?",
+    "options": {
+      "A": "Choking",
+      "B": "Constipation",
+      "C": "Cardiac arrhythmias",
+      "D": "Respiratory failure"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q525",
+    "question_text": "",
+    "options": {
+      "A": "young female came with dilated pupils, dysphagia, and descending weakness; what is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q251",
+    "question_text": "Which of the following is a treatment option for Guillain-Barr\u00e9 syndrome?",
+    "options": {
+      "A": "Plasma exchange",
+      "B": "Intravenous immunoglobulin",
+      "C": "Corticosteroids",
+      "D": "Supportive care"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "The chromosome associated with the genetic basis of Hyperkalemic Periodic Paralysis is:",
+    "options": {
+      "A": "1q21",
+      "B": "17q13.1",
+      "C": "7p15",
+      "D": "12q24"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with weak facial muscles (cannot blow air) and weakness in the arm flexors and extensors, along with right foot drop and winging of the scapula. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q537",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a history of multifocal neuropathy multiplex. A biopsy showed necrosis and inflammatory cells in the vessels. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q345",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with urinary incontinence and symptoms suggesting autonomic dysfunction along with painful neuropathy. Nerve conduction studies indicate axonal neuropathy with carpal tunnel syndrome. What is the most appropriate investigation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "In a case of inclusion body myositis (IBM), what are the histology findings?",
+    "options": {
+      "A": "Rimmed vacuoles",
+      "B": "Perifascicular atrophy",
+      "C": "Endomysial inflammation",
+      "D": "Necrotizing myopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "",
+    "options": {
+      "A": "child presented with proximal muscle weakness and was diagnosed with laminopathy (or LMNA mutation) based on genetic testing. What is expected to be seen in examination?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

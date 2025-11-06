@@ -1,0 +1,50 @@
+{
+  "total_mcqs": 3301,
+  "placeholder_mcqs": 347,
+  "fixed_mcqs": 196,
+  "unfixable_mcqs": 151,
+  "by_subspecialty": {
+    "Pediatric Neurology": {
+      "total": 8,
+      "fixed": 0,
+      "fixed_percentage": 0.0,
+      "unfixable": 8,
+      "unfixable_percentage": 100.0
+    },
+    "Neuropsychiatry": {
+      "total": 21,
+      "fixed": 0,
+      "fixed_percentage": 0.0,
+      "unfixable": 21,
+      "unfixable_percentage": 100.0
+    },
+    "Vascular Neurology/Stroke": {
+      "total": 194,
+      "fixed": 193,
+      "fixed_percentage": 99.48,
+      "unfixable": 1,
+      "unfixable_percentage": 0.52
+    },
+    "Other/Unclassified": {
+      "total": 3,
+      "fixed": 3,
+      "fixed_percentage": 100.0,
+      "unfixable": 0,
+      "unfixable_percentage": 0.0
+    },
+    "Sleep Neurology": {
+      "total": 18,
+      "fixed": 0,
+      "fixed_percentage": 0.0,
+      "unfixable": 18,
+      "unfixable_percentage": 100.0
+    },
+    "Headache": {
+      "total": 103,
+      "fixed": 0,
+      "fixed_percentage": 0.0,
+      "unfixable": 103,
+      "unfixable_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "Sporadic large mitochondrial DNA deletion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "",
+    "options": {
+      "A": "Neurofibromatosis type 1 (NF1)",
+      "B": "Tuberous sclerosis complex",
+      "C": "Sturge-Weber syndrome",
+      "D": "McCune-Albright syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "",
+    "options": {
+      "A": "Document this in his records and respect his wishes",
+      "B": "Encourage him to inform his employer",
+      "C": "Refer him to a counselor",
+      "D": "Notify his employer for safety reasons"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q192",
+    "question_text": "In a case of Refsum's disease, a patient had trouble with vision during the night and has polyneuropathy. What is the diagnosis?",
+    "options": {
+      "A": "Refsum's disease",
+      "B": "Retinitis pigmentosa",
+      "C": "Charcot-Marie-Tooth disease",
+      "D": "Vitamin A deficiency"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "What is the mode of inheritance for Fahr disease?",
+    "options": {
+      "A": "Autosomal Recessive",
+      "B": "Autosomal Dominant",
+      "C": "X-linked",
+      "D": "There are 2 modes of transmission"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "In the scenario of Wilson's disease, what is the recommended treatment?",
+    "options": {
+      "A": "D-penicillamine",
+      "B": "Zinc",
+      "C": "Tetrathiomolybdate",
+      "D": "Liver transplant"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q183",
+    "question_text": "In a case of Fabry disease, what is the recommended treatment?",
+    "options": {
+      "A": "Alpha galactosidase, enzyme replacement",
+      "B": "Bone marrow transplantation",
+      "C": "Corticosteroid therapy",
+      "D": "Plasma exchange"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "patient with Marfanoid habitus and lens dislocation is being evaluated. What treatment will you give to him?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "Which of the following cardiac abnormalities is commonly associated with Kearns-Sayre Syndrome?",
+    "options": {
+      "A": "Atrial fibrillation",
+      "B": "Ventricular septal defect",
+      "C": "Cardiac conduction defects",
+      "D": "Myocardial infarction"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "What is the common genetic mutation found in most patients with Kearns-Sayre Syndrome?",
+    "options": {
+      "A": "Point mutation in nuclear DNA",
+      "B": "Large deletion of mitochondrial DNA",
+      "C": "Duplication of mitochondrial DNA",
+      "D": "Translocation of mitochondrial DNA"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "patient has had two strokes, sensory peripheral neuropathy, and a skin rash. What enzyme is involved in this disease?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "",
+    "options": {
+      "A": "young male patient presented for evaluation of limb numbness. He is complaining of paresthesia and burning sensation over the hands. He is also following with cardiology regarding coronary artery disease. On physical examination, there are lymphadenopathy, enlarged tonsils, and hepatomegaly. Which of the following is a common finding during laboratory evaluation for this disorder (Tangier disease)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "How should a young patient with Wilson disease be treated?",
+    "options": {
+      "A": "Chelation therapy",
+      "B": "Liver transplant",
+      "C": "Zinc supplementation",
+      "D": "Dietary copper restriction"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits startle reflex with sudden closure of his eyelids, worsening with cold. What is the gene or channel involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "What is the case for the diagnosis of Fabry Disease?",
+    "options": {
+      "A": "Alpha galactosidase",
+      "B": "Beta glucocerebrosidase",
+      "C": "Hexosaminidase A",
+      "D": "Arylsulfatase A"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "What is the case for the diagnosis of Fabry Disease?",
+    "options": {
+      "A": "Alpha galactosidase",
+      "B": "Beta glucocerebrosidase",
+      "C": "Hexosaminidase A",
+      "D": "Arylsulfatase A"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "In a case scenario of spinal muscular atrophy (SMA) suggestive of autosomal recessive inheritance, what is the likelihood of being affected in the offspring?",
+    "options": {
+      "A": "25% affected",
+      "B": "25% carriers",
+      "C": "50% carriers",
+      "D": "50% normal"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q437",
+    "question_text": "What would be the response to a dopamine agonist in a patient who does not respond to L-dopa?",
+    "options": {
+      "A": "Aromatic decarboxylase deficiency",
+      "B": "Parkinson\u2019s disease",
+      "C": "Multiple system atrophy",
+      "D": "Dopamine transporter deficiency syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q439",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with recurrent falls and an abnormal brain MRI, with a family history of similar symptoms. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "",
+    "options": {
+      "A": "patient with ADHD has a mother with brown pigmentations in her neck. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with clinical features of night blindness, disequilibrium, hearing loss, itchy dry skin, symmetrical polyneuropathy, distal muscle weakness, pes cavus, and hammer toe. His total serum protein was increased, and nerve conduction velocities were slow. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "In a scenario of symptoms suggestive of Fabry disease, what is the treatment?",
+    "options": {
+      "A": "Agalsidase (Enzyme replacement therapy)",
+      "B": "L-arginine",
+      "C": "Chaperone therapy (e.g., Migalastat)",
+      "D": "Supportive care including pain management"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "child with insomnia and low gonadotropin levels underwent an MRI that showed agenesis of the olfactory bulb. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q450",
+    "question_text": "",
+    "options": {
+      "A": "scenario presents with oculomotor apraxia, spasticity, myoclonic seizures, and hepatosplenomegaly. Which of the following is the most likely associated enzyme deficiency?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q341",
+    "question_text": "",
+    "options": {
+      "A": "scenario is typical for Guillain-Barr\u00e9 Syndrome (GBS) except that the patient had intermittent epigastric pain with recent vaccination and facial sweating. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  }
+]

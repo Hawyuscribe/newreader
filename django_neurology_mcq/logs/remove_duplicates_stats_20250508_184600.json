@@ -1,0 +1,75 @@
+{
+  "total_duplicate_groups": 347,
+  "total_duplicates_removed": 385,
+  "mcqs_preserved": 346,
+  "by_subspecialty": {
+    "Dementia": {
+      "preserved": 38,
+      "removed": 3
+    },
+    "Neurotoxicology": {
+      "preserved": 1,
+      "removed": 17
+    },
+    "Neuromuscular": {
+      "preserved": 39,
+      "removed": 146
+    },
+    "Movement Disorders": {
+      "preserved": 26,
+      "removed": 35
+    },
+    "Neuro-infectious": {
+      "preserved": 18,
+      "removed": 42
+    },
+    "Epilepsy": {
+      "preserved": 106,
+      "removed": 17
+    },
+    "Vascular Neurology/Stroke": {
+      "preserved": 55,
+      "removed": 51
+    },
+    "Neuroimmunology": {
+      "preserved": 21,
+      "removed": 30
+    },
+    "Other/Unclassified": {
+      "preserved": 0,
+      "removed": 7
+    },
+    "Neuro-oncology": {
+      "preserved": 4,
+      "removed": 15
+    },
+    "Neuro-otology": {
+      "preserved": 0,
+      "removed": 1
+    },
+    "Neuroophthalmology": {
+      "preserved": 5,
+      "removed": 7
+    },
+    "Neurogenetics": {
+      "preserved": 10,
+      "removed": 4
+    },
+    "Critical Care Neurology": {
+      "preserved": 12,
+      "removed": 4
+    },
+    "Neuroanatomy": {
+      "preserved": 8,
+      "removed": 3
+    },
+    "Sleep Neurology": {
+      "preserved": 2,
+      "removed": 2
+    },
+    "Headache": {
+      "preserved": 1,
+      "removed": 1
+    }
+  }
+}

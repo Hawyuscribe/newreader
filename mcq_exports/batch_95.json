@@ -1,0 +1,378 @@
+[
+  {
+    "question_number": "Q155",
+    "question_text": "What is the most common familial gene associated with amyotrophic lateral sclerosis (ALS)?",
+    "options": {
+      "A": "C9ORF72",
+      "B": "TDP-43",
+      "C": "SOD1",
+      "D": "FUS"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "",
+    "options": {
+      "A": "case of Duchenne muscular dystrophy presents with Gower's sign and calf hypertrophy. What is the most appropriate method to diagnose this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "",
+    "options": {
+      "A": "PMP-22 deletion",
+      "B": "CMT1A duplication",
+      "C": "MFN2 mutation",
+      "D": "GJB1 mutation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Insulin resistance",
+      "C": "Cushing's syndrome",
+      "D": "Diabetes insipidus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "",
+    "options": {
+      "A": "Tau neurofibrillary tangles",
+      "B": "Ubiquitin neurofibrillary tangles",
+      "C": "3-repeat tau",
+      "D": "4-repeat tau"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "RYR1",
+      "B": "Nebulin",
+      "C": "ACTA1",
+      "D": "SEPN1"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "Autosomal Dominant",
+      "B": "Autosomal Recessive",
+      "C": "X-linked Recessive",
+      "D": "Mitochondrial Inheritance"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "CMT 1",
+      "B": "CMT 2",
+      "C": "CMT 3",
+      "D": "CMTX"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q188",
+    "question_text": "",
+    "options": {
+      "A": "PMP22 deletion",
+      "B": "PMP22 duplication",
+      "C": "Charcot-Marie-Tooth type 1A",
+      "D": "Myasthenia gravis"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with sensory motor axonal neuropathy, decreased pain, temperature, and vibration sensation, along with a family history. What is the likely genetic mutation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "PMP22 deletion",
+      "B": "PMP22 duplication",
+      "C": "MPZ gene mutation",
+      "D": "GJB1 gene mutation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q29",
+    "question_text": "",
+    "options": {
+      "A": "Autosomal Dominant",
+      "B": "Autosomal Recessive",
+      "C": "X-linked",
+      "D": "Mitochondrial"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "Paramyotonia",
+      "B": "Myotonia congenita",
+      "C": "Stiff-person syndrome",
+      "D": "Hypokalemic periodic paralysis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "patient was diagnosed with Metachromatic Leukodystrophy. What will you find on nerve conduction studies (NCS)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with lower limb distal weakness. The family pedigree showed autosomal dominant inheritance, and the scenario is suggestive of hereditary motor and sensory neuropathy (HMSN). The patient underwent genetic testing which showed no PMP22 duplication. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "",
+    "options": {
+      "A": "young man who went to sleep at 10 PM woke up at midnight with weakness in his whole body and shortness of breath. The attack resolved after a few hours. What is the mechanism of action of the treatment for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "Which of the following statements is true regarding Paramyotonia congenita?",
+    "options": {
+      "A": "It is an autosomal dominant condition with equal incidence in males and females.",
+      "B": "It is caused by mutations in the SCN4A gene.",
+      "C": "The myotonia intensifies with exercise.",
+      "D": "It typically presents with paradoxical myotonia worsening with cold exposure."
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "What is the diagnosis for a patient with symptoms consistent with Monomelic Amyotrophy (Hirayama disease)?",
+    "options": {
+      "A": "CIDP",
+      "B": "AIDP",
+      "C": "Monomelic Amyotrophy",
+      "D": "ALS"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "13-year-old boy presents for evaluation of muscle pain and stiffness over the past year. His muscle stiffness worsens in cold weather and was especially severe after ice-skating. He demonstrates percussion myotonia at the thenar eminence. Which channel mutation is most likely responsible for his presentation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "case about a male with external ophthalmoplegia and ptosis, with onset before he was 10 years old. What is the mutation associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q176",
+    "question_text": "In a patient with Type 2 Charcot-Marie-Tooth disease, what is the typical feature?",
+    "options": {
+      "A": "SNAP drop",
+      "B": "Affects upper limbs more than lower limbs",
+      "C": "Demyelination of peripheral nerves",
+      "D": "Early onset muscle hypertrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "In Charcot-Marie-Tooth disease type 2A (CMT2A), what would you expect?",
+    "options": {
+      "A": "Upper limb involvement greater than lower limb",
+      "B": "Loss of SNAPs",
+      "C": "Normal motor nerve conduction velocities",
+      "D": "Predominant demyelination"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "In a scenario of paramyotonia congenita, which channel is involved, particularly worsened by cold and exercise?",
+    "options": {
+      "A": "SCN4A",
+      "B": "CACNA1S",
+      "C": "KCNJ2",
+      "D": "CLCN1"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "patient with hereditary peripheral neuropathy and transient CNS symptoms presents. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "In hereditary neuropathy with liability to pressure palsies (HNPP), what is the gene involved?",
+    "options": {
+      "A": "PMP22 duplication",
+      "B": "PMP22 deletion",
+      "C": "MPZ mutation",
+      "D": "GJB1 mutation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

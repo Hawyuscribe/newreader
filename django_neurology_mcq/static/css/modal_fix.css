@@ -1,0 +1,74 @@
+/* Modal Backdrop Fix */
+.modal-backdrop.show {
+    opacity: 0.5;
+    z-index: 1040;
+}
+
+.modal.show {
+    z-index: 1050;
+}
+
+/* Fix for stuck modal backdrop */
+body.modal-open {
+    overflow: hidden;
+    padding-right: 0 !important;
+}
+
+/* Ensure modals are properly stacked */
+.modal {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+/* Report Question Modal specific fixes */
+#reportQuestionModal {
+    z-index: 1055 !important;
+}
+
+#reportQuestionModal .modal-dialog {
+    margin: 1.75rem auto;
+    pointer-events: none;
+}
+
+#reportQuestionModal .modal-content {
+    pointer-events: auto;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+/* Prevent backdrop from blocking content */
+.modal-backdrop.fade {
+    opacity: 0;
+}
+
+.modal-backdrop.fade.show {
+    opacity: 0.5;
+}
+
+/* Fix for modal not closing properly */
+.modal.fade .modal-dialog {
+    transition: transform .3s ease-out;
+    transform: translate(0,-50px);
+}
+
+.modal.show .modal-dialog {
+    transform: none;
+}
+
+/* Ensure close button is always clickable */
+.modal-header .btn-close {
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* Fix for form elements in modal */
+#reportQuestionModal .form-control,
+#reportQuestionModal .form-check-input,
+#reportQuestionModal .btn {
+    position: relative;
+    z-index: 1;
+}
+
+/* Prevent multiple backdrops */
+body .modal-backdrop + .modal-backdrop {
+    display: none;
+}

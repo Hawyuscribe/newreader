@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Patient with tongue deviation to the left side and ptosis in his left upper eyelid, what is the artery involved?",
+    "options": {
+      "option_a": "ICA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Brain CT showing right SCA territory infarction (level of midbrain) and asked about the artery",
+    "options": {
+      "option_a": "SCA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "74-year-old male with CT brain image showing large hemorrhage in the cortex what to do next",
+    "options": {
+      "option_a": "(MRI): Though MRI (especially with SWI) is sensitive for detecting microbleeds and cavernous malformations, it is not the first",
+      "option_b": "(CTA): CTA is a rapid, non",
+      "option_c": "(Conventional angiography",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient post MVA came with symptoms of lateral medullar, mechanism of stroke?",
+    "options": {
+      "option_a": ", which posits a mechanism involving vertebral artery injury leading to artery",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Acute stroke With CT image with no established stroke ASPECT 8? Was treated with tPA CTA done and prepared for thrombectomy then he vomited (increase ICP \u2192 (ICH)?) and become lethargic bp 180/110",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with small left internal capsule infarction and right-sided weakness (not minor stroke) for 2 days found to have PFO (not mentioned if there was a specific feature of it) HTN with uncontrolled BP. What is the treatment?",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of stroke with intracranial stenosis what to do?",
+    "options": {
+      "option_a": "DAPT",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient has stroke with slurred speech you referred him to speech therapist and rehab service, this is considered as:",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of press female with high BP 180/?? Presented with seizure and confusion with MRI showing bilateral occipital cortical hyperintensity dx",
+    "options": {
+      "option_a": "(PRES) is correct because the clinical presentation of severe hypertension, seizures, confusion, and the MRI findings of bilateral occipital hyperintensities are classic for PRES. Other options like ischemic stroke, infectious encephalitis, or demyelinating disease would not typically present with these bilateral, symmetrical imaging features combined with the acute hypertensive setting.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Picture of skin rash (Angiokeratomas) with history of father death due to a stroke and asked about the gene",
+    "options": {
+      "option_a": "Alpha-galactosidase A",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with progressive myoclonus and dementia how to confirm the diagnosis",
+    "options": {
+      "option_a": "nalysis indicates that Option A (MRI) is the most appropriate diagnostic test for confirming the diagnosis of PME by demonstrating neurodegenerative changes. Assessments of lactate or invasive muscle biopsy are not first",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case about Kearns Sayre and asked about the mutation",
+    "options": {
+      "option_a": "Sporadic large mitochondrial DNA deletion",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "An engineer patient diagnosed with Huntington disease, telling you not to tell his employee?",
+    "options": {
+      "option_a": "Send his employee an email",
+      "option_b": "hide genetic test",
+      "option_c": "record him as he\u2019s having other diagnoses",
+      "option_d": "respect him and record that on file",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Girl with (migraine head, stroke and dementia), and family history of similar issues in her father. What is your diagnosis?",
+    "options": {
+      "option_a": "CADASIL",
+      "option_b": "MELAS",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient came with a ct brain attached, asked about which artery? \u0645\u0643\u0631\u0631",
+    "options": {
+      "option_a": "",
+      "option_b": ", which we assume represents the artery shown on the CT image (commonly the MCA is invoked in such questions). Options corresponding to other arteries (ACA, PCA, etc.) are incorrect based on the imaging findings. Without the full list, we infer that Option B best matches the territory demonstrated on the provided CT.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Same Q as above, asked about genes?",
+    "options": {
+      "option_a": "CAG trinucleotide repeat",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Female patient came with ischemic stroke, history of previous 2 abortions, elevated prothrombin time. what to investigate?",
+    "options": {
+      "option_a": "Antiphospholipid syndrome",
+      "option_b": "Prothrombin Gene Mutation",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a post RTA patient with brain stem symptoms and findings, asked about mechanism?",
+    "options": {
+      "option_a": "Artery to artery",
+      "option_b": "Cardioembolic",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "CT brain attached showed right pica territory infarction, asked about finding on exam?",
+    "options": {
+      "option_a": "Left side uvula deviation",
+      "option_b": "Left Side Ptosis",
+      "option_c": "Right body decrease sensation",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Same as above Q asked about investigation?",
+    "options": {
+      "option_a": "MRI",
+      "option_b": "MRV (should rule out CVT)",
+      "option_c": "LP",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2021",
+    "exam_type": "Part I"
+  }
+]

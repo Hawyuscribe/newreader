@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q327",
+    "question_text": "Young lady with SLE who has a neurological deficit. What is your diagnosis?",
+    "options": {
+      "A": "Intracerebral hemorrhage",
+      "B": "Cerebral venous thrombosis",
+      "C": "PRES",
+      "D": "Lupus Cerebritis"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "Which of the following is a feature of optic neuritis due to multiple sclerosis?",
+    "options": {
+      "A": "Papillitis with papilledema",
+      "B": "Bilateral optic neuritis",
+      "C": "Pain with eye movement",
+      "D": "Sudden painless vision loss"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "Which of the following infections can cause internuclear ophthalmoplegia (INO)?",
+    "options": {
+      "A": "Multiple Sclerosis",
+      "B": "HIV",
+      "C": "Cysticercosis",
+      "D": "Lyme Disease"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "Which of the following is the most common presentation of Giant Cell Arteritis (GCA)?",
+    "options": {
+      "A": "Anterior ischemic optic neuropathy (AION)",
+      "B": "Headache",
+      "C": "Polymyalgia rheumatica",
+      "D": "Jaw claudication"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient over 60 years old with a 1-month history of blurry vision and headache. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q404",
+    "question_text": "",
+    "options": {
+      "A": "78-year-old female presents with bilateral headaches and facial pain when eating, accompanied by decreased vision in one eye. What is the most likely cause of her visual loss?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "Which one of the following is a feature of optic neuritis due to multiple sclerosis?",
+    "options": {
+      "A": "Papillitis with papilledema",
+      "B": "Bilateral optic neuritis",
+      "C": "Pain with eye movements",
+      "D": "Sudden painless vision loss"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "key feature associated with optic neuritis in the context of Multiple Sclerosis (MS) is:"
+    },
+    "correct_answer": "A",
+    "source_file": "Neuropsychiatry",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q338",
+    "question_text": "",
+    "options": {
+      "A": "young female patient was admitted to the psychiatric ward with non-specific abnormal movements, agitation, and other psychiatric issues. An MRI showed a normal temporal lobe. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q342",
+    "question_text": "",
+    "options": {
+      "A": "Visual anosognosia",
+      "B": "Psychiatric",
+      "C": "Apraxia",
+      "D": "Cortical blindness"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "",
+    "options": {
+      "A": "young lady presents with persistent nausea and vomiting. Brain MRI is unremarkable. Based on the suspected diagnosis, which criteria is core?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q209",
+    "question_text": "",
+    "options": {
+      "A": "Partial myelitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Vascular_neurology_stroke",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q214",
+    "question_text": "",
+    "options": {
+      "A": "Teriflunomide 14 mg is less effective than interferon",
+      "B": "Teriflunomide 14 mg is equal to high-dose interferon",
+      "C": "Teriflunomide 14 mg is more effective than high-dose interferon",
+      "D": "Teriflunomide 14 mg has a better safety profile than interferon"
+    },
+    "correct_answer": "B",
+    "source_file": "Vascular_neurology_stroke",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "In a case of dermatomyositis, what are the histology findings?",
+    "options": {
+      "A": "Perifascicular atrophy",
+      "B": "Endomysial inflammation with invasion of non-necrotic fibers",
+      "C": "Rimmed vacuoles within muscle fibers",
+      "D": "Granulomatous inflammation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "In the scenario of Kennedy disease (gynecomastia and family history), which of the following is correct?",
+    "options": {
+      "A": "High androgen",
+      "B": "Normal CK",
+      "C": "High aldolase",
+      "D": "High aromatase"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "",
+    "options": {
+      "A": "young boy with recurrent weakness after exercise improves with periods of rest. How can the diagnosis be reached? (Case of McArdle\u2019s disease)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "post-bariatric surgery patient presents with symptoms of vitamin B12 deficiency, but serum levels are normal. What should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q554",
+    "question_text": "What is a common nerve conduction study (NCS) or electromyography (EMG) finding in ALS?",
+    "options": {
+      "A": "Fasciculations",
+      "B": "Prolonged F waves",
+      "C": "Increased sensory action potentials",
+      "D": "Normal findings"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "The typical age of onset for Hyperkalemic Periodic Paralysis is:",
+    "options": {
+      "A": "First decade",
+      "B": "Second decade",
+      "C": "Third decade",
+      "D": "Any age"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "What percentage of patients with ocular Myasthenia Gravis have positive AChR-binding antibodies?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "70%",
+      "D": "80%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q561",
+    "question_text": "",
+    "options": {
+      "A": "34-year-old man had difficulty climbing stairs and respiratory difficulties requiring BiPap. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q458",
+    "question_text": "In a scenario about a patient with eosinophils on pathology, what condition is suggested?",
+    "options": {
+      "A": "Calpainopathy",
+      "B": "Eosinophilic myositis",
+      "C": "Dermatomyositis",
+      "D": "Hypereosinophilic syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q487",
+    "question_text": "",
+    "options": {
+      "A": "patient with polymyalgia rheumatica is on steroids (5 mg) post-myocardial infarction and is also taking atorvastatin (40 mg). The patient presents with proximal muscle weakness and cannot rise from a seated position, with a creatine kinase level of 1880. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "Which of the following is assessed in the examination of femoral nerve function?",
+    "options": {
+      "A": "Hip flexion, knee extension & medial leg sensation",
+      "B": "Hip lateral rotation",
+      "C": "Ankle dorsiflexion",
+      "D": "Plantar flexion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "Case of a patient with weak hip adductors, which nerve is affected?",
+    "options": {
+      "A": "Obturator",
+      "B": "Femoral",
+      "C": "Sciatic",
+      "D": "Superior gluteal"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

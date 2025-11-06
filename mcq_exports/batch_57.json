@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q96",
+    "question_text": "What is the localization of prosopagnosia?",
+    "options": {
+      "A": "Frontal lobe",
+      "B": "Parietal lobe",
+      "C": "Corpus callosum",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "D",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "In a case of Gerstmann syndrome, where is the lesion typically found?",
+    "options": {
+      "A": "Angular gyrus",
+      "B": "Supramarginal gyrus",
+      "C": "Precentral gyrus",
+      "D": "Postcentral gyrus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "Which of the following embryogenic cells gives rise to the cerebral cortex?",
+    "options": {
+      "A": "Telencephalon",
+      "B": "Mesencephalon",
+      "C": "Diencephalon",
+      "D": "Rhombencephalon"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with fluent speech, impaired comprehension, naming, and repetition. Where is the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with ipsilateral tremor and Horner syndrome, and contralateral complete loss of pain and temperature sensation. Normal vibration and position sensation were noted. Where is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "Prosopagnosia is localized to which area?",
+    "options": {
+      "A": "Dominant occipital lobe",
+      "B": "Dominant parietal lobe",
+      "C": "Right temporal lobe",
+      "D": "Occipitotemporal"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "patient has impaired fluency and repetition but intact comprehension. Where is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "Impaired immediate recall is associated with lesions of:",
+    "options": {
+      "A": "Prefrontal cortex",
+      "B": "Medial temporal",
+      "C": "Occipital",
+      "D": "Mediodorsal thalamus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "How can one differentiate between conus medullaris syndrome and cauda equina syndrome?",
+    "options": {
+      "A": "Upper and lower motor neuron signs",
+      "B": "Loss of reflexes",
+      "C": "Loss of sphincter control",
+      "D": "Sensory level on the trunk"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q241",
+    "question_text": "Which of the following is suggestive of a dominant parietal lobe lesion?",
+    "options": {
+      "A": "Neglect",
+      "B": "Finger agnosia",
+      "C": "Right-left disorientation",
+      "D": "Agraphia"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q258",
+    "question_text": "Case about Gasterman syndrome (I did not remember the choices).",
+    "options": {
+      "A": "Agraphia",
+      "B": "Acalculia",
+      "C": "Hemispatial neglect",
+      "D": "Prosopagnosia"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with loss of sensation in the bilateral upper extremities, with later involvement of the lower extremities. What condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits agraphia, acalculia, and finger agnosia (Gerstmann Syndrome). What type of aphasia is typically associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "In a patient with obstructive hydrocephalus, which cranial nerve is most likely involved?",
+    "options": {
+      "A": "CN 6",
+      "B": "CN 3",
+      "C": "CN 4",
+      "D": "CN 7"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with right-sided weakness, non-fluent speech, impaired repetition and naming, but intact comprehension. Which area of the brain is likely affected in this case of Broca's aphasia?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "What is colpocephaly?",
+    "options": {
+      "A": "Enlarged lateral ventricle",
+      "B": "Enlarged occipital ventricle",
+      "C": "Narrowing of the third ventricle",
+      "D": "Enlargement of the temporal horn of the lateral ventricle"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q435",
+    "question_text": "",
+    "options": {
+      "A": "picture shows left tongue deviation and left Horner's syndrome. What type of lesion is indicated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q155",
+    "question_text": "",
+    "options": {
+      "A": "female presents with decreased sensation to pinprick in bilateral upper limbs. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q390",
+    "question_text": "In a long scenario of a patient with trigeminal neuralgia involving V1, which artery is likely causing vascular compression?",
+    "options": {
+      "A": "PCA",
+      "B": "SCA",
+      "C": "MCA",
+      "D": "AICA"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with Horner's syndrome and a left deviated uvula. What other finding would you expect?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q272",
+    "question_text": "What is the localization of postganglionic Horner's syndrome?",
+    "options": {
+      "A": "Preganglionic",
+      "B": "Postganglionic",
+      "C": "Central (first-order neuron)",
+      "D": "Sympathetic chain trunk lesion"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q376",
+    "question_text": "Localization of down-beating nystagmus is most commonly associated with which anatomical region?",
+    "options": {
+      "A": "Cervicomedullary junction",
+      "B": "Midbrain",
+      "C": "Thalamus",
+      "D": "Basal ganglia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q351",
+    "question_text": "Syringomyelia (SCA) is commonly associated with which of the following?",
+    "options": {
+      "A": "Ipsilateral Horner's syndrome",
+      "B": "Fourth cranial nerve palsy",
+      "C": "Bilateral lower limb spasticity",
+      "D": "Loss of pain and temperature sensation in a cape-like distribution"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with upper limb numbness and pinprick sensation around the shoulder. The preserved position sense and weakness suggest which diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q218",
+    "question_text": "Which imaging study is indicated in virtually all patients suspected of having glossopharyngeal neuralgia?",
+    "options": {
+      "A": "Plain skull films",
+      "B": "MRI/MRA",
+      "C": "CT scan",
+      "D": "Ultrasound"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  }
+]

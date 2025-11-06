@@ -1,0 +1,314 @@
+/* Main styles for Neurology MCQ Reader */
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar-brand i {
+    color: #ffffff;
+}
+
+.container {
+    flex: 1;
+}
+
+.card {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.card-header {
+    border-bottom: none;
+}
+
+.nav-tabs.card-header-tabs .nav-link {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    padding: 0.75rem 1rem;
+}
+
+.nav-tabs.card-header-tabs .nav-link.active {
+    background-color: #fff;
+    border-color: transparent;
+    color: #0d6efd;
+    font-weight: 600;
+}
+
+/* MCQ styling */
+.explanation-content {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.explanation-content h1, 
+.explanation-content h2 {
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e9ecef;
+    color: #0d6efd;
+    font-weight: 600;
+}
+
+.explanation-content h3 {
+    font-size: 1.4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: #0d6efd;
+    font-weight: 500;
+}
+
+.explanation-content h4,
+.explanation-content h5 {
+    font-size: 1.2rem;
+    margin-top: 1.2rem;
+    margin-bottom: 0.8rem;
+    color: #2c3e50;
+    font-weight: 500;
+}
+
+.explanation-content p {
+    margin-bottom: 1rem;
+}
+
+.explanation-content table {
+    width: 100%;
+    margin: 1.5rem 0;
+    border-collapse: collapse;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.explanation-content table, 
+.explanation-content th, 
+.explanation-content td {
+    border: 1px solid #dee2e6;
+}
+
+.explanation-content th {
+    background-color: #f0f7ff;
+    color: #0d6efd;
+    padding: 0.75rem;
+    font-weight: 600;
+    text-align: left;
+}
+
+.explanation-content td {
+    padding: 0.75rem;
+    vertical-align: top;
+}
+
+.explanation-content tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.explanation-content ul,
+.explanation-content ol {
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.explanation-content li {
+    margin-bottom: 0.5rem;
+}
+
+.explanation-content blockquote {
+    border-left: 4px solid #0d6efd;
+    padding-left: 1rem;
+    color: #495057;
+    font-style: italic;
+    margin: 1rem 0;
+}
+
+.explanation-content code {
+    background: #f8f9fa;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.25rem;
+    font-size: 0.9em;
+    color: #e83e8c;
+}
+
+/* Section styling with icons */
+.section-why-correct {
+    border-left: 4px solid #28a745;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+}
+
+.section-why-wrong {
+    border-left: 4px solid #dc3545;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+}
+
+.section-clinical-pearls {
+    border-left: 4px solid #ffc107;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    background-color: #fff8e6;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.clinical-pearls-list {
+    margin-top: 1.5rem;
+}
+
+.pearl-item {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+.pearl-number {
+    font-size: 0.9rem;
+    padding: 0.35rem 0.6rem;
+    border-radius: 50%;
+    min-width: 1.8rem;
+    text-align: center;
+}
+
+.pearl-content {
+    line-height: 1.6;
+}
+
+.pearl-item h5 {
+    font-weight: 600;
+    color: #664d03;
+}
+
+.section-guidelines {
+    border-left: 4px solid #17a2b8;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    background-color: #f0f9fc;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.section-historical {
+    border-left: 4px solid #6c757d;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+/* Chat styling */
+#chat-messages {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #f8f9fa;
+    height: 350px;
+    overflow-y: auto;
+    margin-bottom: 1rem;
+    border: 1px solid #dee2e6;
+}
+
+.chat-message {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    position: relative;
+    max-width: 80%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.chat-message-user {
+    background-color: #e7f1ff;
+    margin-left: auto;
+    border-top-right-radius: 0;
+    border-left: 3px solid #0d6efd;
+}
+
+.chat-message-gpt {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    margin-right: auto;
+    border-top-left-radius: 0;
+    border-left: 3px solid #17a2b8;
+}
+
+.chat-time {
+    font-size: 0.75rem;
+    color: #6c757d;
+    margin-top: 0.25rem;
+    text-align: right;
+}
+
+.chat-body {
+    font-size: 0.95rem;
+}
+
+.chat-content h4,
+.chat-content h5 {
+    color: #17a2b8;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.chat-list-item {
+    display: flex;
+    align-items: start;
+    margin-bottom: 0.5rem;
+}
+
+.chat-content p {
+    margin-bottom: 0.75rem;
+}
+
+.chat-content .table-responsive {
+    margin: 1rem 0;
+    font-size: 0.9rem;
+}
+
+.verification-content h3,
+.verification-content h4 {
+    color: #17a2b8;
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.verification-content {
+    font-size: 0.95rem;
+}
+
+/* Verification modal styling */
+#gpt-analysis {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    line-height: 1.6;
+}
+
+.verification-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.verification-header i {
+    font-size: 1.5rem;
+    margin-right: 0.75rem;
+    color: #17a2b8;
+}
+
+/* Flashcard UI */
+.answer-option.selected {
+    border-left-color: #0d6efd;
+    background-color: rgba(13, 110, 253, 0.1);
+}
+
+/* Subspecialty cards */
+.card .bi.fs-1 {
+    font-size: 2.5rem !important;
+}

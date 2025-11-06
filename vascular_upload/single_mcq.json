@@ -1,0 +1,17 @@
+[
+  {
+    "question_text": "Patient with acute stroke brain MRI found dorsal cerebellar infarction (superior cerebellar artery) what will you find in exam:",
+    "options": {
+      "option_a": "Ipsilateral truncal Hyperalgesia",
+      "option_b": "Ipsilateral Horner",
+      "option_c": "Hearing loss",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q118",
+    "question_text": "",
+    "options": {
+      "A": "67-year-old man with a 3-year history of Parkinson disease has had increasingly distressing problems with visual and auditory hallucinations and very severe and disturbing delusions. Which of the following medications is US Food and Drug Administration (FDA) approved for treatment of these symptoms in Parkinson disease?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q224",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old female patient presents with parkinsonism and worsening dystonia. She had a similar presentation 10 years ago and improved with levodopa. What should you prescribe for her today?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "patient with schizophrenia on antipsychotics presents with orolingual dystonia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "What is the first-line treatment for Sydenham chorea?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Valproic acid",
+      "C": "Carbamazepine (CMZ)",
+      "D": "Prednisolone"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q189",
+    "question_text": "Scenario of a girl with dystonia, no Parkinsonism features. What is the most likely diagnosis?",
+    "options": {
+      "A": "DYT 1",
+      "B": "DYT 5 (GCH1)",
+      "C": "Wilson\u2019s disease",
+      "D": "Dopa-responsive dystonia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q118",
+    "question_text": "In a girl with Sydenham chorea, what laboratory test is indicated?",
+    "options": {
+      "A": "ASO titer",
+      "B": "Anti-DNase B antibody",
+      "C": "Serum ceruloplasmin",
+      "D": "Thyroid function tests"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "What is the pathology associated with Multiple System Atrophy (MSA)?",
+    "options": {
+      "A": "Iron deposition",
+      "B": "Glial cytoplasmic inclusions",
+      "C": "Neurofibrillary tangles",
+      "D": "Lewy bodies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "young female has a Kayser\u2013Fleischer ring on slit lamp exam and presents with parkinsonism and dystonia, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "What is the recommended treatment for cervical dystonia?",
+    "options": {
+      "A": "Botox",
+      "B": "Clonazepam",
+      "C": "Levodopa",
+      "D": "Deep brain stimulation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "How can the diagnosis of idiopathic Parkinson's disease be confirmed?",
+    "options": {
+      "A": "Clinical evaluation",
+      "B": "Levodopa challenge test",
+      "C": "Pathology",
+      "D": "Radiology"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "In the same scenario of paroxysmal kinesigenic dyskinesia, what is the most appropriate management option?",
+    "options": {
+      "A": "Baclofen",
+      "B": "Levodopa",
+      "C": "Phenytoin",
+      "D": "Tetrabenazine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "What is the treatment for hemifacial spasm?",
+    "options": {
+      "A": "Botox",
+      "B": "Carbamazepine",
+      "C": "Physical therapy",
+      "D": "Surgical decompression"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "In a scenario involving essential tremor and asthma treatment, which medication is commonly used?",
+    "options": {
+      "A": "Primidone",
+      "B": "Propranolol",
+      "C": "Gabapentin",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with Parkinson's disease 6 years ago presents with dyskinesia and is currently on levodopa. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old man with Parkinson\u2019s disease has become progressively more demented over the past year. For the past 2 months, he has been having more frequent hallucinations, which makes him more agitated and violent. He is on Levodopa/Carbidopa and Rivastigmine. What is the appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q191",
+    "question_text": "",
+    "options": {
+      "A": "46-year-old female patient presented with jerky movements that improved with wine. Her father has the same symptoms. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "Best to explain orthostatic tremor:",
+    "options": {
+      "A": "Improves with walking",
+      "B": "Present only at rest",
+      "C": "Worsens with voluntary movement",
+      "D": "Associated with rigidity"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q222",
+    "question_text": "In Progressive Supranuclear Palsy (PSP), which symptom will improve with treatment?",
+    "options": {
+      "A": "Rigidity",
+      "B": "Bradykinesia",
+      "C": "Postural instability",
+      "D": "Vertical gaze palsy"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q245",
+    "question_text": "",
+    "options": {
+      "A": "young girl with PKAN presents with dystonia and an MRI showing central hyperintensity. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's Disease for 7 years on Sinemet has started to wean off the medication. What is the most likely reason for this?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "In a patient with Parkinsonism symptoms not responding to Sinemet, which condition is characterized by dystonia and abnormal movements?",
+    "options": {
+      "A": "Corticobasal degeneration (CBD)",
+      "B": "Lewy body dementia (LBD)",
+      "C": "Progressive supranuclear palsy (PSP)",
+      "D": "Multiple system atrophy (MSA)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q226",
+    "question_text": "",
+    "options": {
+      "A": "patient on pramipexole for Parkinson's disease developed hallucinations. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q374",
+    "question_text": "In a typical scenario of left hemifacial spasm, what is the recommended treatment?",
+    "options": {
+      "A": "Botox",
+      "B": "Oral corticosteroids",
+      "C": "Antiepileptic drugs",
+      "D": "Physical therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "In a case of an elderly patient with symptoms suggestive of Multiple System Atrophy (MSA), which of the following is the most common presenting symptom?",
+    "options": {
+      "A": "Impairment of down gaze",
+      "B": "Autonomic insufficiency",
+      "C": "Cognitive impairment of amnestic type",
+      "D": "Pyramidal signs"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits on-off palatal movements accompanied by click sounds, which resolve with sleep. What is the likely condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

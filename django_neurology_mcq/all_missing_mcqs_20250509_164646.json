@@ -1,0 +1,519 @@
+[
+  {
+    "question_text": "lymphocytes , normal glucose what is the most likely diagnosis.",
+    "options": {
+      "A": "P. Falciparum",
+      "B": "P. Ovale",
+      "C": "Brucella",
+      "D": "Meningitis"
+    },
+    "reason": "The question is about diagnosis based on lab findings, which is not covered in the provided database sample."
+  },
+  {
+    "question_text": "he can not do daily activities. What to give.",
+    "options": {
+      "A": "Reassurance",
+      "B": "Donepezil",
+      "C": "vitamin E"
+    },
+    "reason": "The question focuses on treatment for inability to perform daily activities, which is not present in the database sample."
+  },
+  {
+    "question_text": "showed occipital lope spike what is the management.",
+    "options": {
+      "A": "Carbamezapine",
+      "B": "Amitriptyline"
+    },
+    "reason": "The question is about management of occipital lobe spikes, which is not in the database sample."
+  },
+  {
+    "question_text": "2nd line management of trigeminal N after carbamazepine.",
+    "options": {
+      "A": "Pregabalin",
+      "B": "Lamotrigine"
+    },
+    "reason": "The question addresses second-line treatment for trigeminal neuralgia, not covered in the database sample."
+  },
+  {
+    "question_text": "(Exactly the same CT)",
+    "options": {
+      "A": "hypoperfusion",
+      "B": "Hyperperfusion",
+      "C": "Autoregulation",
+      "D": "Artery to artery"
+    },
+    "reason": "The question is about interpreting CT findings, which is not included in the database sample."
+  },
+  {
+    "question_text": "(Similar but was left frontal and right temporal bleed)",
+    "options": {
+      "A": "Trauma",
+      "B": "Cardioembolic",
+      "C": "Artery to artery",
+      "D": "Obstruction of Venous flow"
+    },
+    "reason": "The question involves diagnosis based on specific CT findings, not present in the database sample."
+  },
+  {
+    "question_text": "Boy with seizure, uncontrolled, he is known case of bipolar, management:",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Levetiracetam",
+      "C": "Valproate",
+      "D": "Lamotrigine"
+    },
+    "reason": "The question is about managing seizures in a bipolar patient, which is not covered in the database sample."
+  },
+  {
+    "question_text": "protein high, glucose normal:",
+    "options": {
+      "A": "Lyme",
+      "B": "Aspergillosis",
+      "C": "TB",
+      "D": "Pneumococcal"
+    },
+    "reason": "The question is about diagnosis based on CSF findings, not included in the database sample."
+  },
+  {
+    "question_text": "without, it was non-enhancing, management.",
+    "options": {
+      "A": "PLEX",
+      "B": "HAART"
+    },
+    "reason": "The question involves management of a non-enhancing lesion, which is not in the database sample."
+  },
+  {
+    "question_text": "especially on gum line.",
+    "options": {
+      "A": "Repeat workup of MS",
+      "B": "Shimmer test (SJS)"
+    },
+    "reason": "The question is about a specific symptom related to gum line, not covered in the database sample."
+  },
+  {
+    "question_text": "(Exactly the same MRI)",
+    "options": {
+      "A": "Disc Compression",
+      "B": "Rheumatoid Pannus",
+      "C": "Spondylosis"
+    },
+    "reason": "The question involves interpreting MRI findings, which is not included in the database sample."
+  },
+  {
+    "question_text": "MS pt with ON, MRI showed 1 periventricular lesion",
+    "options": {
+      "A": "CIS",
+      "B": "RRMS"
+    },
+    "reason": "The question is about diagnosing MS based on MRI findings, not present in the database sample."
+  },
+  {
+    "question_text": "Parkinson Disease case came with hallucination and forgetfulness, management.",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "clozapine"
+    },
+    "reason": "The question is about managing Parkinson's with specific symptoms, not covered in the database sample."
+  },
+  {
+    "question_text": "also mentioned family history of migraine.",
+    "options": {
+      "A": "Exercise related dyskinesia",
+      "B": "Paroxysmal kinesigenic dyskinesia"
+    },
+    "reason": "The question involves diagnosis with a family history of migraine, not included in the database sample."
+  },
+  {
+    "question_text": "she is scared of falling, after that she can walk normally.",
+    "options": {
+      "A": "Ataxic syndrome",
+      "B": "Orthostatic Tremor"
+    },
+    "reason": "The question is about diagnosing based on fear of falling, not present in the database sample."
+  },
+  {
+    "question_text": "Carpidona 100/25 6 times per day, next step of management.",
+    "options": {
+      "A": "decrease Levodopa dose",
+      "B": "Amantadine",
+      "C": "Levodopa and entacpon",
+      "D": "Pramipexole"
+    },
+    "reason": "No similar question found in the database related to Carpidona management."
+  },
+  {
+    "question_text": "Most psychiatric manifestation in AD",
+    "options": {
+      "A": "Apathy",
+      "B": "Agitation",
+      "C": "Disinhibition"
+    },
+    "reason": "No similar question found in the database regarding psychiatric manifestations in Alzheimer's Disease."
+  },
+  {
+    "question_text": "questions about fragile x, read about it)",
+    "options": {
+      "A": "Inherited anti-psychiatric test",
+      "B": "metabolic test",
+      "C": "confirm or r/o fragile x syndrome"
+    },
+    "reason": "No similar question found in the database related to Fragile X syndrome testing."
+  },
+  {
+    "question_text": "Pt with MS what is true about MS.",
+    "options": {
+      "A": "Simultaneous bilateral ON would suggest to look for other diagnosis",
+      "B": "Incomplete recovery is typical with MS"
+    },
+    "reason": "No similar question found in the database regarding specific characteristics of MS."
+  },
+  {
+    "question_text": "Familial hx of ALS, gene mutation",
+    "options": {
+      "A": "sod1",
+      "B": "c9orf"
+    },
+    "reason": "No similar question found in the database related to genetic mutations in familial ALS."
+  },
+  {
+    "question_text": "Wilson disease most common psychiatric manifestation. (No low mood in choices).",
+    "options": {
+      "A": "Psychosis",
+      "B": "Depression",
+      "C": "Mania"
+    },
+    "reason": "No similar question found in the database regarding psychiatric manifestations in Wilson's disease."
+  },
+  {
+    "question_text": "Chrea, Cognitive Decline, Behavioral changes:",
+    "options": {
+      "A": "Huntington disease"
+    },
+    "reason": "No similar question found in the database related to symptoms of Huntington's disease."
+  },
+  {
+    "question_text": "pinprick up to mid-shin, what test would be best for diagnosis.",
+    "options": {
+      "A": "NCS",
+      "B": "MRI spine",
+      "C": "Epidermal nerve fiver density"
+    },
+    "reason": "No similar question found in the database regarding diagnostic tests for pinprick sensation loss."
+  },
+  {
+    "question_text": "neuropathy. (Both pregapalin and gapapentin came in choices)",
+    "options": {
+      "A": "Pregabaline",
+      "B": "Gapapentin",
+      "C": "Amitriptyline"
+    },
+    "reason": "No similar question found in the database regarding treatment options for neuropathy."
+  },
+  {
+    "question_text": "Pt came with peripheral neuropathy, his symptoms provoked after minor surgery.",
+    "options": {
+      "A": "Vitamin E",
+      "B": "Cobalamine",
+      "C": "Thiamine"
+    },
+    "reason": "No similar question found in the database regarding peripheral neuropathy post-surgery."
+  },
+  {
+    "question_text": "pain what lab to request.",
+    "options": {
+      "A": "Porphyria",
+      "B": "Paraproteinemia"
+    },
+    "reason": "No similar question found in the database regarding lab tests for pain diagnosis."
+  },
+  {
+    "question_text": "she presented within 60 min, CT done within 30 min, BP 220/110, next step.",
+    "options": {
+      "A": "Give tpa",
+      "B": "BP management",
+      "C": "CTA",
+      "D": "Mechanical Thrombectomy"
+    },
+    "reason": "No similar question found in the database regarding acute management of high BP in stroke."
+  },
+  {
+    "question_text": "severe intracranial right MCA stenosis.",
+    "options": {
+      "A": "ASA",
+      "B": "IV thrombolysis",
+      "C": "DAPT",
+      "D": "Stent"
+    },
+    "reason": "No similar question found in the database regarding management of MCA stenosis."
+  },
+  {
+    "question_text": "Female came with hand tremor improve with alcohol, there is family history.",
+    "options": {
+      "A": "Essential",
+      "B": "Enhanced physiological tremor"
+    },
+    "reason": "No similar question found in the database regarding tremor improvement with alcohol."
+  },
+  {
+    "question_text": "appropriate management.",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Sumatriptan",
+      "C": "Opioid"
+    },
+    "reason": "No similar question found in the database regarding general management options."
+  },
+  {
+    "question_text": "HIV patient came to the clinic with single ring enhancing lesion in brain next.",
+    "options": {
+      "A": "CSF",
+      "B": "Start Antibiotics",
+      "C": "Toxoplasmois management"
+    },
+    "reason": "The question is specific to HIV and brain lesions, which is not covered in the sample database questions provided."
+  },
+  {
+    "question_text": "Patient with abdominal rising sensation, deja vu, Pathophysiology.",
+    "options": {
+      "A": "Activation dentate nuclear",
+      "B": "Schaffer collateral from c3 to c1",
+      "C": "mousse fiber Sth\u2026"
+    },
+    "reason": "The question focuses on specific pathophysiology related to deja vu, which is not present in the sample database."
+  },
+  {
+    "question_text": "Patient has partial seizure, PET showed hypometabolism perysilvin.",
+    "options": {
+      "A": "GluR3",
+      "B": "GLUT-1"
+    },
+    "reason": "The question involves PET scan findings and specific metabolic markers, which are not addressed in the sample database."
+  },
+  {
+    "question_text": "EEG of slow spike charachteristic of",
+    "options": {
+      "A": "Lennox",
+      "B": "West",
+      "C": "JME"
+    },
+    "reason": "The question is about EEG characteristics, which is not covered in the sample database questions."
+  },
+  {
+    "question_text": "Pic of ribboning. what is the most likely.",
+    "options": {
+      "A": "Prion disease"
+    },
+    "reason": "The question refers to a visual diagnostic feature (ribboning) not mentioned in the sample database."
+  },
+  {
+    "question_text": "wight, most important management",
+    "options": {
+      "A": "IVIG",
+      "B": "Tight glycemic control, and care of foot",
+      "C": "Extensive physiotherapy"
+    },
+    "reason": "The question is vague and does not match any specific topic in the sample database."
+  },
+  {
+    "question_text": "Patient known case of Duchenne, first symptoms.",
+    "options": {
+      "A": "Walk on toe",
+      "B": "Loss fine movement"
+    },
+    "reason": "The question is about Duchenne muscular dystrophy, which is not covered in the sample database."
+  },
+  {
+    "question_text": "Patient came with hemianopia, alexia without agraphia, location.",
+    "options": {
+      "A": "Infra sylvan temporal",
+      "B": "Supra sylvan frontal",
+      "C": "Angular"
+    },
+    "reason": "The question involves specific neurological symptoms and their localization, not present in the sample database."
+  },
+  {
+    "question_text": "Prosopagnosia localization",
+    "options": {
+      "A": "Occipito-temporal",
+      "B": "Occipito-parietal"
+    },
+    "reason": "The question is about the localization of prosopagnosia, which is not covered in the sample database."
+  },
+  {
+    "question_text": "Male known case of testicular cancer came with encephalitis.",
+    "options": {
+      "A": "Ant-Ma2",
+      "B": "anti-hu",
+      "C": "anti-LG1"
+    },
+    "reason": "The question involves paraneoplastic syndromes related to testicular cancer, not present in the sample database."
+  },
+  {
+    "question_text": "most likely cause.",
+    "options": {
+      "A": "Systemtic",
+      "B": "Vascular"
+    },
+    "reason": "The question is too vague and does not match any specific topic in the sample database."
+  },
+  {
+    "question_text": "MMSE Test the most covered domain.",
+    "options": {
+      "A": "Orientation",
+      "B": "Memory"
+    },
+    "reason": "The question is about the MMSE test, which is not covered in the sample database."
+  },
+  {
+    "question_text": "week, her symptoms came again in the same side, what is the next step.",
+    "options": {
+      "A": "Urinalysis",
+      "B": "Pulse steroid",
+      "C": "Change DMT"
+    },
+    "reason": "The question is vague and does not match any specific topic in the sample database."
+  },
+  {
+    "question_text": "Patient with figure of 4, fencing, right side nose rubbing, localization.",
+    "options": {
+      "A": "Lt temporal",
+      "B": "Rt Temporal"
+    },
+    "reason": "The question involves specific seizure semiology, not present in the sample database."
+  },
+  {
+    "question_text": "Migraine without aura, most relevant clinical picture.",
+    "options": {
+      "A": "30 to 60 minute in duration",
+      "B": "Throbbing quality",
+      "C": "Bilateral location",
+      "D": "Not aggravated by daily activity"
+    },
+    "reason": "The question is about migraine characteristics, which is not covered in the sample database."
+  },
+  {
+    "question_text": "What is true about popping nystagmus.",
+    "options": {
+      "A": "Slow downward deviation and rapid upward return of the eyes to the primary position",
+      "B": "Rapid downward deviation and slow upward return of the eyes to the primary position",
+      "C": "Rapid upward deviation and slow downward return of the eyes to the primary position"
+    },
+    "reason": "The question about 'popping nystagmus' does not appear to match any questions in the provided database sample, which focuses on epilepsy-related topics."
+  },
+  {
+    "question_text": "Where is the location of popping nys in tagmus.",
+    "options": {
+      "A": "Pons",
+      "B": "Midbrain"
+    },
+    "reason": "The question about the location of 'popping nystagmus' is not present in the database sample, which is centered on epilepsy."
+  },
+  {
+    "question_text": "Case of sturge weber (hint: bort wine on face) asked about what it comes with.",
+    "options": {
+      "A": "Renal Angiofibroma",
+      "B": "Cardiac Rhabdomyosarcoma",
+      "C": "Glaucoma"
+    },
+    "reason": "The question about Sturge-Weber syndrome is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "SEGA with which disease.",
+    "options": {
+      "A": "Something not related",
+      "B": "Tuberous Sclerosis"
+    },
+    "reason": "The question about SEGA and Tuberous Sclerosis is not present in the epilepsy-focused database sample."
+  },
+  {
+    "question_text": "Patient came with hand extension weakness no sensory",
+    "options": {
+      "A": "PIN",
+      "B": "Radial"
+    },
+    "reason": "The question about hand extension weakness is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "thumb and latera forearm, improved index and 3rd finger, flextion 2 nerve impaired.",
+    "options": {
+      "A": "Suprascapular/long thoracic .",
+      "B": "Axillary and lateral antebrachial. radial",
+      "C": "Musculocutaneous"
+    },
+    "reason": "The question about nerve impairment in the forearm is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "Patient came after hysterectomy, there is hip flexion, knee extension weakness.",
+    "options": {
+      "A": "Femoral",
+      "B": "obturator"
+    },
+    "reason": "The question about post-hysterectomy weakness is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "after abdominal surgery, she is on warfarin, where is the lesion.",
+    "options": {
+      "A": "Femoral at illicus",
+      "B": "Femoral at psoas"
+    },
+    "reason": "The question about a lesion after abdominal surgery is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "Thalamotomy in PD will improve.",
+    "options": {
+      "A": "Tremor",
+      "B": "Bradykinesia"
+    },
+    "reason": "The question about thalamotomy in Parkinson's Disease is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "Most common side effect of lithium:",
+    "options": {
+      "A": "Tremor"
+    },
+    "reason": "The question about lithium side effects is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "Patient came with blurry vision, ataxia, ophthalmoplegia.",
+    "options": {
+      "A": "SCA3",
+      "B": "Ataxia with ocular apraxia",
+      "C": "Laber"
+    },
+    "reason": "The question about symptoms of blurry vision, ataxia, and ophthalmoplegia is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "Lady on OCP came with seizure, headache, CT normal, next.",
+    "options": {
+      "A": "LP",
+      "B": "EEG",
+      "C": "CTV"
+    },
+    "reason": "The question about a lady on OCP with seizure and headache is not found in the database sample."
+  },
+  {
+    "question_text": "thrombosis, what is true.",
+    "options": {
+      "A": "She has clear cause and no need workup",
+      "B": "Do thrombophilia workup"
+    },
+    "reason": "The question about thrombosis is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "tell the patient.",
+    "options": {
+      "A": "He is not at risk at all since he underwent 3 procedures without complication",
+      "B": "Still he has the risk",
+      "C": "He is at high risk"
+    },
+    "reason": "The question about patient risk communication is not related to epilepsy and is not found in the database sample."
+  },
+  {
+    "question_text": "Patient known case of Myotonic Dystrophy came with shoulder pain management",
+    "options": {
+      "A": "Melxiten for pain",
+      "B": "Amantadine"
+    },
+    "reason": "The question about Myotonic Dystrophy and shoulder pain management is not related to epilepsy and is not found in the database sample."
+  }
+]

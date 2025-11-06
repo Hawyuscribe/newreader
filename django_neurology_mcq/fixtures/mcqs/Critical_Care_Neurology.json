@@ -1,0 +1,2562 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 68731181,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A female patient fell from a height of 3 meters while cleaning her house and presents with severe headache and nausea. What is the most appropriate next step in her management?",
+      "options": {
+        "A": "Reassure and discharge",
+        "B": "Observation in hospital",
+        "C": "CT brain",
+        "D": "Administer analgesics and monitor"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Deals with the acute management and diagnostic workup of potential traumatic brain injury (TBI) in an emergency setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1735774,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "An elderly patient presented with fluctuating levels of consciousness. Which of the following should be done?",
+      "options": {
+        "A": "Metabolic panel screen",
+        "B": "Brain MRI",
+        "C": "Lumbar puncture",
+        "D": "Electroencephalogram (EEG)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the initial workup for acute fluctuating encephalopathy (delirium), a common presentation requiring urgent assessment often in acute or critical care settings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67485459,
+    "fields": {
+      "question_number": "Q165",
+      "question_text": "Which of the following is a therapeutic effect of mannitol?",
+      "options": {
+        "A": "Decreased mean arterial pressure",
+        "B": "Increased intravascular volume",
+        "C": "Increased intracranial pressure",
+        "D": "Decreased blood viscosity"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the physiological effects and mechanism of action of mannitol, a key osmotic agent used for managing increased intracranial pressure (ICP) in neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61770811,
+    "fields": {
+      "question_number": "Q77",
+      "question_text": "A patient with intracerebral hemorrhage (ICH) followed by midline shift had an EVD inserted and then developed signs of infection. Blood and CSF cultures were sent. You want to start empirical treatment. What should you do?",
+      "options": {
+        "A": "Remove EVD",
+        "B": "Remove EVD and give intraventricular vancomycin",
+        "C": "Replace EVD and give IV vancomycin",
+        "D": "Remove EVD and give cefepime"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the management of a common and serious complication (infection) associated with an invasive neuromonitoring device (EVD) used in critically ill neurological patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58099644,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "A patient on warfarin develops intracranial hemorrhage. What is the next step? (No PCC in answers)",
+      "options": {
+        "A": "IV vitamin K",
+        "B": "Fresh frozen plasma",
+        "C": "Protamine sulfate",
+        "D": "Supportive care and blood pressure control"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Deals with the urgent management of anticoagulant-associated intracerebral hemorrhage, specifically the choice of reversal agents in an acute/critical setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78076305,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "A patient with head trauma arrives at the emergency department conscious and oriented. After one hour, he loses consciousness and has a dilated right pupil. What abnormality would you expect to see on a brain CT?",
+      "options": {
+        "A": "Epidural hemorrhage",
+        "B": "Subdural hemorrhage",
+        "C": "Subarachnoid hemorrhage",
+        "D": "Lobar hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes a classic clinical progression (\"lucid interval\") highly suggestive of epidural hematoma following TBI, testing knowledge of acute TBI complications."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40841674,
+    "fields": {
+      "question_number": "Q164",
+      "question_text": "What is a potential complication of using hypertonic saline in the treatment of increased ICP?",
+      "options": {
+        "A": "Cerebral edema",
+        "B": "Pulmonary edema",
+        "C": "Increased intracranial pressure",
+        "D": "Decreased mean arterial pressure"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the potential adverse effects and complications associated with hypertonic saline, a therapy used primarily for managing raised ICP in critical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32876107,
+    "fields": {
+      "question_number": "Q63",
+      "question_text": "An elderly patient is brought to the emergency department by his family after they found him unresponsive in bed. The last time he was seen well was 1 day ago. A CT scan of the brain shows a large infarction in the right middle cerebral artery (MCA) with midline shift. What is the most important thing to do?",
+      "options": {
+        "A": "Decompressive craniectomy",
+        "B": "Admission to stroke unit",
+        "C": "Initiate intravenous thrombolysis",
+        "D": "Start antiplatelet therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the life-saving management (decompressive craniectomy) of malignant MCA infarction, a critical complication of large ischemic stroke requiring urgent neurosurgical intervention."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56822103,
+    "fields": {
+      "question_number": "Q163",
+      "question_text": "An elderly patient was admitted after a cardiac arrest and is now in the ICU. He is intubated, sedated, and given muscle relaxants. His pupils are non-reactive, and there is no motor response. What should be done next?",
+      "options": {
+        "A": "Perform an EEG",
+        "B": "Obtain an MRI",
+        "C": "Start hypothermia measures",
+        "D": "Administer intravenous fluids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Concerns the initial steps in neurological assessment and prognostication (e.g., EEG) for a comatose patient following cardiac arrest in the ICU setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78336645,
+    "fields": {
+      "question_number": "Q20",
+      "question_text": "A female patient post subarachnoid hemorrhage (SVD) presented with headache, visual field deficit, and suspected SIADH. With blood pressure low below 90, what is the diagnosis?",
+      "options": {
+        "A": "Pituitary Apoplexy",
+        "B": "Cerebral Vasospasm",
+        "C": "Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)",
+        "D": "Hydrocephalus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Deals with recognizing and diagnosing a potential acute complication (pituitary apoplexy) in the context of a recent critical neurological event (subarachnoid hemorrhage)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96862675,
+    "fields": {
+      "question_number": "Q155",
+      "question_text": "A female patient diagnosed with cerebral venous thrombosis (CVT) was admitted to the ICU and then deteriorated. A CT scan showed brain edema. What is in favor of hypertonic saline over mannitol?",
+      "options": {
+        "A": "Increased intravascular volume",
+        "B": "More rapid diuresis",
+        "C": "Lower risk of rebound intracranial hypertension",
+        "D": "Less risk of electrolyte imbalance"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Compares the properties and indications of two osmotic therapies (hypertonic saline vs. mannitol) used to manage cerebral edema, a common critical care challenge, specifically in the context of CVT."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69839021,
+    "fields": {
+      "question_number": "Q149",
+      "question_text": "When should a patient with Guillain-Barr\u00e9 syndrome be admitted to the ICU?",
+      "options": {
+        "A": "Rapid progression of weakness",
+        "B": "Severe autonomic or swallowing dysfunction",
+        "C": "Evolving respiratory distress",
+        "D": "Persistent severe pain"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on identifying clinical criteria that necessitate ICU admission for monitoring and potential intervention (like mechanical ventilation) in a patient with GBS, a critical care decision."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64233368,
+    "fields": {
+      "question_number": "Q4",
+      "question_text": "A brain CT shows coup contrecoup injury (left frontal and right temporal bleed). What is the mechanism of injury?",
+      "options": {
+        "A": "Trauma",
+        "B": "Ischemic stroke",
+        "C": "Infectious encephalitis",
+        "D": "Metabolic encephalopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Relates specific imaging findings (coup-contrecoup pattern) on brain CT directly to the underlying mechanism of traumatic brain injury."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73712636,
+    "fields": {
+      "question_number": "Q156",
+      "question_text": "What is the difference between mannitol and hypertonic saline?",
+      "options": {
+        "A": "Decrease intracranial pressure (ICP)",
+        "B": "More nephrotoxicity",
+        "C": "Increase cerebral blood flow",
+        "D": "Different effects on serum sodium levels"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Compares the pharmacological properties, mechanisms, or side effects of two primary osmotic agents used for managing raised ICP in neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47726104,
+    "fields": {
+      "question_number": "Q167",
+      "question_text": "What is the most important predictor of outcome in cardiac arrest?",
+      "options": {
+        "A": "Duration of CPR",
+        "B": "Bilateral somatosensory evoked potentials (SSEP)",
+        "C": "Absent pupillary response in 24 hours",
+        "D": "Initial rhythm at time of arrest"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about key factors, particularly neurological examination findings and neurophysiological tests (SSEP), used for prognostication after cardiac arrest in the ICU."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65454194,
+    "fields": {
+      "question_number": "Q152",
+      "question_text": "EVD associated with infection:",
+      "options": {
+        "A": "Less than 3% risk of infection.",
+        "B": "Infection improved if the catheter changed every 5 days.",
+        "C": "Increasing after 7 days.",
+        "D": "Prophylactic antibiotics reduce infection rates."
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the epidemiology, risk factors, and prevention strategies related to infections associated with external ventricular drains (EVDs), a common neurocritical care intervention."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87781943,
+    "fields": {
+      "question_number": "Q70",
+      "question_text": "Which of the following statements is true regarding the duration of effect between hypertonic saline and mannitol?",
+      "options": {
+        "A": "The effects of hypertonic saline typically last longer than those of mannitol.",
+        "B": "The effects of mannitol typically last longer than those of hypertonic saline.",
+        "C": "Both have the same duration of effect.",
+        "D": "Neither has a significant duration of effect."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Compares the pharmacodynamic properties (duration of action) of two osmotic agents frequently used in the management of increased ICP."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24597825,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "A patient came with high blood pressure and a picture of PRESS syndrome. What is the management?",
+      "options": {
+        "A": "Monitoring",
+        "B": "Control BP",
+        "C": "Administer corticosteroids",
+        "D": "Immediate neurosurgical intervention"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the acute management (blood pressure control) of Posterior Reversible Encephalopathy Syndrome (PRES), a condition often associated with hypertensive emergencies or critical illness."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97170984,
+    "fields": {
+      "question_number": "Q344",
+      "question_text": "Which of the following statements is true regarding mannitol and hypertonic saline in the management of increased intracranial pressure (ICP)?",
+      "options": {
+        "A": "Both agents improve red blood cell rheology.",
+        "B": "Both agents can cause metabolic acidosis.",
+        "C": "A rebound exacerbation of increased ICP may occur after stopping a continuous infusion of either agent.",
+        "D": "Both agents reduce cerebral edema by decreasing blood-brain barrier permeability."
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the shared physiological effects, potential complications, and clinical considerations when using mannitol and hypertonic saline for ICP management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 7467995,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "A vague scenario describes a patient with no history available, brought to the ER with decreased level of consciousness and fever. A CT scan of the brain and CSF analysis are normal. What should be done next?",
+      "options": {
+        "A": "Dantrolene",
+        "B": "Acyclovir",
+        "C": "Antibiotics",
+        "D": "Toxicity screening"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Addresses the diagnostic and therapeutic approach to undifferentiated acute encephalopathy/coma in an emergency/critical care setting when initial standard tests are unrevealing, requiring consideration of broad differentials."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66906853,
+    "fields": {
+      "question_number": "Q145",
+      "question_text": "In a case of subarachnoid hemorrhage (SAH), the patient is found to have hyponatremia, high urine sodium, and high osmolarity. What is the appropriate treatment?",
+      "options": {
+        "A": "Fluid restriction",
+        "B": "Intravenous fluids (IVF)",
+        "C": "Diuretics",
+        "D": "Hypertonic saline"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the diagnosis and management of Cerebral Salt Wasting (CSW), a specific electrolyte disturbance commonly encountered as a complication following SAH in the critical care setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92704205,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "What is the most important predictor of outcome in cardiac arrest?",
+      "options": {
+        "A": "Duration of CPR",
+        "B": "Bilateral SSEP",
+        "C": "Absent pupillary response in 24 hours",
+        "D": "Initial rhythm on ECG"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about key factors, particularly neurological examination findings and neurophysiological tests (SSEP), used for prognostication after cardiac arrest in the ICU. (Duplicate of Q167)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24069470,
+    "fields": {
+      "question_number": "Q32",
+      "question_text": "What is the best predictor for a patient in a coma (not considering brain death or time)?",
+      "options": {
+        "A": "Etiology",
+        "B": "Somatosensory Evoked Potential (SSPE)",
+        "C": "Pupillary light reflex",
+        "D": "Glasgow Coma Scale score"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Addresses general principles of prognostication in comatose patients, highlighting the importance of etiology and neurophysiological testing commonly used in critical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5358938,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A 19-year-old female patient came with encephalopathy; MRI showed high signal intensity in the basal ganglia and thalamus; what is the next step?",
+      "options": {
+        "A": "Lumbar puncture (LP)",
+        "B": "Anti-MOG antibody testing",
+        "C": "Aquaporin-4 antibody testing",
+        "D": "Start empirical antiviral therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the diagnostic workup (specifically the need for LP) in a patient presenting with acute encephalopathy and non-specific but concerning MRI findings, a common scenario requiring urgent evaluation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55105526,
+    "fields": {
+      "question_number": "Q157",
+      "question_text": "A patient with a long ICU stay developed neuropathy/myopathy. What is the recommended management?",
+      "options": {
+        "A": "Physiotherapy and supportive care",
+        "B": "Steroid",
+        "C": "IVIG or PLEX",
+        "D": "Nutritional optimization"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the recognition and management of Critical Illness Polyneuropathy/Myopathy (CIP/CIM), a neurological complication specifically related to prolonged stays in the intensive care unit."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58965948,
+    "fields": {
+      "question_number": "Q408",
+      "question_text": "What is a poor prognostic indicator after cardiac arrest at 24 hours?",
+      "options": {
+        "A": "Bilateral absent N20 response",
+        "B": "Pupillary light reflex present",
+        "C": "Early myoclonus status epilepticus",
+        "D": "Normal EEG background activity"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of specific neurophysiological findings (absent SSEP N20 response) used for neurological prognostication following cardiac arrest in the ICU."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30737800,
+    "fields": {
+      "question_number": "Q143",
+      "question_text": "A patient with a 3 mm hemorrhage in the putamen is stable but has increased edema and decreased level of consciousness. What is the appropriate treatment?",
+      "options": {
+        "A": "Triple H",
+        "B": "Osmotic treatment",
+        "C": "Dexamethasone",
+        "D": "Surgical evacuation"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with the management of secondary brain injury (worsening edema and neurological decline) following an intracerebral hemorrhage, specifically the use of osmotic therapy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92020129,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "In a Guillain-Barr\u00e9 syndrome scenario, what is the predicting factor for intubation?",
+      "options": {
+        "A": "Presence of dysautonomia",
+        "B": "Age over 60",
+        "C": "Rapid progression of symptoms",
+        "D": "Presence of respiratory failure"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Identifies clinical factors used to predict the need for mechanical ventilation (intubation) in GBS patients, a critical decision point in their ICU management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59516500,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "An elderly male presents with decreased oral intake for one week and is inattentive during examination. What would you expect to find on EEG?",
+      "options": {
+        "A": "Generalized slowing",
+        "B": "Normal",
+        "C": "PLEDs",
+        "D": "Focal spikes"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Relates a common clinical presentation of delirium/metabolic encephalopathy in the elderly to its expected electroencephalographic (EEG) correlate, often evaluated in acute settings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59709421,
+    "fields": {
+      "question_number": "Q29",
+      "question_text": "What is the threshold of intracranial pressure (ICP) that is considered abnormal?",
+      "options": {
+        "A": "20 mmHg",
+        "B": "22 mmHg",
+        "C": "25 mmHg",
+        "D": "30 mmHg"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the standard definition of elevated intracranial pressure, a fundamental concept in neurocritical care monitoring and management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80327031,
+    "fields": {
+      "question_number": "Q121",
+      "question_text": "Assessment of blood-brain barrier (BBB) in traumatic brain injury (TBI) is best indicated by which of the following markers?",
+      "options": {
+        "A": "S100B",
+        "B": "Myelin basic protein",
+        "C": "Serum specific enolase",
+        "D": "Glial fibrillary acidic protein"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the use of biochemical markers (like S100B) to assess aspects of brain injury pathophysiology (BBB disruption) specifically in the context of TBI."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10916690,
+    "fields": {
+      "question_number": "Q162",
+      "question_text": "A patient with ventricular hemorrhage is being evaluated for ventriculostomy. Which one of the following statements is true?",
+      "options": {
+        "A": "The risk of infection is 3%.",
+        "B": "The risk of infection increases after day 7.",
+        "C": "Changing the ventricular tube every 5 days decreases the rate of infection.",
+        "D": "Prophylactic antibiotics have no role in preventing ventriculostomy infections."
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Addresses the epidemiology and risk factors associated with infections related to external ventricular drains (EVDs/ventriculostomy), a common critical care procedure. (Similar to Q152)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38834914,
+    "fields": {
+      "question_number": "Q168",
+      "question_text": "What is assessed to evaluate the blood-brain barrier (BBB) in traumatic brain injury (TBI)?",
+      "options": {
+        "A": "S100",
+        "B": "Myelin basic protein",
+        "C": "Serum specific enolase",
+        "D": "Glial fibrillary acidic protein"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the use of biochemical markers (like S100B) to assess aspects of brain injury pathophysiology (BBB disruption) specifically in the context of TBI. (Duplicate of Q121)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73740626,
+    "fields": {
+      "question_number": "Q160",
+      "question_text": "What is the most appropriate test to order next for an elderly patient admitted with cardiac arrest who is intubated and sedated?",
+      "options": {
+        "A": "Beta 2 glycoprotein antibody",
+        "B": "Cholesterol, triglycerides, LDL",
+        "C": "NOTCH 3",
+        "D": "Brain death assessment"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the critical next step in evaluating an unresponsive, intubated patient post-cardiac arrest, which often involves prognostication or formal brain death assessment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46144847,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "What is the most important diagnostic factor in hypoxic post-cardiac arrest in comatose patients?",
+      "options": {
+        "A": "Serum lactate levels",
+        "B": "Neurological examination findings",
+        "C": "Electroencephalogram (EEG)",
+        "D": "Imaging studies"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Highlights the central role of the neurological examination and supportive tests like EEG in assessing and prognosticating hypoxic-ischemic brain injury after cardiac arrest."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19765309,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "A patient is brought unconscious to the emergency department. A CT of the brain shows multiple hemorrhages at the anterior and posterior aspects. What is the likely mechanism of these intracranial hemorrhages?",
+      "options": {
+        "A": "Traumatic",
+        "B": "Brain tumor",
+        "C": "Hypertensive hemorrhage",
+        "D": "Cerebral amyloid angiopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Infers the most probable cause (trauma) based on the characteristic pattern (e.g., coup-contrecoup) of intracranial hemorrhages seen on imaging in an acutely unconscious patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22338678,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "A patient presented with visual symptoms, confusion, and is taking immunosuppressants for renal transplantation. Brain MRI showed PRESS. What is the management?",
+      "options": {
+        "A": "Control blood pressure",
+        "B": "Change medication",
+        "C": "Increase immunosuppressant dosage",
+        "D": "Refer to a specialist"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Deals with management of an acute neurological complication (PRESS) often seen in critically ill or immunosuppressed patients, focusing on immediate management priorities like BP control and addressing the precipitating factor."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4689740,
+    "fields": {
+      "question_number": "Q153",
+      "question_text": "A patient had an accident and presents with a Glasgow Coma Scale (GCS) score of 5. What is the role of corticosteroids in this case?",
+      "options": {
+        "A": "Improve functional disability but not change morbidity",
+        "B": "No evidence in traumatic brain injury",
+        "C": "Increase risk of infection and worsen outcomes",
+        "D": "Recommended only in cases with spinal cord injury"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses a specific management question (corticosteroid use) in the context of severe traumatic brain injury, a core critical care neurology topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39360982,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "A patient with SAH presents with low sodium levels and high urine osmolarity. The patient is hypotensive and tachycardic. What is the appropriate treatment?",
+      "options": {
+        "A": "Fluid restriction",
+        "B": "IV fluid",
+        "C": "Hypertonic saline administration",
+        "D": "Vasopressor support"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on managing a common and critical electrolyte imbalance (hyponatremia) specifically in the context of SAH, differentiating CSW from SIADH based on volume status, requiring critical care intervention."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24597825,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "An elderly patient with a history of inability to care for himself presents with decreased level of consciousness. What would you expect to find on EEG?",
+      "options": {
+        "A": "Diffuse slowing",
+        "B": "Periodic lateralized epileptiform discharges (PLED)",
+        "C": "Sharp and wave complexes",
+        "D": "Normal alpha rhythm"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the expected EEG finding in an elderly patient with acute altered mental status, likely reflecting encephalopathy common in critical illness or acute decline."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61770811,
+    "fields": {
+      "question_number": "Q77",
+      "question_text": "An elderly female is brought to the ER with a level of consciousness that is altered. Her labs show INR of 3. A Brain CT is attached. What is the best next step?",
+      "options": {
+        "A": "Vitamin K",
+        "B": "TPA",
+        "C": "Daratumumab",
+        "D": "FFP"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the immediate management (reversal of anticoagulation) of an acute intracranial hemorrhage in a patient with elevated INR, a critical neurological emergency often managed initially in an ER/ICU setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 34739936,
+    "fields": {
+      "question_number": "Q159",
+      "question_text": "In the same scenario, what is the diagnosis based on the EEG findings?",
+      "options": {
+        "A": "Nonconvulsive status",
+        "B": "Brain death",
+        "C": "Vegetative state",
+        "D": "Encephalopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Involves interpreting EEG findings for diagnosis/prognostication in a post-cardiac arrest patient managed in the ICU (referring to context from Q158)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17470959,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "A 63-year-old male admitted with left hemiparesis underwent CABG. He was successfully extubated off sedatives. In the ICU, it was noticed that the patient is awake but not communicating and not following commands. His neurological examination showed no focal deficits. What is the best sensitive test to order?",
+      "options": {
+        "A": "Brain CT",
+        "B": "Blood MEL",
+        "C": "EEG",
+        "D": "Lumbar Puncture"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Deals with diagnosing the cause of altered mental status (specifically considering NCSE) in a post-operative ICU patient, where EEG is the crucial diagnostic tool."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6002750,
+    "fields": {
+      "question_number": "Q158",
+      "question_text": "In a case scenario of an elderly patient post-cardiac arrest who was put on hypothermic measures and experienced shivering, sedation, and muscle blockers were administered. After 24 to 48 hours, brainstem reflexes were absent. What is the next step?",
+      "options": {
+        "A": "EEG",
+        "B": "SEPs",
+        "C": "Stop sedation",
+        "D": "Stop muscle blockers"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the critical steps in evaluating a post-cardiac arrest patient with absent brainstem reflexes, including managing confounders (sedation/paralysis) and planning further neuroprognostic tests."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80260473,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "Following a road traffic accident (RTA), the patient developed post-concussion syndrome. What is the reason for this condition?",
+      "options": {
+        "A": "Shear injury",
+        "B": "Cerebral contusion",
+        "C": "Epidural hematoma",
+        "D": "Subarachnoid hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks about the pathophysiology (shear injury/diffuse axonal injury) underlying post-concussion syndrome following traumatic brain injury."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74683606,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "In a patient with liver failure, what will you see on EEG?",
+      "options": {
+        "A": "Triphasic wave",
+        "B": "Periodic lateralized epileptiform discharges",
+        "C": "Generalized slowing",
+        "D": "Alpha coma pattern"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Identifies a specific EEG pattern (triphasic waves) associated with a metabolic encephalopathy (hepatic) often managed in critical care settings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8178017,
+    "fields": {
+      "question_number": "Q141",
+      "question_text": "Which of the following is the most important predictor of outcome in cardiac arrest?",
+      "options": {
+        "A": "Time to defibrillation",
+        "B": "Age of the patient",
+        "C": "Initial rhythm",
+        "D": "Bystander CPR"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Deals with factors predicting neurological outcome after cardiac arrest, a core concept in critical care neurology prognostication."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22441280,
+    "fields": {
+      "question_number": "Q492",
+      "question_text": "What is a potential risk associated with the use of mannitol in patients?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Renal failure",
+        "C": "Pulmonary edema",
+        "D": "Volume overload"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the side effects and risks of a specific medication (mannitol) commonly used in the neurocritical care setting for managing intracranial pressure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16255256,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "A patient presented with confusion and recurrent seizures two days after hemodialysis, with normal imaging. What is the likely reason?",
+      "options": {
+        "A": "Water influx inside cells causing edema",
+        "B": "Uremic toxicity",
+        "C": "Electrolyte imbalance causing neuronal hyperexcitability",
+        "D": "Hypotension-induced cerebral ischemia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the pathophysiology of a neurological complication (Dialysis Disequilibrium Syndrome) directly related to a critical care procedure (hemodialysis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8078438,
+    "fields": {
+      "question_number": "Q144",
+      "question_text": "A 29-year-old male is found unconscious on the street. What do you expect as the mechanism of injury based on the attached CT scan?",
+      "options": {
+        "A": "Aneurysmal",
+        "B": "Trauma",
+        "C": "Hypertension",
+        "D": "Ischemic stroke"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Involves interpreting acute neuroimaging (implied CT showing trauma, SAH, or ICH) to determine the cause of unconsciousness requiring emergency management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33336980,
+    "fields": {
+      "question_number": "Q150",
+      "question_text": "What is considered a poor prognosis in burst suppression?",
+      "options": {
+        "A": "Burst suppression with identical bursts",
+        "B": "Burst suppression with variable bursts",
+        "C": "Burst suppression induced by sedative medications",
+        "D": "Burst suppression with preserved reactivity"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Concerns the prognostic significance of a specific EEG pattern (burst suppression) in critically ill patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82371111,
+    "fields": {
+      "question_number": "Q79",
+      "question_text": "A 67-year-old female experiences recurrent episodes of headache, nausea, and vomiting shortly after dialysis. What is the most likely diagnosis?",
+      "options": {
+        "A": "Dialysis disequilibrium syndrome",
+        "B": "Uremic encephalopathy",
+        "C": "Hypertensive crisis",
+        "D": "Intracranial hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on diagnosing a specific neurological syndrome (Dialysis Disequilibrium Syndrome) occurring as a direct complication of hemodialysis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78743935,
+    "fields": {
+      "question_number": "Q148",
+      "question_text": "A patient with renal failure missed one dialysis session. What would you expect to see on EEG?",
+      "options": {
+        "A": "Generalized slowing",
+        "B": "Triphasic waves",
+        "C": "Epileptiform discharges",
+        "D": "Normal EEG"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the expected EEG finding related to metabolic encephalopathy (uremic) due to missed dialysis, a common scenario encountered in acutely ill patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30632555,
+    "fields": {
+      "question_number": "Q511",
+      "question_text": "What is a common side effect of hypertonic saline administration?",
+      "options": {
+        "A": "Hypokalemia",
+        "B": "Hypernatremia",
+        "C": "Hypotension",
+        "D": "Bradycardia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses a common side effect (hypernatremia) of a medication (hypertonic saline) frequently used in neurocritical care to manage cerebral edema/ICP."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24900815,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "Cardiac arrest in a smoker patient complicated with hypotension and intubation. After 1 month, the patient returned to the clinic with chronic headaches and dizziness. What is the pathogenesis?",
+      "options": {
+        "A": "Hypercapnia",
+        "B": "Vasospasm",
+        "C": "Hypoxic-ischemic encephalopathy",
+        "D": "Post-intubation airway trauma"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Discusses potential pathogenesis contributing to neurological symptoms following cardiac arrest and critical care management, relating back to the initial critical event."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92020129,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "In a case scenario of post-subarachnoid hemorrhage (SAH) and hyponatremia, what is the recommended treatment?",
+      "options": {
+        "A": "3% hypertonic saline",
+        "B": "Fluid restriction",
+        "C": "Vasopressin",
+        "D": "Normal saline infusion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the management of hyponatremia, a common complication following subarachnoid hemorrhage, often requiring ICU-level intervention like hypertonic saline."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70772326,
+    "fields": {
+      "question_number": "Q169",
+      "question_text": "What is the most important predictor of outcome in cardiac arrest?",
+      "options": {
+        "A": "Bilateral SSEP",
+        "B": "Duration of CPR",
+        "C": "Absent pupillary response at 24 hours",
+        "D": "Age of the patient"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with factors, particularly neurological examination findings (pupillary response) and neurophysiological tests (SSEP), used for prognostication after cardiac arrest in the critical care setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70763272,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "An approximately 70-year-old male patient post-CABG 2 days ago is extubated, awake but not following commands, and all labs are normal. What is the best diagnostic test?",
+      "options": {
+        "A": "Lumbar puncture (LP)",
+        "B": "MRI of the brain",
+        "C": "CT of the brain",
+        "D": "EEG"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with diagnosing the cause of altered mental status (specifically considering NCSE) in a post-operative ICU patient, where EEG is the crucial diagnostic tool.* (Duplicate concept of Q78)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 87641136,
+    "fields": {
+      "question_number": "Q97",
+      "question_text": "A brain CT picture shows coup and contrecoup injury. What is the most likely cause?",
+      "options": {
+        "A": "Traumatic aneurysm",
+        "B": "Coup-contrecoup injury",
+        "C": "Infection",
+        "D": "Malignancy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Involves interpreting a specific pattern of injury (coup-contrecoup) on a brain CT scan to determine the etiology as trauma, relevant to neurotrauma critical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45359042,
+    "fields": {
+      "question_number": "Q151",
+      "question_text": "An elderly patient with a history of sick sinus syndrome had a pacemaker implanted and subsequently developed a right subdural hematoma. On day 3, she has decreased level of consciousness and left-sided weakness. A repeat CT shows expected postoperative changes. What is the next appropriate test?",
+      "options": {
+        "A": "EEG",
+        "B": "CTA",
+        "C": "Echocardiogram",
+        "D": "Holter monitor"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on diagnosing the cause of acute neurological decline (likely non-convulsive seizures) in a post-operative patient with known intracranial pathology, requiring urgent assessment (EEG) often in a critical care setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70424495,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "A female patient with high blood pressure (180/??) presents with seizures and confusion. MRI shows bilateral occipital cortical hyperintensity. What is the likely diagnosis?",
+      "options": {
+        "A": "Posterior reversible encephalopathy syndrome (PRES)",
+        "B": "Ischemic stroke",
+        "C": "Viral encephalitis",
+        "D": "Hypertensive intracerebral hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Concerns the diagnosis of PRES, an acute neurological condition often associated with hypertensive emergency, seizures, and requiring urgent management and monitoring typical of critical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92036285,
+    "fields": {
+      "question_number": "Q93",
+      "question_text": "A case of intracerebral hemorrhage (ICH) with a 6 mm midline shift is presented. What is an appropriate treatment option?",
+      "options": {
+        "A": "Osmotic therapy",
+        "B": "Surgical intervention",
+        "C": "Observation",
+        "D": "Anticoagulation"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Deals with management decisions (osmotic therapy vs. surgery) for significant mass effect from ICH, a neurocritical care emergency requiring ICP management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 672666,
+    "fields": {
+      "question_number": "Q161",
+      "question_text": "In a sedated patient, which diagnostic test is least likely to provide useful information?",
+      "options": {
+        "A": "EEG",
+        "B": "MRI",
+        "C": "SSEP",
+        "D": "Brain death assessment"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Evaluates understanding of the utility of diagnostic tools (EEG, MRI, SSEP) in assessing sedated or comatose patients, a common critical care scenario. Brain death assessment is a clinical determination process, not a typical diagnostic test for underlying pathology in this context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 71139576,
+    "fields": {
+      "question_number": "Q171",
+      "question_text": "A patient was in the ICU for 33 days. On the 3rd day, he has a persistent sleep-wake cycle. What is the most likely term for this condition?",
+      "options": {
+        "A": "Stupor",
+        "B": "Vegetative",
+        "C": "Minimally conscious state",
+        "D": "Coma"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the definition and terminology of states of consciousness (vegetative state) following prolonged critical illness or brain injury."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51969819,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A patient has an MRI showing tonsillar herniation. What is the next best step in management?",
+      "options": {
+        "A": "Send to neurosurgery",
+        "B": "Administer mannitol",
+        "C": "Intubate and hyperventilate",
+        "D": "Dexamethasone"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Concerns the immediate management step for a critical finding (tonsillar herniation) indicative of imminent brainstem compression and requiring urgent intervention."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4439477,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "A 30-year-old male was found unconscious on the street. What do you expect as the mechanism of injury for the attached CT scan, which appeared to show a coup-contrecoup bleed?",
+      "options": {
+        "A": "Aneurysmal",
+        "B": "Trauma",
+        "C": "Hypertension",
+        "D": "Ischemic stroke"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Involves interpreting CT findings (coup-contrecoup pattern) to determine the mechanism (trauma) of brain injury in an acutely unconscious patient."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 3550017,
+    "fields": {
+      "question_number": "Q170",
+      "question_text": "Which test is used to assess the blood-brain barrier (BBB) in traumatic brain injury (TBI)?",
+      "options": {
+        "A": "S100",
+        "B": "Myelin basic protein",
+        "C": "Serum specific enolase",
+        "D": "Glial fibrillary acidic protein"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the use of specific biomarkers to assess blood-brain barrier integrity and brain injury severity after TBI, relevant to neurotrauma critical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30227867,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "In a patient with dialysis, what is the pathophysiology behind the disequilibrium syndrome?",
+      "options": {
+        "A": "Influx of water to the cells",
+        "B": "Excessive removal of potassium causing hyperkalemia",
+        "C": "Accumulation of uremic toxins in the bloodstream",
+        "D": "Decreased cerebral blood flow due to hypotension during dialysis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the pathophysiology of dialysis disequilibrium syndrome, an acute neurological complication related to hemodialysis, often managed in an inpatient or critical care setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58065112,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "In a case of intracerebral hemorrhage (ICH) in the basal ganglia, what is the target blood pressure?",
+      "options": {
+        "A": "160/100",
+        "B": "140/90",
+        "C": "180/110",
+        "D": "120/80"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the guideline target blood pressure in the acute management of intracerebral hemorrhage, a core principle of neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56835870,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "What is assessed to evaluate the blood-brain barrier (BBB) in traumatic brain injury (TBI)?",
+      "options": {
+        "A": "S100",
+        "B": "Myelin basic protein",
+        "C": "Serum specific enolase",
+        "D": "Glial fibrillary acidic protein"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the use of biomarkers (like S100) to assess blood-brain barrier integrity in the context of acute TBI, relevant to neurocritical care. (Similar/duplicate concept to Q170)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64888803,
+    "fields": {
+      "question_number": "Q345",
+      "question_text": "A patient had cerebellar intracerebral hemorrhage (ICH) near the 4th ventricle with dilated lateral ventricles and 3rd ventricle. Which of the following is the next step in management?",
+      "options": {
+        "A": "Insert EVD and release high ICP",
+        "B": "Do CT angiography to look for posterior circulation aneurysm",
+        "C": "Start intravenous antihypertensive therapy to control blood pressure",
+        "D": "Perform urgent surgical decompression of the cerebellar hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the management of acute obstructive hydrocephalus secondary to cerebellar hemorrhage, a neurocritical care emergency requiring urgent intervention like EVD placement."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62916475,
+    "fields": {
+      "question_number": "Q85",
+      "question_text": "Which type of brain herniation is commonly associated with a fixed dilated pupil?",
+      "options": {
+        "A": "Uncal herniation",
+        "B": "Central herniation",
+        "C": "Tonsillar herniation",
+        "D": "Subfalcine herniation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the clinical signs (fixed dilated pupil) associated with specific types of brain herniation (uncal), a critical neurological emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27822427,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "A patient had a road traffic accident (RTA) and was intubated in the ICU for 33 days. The patient has an intact wake and sleep cycle but no interaction with the environment. How would you label the patient?",
+      "options": {
+        "A": "Vegetative state",
+        "B": "Persistent vegetative state",
+        "C": "Coma",
+        "D": "Locked-in syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the definition and diagnosis of states of consciousness (vegetative state) following severe traumatic brain injury and prolonged ICU stay. (Similar concept to Q171)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66705013,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "A patient presented with visual symptoms, confusion, and is taking immunosuppressants for renal transplantation. Brain MRI showed PRES. What is the mechanism involved?",
+      "options": {
+        "A": "Failure of autoregulation",
+        "B": "Demyelination of white matter",
+        "C": "Direct infectious encephalitis",
+        "D": "Autoimmune vasculitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the underlying mechanism (failure of autoregulation) of Posterior Reversible Encephalopathy Syndrome (PRES), an acute neurological condition often requiring critical care management. (Similar concept to Q6)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25567345,
+    "fields": {
+      "question_number": "Q499",
+      "question_text": "An elderly patient who suffered a cardiac arrest is not waking up. What is the next best step in management?",
+      "options": {
+        "A": "EEG",
+        "B": "MRI",
+        "C": "Somatosensory evoked potentials (SSEP)",
+        "D": "Administer intravenous fluids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Concerns the appropriate next step in prognostication (using tools like EEG or SSEP) for a patient who remains comatose after cardiac arrest, a common neurocritical care scenario."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22439539,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "In a case scenario about cerebellar hemorrhage, what is the next step in management?",
+      "options": {
+        "A": "Neurosurgery consultation for evacuation",
+        "B": "Initiate high-dose corticosteroids",
+        "C": "Start anticoagulation therapy",
+        "D": "Observe with serial neurological exams"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the critical next management step (neurosurgical consultation for potential evacuation) in acute cerebellar hemorrhage, which carries a high risk of rapid deterioration."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6043174,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "An elderly man has a 1-month history of right-sided weakness and confusion. A brain CT shows a crescentic-shaped hypodensity. What is the mechanism of the lesion?",
+      "options": {
+        "A": "Bridging veins rupture",
+        "B": "Middle meningeal artery rupture",
+        "C": "Cerebral artery thrombosis",
+        "D": "Venous sinus thrombosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes a typical chronic subdural hematoma presentation and asks for its underlying mechanism (rupture of bridging veins), a common condition evaluated and managed in acute/critical care neurology and neurosurgery."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74683606,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "A patient who was arrested by police presents with encephalopathy and has a halitosis odor. What treatment should be administered?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Flumazine",
+        "C": "Naloxone",
+        "D": "Glucose"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the immediate empirical treatment (Thiamine) for suspected Wernicke's encephalopathy in a patient presenting with acute altered mental status in a context suggestive of malnutrition or alcohol abuse, an acute neurological emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55985775,
+    "fields": {
+      "question_number": "Q126",
+      "question_text": "A patient presents with subarachnoid hemorrhage and hyponatremia (serum sodium 129), with a blood pressure of 100 mmHg and high serum and urine osmolarity. What is the significance of these findings? (Note: Incomplete options)",
+      "options": {
+        "A": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH) causing euvolemic hyponatremia",
+        "B": "Cerebral salt wasting (CSW) causing hypovolemic hyponatremia with hypotension",
+        "C": "Hypervolemic hyponatremia due to heart failure",
+        "D": "Pseudohyponatremia due to hyperlipidemia or hyperproteinemia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on recognizing and managing complications (hyponatremia, distinguishing CSW vs SIADH) following subarachnoid hemorrhage, a core critical care neurology scenario."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13475070,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "A patient with intracerebral hemorrhage (ICH) two days later has a blood pressure of 170/90 and a marginally low platelet count of 145. What is the next best step in management?",
+      "options": {
+        "A": "Labetalol",
+        "B": "Amlodipine",
+        "C": "Platelet transfusion",
+        "D": "Observation with supportive care"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses acute management decisions (blood pressure control, consideration of platelet transfusion adequacy) in a patient during the early phase following intracerebral hemorrhage, typical of neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92020129,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "A patient with acute stroke received tPA and subsequently developed difficulty with speaking or swallowing. What should be done next?",
+      "options": {
+        "A": "Antihistamine, Steroid",
+        "B": "Intubate",
+        "C": "Administer fresh frozen plasma",
+        "D": "Observe and monitor closely"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Deals with managing an acute, potentially life-threatening complication (likely orolingual angioedema) of tPA administration in stroke, requiring urgent intervention often in an ICU/ER setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38213770,
+    "fields": {
+      "question_number": "Q254",
+      "question_text": "What EEG finding is associated with poor prognosis?",
+      "options": {
+        "A": "Non-reactive continuous alpha.",
+        "B": "FIRDA.",
+        "C": "Hypsarrhythmia.",
+        "D": "Continuous spindles."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the prognostic significance of specific EEG patterns (e.g., non-reactive alpha coma) frequently encountered in critically ill or comatose patients, a key aspect of neuroprognostication in critical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54814714,
+    "fields": {
+      "question_number": "Q392",
+      "question_text": "A 56-year-old male patient is found in his house with decreased level of consciousness. He was last seen normal 1 day ago. A brain CT scan is performed. What will you do?",
+      "options": {
+        "A": "Admit to ward for observation",
+        "B": "Start empirical antibiotics immediately",
+        "C": "Perform lumbar puncture immediately",
+        "D": "Admit to ICU for close monitoring and supportive care"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes an acute neurological emergency (altered consciousness of unknown duration/etiology) requiring urgent evaluation and management decisions, fitting critical care neurology principles."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 99042980,
+    "fields": {
+      "question_number": "Q327",
+      "question_text": "In a case of trauma, which biomarker is most reliable for detecting disrupted blood-brain barrier (BBB)?",
+      "options": {
+        "A": "S100\u03b2",
+        "B": "Neuron-specific enolase (NSE)",
+        "C": "GFAP",
+        "D": "MBP"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the use of specific biomarkers (like S100\u03b2) in the context of acute TBI to assess injury severity, including BBB disruption, relevant to neurocritical care/neurotrauma. (Similar concept to Q170/Q61)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29227881,
+    "fields": {
+      "question_number": "Q195",
+      "question_text": "A patient presents with acute confusion and is found to have elevated blood levels of urea. What is the most likely cause of their symptoms?",
+      "options": {
+        "A": "Dialysis disequilibrium syndrome",
+        "B": "Hypernatremia",
+        "C": "Uremic encephalopathy",
+        "D": "Hepatic encephalopathy"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying the cause of metabolic encephalopathy (Uremic encephalopathy) presenting as acute confusion, a common scenario requiring diagnosis and management in acute/critical care settings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24951841,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "A patient with subarachnoid hemorrhage (SAH) presents with hyponatremia. What should you do?",
+      "options": {
+        "A": "IV fluid (Hypertonic saline or fluid restriction depending on cause - SIADH vs CSW)",
+        "B": "Immediate administration of isotonic saline",
+        "C": "Restrict all fluids regardless of volume status",
+        "D": "Start vasopressin receptor antagonists"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the management strategy for hyponatremia, a common and important complication in the critical care management of SAH patients. (Similar concept to Q126)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32188471,
+    "fields": {
+      "question_number": "Q460",
+      "question_text": "A patient presents with a headache for months, has papilledema, and an MRI shows hydrocephalus with transependymal edema. What should be done next, considering the presenting symptoms were seizure and confusion?",
+      "options": {
+        "A": "HIV antibody test",
+        "B": "EEG",
+        "C": "Lumbar puncture",
+        "D": "Neurosurgical consultation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes a patient with signs/symptoms of increased intracranial pressure (papilledema, hydrocephalus) presenting acutely with seizure and confusion. The management involves urgent diagnostic workup (potentially for an infectious/inflammatory cause like cryptococcal meningitis suggested by HIV test option), fitting within the scope of acute/critical care neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59499815,
+    "fields": {
+      "question_number": "Q491",
+      "question_text": "An elderly male with left-sided weakness and dysarthria, who is on dabigatran, underwent thrombectomy without receiving tPA. He later has a CT scan showing bleeding. What should be administered to reverse the bleeding?",
+      "options": {
+        "A": "Osmotic therapy",
+        "B": "Idarucizumab",
+        "C": "Vitamin K",
+        "D": "Prothrombin complex concentrate"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Concerns the acute management (reversal agent for DOAC) of hemorrhagic transformation after stroke intervention, a critical complication managed in neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 15017637,
+    "fields": {
+      "question_number": "Q115",
+      "question_text": "A patient progressed rapidly to quadriplegia and was intubated. He is awake and following commands with ocular movement, and the MRI is normal. What should be done next?",
+      "options": {
+        "A": "NCS/RNS",
+        "B": "Cerebral angiography",
+        "C": "Toxicology",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes a patient with acute severe weakness requiring mechanical ventilation (neuromuscular respiratory failure or locked-in state). The urgency and need for ICU support place the diagnostic approach (NCS/RNS for GBS/MG crisis vs other causes) within the realm of critical care neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30242020,
+    "fields": {
+      "question_number": "Q174",
+      "question_text": "An EEG shows a burst suppression pattern. What is the most likely status of the patient?",
+      "options": {
+        "A": "Brain dead",
+        "B": "Deep coma",
+        "C": "Under general anesthesia",
+        "D": "Hypothermia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Requires interpretation of a critical EEG pattern (burst suppression) typically associated with severe diffuse cerebral dysfunction, coma, or deep anesthesia, relevant in critical care settings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48530427,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "A patient who is status post cardiac arrest and has been discharged from the hospital returns to the clinic complaining of sudden jerky movements sometimes upon touching. What is your diagnosis?",
+      "options": {
+        "A": "Lance Adams Syndrome",
+        "B": "Myoclonus",
+        "C": "Epileptic seizure",
+        "D": "Parkinson's disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the diagnosis of a specific neurological sequela (post-hypoxic myoclonus / Lance Adams Syndrome) following a critical care event (cardiac arrest)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 57305781,
+    "fields": {
+      "question_number": "Q179",
+      "question_text": "Hypertonic saline is contraindicated in which of the following patient populations?",
+      "options": {
+        "A": "Patients with end-stage kidney disease",
+        "B": "Patients with diabetes mellitus",
+        "C": "Patients with hypertension",
+        "D": "Patients with traumatic brain injury"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Assesses knowledge regarding the contraindications for using hyperosmolar therapy (hypertonic saline) in critically ill neurological patients, considering systemic effects like fluid/sodium load in renal failure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1029649,
+    "fields": {
+      "question_number": "Q178",
+      "question_text": "What is the benefit of using mannitol over hypertonic saline in the management of increased intracranial pressure?",
+      "options": {
+        "A": "Less nephrotoxic",
+        "B": "Increased intravascular volume",
+        "C": "Better hypotension management",
+        "D": "Faster onset of action"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Compares two common agents (mannitol vs. hypertonic saline) used for managing elevated intracranial pressure in neurocritical care, focusing on their different properties and side effect profiles."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13475070,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "For the same patient, what is the recommended treatment?",
+      "options": {
+        "A": "Osmotic therapy",
+        "B": "Surgery",
+        "C": "Corticosteroids",
+        "D": "Antiepileptic drugs"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Without the preceding scenario, the options (osmotic therapy, surgery) suggest management of elevated intracranial pressure or a structural lesion requiring intervention, typically managed in a critical care setting.* (Assumes context relates to acute brain injury/swelling)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54642337,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A delirious patient presents. What is your next step?",
+      "options": {
+        "A": "Metabolic panel",
+        "B": "Review medication",
+        "C": "Perform neurological examination",
+        "D": "Order brain imaging"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the initial workup of delirium, a common problem in acutely ill or hospitalized patients, often managed within neurocritical care or hospital neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66705013,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "A brain CT shows a coup contrecoup injury with left frontal and right temporal bleed. What is the most likely mechanism of injury?",
+      "options": {
+        "A": "Trauma",
+        "B": "Cardioembolic",
+        "C": "Artery to artery",
+        "D": "Obstruction of venous flow"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Identifies mechanism based on imaging characteristic of Traumatic Brain Injury (TBI). Management of acute TBI often falls under neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 6043174,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "Alcoholic patient came with post-traumatic seizure and delirium; he was on Keppra and Depakin, then seizure improved. After 2 days, the patient had worsening of his delirium; what will you do?",
+      "options": {
+        "A": "Alcohol level",
+        "B": "Toxicology screening",
+        "C": "Ammonia",
+        "D": "Electrolyte panel"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with the differential diagnosis and management of worsening delirium in a complex patient (alcoholism, post-traumatic seizure), likely in an inpatient or critical care setting, considering metabolic causes like hepatic encephalopathy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93799468,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Q51. (Source: Part 1 2021_mcqs.txt) A victim of a road traffic accident was awake for 2 hours, then the right eye pupil became fixed and dilated. What is your diagnosis?",
+      "options": {
+        "A": "Epidural hematoma (EDH)",
+        "B": "Subdural hematoma (SDH)",
+        "C": "Axonal brain injury",
+        "D": "Intracerebral hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes the classic presentation of an epidural hematoma with a lucid interval followed by neurological deterioration (uncal herniation causing pupillary changes), a neurocritical care emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13833240,
+    "fields": {
+      "question_number": "Q196",
+      "question_text": "A patient who has recently delivered vaginally and is experiencing eclampsia presents with progressive flaccid paralysis. What is the next best step in management?",
+      "options": {
+        "A": "Magnesium level",
+        "B": "Nerve conduction study (NCS)",
+        "C": "Calcium level",
+        "D": "MRI"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the urgent investigation of acute flaccid paralysis in a postpartum patient treated for eclampsia, where magnesium toxicity is a critical differential."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20462588,
+    "fields": {
+      "question_number": "Q356",
+      "question_text": "A young lady with SLE nephritis on dialysis presents with seizures and confusion. MRI shows high blood pressure with findings consistent with PRES. What is your diagnosis?",
+      "options": {
+        "A": "Lupus cerebritis",
+        "B": "Posterior Reversible Encephalopathy Syndrome (PRES)",
+        "C": "Cerebral Venous Thrombosis (CVT)",
+        "D": "Herpes Simplex Virus (HSV) encephalitis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on identifying Posterior Reversible Encephalopathy Syndrome (PRES), a clinico-radiological syndrome often associated with hypertension, renal failure, or autoimmune conditions, frequently requiring acute management of blood pressure and neurological status."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 3024821,
+    "fields": {
+      "question_number": "Q146",
+      "question_text": "A mother receiving antiepileptic drugs has an infant who developed intraventricular hemorrhage (IVH). Which medication is most likely responsible?",
+      "options": {
+        "A": "Keppra",
+        "B": "Lacosamide",
+        "C": "Phenytoin",
+        "D": "Valproate (VA)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns a critical neurological event (IVH) in a neonate potentially related to in utero drug exposure, placing it within the context of neonatal critical care neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91883418,
+    "fields": {
+      "question_number": "Q337",
+      "question_text": "A pregnant patient presents with recurrent vomiting. What should be administered?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Ondansetron",
+        "C": "Intravenous fluids",
+        "D": "Vitamin B6"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Addresses the acute management/prevention (Thiamine administration) of potential Wernicke's encephalopathy in a high-risk setting (hyperemesis gravidarum), fitting best under Critical Care Neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60882170,
+    "fields": {
+      "question_number": "Q120",
+      "question_text": "A patient developed cognitive impairment and ataxia. MRI showed high signals in the mammillary bodies. What is the most likely deficiency?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Vitamin B12",
+        "C": "Folate",
+        "D": "Copper"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes the classic clinical and radiological features of Wernicke's encephalopathy, an acute neurological condition often managed in critical care settings due to thiamine deficiency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51071014,
+    "fields": {
+      "question_number": "Q71",
+      "question_text": "Pregnant lady came with confusion and had a history of increased vomiting; she has no ophthalmology findings; what will you give?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Intravenous glucose",
+        "C": "Antiemetics",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a scenario highly suggestive of impending or early Wernicke's encephalopathy requiring urgent treatment (Thiamine), fitting within Critical Care Neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 7387166,
+    "fields": {
+      "question_number": "Q212",
+      "question_text": "A pregnant lady came with confusion and had a history of increased vomiting; she has no ophthalmology findings. What will you give?",
+      "options": {
+        "A": "Thiamine",
+        "B": "Intravenous glucose",
+        "C": "Antiemetics",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes a scenario highly suggestive of impending or early Wernicke's encephalopathy requiring urgent treatment (Thiamine), fitting within Critical Care Neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42686009,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "A patient was on warfarin and developed intracerebral hemorrhage (ICH). Which of the following has the best efficacy to manage this condition?",
+      "options": {
+        "A": "Fresh Frozen Plasma (FFP)",
+        "B": "Vitamin K",
+        "C": "Prothrombin Complex Concentrate (PCC)",
+        "D": "FFP + Vitamin K"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the acute management (reversal of anticoagulation using PCC) of a neurological emergency (ICH) in a critical care setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58065112,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "An alcoholic patient came with post-traumatic seizure and delirium. He was on Keppra and Depakin, then the seizure improved; after 2 days, the patient had worsening of his delirium. What will you do?",
+      "options": {
+        "A": "Alcohol level",
+        "B": "Toxicology screening",
+        "C": "Ammonia",
+        "D": "Electrolyte panel"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with the management of a complex critically ill patient with multiple potential causes for altered mental status (post-traumatic, post-ictal, withdrawal, metabolic like hepatic encephalopathy suggested by checking ammonia) requiring investigation in an acute care/ICU setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24900815,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A 6-year-old female has recurrent episodes of headache, nausea, and vomiting that occur shortly after dialysis sessions. What is the possible mechanism to explain these symptoms?",
+      "options": {
+        "A": "Water influx into brain parenchyma",
+        "B": "PTH levels",
+        "C": "Toxic effect of urea in blood",
+        "D": "Dialysis disequilibrium syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Addresses a neurological complication (Dialysis Disequilibrium Syndrome) arising directly from a critical care procedure (dialysis)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 48530427,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "What is the management of hyponatremia due to cerebral salt wasting syndrome?",
+      "options": {
+        "A": "Hypertonic saline",
+        "B": "IV fluid (isotonic)",
+        "C": "Fludrocortisone",
+        "D": "Fluid restriction"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on managing a specific electrolyte disturbance (hyponatremia due to CSW) that commonly occurs after acute brain injury (like SAH, TBI), often managed in a neurocritical care setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36042430,
+    "fields": {
+      "question_number": "Q26",
+      "question_text": "A 60-year-old male presented to the ER with a 2-day history of unilateral weakness and dysarthria. On examination, his blood pressure is 70/90 mmHg [Likely typo, assume 170/90 or similar elevated BP]. What is the next step in the management?",
+      "options": {
+        "A": "IV labetalol",
+        "B": "IV nitroprusside",
+        "C": "Observation",
+        "D": "Resume home medications"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the acute management of blood pressure in the setting of a likely acute stroke, a common decision point in emergency/critical care neurology. [Assuming BP was meant to be high requiring intervention like Labetalol]. If BP truly 70/90, the question changes but still involves acute physiological management in a neurological emergency."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88514017,
+    "fields": {
+      "question_number": "Q90",
+      "question_text": "What is the best imaging modality for diffuse axonal injury?",
+      "options": {
+        "A": "CT with contrast",
+        "B": "MRI with diffusion-weighted imaging (DWI)",
+        "C": "Non-contrast CT",
+        "D": "PET scan"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the optimal neuroimaging technique (MRI, specifically sequences like DWI/SWI) for detecting diffuse axonal injury, commonly seen in traumatic brain injury managed in critical care settings."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82371111,
+    "fields": {
+      "question_number": "Q79",
+      "question_text": "A patient presents with inattentiveness, and laboratory tests including liver function tests (LFT), electrolyte levels, and a CT scan of the brain are normal. What could explain this condition?",
+      "options": {
+        "A": "Brain infection",
+        "B": "Systemic infection",
+        "C": "Medication side effect",
+        "D": "Psychiatric disorder"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the differential diagnosis of altered mental status (inattentiveness/encephalopathy) when initial brain imaging and basic labs are normal, pointing towards systemic causes (like sepsis) affecting brain function."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67071314,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A patient came after head trauma and was fine initially. After one hour, he started to have a decrease in level of consciousness (LOC). What type of hematoma is most likely?",
+      "options": {
+        "A": "Subarachnoid hemorrhage (SAH)",
+        "B": "Epidural hematoma (EDH)",
+        "C": "Subdural hematoma (SDH)",
+        "D": "Intracerebral hemorrhage (ICH)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes an acute neurological emergency (post-traumatic hematoma with rapid decline) typically managed in a critical care or neurosurgical setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77357556,
+    "fields": {
+      "question_number": "Q154",
+      "question_text": "A patient presented to the emergency room with meningitis and no papilledema, what is the appropriate management?",
+      "options": {
+        "A": "Wait for CT then perform lumbar puncture (LP)",
+        "B": "Give antibiotics directly",
+        "C": "Perform LP without CT",
+        "D": "Administer corticosteroids before antibiotics"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2019_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the immediate decision-making process and procedural sequencing (LP vs CT vs antibiotics) in the acute management of suspected bacterial meningitis in the emergency setting."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21411758,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "A patient known to have congenital heart disease presents with headache, fever, and hemiparesis. What will you do next?",
+      "options": {
+        "A": "Blood culture",
+        "B": "CT without contrast",
+        "C": "CT with contrast",
+        "D": "LP"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part I 2018_mcqs.txt; Originally Critical_Care_Neurology",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the immediate next diagnostic step (neuroimaging choice) in the acute workup of a patient with risk factors (CHD) presenting with symptoms suggestive of a focal CNS infection like a brain abscess."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 17345274,
+    "fields": {
+      "question_number": "Q255",
+      "question_text": "In the assessment of brain death, which of the following is a critical step?",
+      "options": {
+        "A": "Stop sedation",
+        "B": "Stop muscle relaxants",
+        "C": "Confirm absence of brainstem reflexes",
+        "D": "Perform apnea test"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on the procedural requirements (eliminating confounders like medication effects) for brain death determination, a core critical care concept."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22309025,
+    "fields": {
+      "question_number": "Q267",
+      "question_text": "A patient on sedation has EEG findings suggestive of bilateral generalized slowing. What is the next best step in management?",
+      "options": {
+        "A": "Stop sedation",
+        "B": "Load phenytoin 15-20 mg/kg",
+        "C": "Perform a brain death assessment",
+        "D": "Increase sedation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the interpretation and management of EEG findings in a sedated patient, often seen in the ICU setting, considering medication effects versus underlying pathology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98264238,
+    "fields": {
+      "question_number": "Q289",
+      "question_text": "An elderly patient is intubated with intact level of consciousness but is only able to move his extraocular muscles. What is the next step in workup? [Suggests Locked-in Syndrome or severe neuromuscular weakness]",
+      "options": {
+        "A": "NCS with RNS",
+        "B": "EEG",
+        "C": "MRI Brain",
+        "D": "Urine toxicology"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the diagnostic approach in a critically ill, non-communicative patient where distinguishing central (Locked-in) from peripheral (severe weakness/neuropathy/NMJ) causes is key, involving critical care diagnostics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 65610687,
+    "fields": {
+      "question_number": "Q260",
+      "question_text": "Which of the following is a mechanism by which hypertonic saline reduces intracranial pressure?",
+      "options": {
+        "A": "It increases the osmotic gradient across the blood-brain barrier.",
+        "B": "It directly causes vasodilation.",
+        "C": "It decreases blood volume.",
+        "D": "It enhances cerebral perfusion pressure."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the mechanism of action of therapies (hyperosmolar therapy) used to manage intracranial pressure in critically ill neurological patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92630769,
+    "fields": {
+      "question_number": "Q257",
+      "question_text": "A male elderly patient with liver disease and hypertension presents with decreased and fluctuating level of consciousness. Laboratory tests show high liver function tests, high renal function tests, and high ammonia levels. What is the most likely diagnosis?",
+      "options": {
+        "A": "Hepatic encephalopathy",
+        "B": "Wernicke's encephalopathy",
+        "C": "Herpes Simplex Virus encephalitis",
+        "D": "Stroke"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on diagnosing the cause of altered mental status in a critically ill patient with multi-organ dysfunction, pointing towards a metabolic encephalopathy (hepatic)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70179163,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "Q58. (Source: Part 1 2021_mcqs.txt) In a patient with ICH on CT brain and an International Normalized Ratio (INR) of 3.2, which treatment is recommended?",
+      "options": {
+        "A": "PCC",
+        "B": "Vitamin K",
+        "C": "FFP",
+        "D": "Platelet transfusion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the urgent reversal of anticoagulation (warfarin) in the setting of acute intracerebral hemorrhage, a critical care intervention."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22516454,
+    "fields": {
+      "question_number": "Q292",
+      "question_text": "Q292. (Source: part 2 2024_mcqs.txt) In a case of warfarin-related intracerebral hemorrhage (ICH) with an INR of 3, what will you give for immediate reversal?",
+      "options": {
+        "A": "Vitamin K",
+        "B": "Fresh frozen plasma (FFP)",
+        "C": "Protamine sulfate",
+        "D": "Prothrombin complex concentrate (PCC)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Similar to Q58, this tests knowledge of immediate anticoagulation reversal agents (PCC preferred, FFP alternative, Vit K adjunct) for warfarin-associated ICH, a critical care management step."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86198643,
+    "fields": {
+      "question_number": "Q205",
+      "question_text": "Q205. (Source: Promotion 2018_mcqs.txt) A 65-year-old man presents with an abrupt severe headache and drowsiness... GCS falls to 9. Repeat CT shows no change in hematoma size but marked enlargement of the third and lateral ventricles. Which of the following interventions is most likely to improve this patient\u2019s clinical status?",
+      "options": {
+        "A": "Administration of mannitol",
+        "B": "Administration of thiamine",
+        "C": "External ventricular drainage",
+        "D": "Hypothermia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes a patient with ICH complicated by obstructive hydrocephalus and neurological deterioration, asking for the critical intervention (EVD) to manage intracranial pressure."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78477536,
+    "fields": {
+      "question_number": "Q186",
+      "question_text": "Q186. (Source: Promotion 2018_mcqs.txt) Which of the following occurs within an hour of IV infusion of mannitol?",
+      "options": {
+        "A": "Decreased blood viscosity",
+        "B": "Decreased osmotic gradient across the blood-brain barrier",
+        "C": "Decreased tissue oxygen delivery",
+        "D": "Increased hematocrit"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the physiological effects and mechanism of action of mannitol, a hyperosmolar agent commonly used in neurocritical care to manage cerebral edema/ICP."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58065112,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "A pregnant lady had a headache, and her CT showed an intracranial hemorrhage (ICH). What is the treatment?",
+      "options": {
+        "A": "Start Heparin",
+        "B": "Warfarin",
+        "C": "Supportive care and blood pressure control",
+        "D": "Surgical evacuation of hematoma"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: While involving ICH (Vascular), the core challenge is managing anticoagulation (or deciding against it) in a pregnant patient with ICH, leaning towards critical care considerations in a special population. Anticoagulation (Heparin, Warfarin) is contraindicated in acute ICH as it may worsen bleeding. The best treatment involves supportive care, blood pressure control, and possibly surgical intervention depending on hematoma size and clinical status."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 67901869,
+    "fields": {
+      "question_number": "Q192",
+      "question_text": "What is the primary benefit of administering anticonvulsants during the first week after traumatic brain injury (TBI)?",
+      "options": {
+        "A": "Decrease early and late seizures",
+        "B": "Decrease early seizures",
+        "C": "Decrease late seizures",
+        "D": "Don't decrease frequency but decrease severity of seizures"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the acute management of TBI, specifically the role of seizure prophylaxis in the immediate post-injury period, a common issue in neurocritical care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 66705013,
+    "fields": {
+      "question_number": "Q2",
+      "question_text": "A brain CT shows a coup contrecoup injury with left frontal and right temporal bleed. What is the most likely mechanism of injury?",
+      "options": {
+        "A": "Trauma",
+        "B": "Cardioembolic",
+        "C": "Artery to artery",
+        "D": "Obstruction of venous flow"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Identifies the mechanism of injury based on the specific pattern of brain hemorrhage (coup-contrecoup), which is pathognomonic for traumatic brain injury (TBI). While involving bleeding, the core concept is recognizing the TBI pattern, management of which often falls under neurocritical care or neurosurgery."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45681215,
+    "fields": {
+      "question_number": "Q25",
+      "question_text": "In a similar scenario to the previous one, what is the most likely diagnosis?",
+      "options": {
+        "A": "Acute confusional state",
+        "B": "Stroke",
+        "C": "Hypoglycaemia",
+        "D": "Meningitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Assuming the previous scenario involved an acutely unwell patient (common in critical care settings), identifying an acute confusional state (delirium) is a key diagnostic step in critical care neurology."
+    }
+  }
+]

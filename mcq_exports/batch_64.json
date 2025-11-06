@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q81",
+    "question_text": "",
+    "options": {
+      "A": "Gaucher disease",
+      "B": "Neuronal ceroid lipofuscinosis",
+      "C": "Tay-Sachs disease",
+      "D": "Krabbe disease"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "",
+    "options": {
+      "A": "patient with developmental delay and bilateral basal ganglia high signal intensity. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "Pediatric patient had hepatosplenomegaly, hypotonia, flaccid paralysis, MRI showed white matter changes; what is the diagnosis?",
+    "options": {
+      "A": "Hexosaminidase A",
+      "B": "Glucocerebrosidase",
+      "C": "Arylsulfatase",
+      "D": "Galactocerebrosidase"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "",
+    "options": {
+      "A": "child presents with short stature, microcephaly, sensorineural hearing loss (SNHL), developmental delay, and optic atrophy. Which of the following is the most likely associated finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "",
+    "options": {
+      "A": "young boy presents with cognitive decline and behavioral changes, and has very long-chain fatty acids (VLCFA) in his blood. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "Which of the following metabolic diseases is associated with bilateral subdural hematoma?",
+    "options": {
+      "A": "Niemann-Pick disease",
+      "B": "Glutaric Aciduria Type 1 (GA1)",
+      "C": "Maple syrup urine disease",
+      "D": "Phenylketonuria"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "",
+    "options": {
+      "A": "patient with developmental delay and bilateral basal ganglia high signal intensity on imaging. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "",
+    "options": {
+      "A": "Hexosaminidase A deficiency",
+      "B": "Glucocerebrosidase deficiency",
+      "C": "Arylsulfatase deficiency",
+      "D": "Galactocerebrosidase deficiency"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q173",
+    "question_text": "",
+    "options": {
+      "A": "pediatric patient had bullous lesions that worsen with sun exposure, and he has conjunctivitis. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "",
+    "options": {
+      "A": "child presents with encephalopathy and hyperammonemia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q185",
+    "question_text": "In a case of Gaucher disease, which visual manifestation is commonly observed?",
+    "options": {
+      "A": "Ocular apraxia (Saccadic initiation failure)",
+      "B": "Vertical gaze palsy",
+      "C": "Blindness",
+      "D": "Nystagmus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q242",
+    "question_text": "",
+    "options": {
+      "A": "young patient has tics and seizures. An MRI showed diffuse high signal intensity. How can the diagnosis be made?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q375",
+    "question_text": "",
+    "options": {
+      "A": "5-year-old male with developmental delay shows bilateral symmetrical putamen and globus pallidus signal changes. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "In a typical scenario of CADASIL, which gene is associated with the condition?",
+    "options": {
+      "A": "NOTCH1 gene",
+      "B": "NOTCH2 gene",
+      "C": "NOTCH3 gene",
+      "D": "NOTCH4 gene"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q181",
+    "question_text": "In a typical scenario of MELAS, how can the diagnosis be made?",
+    "options": {
+      "A": "Lactate-pyruvate profile",
+      "B": "Brain biopsy",
+      "C": "Electroencephalogram (EEG)",
+      "D": "Cerebrospinal fluid (CSF) analysis"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with seven flat brown lesions. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "You inherited a 14-year-old boy who was diagnosed with Duchenne muscular dystrophy (DMD) at age 4. You found that maternal relatives are affected by DMD. What will you request for his mother?",
+    "options": {
+      "A": "CK level",
+      "B": "Refer to cardiology",
+      "C": "Genetic counseling",
+      "D": "Echocardiogram"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "An elderly 50-year-old patient presents with seizures and has a history of recurrent emergency room visits due to vague abdominal pain. What laboratory test should be requested?",
+    "options": {
+      "A": "Porphyria",
+      "B": "Paraproteinemia",
+      "C": "Electrolyte panel",
+      "D": "Liver function tests"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "patient with stroke and marfanoid features is being treated. What is the recommended treatment? [Scenario suggests Homocystinuria]"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q287",
+    "question_text": "",
+    "options": {
+      "A": "patient with stroke and marfanoid features. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "patient with a family history of speech and motor issues is brought in for evaluation. The family is concerned about the child's IQ and potential genetic conditions. Which test would be appropriate to confirm or rule out fragile X syndrome?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q181",
+    "question_text": "Patient came with Leber optic neuropathy; what is your next step?",
+    "options": {
+      "A": "ECG",
+      "B": "Visual field testing",
+      "C": "Genetic counseling",
+      "D": "MRI brain"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q449",
+    "question_text": "In a scenario suggestive of oculomotor apraxia, what is the gene associated with this condition?",
+    "options": {
+      "A": "ROBO1",
+      "B": "TUBB3",
+      "C": "KIF21A",
+      "D": "APTX"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "patient with MELAS presents with tic manifestations. What is the most appropriate diagnostic procedure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "In a child with dopa-responsive dystonia, what is the gene responsible?",
+    "options": {
+      "A": "GCH1",
+      "B": "TOR1A",
+      "C": "TH (Tyrosine Hydroxylase)",
+      "D": "SPR (Sepiapterin Reductase)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  }
+]

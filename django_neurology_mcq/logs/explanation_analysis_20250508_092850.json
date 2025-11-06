@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-05-08T09:28:50.971531",
+  "total_mcqs": 3293,
+  "mcqs_with_explanations": 3293,
+  "mcqs_needing_explanations": 0,
+  "explanation_coverage_percentage": 100.0,
+  "subspecialty_stats": {
+    "Dementia": {
+      "total": 117,
+      "with_explanation": 117,
+      "needing_explanation": 0
+    },
+    "Pediatric Neurology": {
+      "total": 27,
+      "with_explanation": 27,
+      "needing_explanation": 0
+    },
+    "Epilepsy": {
+      "total": 327,
+      "with_explanation": 327,
+      "needing_explanation": 0
+    },
+    "Neuropsychiatry": {
+      "total": 63,
+      "with_explanation": 63,
+      "needing_explanation": 0
+    },
+    "Neurogenetics": {
+      "total": 106,
+      "with_explanation": 106,
+      "needing_explanation": 0
+    },
+    "Critical Care Neurology": {
+      "total": 127,
+      "with_explanation": 127,
+      "needing_explanation": 0
+    },
+    "Neuroanatomy": {
+      "total": 102,
+      "with_explanation": 102,
+      "needing_explanation": 0
+    },
+    "Vascular Neurology/Stroke": {
+      "total": 388,
+      "with_explanation": 388,
+      "needing_explanation": 0
+    },
+    "Neuro-otology": {
+      "total": 9,
+      "with_explanation": 9,
+      "needing_explanation": 0
+    },
+    "Other/Unclassified": {
+      "total": 88,
+      "with_explanation": 88,
+      "needing_explanation": 0
+    },
+    "Neuroimmunology": {
+      "total": 333,
+      "with_explanation": 333,
+      "needing_explanation": 0
+    },
+    "Neuroophthalmology": {
+      "total": 98,
+      "with_explanation": 98,
+      "needing_explanation": 0
+    },
+    "Movement Disorders": {
+      "total": 268,
+      "with_explanation": 268,
+      "needing_explanation": 0
+    },
+    "Sleep Neurology": {
+      "total": 52,
+      "with_explanation": 52,
+      "needing_explanation": 0
+    },
+    "Headache": {
+      "total": 285,
+      "with_explanation": 285,
+      "needing_explanation": 0
+    },
+    "Neuro-oncology": {
+      "total": 164,
+      "with_explanation": 164,
+      "needing_explanation": 0
+    },
+    "Neuro-infectious": {
+      "total": 229,
+      "with_explanation": 229,
+      "needing_explanation": 0
+    },
+    "Neuromuscular": {
+      "total": 469,
+      "with_explanation": 469,
+      "needing_explanation": 0
+    },
+    "Neurotoxicology": {
+      "total": 41,
+      "with_explanation": 41,
+      "needing_explanation": 0
+    }
+  },
+  "placeholder_counts": {
+    "no_explanation": 0,
+    "classification_reason": 0,
+    "explanation_needed": 0,
+    "reviewed_by_specialists": 0,
+    "contact_instructor": 0,
+    "too_short": 0,
+    "no_content": 0
+  },
+  "mcqs_needing_explanations_sample": []
+}

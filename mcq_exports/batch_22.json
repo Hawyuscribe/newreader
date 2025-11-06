@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q200",
+    "question_text": "Which of the following statements is true regarding absence seizures?",
+    "options": {
+      "A": "Carbamazepine is effective",
+      "B": "Ethosuximide can cause status in absence seizures",
+      "C": "The pathophysiology is related to T calcium channels",
+      "D": "Absence seizures typically originate in the frontal lobe"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "What is true about Juvenile Myoclonic Epilepsy (JME)?",
+    "options": {
+      "A": "Can be provoked by photic stimulation",
+      "B": "Most patients will be seizure-free",
+      "C": "Typically presents with myoclonic jerks on awakening",
+      "D": "Usually begins in early childhood"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q145",
+    "question_text": "An elderly male with a history of diabetes mellitus, hypertension, dyslipidemia, and ischemic heart disease presented with an episode of loss of consciousness preceded by sweating and palpitations. The episode lasted a few seconds, and he immediately regained full baseline. His heart rate was borderline low at 50 beats per minute. What is the most likely diagnosis?",
+    "options": {
+      "A": "Typical syncope",
+      "B": "Rhythmic jerking",
+      "C": "Epileptic seizure",
+      "D": "Oral automatism"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q201",
+    "question_text": "",
+    "options": {
+      "A": "33-year-old with a history of generalized tonic-clonic seizure with an aura of a rising abdominal sensation. What is the most likely localization of the seizure focus?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences an abdominal rising sensation and d\u00e9j\u00e0 vu. Which localization is most likely associated with this pathophysiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old patient with a known case of diabetes mellitus (DM) and hypertension (HTN) presents with new onset seizure. A brain MRI shows a left temporal lesion (cavernoma). What is the most appropriate next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q262",
+    "question_text": "",
+    "options": {
+      "A": "28-year-old female with a hemorrhagic lesion in the brain had a staring episode followed by post-event confusion. Which of the following is a suitable antiepileptic medication?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "An elderly patient with a history of diabetes mellitus (DM), hypertension (HTN), and end-stage renal disease (ESRD) came with decreased level of consciousness (LOC). His wife mentioned that he told her he was seeing animals before deteriorating. A CT scan showed left occipital hypodensity. What will you do?",
+    "options": {
+      "A": "CTA",
+      "B": "EEG",
+      "C": "MRI brain",
+      "D": "Lumbar puncture"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q213",
+    "question_text": "",
+    "options": {
+      "A": "Irreversible visual loss",
+      "B": "Hepatotoxicity",
+      "C": "Peripheral neuropathy",
+      "D": "Weight gain"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q216",
+    "question_text": "",
+    "options": {
+      "A": "Phenytoin",
+      "B": "Topamax",
+      "C": "Carbamazepine",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q263",
+    "question_text": "Keppra",
+    "options": {
+      "A": "Used primarily for Parkinson\u2019s disease",
+      "B": "An anti-epileptic drug used in seizure management",
+      "C": "A medication for migraine prophylaxis",
+      "D": "A treatment for multiple sclerosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "5-year-old child presents with cognitive decline since 7 months of age and has frequent spasms with hypsarrhythmia. After receiving ACTH, there was some improvement. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old patient with seizures controlled on antiepileptic drugs (AED) developed facial redness and fatigue. What is the most likely AED causing these side effects?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "patient with features of Rolandic epilepsy presents with what EEG finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "In a patient with occipital seizure and migraine with aura, which of the following is in favor of visual aura?",
+    "options": {
+      "A": "Circular coloring",
+      "B": "Typical migraine headache",
+      "C": "Scintillating",
+      "D": "30 seconds to 1 minute in duration"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "pregnant patient at 12 weeks GA with migraine came with status migrainosus. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "Which of the following characteristics is associated with pain in glossopharyngeal neuralgia?",
+    "options": {
+      "A": "Lasting from a few seconds to two minutes",
+      "B": "Severe intensity",
+      "C": "Electric shock-like, shooting, stabbing, or sharp in quality",
+      "D": "Triggered by swallowing or talking"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "What is the first-line treatment for glossopharyngeal neuralgia?",
+    "options": {
+      "A": "Carbamazepine (CBZ)",
+      "B": "Gabapentin",
+      "C": "Baclofen",
+      "D": "Topiramate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "known case of migraine, a female patient in her 1st trimester, came to the ER with a headache. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a small area of headache associated with hair loss. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "patient recently had a baby delivered by C-section one day ago and came to the ED with a headache that increases while sitting and coughing. Brain MRI showed normal results, and the neurological exam was normal. What will you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "In a scenario of SUNA (Short-lasting Unilateral Neuralgiform headache attacks with conjunctival injection and tearing), what is the first line treatment?",
+    "options": {
+      "A": "Lamotrigine",
+      "B": "Indomethacin",
+      "C": "Triptans",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "Which of the following features would be most supportive of a diagnosis of medication-overuse headache (MOH) in a patient?",
+    "options": {
+      "A": "Absence of neck pain",
+      "B": "Constant frontal location",
+      "C": "Mild severity",
+      "D": "Worsened severity upon awakening"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q237",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with unilateral headache on a daily basis associated with ptosis and lacrimation. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "Patient came with tongue pain and paresthesia, radiating to the neck, increased with neck movement; what is the diagnosis?",
+    "options": {
+      "A": "Neck-tongue syndrome",
+      "B": "Glossopharyngeal Neuralgia",
+      "C": "Trigeminal Neuralgia",
+      "D": "Cervical Radiculopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

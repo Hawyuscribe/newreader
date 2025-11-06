@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "female patient has papilledema, signs of increased intracranial pressure, and MRI showed a frontal mass; what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q222",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old female presents with chronic headache. An MRI shows a frontal parasagittal enhancing lesion. What do you expect to find in the brain biopsy?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "What is the pathology of Ependymoma?",
+    "options": {
+      "A": "Rosette formation",
+      "B": "Pseudorosette formation",
+      "C": "Homer-Wright rosettes",
+      "D": "Flexner-Wintersteiner rosettes"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "In a case scenario of a patient with findings suggestive of Neurofibromatosis type 1 (NF1), what associated conditions should be considered?",
+    "options": {
+      "A": "Bilateral Vestibular Tumor",
+      "B": "Bilateral Optic Glioma",
+      "C": "Meningioma",
+      "D": "Schwannoma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with tinnitus, hearing loss, and was found to have a tumor in the pons near the fourth ventricle. What is the most likely origin of the tumor?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "pathology report indicates atypia and necrosis. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with bitemporal hemianopia and headache, along with a drop in hemoglobin. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "In the case of a 59-year-old male patient with a history of prostate cancer, what is the most likely diagnosis if the imaging shows no hemorrhagic lesions?",
+    "options": {
+      "A": "Hemorrhagic metastases",
+      "B": "Amyloid angiopathy",
+      "C": "Ischemic stroke",
+      "D": "Tumor recurrence"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "Which of the following cancers can cause metastasis only to the dura and skull?",
+    "options": {
+      "A": "Prostate cancer",
+      "B": "Breast cancer",
+      "C": "Lung cancer",
+      "D": "Head and neck cancer"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "clival mass is visible from the nostril. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "boy who presented with early morning headache and a suprasellar mass found on imaging with hormonal changes, what is the most likely tumor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "What is the most common posterior fossa tumor in children?",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Astrocytoma",
+      "C": "Medulloblastoma",
+      "D": "Brainstem glioma"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "patient with non-Hodgkin lymphoma presents with a headache and urinary symptoms, and imaging shows findings in the brain and spine. What is the most likely route of spreading?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "",
+    "options": {
+      "A": "tumor of the clivus is most likely to be which type of tumor?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "child with neurofibromatosis presents with headache and syncope and is found to have a tumor in the lateral ventricle. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "Vestibular schwannoma",
+      "B": "Meningioma",
+      "C": "Pilocytic astrocytoma",
+      "D": "Medulloblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "In a male patient with metastatic cancer exclusive to the skull (or dura) and unknown origin of cancer, what should be done?",
+    "options": {
+      "A": "CT chest",
+      "B": "Pelvic MRI",
+      "C": "Abdomen MRI",
+      "D": "Bone scan"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "MRI of the brain with contrast"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q240",
+    "question_text": "",
+    "options": {
+      "A": "patient with glioblastoma multiforme (GBM) has an MRI showing increased edema and mass effect. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "Which condition is associated with Subependymal Giant Cell Astrocytoma (SEGA)?",
+    "options": {
+      "A": "Tuberous sclerosis",
+      "B": "Neurofibromatosis",
+      "C": "Sturge-Weber syndrome",
+      "D": "Von Hippel-Lindau disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "Which tumor is associated with opsoclonus myoclonus syndrome?",
+    "options": {
+      "A": "Breast cancer",
+      "B": "Medulloblastoma",
+      "C": "Ependymoma",
+      "D": "Pilocytic astrocytoma"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "brain MRI shows a mass originating from the fourth ventricle with histology showing pseudorosettes. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "Perivascular pseudorosettes and location in the fourth ventricle"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "Blue cells can be found in which of the following tumors?",
+    "options": {
+      "A": "Oligodendroglioma",
+      "B": "Medulloblastoma or atypical teratoid or rhabdoid tumors",
+      "C": "Ependymoma",
+      "D": "Meningioma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "Which of the following histopathological features is associated with oligodendroglioma?",
+    "options": {
+      "A": "Pseudorossettes",
+      "B": "Fried egg",
+      "C": "Homer Wright rosettes",
+      "D": "Psammoma bodies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  }
+]

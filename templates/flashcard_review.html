@@ -1,0 +1,234 @@
+{% extends 'base.html' %}
+{% load exam_type_filters %}
+
+{% block title %}Flashcard Review - Neurology MCQ Reader{% endblock %}
+
+{% block extra_css %}
+<style>
+    .answer-option {
+        cursor: pointer;
+        border-left: 3px solid transparent;
+        transition: all 0.2s;
+    }
+    .answer-option:hover {
+        background-color: rgba(0, 123, 255, 0.1);
+    }
+    .answer-option.correct {
+        border-left: 3px solid #28a745;
+        background-color: rgba(40, 167, 69, 0.1);
+    }
+    .answer-option.incorrect {
+        border-left: 3px solid #dc3545;
+        background-color: rgba(220, 53, 69, 0.1);
+    }
+    .difficulty-buttons {
+        display: none;
+    }
+    .difficulty-buttons.show {
+        display: block;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>Flashcard Review</h1>
+        <p class="text-muted">{{ flashcards_count }} cards due for review</p>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <a href="{{ url_for('dashboard') }}" class="btn btn-outline-primary">
+            <i class="bi bi-arrow-left"></i> Back to Dashboard
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">{{ mcq.question_number }}</h3>
+            </div>
+            <div class="card-body">
+                <p class="lead">{{ mcq.question_text }}</p>
+                
+                <div id="answer-section" class="mt-4">
+                    <div id="answer-options">
+                        {% for option, text in mcq.options_dict.items() %}
+                        <div class="card mb-2 answer-option" data-option="{{ option }}">
+                            <div class="card-body py-2 px-3">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <strong>{{ option }}.</strong> {{ text }}
+                                    </div>
+                                    <div id="option-check-{{ option }}" class="d-none">
+                                        <i class="bi bi-check-circle-fill text-success fs-5"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-light">
+                <div class="d-flex justify-content-between align-items-center small text-muted">
+                    <div><span class="badge bg-secondary">{{ mcq.subspecialty }}</span></div>
+                    <div>
+                        {% if mcq.exam_type %}<span class="badge {{ mcq.exam_type|exam_type_badge_class }}">{{ mcq.exam_type|display_exam_type }}</span>{% endif %}
+                        {% if mcq.exam_year %}<span class="badge bg-info">{{ mcq.exam_year }}</span>{% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="explanation-section" class="card shadow-sm mb-4 d-none">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">Explanation</h3>
+            </div>
+            <div class="card-body">
+                {% if mcq.explanation %}
+                <div class="explanation-content">{{ mcq.explanation|safe }}</div>
+                {% else %}
+                <p class="text-muted">No explanation available yet.</p>
+                {% endif %}
+                
+                {% if user_note and user_note.note_text %}
+                <div class="mt-4">
+                    <h5>Your Notes</h5>
+                    <div class="border p-3 bg-light">{{ user_note.note_text }}</div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">Review Options</h3>
+            </div>
+            <div class="card-body">
+                <div id="check-container">
+                    <div class="d-grid">
+                        <button id="check-answer-btn" class="btn btn-primary">Check Answer</button>
+                    </div>
+                </div>
+                
+                <div id="result-container" class="mt-4 d-none">
+                    <div class="alert alert-success d-none" id="correct-alert">
+                        <i class="bi bi-check-circle-fill me-2"></i> Correct!
+                    </div>
+                    <div class="alert alert-danger d-none" id="incorrect-alert">
+                        <i class="bi bi-x-circle-fill me-2"></i> Incorrect! The correct answer is <span id="correct-answer"></span>.
+                    </div>
+                </div>
+                
+                <div class="difficulty-buttons mt-4" id="difficulty-container">
+                    <h4 class="mb-3">How difficult was this?</h4>
+                    <form action="{{ url_for('update_flashcard', flashcard_id=flashcard.id) }}" method="post">
+                        <div class="mb-3">
+                            <div class="btn-group-vertical w-100" role="group">
+                                <input type="radio" class="btn-check" name="difficulty" id="difficulty1" value="1">
+                                <label class="btn btn-outline-danger" for="difficulty1">Failed completely (1)</label>
+                                
+                                <input type="radio" class="btn-check" name="difficulty" id="difficulty2" value="2">
+                                <label class="btn btn-outline-warning" for="difficulty2">Very difficult (2)</label>
+                                
+                                <input type="radio" class="btn-check" name="difficulty" id="difficulty3" value="3">
+                                <label class="btn btn-outline-primary" for="difficulty3">Difficult (3)</label>
+                                
+                                <input type="radio" class="btn-check" name="difficulty" id="difficulty4" value="4">
+                                <label class="btn btn-outline-info" for="difficulty4">Easy (4)</label>
+                                
+                                <input type="radio" class="btn-check" name="difficulty" id="difficulty5" value="5">
+                                <label class="btn btn-outline-success" for="difficulty5">Perfect recall (5)</label>
+                            </div>
+                        </div>
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary">Next Flashcard</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="card-footer bg-light small">
+                <div class="d-flex justify-content-between">
+                    <div>Last reviewed: {{ flashcard.last_reviewed.strftime('%Y-%m-%d') }}</div>
+                    <div>Interval: {{ flashcard.interval }} days</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const answerOptions = document.querySelectorAll('.answer-option');
+    const checkAnswerBtn = document.getElementById('check-answer-btn');
+    const resultContainer = document.getElementById('result-container');
+    const correctAlert = document.getElementById('correct-alert');
+    const incorrectAlert = document.getElementById('incorrect-alert');
+    const correctAnswerSpan = document.getElementById('correct-answer');
+    const difficultyContainer = document.getElementById('difficulty-container');
+    const explanationSection = document.getElementById('explanation-section');
+    
+    // Check Answer functionality
+    checkAnswerBtn.addEventListener('click', function() {
+        const selectedOption = document.querySelector('.answer-option.selected');
+        if (!selectedOption) {
+            alert('Please select an answer first');
+            return;
+        }
+        
+        const option = selectedOption.dataset.option;
+        
+        fetch('{{ url_for("check_answer", mcq_id=mcq.id) }}', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: `answer=${option}`
+        })
+        .then(response => response.json())
+        .then(data => {
+            resultContainer.classList.remove('d-none');
+            
+            if (data.is_correct) {
+                correctAlert.classList.remove('d-none');
+                incorrectAlert.classList.add('d-none');
+                selectedOption.classList.add('correct');
+            } else {
+                correctAlert.classList.add('d-none');
+                incorrectAlert.classList.remove('d-none');
+                correctAnswerSpan.textContent = data.correct_answer;
+                selectedOption.classList.add('incorrect');
+                
+                // Highlight correct answer
+                answerOptions.forEach(option => {
+                    if (option.dataset.option === data.correct_answer) {
+                        option.classList.add('correct');
+                        document.getElementById(`option-check-${data.correct_answer}`).classList.remove('d-none');
+                    }
+                });
+            }
+            
+            // Show difficulty rating
+            difficultyContainer.classList.add('show');
+            
+            // Show explanation
+            explanationSection.classList.remove('d-none');
+        });
+    });
+    
+    // Select answer option
+    answerOptions.forEach(option => {
+        option.addEventListener('click', function() {
+            answerOptions.forEach(opt => opt.classList.remove('selected'));
+            this.classList.add('selected');
+        });
+    });
+});
+</script>
+{% endblock %}

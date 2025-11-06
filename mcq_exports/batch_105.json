@@ -1,0 +1,381 @@
+[
+  {
+    "question_number": "Q65",
+    "question_text": "To act in the best interest of the patient is an example of which ethical principle?",
+    "options": {
+      "A": "Justice",
+      "B": "Beneficence",
+      "C": "Autonomy",
+      "D": "Non-maleficence"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "What is the definition of euthanasia?",
+    "options": {
+      "A": "Physician helps the patient with medication to end his life.",
+      "B": "Patient refuses life-sustaining treatment leading to death.",
+      "C": "Administration of pain relief that may unintentionally shorten life.",
+      "D": "Withdrawal of artificial nutrition and hydration to allow natural death."
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "patient in a nursing home informs you that he has been physically abused. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "An intern wants to perform a procedure that he knows about but has never done before, and the supervisor is not present. What should he do?",
+    "options": {
+      "A": "Do it alone",
+      "B": "Wait for the supervisor",
+      "C": "Call the supervisor for guidance",
+      "D": "Ask a more experienced colleague for help"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "",
+    "options": {
+      "A": "patient refuses admission and refuses to sign a Leave Against Medical Advice (LAMA). What is the appropriate action?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "Which enzyme is the rate-limiting step in catecholamine synthesis?",
+    "options": {
+      "A": "Phenylalanine Hydroxylase",
+      "B": "Dopamine Hydroxylase",
+      "C": "Tyrosine Hydroxylase",
+      "D": "Monoamine Oxidase"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with a serious disease has no family members. How should you break the bad news?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "EEG showed diffuse slowing in:",
+    "options": {
+      "A": "Metabolic encephalopathy",
+      "B": "Focal epilepsy",
+      "C": "Brainstem stroke",
+      "D": "Migraine"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "group of doctors conducted research, and after finishing, the chairman\u2019s friend asked to add the chairman\u2019s name. He might report the names of those who refused to the chairman. What is the most appropriate action?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "pharmacy company that conducted a clinical trial for a new antiepileptic drug (AED) asks you to give a presentation and offers sponsorship for international flights and conferences. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "What is the definition of euthanasia?",
+    "options": {
+      "A": "A doctor prescribes or administers a drug to end the patient\u2019s life",
+      "B": "The physician provides the means by which the patient can end his life",
+      "C": "The patient refuses life-sustaining treatment leading to death",
+      "D": "The use of high doses of painkillers that may hasten death"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "Definition of euthanasia:",
+    "options": {
+      "A": "A doctor prescribes or administers a drug to end the patient's life.",
+      "B": "The physician provides the means by which the patient can end his life.",
+      "C": "The patient decides to stop treatment.",
+      "D": "The family decides to withdraw life support."
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "You have a language barrier with an ER staff member. What is the best way to communicate?",
+    "options": {
+      "A": "Situation, background, assessment, and recommendation",
+      "B": "Pay extra attention to facial gestures",
+      "C": "Say your order clearly and ask questions to ensure understanding",
+      "D": "Use simple words and speak slowly"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "In regards to patient safety and preventing medical errors, which research methodology is the best?",
+    "options": {
+      "A": "Case reports",
+      "B": "Case control",
+      "C": "Mortality and morbidity",
+      "D": "Reporting error system"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "According to resource allocation, when building a children's hospital, which statement regarding the location is correct?",
+    "options": {
+      "A": "In an area with low cost",
+      "B": "In an area with a large population",
+      "C": "In an area with a large number of children",
+      "D": "In a population interested in the healthcare system"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "What is the definition of informed consent?",
+    "options": {
+      "A": "Explain to the patient the purpose of the study",
+      "B": "Obtain written permission from the patient before any procedure",
+      "C": "Provide the patient with all possible treatment options",
+      "D": "Ensure the patient understands the risks and benefits of the procedure"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "nurse got a needle stick in her finger after blood extraction from a patient. She refuses to report it to infection control because the patient looks fine. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q257",
+    "question_text": "Carbamazepine",
+    "options": {
+      "A": "Is primarily used to treat Parkinson\u2019s disease",
+      "B": "Is an anticonvulsant used in epilepsy",
+      "C": "Is a dopamine agonist",
+      "D": "Is a cholinesterase inhibitor"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q495",
+    "question_text": "Ethosuximide",
+    "options": {
+      "A": "Is primarily used to treat tonic-clonic seizures",
+      "B": "Is the drug of choice for absence seizures",
+      "C": "Is contraindicated in absence epilepsy",
+      "D": "Is mainly used for status epilepticus"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q180",
+    "question_text": "Topiramate",
+    "options": {
+      "A": "Is primarily used to treat Parkinson\u2019s disease",
+      "B": "Is an antiepileptic drug also used for migraine prophylaxis",
+      "C": "Is contraindicated in all patients with renal impairment",
+      "D": "Is a dopamine agonist"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q195",
+    "question_text": "Which of the following is the most sensitive test?",
+    "options": {
+      "A": "Brain CT",
+      "B": "Blood MEL",
+      "C": "EEG",
+      "D": "Lumbar Puncture"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "In the same scenario, what is the most appropriate treatment?",
+    "options": {
+      "A": "Benzodiazepine",
+      "B": "Antipsychotic medication",
+      "C": "Beta-blocker",
+      "D": "Antidepressant"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q348",
+    "question_text": "Felbamate",
+    "options": {
+      "A": "Is primarily used for absence seizures",
+      "B": "Has a high risk of aplastic anemia and liver failure",
+      "C": "Is a first-line treatment for status epilepticus",
+      "D": "Is safe to use during pregnancy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q347",
+    "question_text": "MTL",
+    "options": {
+      "A": "Hippocampus",
+      "B": "Amygdala",
+      "C": "Thalamus",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "",
+    "options": {
+      "A": "pharmaceutical company conducting a clinical trial for a new AED offers to sponsor your presentation at international conferences. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  }
+]

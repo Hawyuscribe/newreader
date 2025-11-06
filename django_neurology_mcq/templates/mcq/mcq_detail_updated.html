@@ -1,0 +1,369 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+{% load drive_filters %}
+
+{% block title %}MCQ #{{ mcq.question_number }} - Neurology MCQ Reader{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'css/reasoning_pal.css' %}">
+<link rel="stylesheet" href="{% static 'css/modal_fix.css' %}">
+<style>
+    .option {
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+    .option-correct {
+        background-color: rgba(40, 167, 69, 0.2);
+        border-left: 5px solid #28a745;
+    }
+    .option-selected {
+        background-color: rgba(0, 123, 255, 0.2);
+        border-left: 5px solid #007bff;
+    }
+    .option-incorrect {
+        background-color: rgba(220, 53, 69, 0.2);
+        border-left: 5px solid #dc3545;
+    }
+    #explanation {
+        display: none;
+    }
+    .flashcard-panel {
+        margin-bottom: 20px;
+    }
+    .note-panel {
+        margin-bottom: 20px;
+    }
+    .hidden {
+        display: none;
+    }
+    
+    /* Animation for updated explanation content */
+    @keyframes explanation-highlight {
+        0% { background-color: rgba(25, 135, 84, 0.1); }
+        100% { background-color: transparent; }
+    }
+    
+    .explanation-updated {
+        animation: explanation-highlight 3s ease;
+    }
+    
+    /* Enhanced explanation content styling */
+    .explanation-content {
+        line-height: 1.6;
+        font-size: 16px;
+        color: #333;
+    }
+    
+    /* Professional section-based explanation styling */
+    .enhanced-explanation {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        color: #2c3e50;
+        margin-bottom: 2rem;
+    }
+    
+    .exam-source-info {
+        background-color: #f0f7ff;
+        padding: 0.75rem 1rem;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
+        display: flex;
+        align-items: center;
+        font-size: 0.95rem;
+        font-weight: 500;
+        color: #0d6efd;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        border-left: 3px solid #0d6efd;
+    }
+    
+    .exam-source-info i {
+        margin-right: 0.5rem;
+        font-size: 1.1rem;
+    }
+    
+    .explanation-section {
+        margin-bottom: 1.75rem;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 1px 5px rgba(0,0,0,0.08);
+        background-color: #fff;
+        border: 1px solid rgba(0,0,0,0.06);
+        transition: all 0.3s ease;
+    }
+    
+    .explanation-section:hover {
+        box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+    }
+    
+    .explanation-section .section-header {
+        display: flex;
+        align-items: center;
+        padding: 0.85rem 1.25rem;
+        border-bottom: 1px solid rgba(0,0,0,0.06);
+        background-color: #f8f9fa;
+    }
+    
+    .explanation-section .section-header i {
+        font-size: 1.25rem;
+        margin-right: 0.75rem;
+        color: #0d6efd;
+    }
+    
+    .explanation-section .section-header h3 {
+        margin: 0;
+        font-size: 1.15rem;
+        font-weight: 600;
+        color: #2c3e50;
+    }
+    
+    .explanation-section .section-content {
+        padding: 1.25rem;
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+    
+    /* Section-specific styling */
+    .explanation-section.conceptual-framework-clinical-context .section-header {
+        background-color: rgba(13, 110, 253, 0.08);
+    }
+    
+    .explanation-section.conceptual-framework-clinical-context .section-header i {
+        color: #0d6efd;
+    }
+    
+    .explanation-section.key-concepts .section-header {
+        background-color: rgba(255, 193, 7, 0.12);
+    }
+    
+    .explanation-section.key-concepts .section-header i {
+        color: #ffc107;
+    }
+    
+    .explanation-section.pathophysiology .section-header {
+        background-color: rgba(220, 53, 69, 0.08);
+    }
+    
+    .explanation-section.pathophysiology .section-header i {
+        color: #dc3545;
+    }
+    
+    .explanation-section.diagnostic-criteria .section-header {
+        background-color: rgba(40, 167, 69, 0.08);
+    }
+    
+    .explanation-section.diagnostic-criteria .section-header i {
+        color: #28a745;
+    }
+    
+    .explanation-section.management-principles .section-header {
+        background-color: rgba(13, 202, 240, 0.08);
+    }
+    
+    .explanation-section.management-principles .section-header i {
+        color: #0dcaf0;
+    }
+    
+    .explanation-section.follow-up .section-header {
+        background-color: rgba(108, 117, 125, 0.08);
+    }
+    
+    .explanation-section.follow-up .section-header i {
+        color: #6c757d;
+    }
+    
+    .explanation-section.clinical-pearls .section-header {
+        background-color: rgba(111, 66, 193, 0.08);
+    }
+    
+    .explanation-section.clinical-pearls .section-header i {
+        color: #6f42c1;
+    }
+    
+    .explanation-section.references .section-header {
+        background-color: rgba(52, 58, 64, 0.08);
+    }
+    
+    .explanation-section.references .section-header i {
+        color: #343a40;
+    }
+    
+    .explanation-section.why-this-answer-is-correct .section-header {
+        background-color: rgba(25, 135, 84, 0.08);
+    }
+    
+    .explanation-section.why-this-answer-is-correct .section-header i {
+        color: #198754;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- Previous content remains the same until the explanation sections -->
+
+                {% if mcq.explanation_sections %}
+                    <!-- Enhanced section-based explanation -->
+                    <div class="enhanced-explanation">
+                        {% if mcq.exam_type or mcq.exam_year %}
+                        <div class="exam-source-info">
+                            <i class="bi bi-info-circle"></i>
+                            {% if mcq.exam_type %}{{ mcq.exam_type }}{% endif %}
+                            {% if mcq.exam_year %}{{ mcq.exam_year }}{% endif %}
+                            {% if mcq.difficulty_level %}<span class="ms-2 badge bg-warning">{{ mcq.difficulty_level }}</span>{% endif %}
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Option Analysis (Show First) -->
+                        {% if mcq.explanation_sections.option_analysis %}
+                        <div class="explanation-section why-this-answer-is-correct mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-check-circle"></i>
+                                <h3>Option Analysis</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.option_analysis|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Conceptual Foundation -->
+                        {% if mcq.explanation_sections.conceptual_foundation %}
+                        <div class="explanation-section conceptual-framework-clinical-context mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-lightbulb"></i>
+                                <h3>Conceptual Foundation</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.conceptual_foundation|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Pathophysiology (maps from pathophysiological_mechanisms) -->
+                        {% if mcq.explanation_sections.pathophysiological_mechanisms or mcq.explanation_sections.pathophysiology %}
+                        <div class="explanation-section pathophysiology mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-diagram-3"></i>
+                                <h3>Pathophysiology</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.pathophysiological_mechanisms|default:mcq.explanation_sections.pathophysiology|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Clinical Manifestation (maps from clinical_correlation) -->
+                        {% if mcq.explanation_sections.clinical_correlation or mcq.explanation_sections.clinical_manifestation %}
+                        <div class="explanation-section key-concepts mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-clipboard2-pulse"></i>
+                                <h3>Clinical Manifestation</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.clinical_correlation|default:mcq.explanation_sections.clinical_manifestation|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Diagnostic Approach -->
+                        {% if mcq.explanation_sections.diagnostic_approach %}
+                        <div class="explanation-section diagnostic-criteria mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-search"></i>
+                                <h3>Diagnostic Approach</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.diagnostic_approach|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Management Principles -->
+                        {% if mcq.explanation_sections.management_principles %}
+                        <div class="explanation-section management-principles mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-clipboard2-check"></i>
+                                <h3>Management Principles</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.management_principles|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Follow-up Guidelines (New section from JSON) -->
+                        {% if mcq.explanation_sections.follow_up_guidelines %}
+                        <div class="explanation-section follow-up mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-calendar-check"></i>
+                                <h3>Follow-up Guidelines</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.follow_up_guidelines|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Clinical Pearls -->
+                        {% if mcq.explanation_sections.clinical_pearls %}
+                        <div class="explanation-section clinical-pearls mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-gem"></i>
+                                <h3>Clinical Pearls</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.clinical_pearls|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- References (maps from current_evidence) -->
+                        {% if mcq.explanation_sections.current_evidence or mcq.explanation_sections.references %}
+                        <div class="explanation-section references mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-journal-medical"></i>
+                                <h3>References</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.current_evidence|default:mcq.explanation_sections.references|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Classification and Nosology (if exists) -->
+                        {% if mcq.explanation_sections.classification_and_nosology %}
+                        <div class="explanation-section differential-diagnosis mb-4">
+                            <div class="section-header">
+                                <i class="bi bi-diagram-2"></i>
+                                <h3>Classification & Nosology</h3>
+                            </div>
+                            <div class="section-content">
+                                {{ mcq.explanation_sections.classification_and_nosology|linebreaks }}
+                            </div>
+                        </div>
+                        {% endif %}
+                        
+                        {% if mcq.key_concept %}
+                        <div class="highlighted-box">
+                            <strong>Key Concept:</strong> {{ mcq.key_concept }}
+                        </div>
+                        {% endif %}
+                        
+                        {% if mcq.verification_confidence %}
+                        <div class="verification-box mt-4">
+                            <div class="verification-icon">
+                                <i class="bi bi-check2-all"></i>
+                            </div>
+                            <div class="verification-text">
+                                <h5>Verified Answer: {{ mcq.correct_answer }}</h5>
+                                <p>Confidence: {{ mcq.verification_confidence }}</p>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                {% else %}
+                    <!-- Display regular explanation -->
+                    <div class="explanation-content">{{ clean_explanation|safe }}</div>
+                {% endif %}
+                
+<!-- Rest of the template remains the same -->
+{% endblock %}

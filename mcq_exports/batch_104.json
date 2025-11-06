@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q50",
+    "question_text": "What medication causes sensory ataxia?",
+    "options": {
+      "A": "Pyridoxine",
+      "B": "Phenytoin",
+      "C": "Metronidazole",
+      "D": "Isoniazid"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "High-dose pyridoxine toxicity may cause which of the following symptoms?",
+    "options": {
+      "A": "Motor weakness",
+      "B": "Sensory ataxia",
+      "C": "Cranial nerve palsies",
+      "D": "Seizures"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "young patient with a history of alcohol abuse presents with hallucinations, nystagmus, and ataxic gait. MRI shows increased signal intensity in the medial thalamus. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "patient was found to have tuberculosis, started on medication, and later developed seizures. What is the likely cause of the seizures?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "patient on long-term use of colchicine developed myopathy and neuropathy. What is the likely cause of these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "",
+    "options": {
+      "A": "patient who was arrested by police is encephalopathic and has a halitosis odor. What should you administer?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady with hyperemesis gravidarum presents with paresthesia in the lower limbs, nystagmus, and ataxia. The likely vitamin deficiency is:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "53-year-old male presents with abdominal pain, vomiting, diarrhea, and gait difficulty. He is found to have depressed deep tendon reflexes and pale fingernails. What is the most likely culprit toxin?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "In Wernicke's encephalopathy, what type of memory is typically impaired?",
+    "options": {
+      "A": "Immediate memory",
+      "B": "Episodic memory",
+      "C": "Procedural memory",
+      "D": "Semantic memory"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "In the same scenario as above [Implicitly referring to Q53's Wernicke scenario], what is the recommended treatment?",
+    "options": {
+      "A": "Thiamine",
+      "B": "Vitamin B12",
+      "C": "Corticosteroids",
+      "D": "Antiepileptic drugs"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "An 85-year-old female treated for herpetic neuralgia became lethargic and confused 5 days after treatment. A CT scan of the brain and CSF analysis were normal. What is the most likely diagnosis?",
+    "options": {
+      "A": "VZV encephalitis",
+      "B": "Drug-induced encephalopathy",
+      "C": "Metabolic encephalopathy",
+      "D": "Stroke"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "post-bariatric surgery patient presents with nystagmus and ataxia, with findings suggestive of Wernicke\u2019s encephalopathy. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "tuberculosis (TB) patient started on treatment and then had a seizure. What medication is causing the seizure?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "Mees lines are associated with which type of poisoning?",
+    "options": {
+      "A": "Arsenic",
+      "B": "Lead",
+      "C": "Carbon monoxide",
+      "D": "Alcohol"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "In the same patient with colchicine toxicity [Implicitly referring to Q62], what is the expected biopsy finding?",
+    "options": {
+      "A": "Antitubular",
+      "B": "Autophagic vacuoles",
+      "C": "Myophosphorylase",
+      "D": "Rimmed vacuoles"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "Intoxication with which of the following agents would cause sensory ataxia with proprioception and vibratory loss?",
+    "options": {
+      "A": "Dapsone",
+      "B": "Zidovudine",
+      "C": "Tacrolimus",
+      "D": "Pyridoxine"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient on anti-TB medication plus pyridoxine presents with painful neuropathy. Sensory exam and reflexes were normal. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient on anti-TB medication plus pyridoxine presents with painful neuropathy. Sensory exam and reflexes were normal. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "patient developed cognitive impairment and ataxia. MRI showed high signals in the mammillary bodies. What is the most likely deficiency?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "What is the most common side effect of lithium?",
+    "options": {
+      "A": "Tremor",
+      "B": "Weight gain",
+      "C": "Polyuria",
+      "D": "Hypothyroidism"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q359",
+    "question_text": "",
+    "options": {
+      "A": "case presents of a man with an ataxic gait and confusion, accompanied by a peculiar smell from his mouth. His pupils are normal. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt; Originally Neuromuscular",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q203",
+    "question_text": "",
+    "options": {
+      "A": "patient was on Valproic acid and is discovered to be drowsy. What do you need to check?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "What is the case scenario associated with Strachan Syndrome?",
+    "options": {
+      "A": "Vitamin D deficiency",
+      "B": "Vitamin E deficiency",
+      "C": "Vitamin A deficiency",
+      "D": "Vitamin B12 deficiency"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "patient on pregabalin (suspected to be abusing the drug); what will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurotoxicology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "In a scenario involving a female patient with hematologic metastasis, what is the most likely skin-related diagnosis?",
+    "options": {
+      "A": "Skin melanoma",
+      "B": "Basal cell carcinoma",
+      "C": "Squamous cell carcinoma",
+      "D": "Merkel cell carcinoma"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  }
+]

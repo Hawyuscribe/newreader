@@ -1,0 +1,362 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 86332239,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "In neonatal mild hypoxic ischemic encephalopathy, what is the most common presentation?",
+      "options": {
+        "A": "Seizures",
+        "B": "Apnea",
+        "C": "Hypotonia",
+        "D": "Irritability"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on the clinical presentation of Hypoxic Ischemic Encephalopathy (HIE), a condition specific to the neonatal period and managed within pediatric neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79647894,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "B. Neurofibromatosis type 2 (NF2)",
+      "options": {
+        "C": "Sturge-Weber syndrome",
+        "D": "Tuberous sclerosis",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the recognition of the classic clinical and radiological features of Sturge-Weber syndrome, a neurocutaneous disorder typically diagnosed and managed in childhood."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33150673,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "B. Tuberous sclerosis complex",
+      "options": {
+        "C": "Sturge-Weber syndrome",
+        "D": "Von Hippel-Lindau disease",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Promotion 2022_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the recognition of diagnostic criteria for Neurofibromatosis type 1 (NF1), a common neurocutaneous disorder presenting in childhood."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 9728912,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "In a patient with tic disorder and ADHD, which medication is commonly used?",
+      "options": {
+        "A": "Atomoxetine",
+        "B": "Methylphenidate",
+        "C": "Clonidine",
+        "D": "Guanfacine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the pharmacological management of co-morbid tic disorder and ADHD, a common scenario encountered in pediatric neurology and developmental pediatrics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4069203,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "In a case of Sturge-Weber syndrome (hint: port wine stain on the face), what associated condition is commonly asked about?",
+      "options": {
+        "A": "Renal Angiofibroma",
+        "B": "Cardiac Rhabdomyosarcoma",
+        "C": "Glaucoma",
+        "D": "Seizures"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on recognizing a common association (glaucoma) of Sturge-Weber syndrome, a condition primarily managed within pediatric neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 53307658,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "An infant presented with choreoathetosis and hearing loss. Brain MRI reported globus pallidus hyperintensity. What is the most likely diagnosis?",
+      "options": {
+        "A": "Kernicterus",
+        "B": "Leigh syndrome",
+        "C": "Wilson disease",
+        "D": "Mitochondrial encephalopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes the classic clinical and imaging findings of Kernicterus, a neurological condition resulting from severe neonatal hyperbilirubinemia, falling under the scope of pediatric/neonatal neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26418717,
+    "fields": {
+      "question_number": "Q79",
+      "question_text": "A patient with facial weakness and seizures presents with what other condition?",
+      "options": {
+        "A": "Sturge-Weber disease",
+        "B": "Mitochondrial myopathy",
+        "C": "Arnold-Chiari malformation",
+        "D": "Neurofibromatosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Links clinical features (facial weakness, seizures) often associated with the neurological consequences of the facial port-wine stain in Sturge-Weber syndrome, a condition typically managed within pediatric neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56300620,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "A neonate developed seizures within 24 hours of birth and has high bilirubin. What would be the most affected area on MRI?",
+      "options": {
+        "A": "Thalamus",
+        "B": "Caudate",
+        "C": "Globus Pallidus",
+        "D": "Subthalamic nucleus"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes a neonatal neurological complication (seizures) related to hyperbilirubinemia (kernicterus) and asks about the typical location of brain injury (Globus Pallidus), a topic central to pediatric neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50067660,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "A pregnant woman at 10 weeks is concerned about the side effects of steroids. Which of the following is a potential risk?",
+      "options": {
+        "A": "Spina bifida",
+        "B": "Premature labor",
+        "C": "Cleft palate",
+        "D": "Cardiac defect"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the teratogenic potential (risk of birth defects like cleft palate) of medication (steroids) taken during pregnancy, relevant to fetal neurological and structural development."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20515045,
+    "fields": {
+      "question_number": "Q206",
+      "question_text": "When should brain imaging be performed in pediatric patients with headaches?",
+      "options": {
+        "A": "Unilateral symptoms",
+        "B": "Occipital headache",
+        "C": "Photophobia",
+        "D": "Aura"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses specifically on indications (red flags like occipital location) for neuroimaging in the pediatric population presenting with headache, addressing pediatric-specific guidelines."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43262611,
+    "fields": {
+      "question_number": "Q119",
+      "question_text": "What is the first-line treatment for migraine in children?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Triptans",
+        "C": "Aspirin",
+        "D": "Ibuprofen"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Specifically addresses the first-line acute treatment for migraine within the pediatric population."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88588798,
+    "fields": {
+      "question_number": "Q47",
+      "question_text": "What is the indication for brain imaging in a pediatric patient with migraine?",
+      "options": {
+        "A": "Occipital headache",
+        "B": "Bilateral headache",
+        "C": "New onset neurological deficit",
+        "D": "Headache worsening with Valsalva maneuver"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on identifying \"red flags\" (like occipital location) that warrant neuroimaging specifically in children presenting with headache/migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46874845,
+    "fields": {
+      "question_number": "Q118",
+      "question_text": "A 10-year-old boy has a headache that is preceded by red circular colors for a few seconds. What is the most likely diagnosis?",
+      "options": {
+        "A": "Occipital seizures",
+        "B": "Migraine",
+        "C": "Visual aura without headache",
+        "D": "Transient ischemic attack"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the differential diagnosis between migraine visual aura and occipital lobe seizures, a common diagnostic challenge in pediatric neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63771728,
+    "fields": {
+      "question_number": "Q213",
+      "question_text": "A baby presents with diplopia, dysarthria, ataxia followed by headache. What is the most likely diagnosis?",
+      "options": {
+        "A": "Migraine with brainstem aura",
+        "B": "Familial hemiplegic migraine (FHM)",
+        "C": "Cyclic vomiting syndrome",
+        "D": "Brainstem encephalitis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on recognizing specific neurological syndromes (likely complex migraine variants like migraine with brainstem aura) presenting in infancy/early childhood."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 98136590,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "A 7-year-old boy presents with visual hallucinations in the form of colorful and circular objects moving from right to left, lasting for seconds to minutes, sometimes followed by a headache. An EEG shows occipital lobe spikes. What is the management?",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Amitriptyline",
+        "C": "Valproic acid",
+        "D": "Phenytoin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes a classic presentation of a childhood epilepsy syndrome (likely Panayiotopoulos or Gastaut type of benign occipital epilepsy) and asks for appropriate management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36752,
+    "fields": {
+      "question_number": "Q197",
+      "question_text": "In a scenario of a young child with seizures, hypotonia, and a cherry red spot, which enzyme is affected?",
+      "options": {
+        "A": "Hexosaminidase A",
+        "B": "Glucocerebrosidase",
+        "C": "Arylsulfatase A",
+        "D": "Galactocerebrosidase"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of a specific metabolic/genetic disorder (Tay-Sachs disease) presenting in childhood with characteristic neurological and ophthalmological findings, linking it to the deficient enzyme."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 4069203,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "Q21. (Source: Part 1 2020_mcqs.txt) A scenario of a child with head trauma followed by loss of consciousness after 1 hour is suggestive of which condition?",
+      "options": {
+        "A": "Epidural hematoma",
+        "B": "Subdural hematoma",
+        "C": "Concussion",
+        "D": "Intracerebral hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes a classic presentation (lucid interval after head trauma) suggestive of epidural hematoma, specifically in a pediatric context."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86332239,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "In a case of Sturge-Weber syndrome (hint: port wine stain on the face), what associated condition is commonly asked about?",
+      "options": {
+        "A": "Renal Angiofibroma",
+        "B": "Cardiac Rhabdomyosarcoma",
+        "C": "Glaucoma",
+        "D": "Seizures"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests knowledge of a common association (glaucoma) with Sturge-Weber syndrome, a congenital neurocutaneous disorder typically presenting in childhood."
+    }
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q395",
+    "question_text": "Which disease-modifying therapy (DMT) requires pre-antiviral agent prophylaxis?",
+    "options": {
+      "A": "Fingolimod",
+      "B": "Alemtuzumab",
+      "C": "Natalizumab",
+      "D": "Teriflunomide"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q514",
+    "question_text": "In a case of primary progressive multiple sclerosis with typical MRI features and normal cerebrospinal fluid, what is known to increase walking speed?",
+    "options": {
+      "A": "4-pyridine derivative (Dalfampridine/4-aminopyridine)",
+      "B": "Ocrelizumab",
+      "C": "Baclofen",
+      "D": "Physical therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q318",
+    "question_text": "",
+    "options": {
+      "A": "patient with optic neuritis has an MRI of the spine that shows long-sequence enhancement and is OGB negative. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "Which of the following is a classic presentation of Heerfordt syndrome?",
+    "options": {
+      "A": "Uveoparotid fever",
+      "B": "Erythema nodosum",
+      "C": "Hilar adenopathy",
+      "D": "Polyarthralgia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q320",
+    "question_text": "",
+    "options": {
+      "A": "young male patient with a known case of relapsing-remitting multiple sclerosis (RRMS) on natalizumab developed lower limb weakness and generalized numbness. Laboratory tests show positive anti-natalizumab antibodies, and MRI shows enhanced lesions. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with opsoclonus-myoclonus-ataxia syndrome. Which of the following antibodies is most likely to be identified in laboratory workup?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old patient presents with confusion, and MRI shows bilateral white matter changes. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q106",
+    "question_text": "What is the best way to prevent progressive multifocal leukoencephalopathy (PML) in patients with MS who will be started on Natalizumab?",
+    "options": {
+      "A": "Annual MRI",
+      "B": "Pretreatment JC virus titer levels screen",
+      "C": "Regular liver function tests",
+      "D": "Use of corticosteroids prior to Natalizumab initiation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old lady presented to the ER with worsening weakness in all four extremities and sensory symptoms. She was diagnosed with multiple sclerosis three months ago after an episode of optic neuritis and was started on Natalizumab due to highly active disease. Which of the following laboratory investigations should be sent based on the suspected differential diagnosis (NMOSD)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "",
+    "options": {
+      "A": "female patient, known to have relapsing-remitting multiple sclerosis and maintained on disease-modifying therapy (DMT), presented with new limb weakness and numbness. The diagnosis of multiple sclerosis was established. She started on high-dose IV Methylprednisolone but showed no improvement. Which of the following is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "young female patient presents with right leg weakness and incontinence. An MRI report shows two periventricular lesions, and T1 with contrast shows one lesion enhancing. A whole spine MRI shows T2 multiple small lesions. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "Which of the following is considered a red flag in multiple sclerosis?",
+    "options": {
+      "A": "Extensive spinal lesion",
+      "B": "Bilateral Internuclear Ophthalmoplegia (INO)",
+      "C": "Enhancing lesion present for more than 3 months",
+      "D": "Severe optic neuritis with poor recovery"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "In a patient with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP), what is a common finding in the cerebrospinal fluid (CSF)?",
+    "options": {
+      "A": "Normal protein levels",
+      "B": "Elevated protein levels",
+      "C": "Presence of oligoclonal bands",
+      "D": "Increased white blood cell count with neutrophilic predominance"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male, known case of type 1 diabetes mellitus, presented 3 months ago with optic neuritis and was started on one of the DMTs as a case of multiple sclerosis. He now presents with a 3-day history of blurred vision. Examination and brain MRI are stable compared with previous documentation. Which DMT is likely responsible for this presentation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "Which of the following disease-modifying therapies (DMT) is known to cause paresthesia?",
+    "options": {
+      "A": "Teriflunomide",
+      "B": "Fingolimod",
+      "C": "Natalizumab",
+      "D": "Interferon beta"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "young female with a previous history of two optic neuritis attacks presents with new symptoms of spinal cord lesions. MRI shows extensive hyperintense T2 lesions from C8-T1, and Aquaporin 4 is negative. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "",
+    "options": {
+      "A": "young female patient presents with right leg weakness and incontinence. An MRI report shows two periventricular lesions, and T1 with contrast shows one lesion enhancing. A whole spine MRI shows T2 multiple small lesions. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "",
+    "options": {
+      "A": "young female presented with a typical history of optic neuritis. Brain and spine MRI were normal. What is the risk of conversion to multiple sclerosis (MS)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "What are the characteristic findings in the cerebrospinal fluid (CSF) of a patient with Acute Inflammatory Demyelinating Polyneuropathy (AIDP)?",
+    "options": {
+      "A": "Elevated protein with normal cell count",
+      "B": "Elevated white blood cell count with lymphocytic predominance",
+      "C": "Normal protein and elevated cell count",
+      "D": "Presence of oligoclonal bands"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q103",
+    "question_text": "",
+    "options": {
+      "A": "Start beta-interferon therapy",
+      "B": "Initiate corticosteroids",
+      "C": "Schedule for follow-up MRI",
+      "D": "Refer to a neurologist"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "Elevated serum immunoglobulin A",
+      "B": "Extremely low or absent serum immunoglobulin A",
+      "C": "Elevated serum immunoglobulin E",
+      "D": "Normal serum immunoglobulin M"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "UA and urine culture",
+      "B": "MRI of the brain",
+      "C": "Start intravenous steroids",
+      "D": "Refer for rehabilitation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a triad of areflexia, ophthalmoplegia, and ataxia (Miller Fisher syndrome). What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "In the management of a patient diagnosed with PML, what is the most appropriate step?",
+    "options": {
+      "A": "Start antiviral therapy",
+      "B": "Stop natalizumab",
+      "C": "Initiate corticosteroids",
+      "D": "Refer for neurosurgery"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "In the same scenario [Implicitly related to an MS/NMO context], what is the most likely diagnosis for her condition?",
+    "options": {
+      "A": "Relapsing remitting multiple sclerosis",
+      "B": "Primary progressive multiple sclerosis",
+      "C": "Transverse myelitis",
+      "D": "Neuromyelitis optica"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "male patient has a history of headaches that worsen after going to sleep. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "female with migraine occurring once a month underwent a brain MRI, which showed two small white matter non-specific lesions in each hemisphere. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "scenario describes a patient with basilar migraine and vertigo. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "",
+    "options": {
+      "A": "patient with headache and lancinating pain in the face, what should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a headache and tearing that lasts less than 5 minutes and occurs 20-30 times a day. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine on amitriptyline and sumatriptan became pregnant. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine that worsens with her period, what is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "Which of the following is NOT a preventive management option for short-lasting unilateral neuralgiform headache attacks?",
+    "options": {
+      "A": "Lamotrigine",
+      "B": "Topiramate",
+      "C": "Gabapentin",
+      "D": "Sumatriptan"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "What is the risk of stroke in patients with migraine?",
+    "options": {
+      "A": "Risk of stroke increased in migraine with aura",
+      "B": "No increase in stroke risk",
+      "C": "Risk of stroke increased in migraine without aura",
+      "D": "Risk of stroke decreased in migraine patients"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "young female presented with a severe headache that worsens with standing and is relieved by lying down. Based on your suspected diagnosis of intracranial hypotension, what is the most common imaging finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "male experiences a very severe headache after orgasm, which then improves. What would be the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "24-year-old female came to the clinic asking for a third opinion for her headache. The first doctor told her she has cluster headaches while the other one said it is migraine. She asked you what is the best way to differentiate these two headaches?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "young female patient with a history of migraines and diabetes mellitus is a university student. What is the best preventive medication for her migraines?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "The acute treatment for cluster headache is:",
+    "options": {
+      "A": "Sumatriptan",
+      "B": "Verapamil",
+      "C": "Lithium",
+      "D": "Oral prednisolone"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with papilledema and headache, suggestive of idiopathic intracranial hypertension (IIH). What is your next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "patient with cluster headache, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "In a case of typical SUNCT, what is the recommended treatment?",
+    "options": {
+      "A": "Lamictal",
+      "B": "Carbamazepine",
+      "C": "Indomethacin",
+      "D": "Verapamil"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "43-year-old male with a history of around 30 attacks of severe headache per day, each attack lasting for less than one minute and sometimes triggered by chewing. The first line treatment is:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "case scenario presents findings suggestive of glossopharyngeal neuralgia (hints: syncope, throat pain). What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q241",
+    "question_text": "",
+    "options": {
+      "A": "female patient experiences migraines once a month, and her brain MRI shows one small white matter lesion in each hemisphere. What should be the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q368",
+    "question_text": "What is the best anti-emetic medication for migraine?",
+    "options": {
+      "A": "Domperidone",
+      "B": "Ondansetron",
+      "C": "Metoclopramide",
+      "D": "Chlorpromazine"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "In managing migraines during pregnancy, what should be the initial approach regardless of headache severity?",
+    "options": {
+      "A": "Start with simple analgesia",
+      "B": "Prescribe triptans",
+      "C": "Use opioids",
+      "D": "Recommend psychological therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "pregnant female in her third trimester presents with status migrainosus. What is the most appropriate treatment option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old patient presented with headache for the past 4 months. It is continuous with periods of exacerbation, unilateral side locked, associated with lacrimation. The patient is using paracetamol and NSAIDs on a daily basis with no benefits. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a small area of headache associated with hair loss. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

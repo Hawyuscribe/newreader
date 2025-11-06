@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q47",
+    "question_text": "In the case of a cerebral venous thrombosis (CVT) after birth, what should be done?",
+    "options": {
+      "A": "CTV",
+      "B": "MRI with venography",
+      "C": "Anticoagulation therapy",
+      "D": "Supportive care and monitoring"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q245",
+    "question_text": "",
+    "options": {
+      "A": "patient with asymptomatic extracranial internal carotid artery (ICA) 60% stenosis, what is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "In a patient with stroke within the treatment window, what should be assessed before administering IV tPA?",
+    "options": {
+      "A": "Coagulation",
+      "B": "Glucose Level",
+      "C": "ECG",
+      "D": "Blood Pressure"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q232",
+    "question_text": "",
+    "options": {
+      "A": "patient with medial medullary syndrome: which artery is affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "",
+    "options": {
+      "A": "hypertensive and diabetic patient who underwent surgery for a bone fracture developed a stroke. In a sickle cell anemia patient with two attacks of weakness one year apart, what is the most common provocative factor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "In a pregnant female patient with positive antiphospholipid antibodies who had a stroke and was found to have a small PFO, along with a prior history of DVT, what is the next best step?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Close the PFO",
+      "C": "Heparin",
+      "D": "Warfarin"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "75-year-old female with diabetes mellitus and hypertension presents with acute right side weakness. CTA angiography shows left ICA stenosis at 60% and right ICA at 65%. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "After 5 hours of labor, a patient on SSRIs presents with depression. What is the likely CT finding and angiography result?",
+    "options": {
+      "A": "Posterior reversible encephalopathy syndrome (PRES)",
+      "B": "Acute ischemic stroke with large vessel occlusion",
+      "C": "Subarachnoid hemorrhage with vasospasm",
+      "D": "Cerebral venous sinus thrombosis with venous infarcts"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q238",
+    "question_text": "",
+    "options": {
+      "A": "patient with acute stroke received tPA and then developed intracerebral hemorrhage. What should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "",
+    "options": {
+      "A": "patient with a past medical history of stroke underwent a full cardiac workup that was negative. He was started on Aspirin, which worsened his chronic epistaxis. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q316",
+    "question_text": "In a patient with a stroke, what is the most appropriate management option?",
+    "options": {
+      "A": "Administer intravenous tissue plasminogen activator (tPA) within 4.5 hours of symptom onset",
+      "B": "Immediate initiation of oral anticoagulation without imaging",
+      "C": "Prescribe high-dose corticosteroids",
+      "D": "Perform lumbar puncture immediately upon presentation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q207",
+    "question_text": "What is the mechanism of stroke in arterial dissection?",
+    "options": {
+      "A": "Artery to artery embolism",
+      "B": "Venous thrombosis",
+      "C": "Hypoperfusion",
+      "D": "Cardioembolic event"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q287",
+    "question_text": "In a patient with sickle cell disease, what intervention is known to decrease the risk of future strokes?",
+    "options": {
+      "A": "Chronic transfusions",
+      "B": "Angioplasty",
+      "C": "Stent",
+      "D": "Observation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q211",
+    "question_text": "In a case of acute ischemic stroke, the blood pressure is 193/103 mmHg. What should be done next?",
+    "options": {
+      "A": "IV labetalol",
+      "B": "IV nitroprusside",
+      "C": "Permissive hypertension",
+      "D": "Immediate tPA administration"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient presents with livedo reticularis. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q312",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with an aneurysm rupture of the posterior communicating artery (Pcom). What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q370",
+    "question_text": "",
+    "options": {
+      "A": "clear picture suggests perimesencephalic SAH. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q355",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male patient with diabetes and hypertension came with a history of transient ischemic attack (TIA) lasting 10 minutes, with numbness and dysarthria. The NIHSS score is 3. On examination, he still has numbness. What will you give?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q212",
+    "question_text": "In the ECST trial, what was the estimated 3-year stroke or death rate for patients who underwent carotid endarterectomy (CEA)?",
+    "options": {
+      "A": "14.9%",
+      "B": "26.5%",
+      "C": "22.2%",
+      "D": "15.7%"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q488",
+    "question_text": "Which one is correct about antithrombotic medications?",
+    "options": {
+      "A": "Apixaban and rivaroxaban are direct thrombin inhibitors",
+      "B": "Aspirin is an adenosine diphosphate inhibitor",
+      "C": "Ticagrelor is a P2Y12 inhibitor",
+      "D": "Clopidogrel works on factors I, II, V, and VII"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q314",
+    "question_text": "Admission to stroke unit",
+    "options": {
+      "A": "Is not necessary if the patient is stable",
+      "B": "Improves patient outcomes by multidisciplinary care",
+      "C": "Should be avoided due to increased risk of infections",
+      "D": "Is only recommended for ischemic stroke, not hemorrhagic stroke"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q271",
+    "question_text": "An 82-year-old male patient came within 3 hours and has no contraindication for tPA. A CT scan shows early signs of stroke, but infarction is not established. What will you give?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Plavix",
+      "C": "tPA",
+      "D": "Supportive care only"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q315",
+    "question_text": "",
+    "options": {
+      "A": "patient with sickle cell disease comes with a stroke workup done and is found to have multiple stenoses in the anterior cerebral artery (AcA) and middle cerebral artery (McA). What is the method of prevention?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "",
+    "options": {
+      "A": "36-year-old female is referred to a neurology clinic with complaints of forgetfulness. She has chronic migraine headaches and has a family history of stroke. Her father died at 49 years of age with dementia. Brain MRI shows subcortical white matter changes and lacunes. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q273",
+    "question_text": "Angioplasty",
+    "options": {
+      "A": "Is a surgical procedure involving direct removal of atherosclerotic plaque",
+      "B": "Is primarily used to treat hemorrhagic stroke",
+      "C": "Involves balloon dilation of a stenotic vessel to improve blood flow",
+      "D": "Is contraindicated in patients with carotid artery stenosis"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "question_number": "Q181",
+    "question_text": "In a pregnant patient with migraines, which prophylactic medication is suitable?",
+    "options": {
+      "A": "Topiramate",
+      "B": "Propranolol",
+      "C": "Valproic acid",
+      "D": "Amitriptyline"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a stabbing headache occurring 100 times a day. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "In a case of trigeminal neuralgia, what is the most predictive of a structural cause?",
+    "options": {
+      "A": "Unilateral",
+      "B": "Old age",
+      "C": "Abnormal blink reflex",
+      "D": "Involving mainly V1"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old patient with a history of migraines presents with daily headaches for the past 2 months. Unlike her migraines, these headaches are not associated with nausea or photophobia. She states the headaches are constant, and she must take ibuprofen and many other analgesics with much improvement. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences headaches lasting less than 1 minute, occurring 40 times a day, and is associated with lacrimation and eye injection. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with unilateral headaches on a daily basis associated with ptosis and lacrimation. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "An obese lady with asthma also suffers from migraine. What is the recommended treatment?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Lamictal",
+      "C": "Topamax",
+      "D": "Propranolol"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "female patient presented with a history of flashing in the right eye, followed by right homonymous hemianopia and left side weakness over 45 minutes. During her way, she had a headache. CT brain, CTA including DWI were all normal. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "What is the mechanism of action of Botox in the treatment of migraine headaches?",
+    "options": {
+      "A": "Serotonin agonist",
+      "B": "Serotonin reuptake inhibitors",
+      "C": "Monoamine inhibitor",
+      "D": "Modulation of neurotransmitter release (inhibits the release of neuropeptides such as substance P and CGRP and glutamate from primary sensory neurons)"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "In the scenario of paroxysmal hemicrania, what is the management?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Sumatriptan",
+      "C": "Verapamil",
+      "D": "Carbamazepine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "In managing migraine during pregnancy, what is the initial approach regardless of headache severity?",
+    "options": {
+      "A": "Start with NSAIDs",
+      "B": "Start with simple analgesia",
+      "C": "Start with triptans",
+      "D": "Start with opioids"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with unilateral pain on the forehead lasting for 1 minute, with conjunctival injection and tearing, occurring 40 times. There are no identifiable triggers. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "patient with migraine presents with nausea and vomiting. Laboratory tests show normal liver function but elevated amylase and lipase levels. Which of the following preventive treatments for migraine is known to cause this side effect?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "Based on current FDA classifications, which of the following is NOT recommended for migraine treatment during pregnancy?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Metoclopramide",
+      "C": "Triptans",
+      "D": "NSAIDs in the second trimester"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "In a case scenario of trigeminal neuralgia (TN) triggered by touching his face, he also has lacrimation. What is the management?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Gabapentin",
+      "C": "Baclofen",
+      "D": "Surgical decompression"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "scenario describes a patient with ophthalmic migraine (third or sixth nerve palsy). What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "woman who is post-partum (gave birth via cesarean section) presents with headache, and an MRI shows coronal T1 with pachymeningeal enhancement. The headache increases when she sits. What is the best management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with a shock-like electric sensation in half of his face multiple times per day, avoiding brushing and shaving. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with unilateral headache for a few months, sharp, lasting less than 1 minute, recurrent daily about 40 times, associated with lacrimation and conjunctival injection. What is the treatment of choice?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "",
+    "options": {
+      "A": "29-year-old female came to the neurology clinic asking for a third opinion regarding her headache. The first physician diagnosed her with cluster headache, while the second physician diagnosed her with SUNCT headache. What is the best way to differentiate between these two headache types?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "pregnant woman with a history of migraines requires prophylactic treatment. What is the best option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a headache and tearing that lasts 15-30 minutes and occurs approximately 7 times a day, with a history of pain provoked by touching the face. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "patient with continuous headache for 4 months experiences episodic increases in pain intensity. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old male presents with a history of headaches lasting 1 to 1.5 hours, accompanied by nasal congestion, tearing, and left facial swelling. These episodes occur every year for 1 to 1.5 months, after which he experiences no headaches for the rest of the year. What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Headache",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "male patient experiences a very severe headache after orgasm that then improves. What would you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Headache",
+    "explanation": ""
+  }
+]

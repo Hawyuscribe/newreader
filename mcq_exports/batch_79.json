@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q54",
+    "question_text": "What type of muscle biopsy finding is associated with Kearns-Sayre Syndrome?",
+    "options": {
+      "A": "Necrotizing myopathy",
+      "B": "Ragged-red fibers on Gomori trichrome stain",
+      "C": "Hyaline degeneration",
+      "D": "Fiber type grouping"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with breast cancer underwent chemotherapy and radiation. An EMG showed myokymia and the patient presented with plexopathy. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "",
+    "options": {
+      "A": "34-year-old man had progressive difficulty climbing stairs and respiratory difficulties requiring BiPAP. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "Peripheral neuropathy case: what is the antibody?",
+    "options": {
+      "A": "Anti MAG",
+      "B": "Anti GD1",
+      "C": "Anti Hu",
+      "D": "Anti GM1"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "",
+    "options": {
+      "A": "young man (or child) has muscle stiffness that improves with repeated exercise (myotonia and warm-up phenomena). His father had the same symptoms. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "",
+    "options": {
+      "A": "patient with myotonia is being evaluated. Which of the following conditions is associated with myotonia?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q249",
+    "question_text": "In a patient with painful diabetic neuropathy who is nonambulatory and has severe spasticity, which treatment is most likely to provide relief?",
+    "options": {
+      "A": "Addition of benzodiazepines",
+      "B": "Addition of tizanidine",
+      "C": "High doses of gabapentin",
+      "D": "Intrathecal baclofen"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with generalized weakness, bilateral ptosis, respiratory involvement, and areflexia. What additional finding would you expect?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "",
+    "options": {
+      "A": "young lady presents with weakness in knee extension and numbness in the medial aspect of the thigh. Which lower limb nerve is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with bilateral foot drop and left ulnar neuropathy with abductor digiti minimi weakness, progressive over 3 months. Nerve conduction studies showed conduction block in the ulnar nerve and deep peroneal nerve at the head of the fibula. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "",
+    "options": {
+      "A": "young boy went for a football match with his friends. Later, he started to have proximal muscle weakness, and his urine turned brown. He was admitted to the hospital with high creatine kinase (CK) levels. Upon review of his chart, it was noted that he was admitted last year with the same presentation. What is the defective enzyme?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "Which of the following is a characteristic feature of Kearns-Sayre Syndrome (KSS)?",
+    "options": {
+      "A": "Chronic progressive external ophthalmoplegia (CPEO)",
+      "B": "Salt-and-pepper pigmentary retinopathy",
+      "C": "Mitochondrial myopathy",
+      "D": "Cardiac conduction defects"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q497",
+    "question_text": "",
+    "options": {
+      "A": "patient with myasthenia gravis and thymus hyperplasia is on pyridostigmine and is experiencing worsening generalized weakness. What is the recommended next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "Typical scenario of Myasthenia Gravis in a young lady with fluctuating ptosis. What is the best serological test in this case?",
+    "options": {
+      "A": "Single fiber EMG",
+      "B": "Anti-Ach receptor antibodies",
+      "C": "Anti-MuSK antibodies",
+      "D": "Repetitive nerve stimulation test"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "",
+    "options": {
+      "A": "C8-T1",
+      "B": "C5-C6",
+      "C": "C6-C7",
+      "D": "T1-T2"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "In hyperkalemic periodic paralysis, which of the following is a characteristic feature?",
+    "options": {
+      "A": "Usually mild paralysis",
+      "B": "Triggered by rest",
+      "C": "Serum potassium is low",
+      "D": "Myotonia is prominent"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q257",
+    "question_text": "When should Guillain-Barr\u00e9 syndrome be suspected?",
+    "options": {
+      "A": "Rapidly progressive bilateral limb weakness",
+      "B": "Hypo/areflexia",
+      "C": "Facial or bulbar palsy",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "In a scenario of Acute Inflammatory Demyelinating Polyneuropathy (AIDP) on day 5, what will the nerve conduction study (NCS) show?",
+    "options": {
+      "A": "Sural sparing with affected median and ulnar nerves",
+      "B": "Normal sensory and motor nerve conduction velocities",
+      "C": "Increased amplitude of compound muscle action potentials",
+      "D": "Early recruitment of motor units on electromyography"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q521",
+    "question_text": "",
+    "options": {
+      "A": "patient came with right upper limb weakness and intrinsic hand atrophy with diminished reflexes. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q531",
+    "question_text": "",
+    "options": {
+      "A": "typical case of Hirayama disease presents with right upper limb weakness with preserved brachioradialis and minimal weakness in the left upper limb. What is the associated finding in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "Which condition is characterized by myotonia that worsens with exercise?",
+    "options": {
+      "A": "Paramyotonia congenita",
+      "B": "Hyperkalemic periodic paralysis",
+      "C": "Hypokalemic periodic paralysis",
+      "D": "Myotonic dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "Which of the following may be elevated in patients with Kearns-Sayre Syndrome?",
+    "options": {
+      "A": "Serum creatine kinase (CK)",
+      "B": "Lactate and pyruvate concentrations",
+      "C": "Blood glucose levels",
+      "D": "Serum calcium levels"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q463",
+    "question_text": "",
+    "options": {
+      "A": "case about ulnar nerve injury presents with claw hand. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady presents with hyperemesis gravidarum and sensory disturbances in her distal limbs. What is the likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "An elderly patient with volar hand weakness may be suspected of having which condition?",
+    "options": {
+      "A": "Inclusion Body Myositis (IBM)",
+      "B": "Amyotrophic Lateral Sclerosis (ALS)",
+      "C": "Myasthenia Gravis",
+      "D": "Duchenne Muscular Dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

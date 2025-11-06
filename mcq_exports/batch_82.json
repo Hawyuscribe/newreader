@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q138",
+    "question_text": "Vitamin B6 deficiency can lead to which type of peripheral neuropathy?",
+    "options": {
+      "A": "Sensory neuropathy",
+      "B": "Motor neuropathy",
+      "C": "Mixed neuropathy",
+      "D": "Axonal neuropathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q193",
+    "question_text": "Distal acquired demyelinating symmetric neuropathy (DADS) is characterized by which of the following?",
+    "options": {
+      "A": "Proximal weakness",
+      "B": "Sensory deficits more than motor deficits",
+      "C": "Upper limb predominance",
+      "D": "Presence of anti-MAG antibodies"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q270",
+    "question_text": "EMG",
+    "options": {
+      "A": "Measures nerve conduction velocity",
+      "B": "Records electrical activity of muscles at rest and during contraction",
+      "C": "Is primarily used to assess brain activity",
+      "D": "Detects abnormalities in cerebrospinal fluid"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q376",
+    "question_text": "An anti-MuSK patient who developed hepatotoxicity with azathioprine, what medication should be given?",
+    "options": {
+      "A": "Rituximab",
+      "B": "Prednisolone",
+      "C": "Monthly IVIG",
+      "D": "Mycophenolate mofetil"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q474",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old male patient presents with left arm weakness, thenar and hypothenar atrophy, fasciculations, and normal sensory examination. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q444",
+    "question_text": "",
+    "options": {
+      "A": "patient has a fracture in the acetabulum and notices numbness on the dorsum of the foot with weak dorsiflexion. Where is the lesion likely located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "In congenital myasthenic syndromes, what is the gene defect that causes worsening of symptoms with acetylcholinesterase inhibitors?",
+    "options": {
+      "A": "DOK7",
+      "B": "Rapsyn",
+      "C": "Slow channel (CHRNE)",
+      "D": "Fast channel"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with left wrist drop and has a history of right wrist drop that improved, as well as a right foot drop. She has a positive family history of similar presentations. Which of the following genes is expected to be found?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q480",
+    "question_text": "",
+    "options": {
+      "A": "male patient with diabetes who is on metformin and has multiple comorbidities developed anemia with high MCV and neuropathy. What is the mechanism of developing this neuropathy?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q536",
+    "question_text": "",
+    "options": {
+      "A": "patient who underwent bariatric surgery developed weakness and large fiber neuropathy, with normal B12 and methylmalonic acid levels. What is the likely deficiency?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with channelopathy. What is the best workup?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "What is the effect of oral potassium in the management of Hypokalemic Periodic Paralysis?",
+    "options": {
+      "A": "Prevents attack",
+      "B": "Induces attack",
+      "C": "Has no effect",
+      "D": "Relieves attack"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "patient develops myotonia after repetitive exercise and subsequently experiences weakness. There is a positive family history. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "What is a common presenting feature of Multifocal Motor Neuropathy (MMN)?",
+    "options": {
+      "A": "Upper motor neuron signs",
+      "B": "Wrist drop",
+      "C": "Sensory loss",
+      "D": "Severe pain"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "25-year-old male complains of a 14-month history of left-hand weakness. The weakness was progressive for 5 months and then became static. On examination, the affected hand muscles show intact elbow flexion and shoulder abduction, with sensory function intact. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q233",
+    "question_text": "Congenital myasthenia gravis with distal and proximal weakness, facial involvement worsened with acetylcholinesterase inhibitor?",
+    "options": {
+      "A": "DOK7",
+      "B": "RAPSN",
+      "C": "CHRNE (Slow Channel)",
+      "D": "FCMS (Fast Channel)"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q530",
+    "question_text": "In a scenario typical for paramyotonia congenita, what is the gene involved?",
+    "options": {
+      "A": "Sodium channel (SCN4A)",
+      "B": "Chloride channel (CLCN1)",
+      "C": "Dystrophin (DMD)",
+      "D": "Ryanodine receptor (RYR1)"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q455",
+    "question_text": "",
+    "options": {
+      "A": "patient with dysferlinopathy presents with a CK level elevated 35 times the normal and mild upper limb weakness, mainly in the lower limbs, with significant calf atrophy and weak dorsiflexion. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "",
+    "options": {
+      "A": "young boy went for a football match with his friends. Later, he started to have proximal muscle weakness, and his urine turned brown. He had a history of similar symptoms during his previous admission. What is the defective enzyme?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q420",
+    "question_text": "An infant presents with respiratory issues, electrical myotonia, and macroglossia. What is the likely diagnosis?",
+    "options": {
+      "A": "Pompe",
+      "B": "Myotonic dystrophy",
+      "C": "Congenital myotonia",
+      "D": "Hypothyroidism"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "young man who had abdominal pain around 1 week back and had a flu vaccine recently presented with a 5-day history of progressive distal dysesthesias and facial hyperhidrosis. Later on, he was tripping while walking and had weakness with decreased DTR on examination. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "",
+    "options": {
+      "A": "patient with symptoms suggestive of chronic inflammatory demyelinating polyneuropathy (CIDP) was not responding to intravenous immunoglobulin (IVIG) and was found to have positive neurofascin 155 antibodies. What is the treatment for this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q189",
+    "question_text": "",
+    "options": {
+      "A": "young lady post-vaginal hysterectomy presents with weakness in hip adductors and hip flexion. Which nerve is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q369",
+    "question_text": "In a Guillain-Barr\u00e9 syndrome scenario, what is the predicting factor for intubation?",
+    "options": {
+      "A": "Presence of dysautonomia",
+      "B": "Rapid progression of limb weakness",
+      "C": "Cranial nerve involvement",
+      "D": "Elevated cerebrospinal fluid protein"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "In a scenario of AIDP, what are the early findings in NCS?",
+    "options": {
+      "A": "Prolonged or absent F wave with absent H Reflex",
+      "B": "Increased conduction velocity with normal F wave latency",
+      "C": "Normal sensory nerve action potentials with reduced motor amplitudes",
+      "D": "Decreased distal motor latency with normal F wave"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

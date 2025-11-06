@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q75",
+    "question_text": "",
+    "options": {
+      "A": "nerve conduction study (NCS) shows a drop in amplitude. Which of the following could explain this finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "In paramyotonia congenita, what clinical feature is observed in cold conditions?",
+    "options": {
+      "A": "Increased muscle strength",
+      "B": "Stiffness of the tongue, eyelids, face, and limb muscles",
+      "C": "Flaccid weakness",
+      "D": "Normal muscle function"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "",
+    "options": {
+      "A": "patient is admitted with proximal myopathy and high CK levels (around 6000). A biopsy shows necrotizing pathology. Which of the following factors would increase the risk of this condition in the patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "Case of a lady post-hysterectomy presented with weakness in hip flexion and knee extension, what is the most likely injury in her procedure?",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Obturator nerve",
+      "C": "Sciatic nerve",
+      "D": "Lateral femoral cutaneous nerve"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q383",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old presents with respiratory symptoms, an aneurysm, PAS on pathology, negative forearm exercise diagnosis, and no clinical but electrical myotonia. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q461",
+    "question_text": "In LGMD1B, what physical findings are typically observed?",
+    "options": {
+      "A": "Elbow and ankle contractures",
+      "B": "Facial muscle weakness",
+      "C": "Distal muscle atrophy",
+      "D": "Scapular winging"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q501",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with gradual proximal weakness, has a history of being on a statin and 5 mg of steroids for several years. Laboratory tests show CK levels at 1800, and NCS/EMG reveals fibrillation and reduced MUAP. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q502",
+    "question_text": "An 8-year-old child presents with proximal weakness and a Gower sign. Which of the following is an appropriate investigation?",
+    "options": {
+      "A": "Serum creatine kinase (CK) level",
+      "B": "Brain MRI",
+      "C": "Nerve conduction studies",
+      "D": "Muscle biopsy as the first step"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q234",
+    "question_text": "",
+    "options": {
+      "A": "57-year-old male is referred to neurology consultation from the gastro team. He has a complaint of dysphagia with a negative GI workup and is found to have wrist flexion and knee extension weakness. CK was 700. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q255",
+    "question_text": "Which variant of Guillain-Barr\u00e9 syndrome is characterized by bilateral facial weakness and paraesthesias?",
+    "options": {
+      "A": "Classic sensorimotor",
+      "B": "Pure motor",
+      "C": "Miller Fisher syndrome",
+      "D": "Pure sensory"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q528",
+    "question_text": "The same patient is asking about the antibody associated with his condition. What is the antibody?",
+    "options": {
+      "A": "Anti-GM1",
+      "B": "Anti-AQP4",
+      "C": "Anti-MAG",
+      "D": "Anti-NMDA receptor"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q299",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with progressive hand muscle weakness and severe atrophy, with plantars upgoing in the lower limbs. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "Which of the following is NOT a characteristic feature of Myotonic dystrophy?",
+    "options": {
+      "A": "Early-onset cataracts",
+      "B": "Proximal muscle weakness",
+      "C": "Myotonia of the tongue and fingers",
+      "D": "Cardiac arrhythmias (AV block)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q527",
+    "question_text": "What is the most common presentation of post-polio syndrome?",
+    "options": {
+      "A": "Asymptomatic",
+      "B": "Aseptic meningitis",
+      "C": "Flu-like symptoms",
+      "D": "New muscle weakness and fatigue"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q381",
+    "question_text": "In a scenario typical for GBS, the patient presents with bone pain and recent vaccination. What would you expect to see on day 5 during nerve conduction studies (NCS) or electromyography (EMG)?",
+    "options": {
+      "A": "Normal CMAP, SNAP, and latency",
+      "B": "Prolonged latency, normal CMAP, absent SNAPs",
+      "C": "Reduced recruitment and late reflexes",
+      "D": "Decreased CMAP amplitude with normal SNAPs"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q246",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of HCV presents with peripheral neuropathy. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q559",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old patient has difficulty climbing stairs, a positive Gower sign, and scapular winging. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old patient has had 8-10 years of complaints of distal lower limb weakness and sensory disturbance in a glove and stocking pattern. Nerve conduction studies show no response (NR) in motor and sensory of radial, tibial, peroneal, and sural nerves. Ulnar and median nerves show normal amplitude but slow conduction velocity (CV) in the 20s. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "",
+    "options": {
+      "A": "young man who had abdominal pain around 1 week back and had a flu vaccine 2 weeks ago presented with a 5-day history of progressive distal dysesthesias and facial hyperhidrosis. Later on, he was tripping while walking and had weakness with decreased deep tendon reflexes (DTR) on examination. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of back of throat pain and tongue pain experiences episodic syncope. What is your next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "In a scenario with amyloidosis, what is the next step in management?",
+    "options": {
+      "A": "Fat aspiration",
+      "B": "Nerve conduction studies",
+      "C": "Serum protein electrophoresis",
+      "D": "Bone marrow biopsy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "",
+    "options": {
+      "A": "patient was started on Atorvastatin, developed proximal muscle pain and weakness, and was found to have a CK level of 7500 and necrotizing myopathy on biopsy. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "",
+    "options": {
+      "A": "patient with right hand grip weakness and numbness had a right foot drop 4 weeks ago and developed a left foot drop that improved 1 week ago. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "",
+    "options": {
+      "A": "patient with weakness symptoms suggestive of Anti-MuSK myasthenia gravis was on mycophenolic acid and steroids with no benefit. After switching to azathioprine, the patient developed hepatotoxicity. What should be given next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q232",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences leg cramps at the beginning of exercise that improve with rest. What test is most appropriate for diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

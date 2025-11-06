@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Neurology MCQ Reader{% endblock %}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
+        <div class="container">
+            <a class="navbar-brand" href="{{ url_for('dashboard') }}">
+                <i class="bi bi-brain me-2"></i>Neurology MCQ Reader
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    {% if session.get('logged_in') %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('dashboard') }}">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('review_flashcards') }}">Review Flashcards</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('import_mcqs_form') }}">Import MCQs</a>
+                    </li>
+                    {% endif %}
+                </ul>
+                {% if session.get('logged_in') %}
+                <form class="d-flex me-3" action="{{ url_for('search') }}" method="get">
+                    <input class="form-control me-2" type="search" name="query" placeholder="Search MCQs..." aria-label="Search">
+                    <button class="btn btn-outline-light" type="submit">Search</button>
+                </form>
+                <div class="navbar-nav">
+                    <a class="nav-link" href="{{ url_for('logout') }}">Logout</a>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mb-4">
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <div class="row">
+            <div class="col">
+                {% for message in messages %}
+                <div class="alert alert-info alert-dismissible fade show" role="alert">
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer class="bg-light py-4 mt-auto">
+        <div class="container text-center">
+            <p class="text-muted mb-0">Neurology MCQ Reader &copy; {{ now.year }}</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

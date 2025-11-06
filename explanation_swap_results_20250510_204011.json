@@ -1,0 +1,74 @@
+[
+  {
+    "mcq_id": 100022113,
+    "target_id": 100022090,
+    "timestamp": "2025-05-10T20:40:11.512432",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022151,
+    "target_id": 100022389,
+    "timestamp": "2025-05-10T20:40:11.512971",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022230,
+    "target_id": 100022151,
+    "timestamp": "2025-05-10T20:40:11.513147",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022302,
+    "target_id": 100022171,
+    "timestamp": "2025-05-10T20:40:11.513273",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022362,
+    "target_id": 100022084,
+    "timestamp": "2025-05-10T20:40:11.513333",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022426,
+    "target_id": 100022392,
+    "timestamp": "2025-05-10T20:40:11.513411",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022493,
+    "target_id": 100022469,
+    "timestamp": "2025-05-10T20:40:11.513520",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022508,
+    "target_id": 100022401,
+    "timestamp": "2025-05-10T20:40:11.513602",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022509,
+    "target_id": 100022396,
+    "timestamp": "2025-05-10T20:40:11.513683",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022580,
+    "target_id": 100022525,
+    "timestamp": "2025-05-10T20:40:11.513783",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022638,
+    "target_id": 100022631,
+    "timestamp": "2025-05-10T20:40:11.513854",
+    "status": "swapped"
+  },
+  {
+    "mcq_id": 100022702,
+    "target_id": 100022688,
+    "timestamp": "2025-05-10T20:40:11.513936",
+    "status": "swapped"
+  }
+]

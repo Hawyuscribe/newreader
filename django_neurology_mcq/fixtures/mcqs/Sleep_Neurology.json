@@ -1,0 +1,722 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 31351138,
+    "fields": {
+      "question_number": "Q37",
+      "question_text": "Restless Legs Syndrome (RLS) is most commonly associated with which of the following?",
+      "options": {
+        "A": "Pregnancy is a risk factor",
+        "B": "Hypertension",
+        "C": "Diabetes mellitus",
+        "D": "Chronic obstructive pulmonary disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on a known risk factor for Restless Legs Syndrome, a primary sleep disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10795242,
+    "fields": {
+      "question_number": "Q71",
+      "question_text": "What treatment is indicated for a young female with excessive daytime sleepiness, hyperphagia, and nighttime sleep issues, with no clear features of narcolepsy?",
+      "options": {
+        "A": "Donepezil",
+        "B": "Acetazolamide",
+        "C": "Topiramate",
+        "D": "Modafinil"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes symptoms suggestive of a central disorder of hypersomnolence (like idiopathic hypersomnia or potentially Kleine-Levin Syndrome without clear cyclic features mentioned) and asks about management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 97777020,
+    "fields": {
+      "question_number": "Q70",
+      "question_text": "A 65-year-old male presents with disturbed nocturnal sleep. His wife states that he has been shouting and lashing out violently during sleep. What is the best treatment?",
+      "options": {
+        "A": "Levodopa",
+        "B": "Clonazepam",
+        "C": "Valproate",
+        "D": "Deep brain stimulation (DBS)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes classic symptoms of REM Sleep Behavior Disorder (RBD) and asks for its primary treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33436344,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A patient has difficulty sleeping and is lying in bed looking at the clock. What is the next best treatment option for this sleep issue?",
+      "options": {
+        "A": "Melatonin",
+        "B": "Benzodiazepine",
+        "C": "Zolpidem",
+        "D": "Cognitive Behavioral Therapy for Insomnia (CBT-I)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the management of insomnia, likely psychophysiological or behavioral insomnia, focusing on pharmacological treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1266893,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "A case scenario of a diabetic patient with symptoms suggestive of Restless Legs Syndrome (RLS). What is the next step in management?",
+      "options": {
+        "A": "Check Ferritin and iron",
+        "B": "Start dopamine agonist therapy",
+        "C": "Recommend lifestyle modifications including exercise and sleep hygiene",
+        "D": "Order nerve conduction studies"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the initial workup for Restless Legs Syndrome, specifically checking iron stores, a common secondary cause or contributing factor."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55530215,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "Pregnancy is a risk factor for which of the following?",
+      "options": {
+        "A": "Restless Legs Syndrome (RLS)",
+        "B": "Periodic limb movement disorder",
+        "C": "Narcolepsy",
+        "D": "Obstructive sleep apnea"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks about conditions exacerbated or caused by pregnancy, specifically focusing on RLS, a primary sleep-related movement disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85040069,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Pregnancy is a risk factor for which of the following?",
+      "options": {
+        "A": "Restless Legs Syndrome (RLS)",
+        "B": "Periodic limb movement disorder",
+        "C": "Multiple sclerosis",
+        "D": "Parkinson\u2019s disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 55530215,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "B. Parkinson\u2019s Disease",
+      "options": {
+        "C": "Multiple Sclerosis",
+        "D": "Epilepsy",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "From Sleep_Neurology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question focuses on conditions worsened or triggered by pregnancy, with Restless Legs Syndrome being a primary sleep-related movement disorder commonly exacerbated during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44059188,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "Excessive daytime sleep and increasing eating habits may be treated with which of the following?",
+      "options": {
+        "A": "SSRI",
+        "B": "Methylphenidate (According to UpToDate)",
+        "C": "Sodium oxybate",
+        "D": "Modafinil"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes symptoms of hypersomnolence and hyperphagia (suggestive of Kleine-Levin Syndrome or atypical depression/hypersomnia) and asks for treatment targeting alertness."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27513437,
+    "fields": {
+      "question_number": "Q35",
+      "question_text": "A patient is impulsive and a drug seeker with a scenario of Restless Legs Syndrome (RLS). What is the recommended treatment?",
+      "options": {
+        "A": "Clonazepam",
+        "B": "Gabapentin",
+        "C": "Pramipexole",
+        "D": "Iron supplementation"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the treatment of Restless Legs Syndrome (RLS), considering patient characteristics (impulsivity, drug-seeking) that might influence medication choice away from dopamine agonists or opioids."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36665940,
+    "fields": {
+      "question_number": "Q77",
+      "question_text": "Excessive daytime sleep and an increase in eating habits may indicate which condition?",
+      "options": {
+        "A": "SSRI",
+        "B": "Methylphenidate",
+        "C": "Serum oxybate",
+        "D": "Kleine-Levin Syndrome"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of Q74/Q65, but framed as asking for the condition indirectly via treatment options. The core concept is hypersomnolence with hyperphagia, likely pointing towards disorders like Kleine-Levin Syndrome."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32004576,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "A female adult with drug-seeking behavior and compulsive actions has irritability in her legs that only improves when she rubs them together. She is pregnant. What should be given to her? (No mention of symptoms of anemia or current hemoglobin level)",
+      "options": {
+        "A": "Pramipexole",
+        "B": "Clonazepam",
+        "C": "Ferrous sulfate",
+        "D": "Gabapentin"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes Restless Legs Syndrome (RLS) in pregnancy with complicating factors (drug-seeking behavior) and asks for appropriate management, considering safety in pregnancy and potential for misuse."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23108464,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "A 45-year-old male presents with poor sleeping and recent mood changes, early awakening as reported by his wife. What is true regarding his treatment options?",
+      "options": {
+        "A": "Pharmacotherapy and hypnotic measures have good effects.",
+        "B": "Sleep hygiene measures always failed.",
+        "C": "Hypnotic measures are effective in sleep apnea.",
+        "D": "Use antipsychotics for depression."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on insomnia symptoms (difficulty maintaining sleep, early awakening) potentially linked to mood changes (depression) and evaluates understanding of general treatment principles for insomnia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 86542488,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "Excessive daytime sleep and an increase in eating habits can be treated with which of the following?",
+      "options": {
+        "A": "SSRI",
+        "B": "Methylphenidate",
+        "C": "Serum oxybate",
+        "D": "Modafinil"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44059188,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "B. Levodopa",
+      "options": {
+        "C": "Carbamazepine",
+        "D": "Baclofen",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "From Sleep_Neurology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: Modafinil is a wakefulness-promoting agent commonly used to treat hypersomnolence, making it the most appropriate treatment option for symptoms of excessive sleepiness and related alertness issues."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73725134,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "A patient with a history of visual hallucinations and inability to move from the bed, along with frequent episodes of falling asleep, presents for evaluation. What is the likely diagnosis?",
+      "options": {
+        "A": "Narcolepsy",
+        "B": "Parkinson's Disease",
+        "C": "Alzheimer's disease",
+        "D": "Multiple sclerosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes symptoms highly suggestive of narcolepsy type 1 (excessive daytime sleepiness, cataplexy implied by \"inability to move,\" hypnagogic/hypnopompic hallucinations)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 58217227,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "A child presents with a history of falling and loss of tone usually after laughing. What is the most likely diagnosis?",
+      "options": {
+        "A": "Gelastic seizures",
+        "B": "Cataplexy",
+        "C": "Hyperekplexia",
+        "D": "Catalepsy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes cataplexy, a cardinal symptom of narcolepsy type 1, triggered by emotion (laughter)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26185772,
+    "fields": {
+      "question_number": "Q29",
+      "question_text": "A 43-year-old man presents with complaints of unrefreshing sleep, excessive daytime sleepiness, and snoring at night. What is the best next step in management?",
+      "options": {
+        "A": "EEG",
+        "B": "Polysomnogram",
+        "C": "Multiple sleep latency test",
+        "D": "Overnight pulse oximetry"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes classic symptoms of Obstructive Sleep Apnea (OSA) and asks for the diagnostic gold standard (polysomnogram)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30345316,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "A patient came with symptoms of restlessness during nighttime, improving when she rubs her feet together (restless leg syndrome). What will you do?",
+      "options": {
+        "A": "Check iron stores/level",
+        "B": "Sleep study",
+        "C": "Prescribe dopamine agonists",
+        "D": "Recommend leg massage and stretching exercises"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes classic symptoms of Restless Legs Syndrome (RLS) and asks for the appropriate initial investigation (checking iron stores)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 8442388,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+      "options": {
+        "A": "Restless legs syndrome (RLS)",
+        "B": "Periodic limb movement disorder",
+        "C": "Iron deficiency anemia",
+        "D": "Gestational hypertension"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Duplicate of Q76/"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85040069,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "B. Narcolepsy symptoms are commonly exacerbated by pregnancy.",
+      "options": {
+        "C": "REM Sleep Behavior Disorder (RBD) incidence increases during pregnancy.",
+        "D": "Periodic Limb Movement Disorder (PLMD) is typically improved during pregnancy.",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "From Sleep_Neurology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question assesses knowledge of how pregnancy affects primary sleep-related movement disorders, with RLS known to worsen during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49399124,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "A patient is sleeping and exhibits aggressive movements in the legs while sleeping, and he used to walk around at night. What is the most likely diagnosis?",
+      "options": {
+        "A": "Parasomnia",
+        "B": "Restless Leg Syndrome",
+        "C": "REM Sleep Behavior Disorder",
+        "D": "Nocturnal Seizures"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes complex nocturnal behaviors including possible REM Sleep Behavior Disorder (leg movements) and sleepwalking/confusional arousals (walking around), falling under the umbrella of parasomnias."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80746958,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "A 45-year-old male presents with poor sleeping and recent mood changes, with early awakening as reported by his wife. Which of the following is true?",
+      "options": {
+        "A": "Diffuse low glucose uptake in PET scan",
+        "B": "Increased temporalis single in EMG",
+        "C": "Absence of beta activity in EEG",
+        "D": "Increased cortisol levels in the night"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Relates insomnia and mood changes (likely depression) to potential biological markers, specifically testing knowledge of polysomnographic or endocrine findings in depression/insomnia (e.g., cortisol changes)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 44536205,
+    "fields": {
+      "question_number": "Q36",
+      "question_text": "With destruction of the anterior hypothalamic nucleus, you will find:",
+      "options": {
+        "A": "Insomnia and hyperthermia",
+        "B": "Hypersomnolence",
+        "C": "REM sleep behavior disorder",
+        "D": "Hypothermia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests neuroanatomical knowledge specifically related to sleep-wake regulation centers in the hypothalamus."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51825835,
+    "fields": {
+      "question_number": "Q32",
+      "question_text": "A 45-year-old male is experiencing poor sleep and recent mood changes, with early awakening as reported by his wife. What is true regarding his condition?",
+      "options": {
+        "A": "Pharmacotherapy and hypnotic measures have good effects.",
+        "B": "Sleep hygiene measures always fail.",
+        "C": "Hypnotic measures are effective in sleep apnea.",
+        "D": "Use antipsychotics for depression."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Duplicate of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23108464,
+    "fields": {
+      "question_number": "Q30",
+      "question_text": "B. Immediate use of benzodiazepines as first-line treatment",
+      "options": {
+        "C": "Avoidance of any pharmacological treatment to prevent dependency",
+        "D": "Use of stimulant medications to counteract daytime sleepiness",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "From Sleep_Neurology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question addresses appropriate management strategies for insomnia related to depression, emphasizing evidence-based treatments like CBT-I combined with antidepressants, while other options represent less appropriate or contraindicated approaches."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 59069336,
+    "fields": {
+      "question_number": "Q33",
+      "question_text": "A 45-year-old male with poor sleeping and recent mood changes, early awakening reported by his wife. What is true?",
+      "options": {
+        "A": "Diffuse low glucose uptake in PET scan",
+        "B": "Increased temporalis single in EMG",
+        "C": "Elevated CSF protein levels",
+        "D": "Reduced REM sleep latency"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Duplicate/Partial of"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 80746958,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "B. Increased REM latency",
+      "options": {
+        "C": "Elevated melatonin levels at night",
+        "D": "Reduced cortisol secretion in the evening",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "From Sleep_Neurology.txt",
+      "exam_type": null,
+      "exam_year": null,
+      "explanation": "Classification Reason: This question assesses understanding of sleep architecture and hormonal changes associated with insomnia and depression. Decreased slow-wave sleep is a well-documented correlate."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41841305,
+    "fields": {
+      "question_number": "Q124",
+      "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+      "options": {
+        "A": "Restless legs syndrome (RLS)",
+        "B": "Periodic limb movement disorder",
+        "C": "Iron deficiency anemia",
+        "D": "Narcolepsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about a condition (Restless Legs Syndrome) strongly associated with sleep disturbances and often managed within sleep neurology, specifically its link to pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41841305,
+    "fields": {
+      "question_number": "Q124",
+      "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+      "options": {
+        "A": "Restless legs syndrome (RLS)",
+        "B": "Periodic limb movement disorder",
+        "C": "Narcolepsy",
+        "D": "Sleep apnea"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about Restless Legs Syndrome and its association with pregnancy, a core sleep disorder topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41841305,
+    "fields": {
+      "question_number": "Q124",
+      "question_text": "Pregnancy is a risk factor for which of the following conditions?",
+      "options": {
+        "A": "Restless legs syndrome (RLS)",
+        "B": "Periodic limb movement disorder",
+        "C": "Narcolepsy",
+        "D": "Sleep apnea"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks about Restless Legs Syndrome and its association with pregnancy, a core sleep disorder topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43108740,
+    "fields": {
+      "question_number": "Q127",
+      "question_text": "A woman presents with her husband, who complains of her movements at night that usually improve with movement. What factor is likely to worsen these movements?",
+      "options": {
+        "A": "Pregnancy",
+        "B": "Caffeine intake",
+        "C": "Exercise before bedtime",
+        "D": "Use of iron supplements"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes symptoms characteristic of Restless Legs Syndrome (RLS), a common sleep-related movement disorder, and asks about known exacerbating factors (like pregnancy)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11470104,
+    "fields": {
+      "question_number": "Q362",
+      "question_text": "A patient is sleeping all day and binge eating with increased weight. What medication would you consider?",
+      "options": {
+        "A": "SSRI",
+        "B": "Oxybutynin",
+        "C": "Sildenafil",
+        "D": "Methylphenidate"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes symptoms (hypersomnolence, binge eating) suggestive of conditions like Kleine-Levin Syndrome or atypical depression with hypersomnia, asking for an appropriate alerting agent/treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81264155,
+    "fields": {
+      "question_number": "Q289",
+      "question_text": "A patient with narcolepsy is treated with which of the following medications?",
+      "options": {
+        "A": "Modafinil",
+        "B": "Hydroxyamphetamine",
+        "C": "SSRI",
+        "D": "Lithium"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the first-line treatment (Modafinil) for excessive daytime sleepiness in narcolepsy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85040069,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "A patient presents with excessive daytime sleepiness and increased eating habits. What is the first-line treatment? [Suggests Kleine-Levin Syndrome or potentially narcolepsy variant]",
+      "options": {
+        "A": "SSRI",
+        "B": "Methylphenidate",
+        "C": "Sodium oxybate",
+        "D": "Modafinil"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes symptoms characteristic of a primary hypersomnia disorder (like Kleine-Levin Syndrome or Narcolepsy Type 2) and asks for treatment options (stimulants like Methylphenidate), falling under Sleep Neurology."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84945838,
+    "fields": {
+      "question_number": "Q258",
+      "question_text": "What is the sleep disorder associated with Parkinson's disease?",
+      "options": {
+        "A": "REM sleep behavior disorder",
+        "B": "Obstructive sleep apnea",
+        "C": "Narcolepsy",
+        "D": "Restless legs syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Directly asks to identify a specific sleep disorder (RBD) strongly associated with a neurological condition (Parkinson's disease)."
+    }
+  }
+]

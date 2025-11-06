@@ -1,0 +1,530 @@
+[
+  {
+    "id": 100022113,
+    "question_number": "280",
+    "subspecialty": "Epilepsy",
+    "question": "A pregnant lady post tumor resection on oral contraceptive pills (OCP) and known to have seizures. Which of the following antiepileptic drugs (AED) would be least likely to interact with her oral contraceptive pills?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022082,
+        "question": "Typical juvenile myoclonic epilepsy (JME) patient on topiramate is well controlled; he wants to stop the medication. What is the recommendation?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022088,
+        "question": "In a scenario of dyscognitive auras (Temporal lobe epilepsy), what imaging is typically used for diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022090,
+        "question": "A 28-year-old woman with well-controlled epilepsy on lamotrigine therapy wishes to start combined oral contraceptives (OCB). What should you advise?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022151,
+    "question_number": "4",
+    "subspecialty": "Epilepsy",
+    "question": "A 30-year-old patient with seizures controlled on antiepileptic drugs (AED) developed facial redness and fatigue. What is the likely AED?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022082,
+        "question": "Typical juvenile myoclonic epilepsy (JME) patient on topiramate is well controlled; he wants to stop the medication. What is the recommendation?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022088,
+        "question": "In a scenario of dyscognitive auras (Temporal lobe epilepsy), what imaging is typically used for diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022090,
+        "question": "A 28-year-old woman with well-controlled epilepsy on lamotrigine therapy wishes to start combined oral contraceptives (OCB). What should you advise?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022155,
+    "question_number": "167",
+    "subspecialty": "Epilepsy",
+    "question": "A young lady with epilepsy on lamotrigine wants to start oral contraceptive pills (OCP). What should you recommend for her?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022083,
+        "question": "What is the 2-year recurrence rate of seizures after the first seizure attack?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022084,
+        "question": "Q63. A patient with mesial temporal sclerosis\u2013related seizures is receiving topiramate 200 mg BID and carbamazepine 400 mg BID, but his seizures remain uncontrolled. What will you do?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022085,
+        "question": "In a case of catamenial seizures, what is the recommended treatment?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022230,
+    "question_number": "220",
+    "subspecialty": "Epilepsy",
+    "question": "A patient with seizures who is on antiepileptic drugs (AEDs) develops aplastic anemia. What is the medication associated with this condition?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022082,
+        "question": "Typical juvenile myoclonic epilepsy (JME) patient on topiramate is well controlled; he wants to stop the medication. What is the recommendation?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022088,
+        "question": "In a scenario of dyscognitive auras (Temporal lobe epilepsy), what imaging is typically used for diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022090,
+        "question": "A 28-year-old woman with well-controlled epilepsy on lamotrigine therapy wishes to start combined oral contraceptives (OCB). What should you advise?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022302,
+    "question_number": "135",
+    "subspecialty": "Epilepsy",
+    "question": "A patient with epilepsy denies any aura, and the MRI shows heterotopia. What is the classification of the epilepsy?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022171,
+        "question": "Landau-Kleffner syndrome (LKS) is also known as:",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022220,
+        "question": "A 58-year-old man presents with an 18-month history of progressive limb weakness. Examination shows muscle atrophy with fasciculations in the upper limbs, brisk reflexes and a positive Babinski sign. There are no sensory disturbances. Electromyography reveals widespread denervation potentials. Which neurodegenerative disorder is characterized by combined upper and lower motor neuron degeneration leading to progressive muscle weakness and atrophy?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022381,
+        "question": "An elderly patient with a history of diabetes mellitus (DM), hypertension (HTN), and end-stage renal disease (ESRD) presents with a decreased level of consciousness. His wife reports that he was seeing animals just prior to deterioration. A non-contrast CT head shows a left occipital hypodensity. What will you do?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022362,
+    "question_number": "186",
+    "subspecialty": "Epilepsy",
+    "question": "In a case of epilepsy partialis continua, what is the recommended treatment?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022083,
+        "question": "What is the 2-year recurrence rate of seizures after the first seizure attack?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022084,
+        "question": "Q63. A patient with mesial temporal sclerosis\u2013related seizures is receiving topiramate 200 mg BID and carbamazepine 400 mg BID, but his seizures remain uncontrolled. What will you do?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022085,
+        "question": "In a case of catamenial seizures, what is the recommended treatment?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022389,
+    "question_number": "34",
+    "subspecialty": "Epilepsy",
+    "question": "A 30-year-old patient with seizures controlled on antiepileptic drugs (AED) developed facial redness and fatigue. What is the most likely AED causing these side effects?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022082,
+        "question": "Typical juvenile myoclonic epilepsy (JME) patient on topiramate is well controlled; he wants to stop the medication. What is the recommendation?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022088,
+        "question": "In a scenario of dyscognitive auras (Temporal lobe epilepsy), what imaging is typically used for diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022090,
+        "question": "A 28-year-old woman with well-controlled epilepsy on lamotrigine therapy wishes to start combined oral contraceptives (OCB). What should you advise?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022426,
+    "question_number": "3",
+    "subspecialty": "Critical Care Neurology",
+    "question": "Q3. A patient presented with visual symptoms, confusion, and is taking immunosuppressants for renal transplantation. Brain MRI showed PRES. What is the management?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022392,
+        "question": "A patient with intracerebral hemorrhage (ICH) followed by midline shift had an external ventricular drain (EVD) inserted and then developed signs of infection. Blood and CSF cultures were sent. You want to start empirical treatment. What should you do?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022409,
+        "question": "Q143. A patient with a 3 mm hemorrhage in the putamen is stable but has increased edema and decreased level of consciousness. What is the appropriate treatment?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022411,
+        "question": "A 19-year-old female presents with acute encephalopathy. MRI of the brain demonstrates T2/FLAIR hyperintense lesions in the basal ganglia and thalamus. What is the next best step in management?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022493,
+    "question_number": "21",
+    "subspecialty": "Critical Care Neurology",
+    "question": "A patient was on warfarin and developed intracerebral hemorrhage (ICH). Which of the following has the best efficacy to manage this condition?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022469,
+        "question": "A patient with acute ischemic stroke received intravenous tPA and subsequently developed difficulty with speaking and swallowing. What should be done next?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022394,
+        "question": "Which of the following is a therapeutic effect of mannitol?",
+        "relevance": 0.5
+      },
+      {
+        "id": 100022395,
+        "question": "An elderly patient presented with fluctuating levels of consciousness. Which of the following should be done?",
+        "relevance": 0.5
+      }
+    ]
+  },
+  {
+    "id": 100022508,
+    "question_number": "292",
+    "subspecialty": "Critical Care Neurology",
+    "question": "In a case of warfarin-related intracerebral hemorrhage (ICH) with an INR of 3, what will you give for immediate reversal?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022401,
+        "question": "Q155. A female patient diagnosed with cerebral venous thrombosis (CVT) was admitted to the ICU and then deteriorated. A CT scan showed brain edema. What is in favor of hypertonic saline over mannitol?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022394,
+        "question": "Which of the following is a therapeutic effect of mannitol?",
+        "relevance": 0.5
+      },
+      {
+        "id": 100022395,
+        "question": "An elderly patient presented with fluctuating levels of consciousness. Which of the following should be done?",
+        "relevance": 0.5
+      }
+    ]
+  },
+  {
+    "id": 100022509,
+    "question_number": "205",
+    "subspecialty": "Critical Care Neurology",
+    "question": "A 65-year-old man presents with an abrupt severe headache and drowsiness. His Glasgow Coma Scale score falls to 9. A repeat CT scan shows no change in hematoma size but marked enlargement of the third and lateral ventricles. Which of the following interventions is most likely to improve this patient\u2019s clinical status?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022392,
+        "question": "A patient with intracerebral hemorrhage (ICH) followed by midline shift had an external ventricular drain (EVD) inserted and then developed signs of infection. Blood and CSF cultures were sent. You want to start empirical treatment. What should you do?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022396,
+        "question": "A patient with head trauma arrives at the emergency department conscious and oriented. After one hour, he loses consciousness and has a dilated right pupil. What abnormality would you expect to see on a brain CT?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022409,
+        "question": "Q143. A patient with a 3 mm hemorrhage in the putamen is stable but has increased edema and decreased level of consciousness. What is the appropriate treatment?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022580,
+    "question_number": "399",
+    "subspecialty": "Dementia",
+    "question": "In the context of Alzheimer's Disease (AD), which medication is considered first-line for hallucinations and agitation?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022517,
+        "question": "A patient presents with visual hallucinations and fluctuating levels of consciousness, with symptoms suggesting parkinsonism. What is the most likely diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022522,
+        "question": "Dementia with Lewy Bodies (DLB)",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022525,
+        "question": "In the context of Dementia with Lewy Bodies (DLB), which medication is used for cognitive symptoms?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022638,
+    "question_number": "6",
+    "subspecialty": "Pediatric Neurology",
+    "question": "A neonate developed seizures within 24 hours of birth and has high bilirubin. What would be the most affected area on MRI?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022631,
+        "question": "In neonatal mild hypoxic ischemic encephalopathy, what is the most common presentation?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022630,
+        "question": "A case of a child with a rash on the face, contralateral hemiparesis, and radiographic findings of gyral calcifications giving a tram-track appearance is most likely:",
+        "relevance": 0.5
+      },
+      {
+        "id": 100022632,
+        "question": "A case of a child with caf\u00e9 au lait spots, axillary freckling, and Lisch nodules is indicative of:",
+        "relevance": 0.5
+      }
+    ]
+  },
+  {
+    "id": 100022702,
+    "question_number": "17",
+    "subspecialty": "Neurogenetics",
+    "question": "A case of spastic paraplegia with a family history of multiple sclerosis in the brother shows periventricular white matter lesions on MRI. What is the gene associated with this condition?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022688,
+        "question": "Patients present with symptoms suggestive of a mitochondrial disorder. What investigation will be most helpful?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022708,
+        "question": "In a scenario about Xeroderma pigmentosum, what are the symptoms associated with skin lesions and keratitis after sun exposure?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022717,
+        "question": "Q168. Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022717,
+    "question_number": "168",
+    "subspecialty": "Neurogenetics",
+    "question": "Q168. Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022725,
+        "question": "A young male patient presented for evaluation of limb numbness. He is complaining of paresthesia and burning sensation over the hands. He is also following with cardiology regarding coronary artery disease. On physical examination, there are lymphadenopathy, enlarged tonsils, and hepatomegaly. Which of the following is a common finding during laboratory evaluation for this disorder (Tangier disease)?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022750,
+        "question": "Q296. An infant presents with a head circumference at the 100th percentile, height at the 10th percentile, and weight at the 20th percentile. The infant also has multiple caf\u00e9 au lait spots and axillary flickering [freckling]. What is the most likely diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022691,
+        "question": "In a typical scenario of MELAS, how can the diagnosis be made?",
+        "relevance": 0.5
+      }
+    ]
+  },
+  {
+    "id": 100022731,
+    "question_number": "145",
+    "subspecialty": "Neurogenetics",
+    "question": "In a scenario of symptoms suggestive of Fabry disease, what is the treatment?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022715,
+        "question": "In a case of Refsum\u2019s disease, a patient had trouble with vision during the night and has polyneuropathy. What is the diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022721,
+        "question": "A patient has had two strokes, sensory peripheral neuropathy, and a skin rash. What enzyme is involved in this disease?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022725,
+        "question": "A young male patient presented for evaluation of limb numbness. He is complaining of paresthesia and burning sensation over the hands. He is also following with cardiology regarding coronary artery disease. On physical examination, there are lymphadenopathy, enlarged tonsils, and hepatomegaly. Which of the following is a common finding during laboratory evaluation for this disorder (Tangier disease)?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022766,
+    "question_number": "34",
+    "subspecialty": "Neurogenetics",
+    "question": "A hypotonic baby with colorless hair and seizures has a CT brain showing subdural collection. What lab findings are expected in Glutaric aciduria type 1 (GA1)?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022688,
+        "question": "Patients present with symptoms suggestive of a mitochondrial disorder. What investigation will be most helpful?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022708,
+        "question": "In a scenario about Xeroderma pigmentosum, what are the symptoms associated with skin lesions and keratitis after sun exposure?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022717,
+        "question": "Q168. Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022792,
+    "question_number": "2",
+    "subspecialty": "Neurogenetics",
+    "question": "Q2. (Source: Part 2 - 2023mcqs.txt) Which of the following is associated with Congenital Myasthenia Gravis?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022688,
+        "question": "Patients present with symptoms suggestive of a mitochondrial disorder. What investigation will be most helpful?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022708,
+        "question": "In a scenario about Xeroderma pigmentosum, what are the symptoms associated with skin lesions and keratitis after sun exposure?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022717,
+        "question": "Q168. Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022912,
+    "question_number": "49",
+    "subspecialty": "Vascular Neurology Stroke",
+    "question": "A case scenario of a post-RTA patient presents with brain stem symptoms and findings. What is the most likely mechanism of injury?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022894,
+        "question": "A 73-year-old female patient presented with decreased level of consciousness showing hemorrhage with fluid level. What is the most likely diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022899,
+        "question": "For the same patient (referring to Q273, intracerebral hemorrhage with a fluid level on CT), what is the recommended treatment?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022902,
+        "question": "An acute ischemic stroke (AIS) patient within the therapeutic window with a platelet count of 45,000 was given intravenous tPA, which resulted in intracranial hemorrhage. What violation of the AIS treatment protocol occurred?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022916,
+    "question_number": "85",
+    "subspecialty": "Vascular Neurology Stroke",
+    "question": "A patient with Sickle Cell Anemia presents with symptoms of infarction and is found to have severe intracranial MCA stenosis. What would be the most appropriate management?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022894,
+        "question": "A 73-year-old female patient presented with decreased level of consciousness showing hemorrhage with fluid level. What is the most likely diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022899,
+        "question": "For the same patient (referring to Q273, intracerebral hemorrhage with a fluid level on CT), what is the recommended treatment?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022902,
+        "question": "An acute ischemic stroke (AIS) patient within the therapeutic window with a platelet count of 45,000 was given intravenous tPA, which resulted in intracranial hemorrhage. What violation of the AIS treatment protocol occurred?",
+        "relevance": 1.0
+      }
+    ]
+  },
+  {
+    "id": 100022959,
+    "question_number": "284",
+    "subspecialty": "Vascular Neurology Stroke",
+    "question": "A patient with subarachnoid hemorrhage (SAH) has hyponatremia; what will you do?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022930,
+        "question": "A patient presents with transient lower extremity weakness that worsens upon coughing or during Valsalva maneuver. An MRI of the spine is attached. What is your diagnosis?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022937,
+        "question": "A patient starts seeing animals and then has decreased level of consciousness and decerebrate posturing. A CT scan shows a hyperdense basilar sign. What is the next step in management?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022892,
+        "question": "Q68. In a case scenario of a patient with acute onset weakness and loss of pain and temperature sensation, sparing of vibration sense is noted. What is the likely diagnosis?",
+        "relevance": 0.5
+      }
+    ]
+  },
+  {
+    "id": 100022979,
+    "question_number": "126",
+    "subspecialty": "Vascular Neurology Stroke",
+    "question": "A patient experiences symptoms of a transient ischemic attack (TIA) for 10 minutes. Both echocardiogram and Holter monitor results are negative. What should be done next?",
+    "relevance_score": 0.0,
+    "better_matches": [
+      {
+        "id": 100022905,
+        "question": "An 83-year-old man presents with a 3-hour history of acute onset hemiparesis and aphasia consistent with ischemic stroke. What is the next best step in management?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022909,
+        "question": "In a case of subacute stroke with a CT brain showing no abnormalities, a normal transthoracic echocardiogram (TTE), and a normal 48-hour Holter monitor, what is the next best step in management?",
+        "relevance": 1.0
+      },
+      {
+        "id": 100022918,
+        "question": "A patient with an acute stroke has a CT image with no established stroke ASPECT score of 8. After being treated with tPA, the patient vomits and becomes lethargic with a blood pressure of 180/110. What should be done next?",
+        "relevance": 1.0
+      }
+    ]
+  }
+]

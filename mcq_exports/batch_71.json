@@ -1,0 +1,378 @@
+[
+  {
+    "question_number": "Q373",
+    "question_text": "What is the most important risk factor for multiple sclerosis (MS)?",
+    "options": {
+      "A": "Epstein-Barr virus (EBV)",
+      "B": "Smoking",
+      "C": "Vitamin D deficiency",
+      "D": "Family history of MS"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q273",
+    "question_text": "",
+    "options": {
+      "A": "patient was treated for multiple sclerosis and presents with myelitis, showing a trident sign and LETM with expansile and avidly enhancing dorsal cord on imaging. What is the likely etiology?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q245",
+    "question_text": "What type of cell is primarily involved in MS lesions?",
+    "options": {
+      "A": "T cell",
+      "B": "B cell",
+      "C": "Eosinophils",
+      "D": "Neutrophils"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "",
+    "options": {
+      "A": "female with pure sensory neuropathy and NCS showing demyelinating neuropathy is likely to have:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q282",
+    "question_text": "Which of the following is a characteristic of primary progressive multiple sclerosis according to McDonald criteria 2017?",
+    "options": {
+      "A": "39-year-old man with progressive symptoms over 2 months with periventricular hyperintense lesion",
+      "B": "30-year-old man with progressive symptoms over one year",
+      "C": "40-year-old with progressive ataxia over one year and T2 hyperintensity with no oligoclonal bands (OCB)",
+      "D": "39-year-old man with progressive symptoms over 12 months, cortical hyperintense lesion, and OCB"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "",
+    "options": {
+      "A": "patient was diagnosed with Multiple Sclerosis for 8 months, based on an initial attack of transverse myelitis causing lower limb symptoms. Now she is pregnant and off disease-modifying therapy (DMT). She presented with lower limb numbness and reported a change in her urine smell and odor. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q253",
+    "question_text": "",
+    "options": {
+      "A": "female patient with MS on glatiramer acetate wants to take the flu vaccine. What is the best recommendation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient with relapsing-remitting multiple sclerosis has had no disease activity for two years. What is the percentage of benign multiple sclerosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "Gadolinium contrast enhancement is present in essentially all cases of which condition?",
+    "options": {
+      "A": "Multiple Sclerosis",
+      "B": "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+      "C": "Acute Disseminated Encephalomyelitis",
+      "D": "Transverse Myelitis"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "For patients without brain lesions at the onset of optic neuritis, when was the risk of developing MS greatest?",
+    "options": {
+      "A": "First year",
+      "B": "First 5 years",
+      "C": "Between 10 and 15 years",
+      "D": "After 15 years"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "Which DMT causes ITP? (attached picture of purpura)",
+    "options": {
+      "A": "Alemtuzumab",
+      "B": "Fingolimod",
+      "C": "Natalizumab",
+      "D": "Ocrelizumab"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q271",
+    "question_text": "An MS patient with a history of recurrent relapses has been stable on natalizumab for the past 7 months. However, he has started to show signs of confusion, suggestive of progressive multifocal leukoencephalopathy (PML). What should be done next?",
+    "options": {
+      "A": "Check JCV antibodies",
+      "B": "Brain MRI with contrast",
+      "C": "Discontinue natalizumab immediately",
+      "D": "Perform lumbar puncture for JC virus PCR"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with autonomic dysfunction and pupillary changes (miosis). What is the antibody associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "",
+    "options": {
+      "A": "woman who had repeated episodes of vomiting for one month visited the ER and was given omeprazole. She experienced visual changes in both eyes at different times. Now, she presents with symptoms of transverse myelitis (TM). What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "In patients with optic neuritis, what was the risk of developing MS when MRI evidence of prior demyelination was present?",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "72%",
+      "D": "16%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "What DMT has a 30% increased risk of secondary autoimmune disorders?",
+    "options": {
+      "A": "Alemtuzumab",
+      "B": "Fingolimod",
+      "C": "Ocrelizumab",
+      "D": "Natalizumab"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q173",
+    "question_text": "The periventricular white lesion typical of multiple sclerosis (MS) follows a specific pattern in the distribution of which following structure?",
+    "options": {
+      "A": "Oligodendrocyte cell body",
+      "B": "Arterioles",
+      "C": "Venules",
+      "D": "Capillaries"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "Which of the following is considered a red flag in multiple sclerosis?",
+    "options": {
+      "A": "Partial myelitis",
+      "B": "Decreased facial sensation",
+      "C": "Complete ophthalmoplegia",
+      "D": "Erectile dysfunction"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "Typical multiple sclerosis (MS) presentation includes one or more episodes of:",
+    "options": {
+      "A": "Unilateral optic neuritis",
+      "B": "Painless binocular diplopia",
+      "C": "Focal brainstem or cerebellar syndrome",
+      "D": "Partial transverse myelitis with sensory and/or motor symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q359",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of Multiple Sclerosis (MS) used a medication that causes flushing. What is the mechanism of action of that drug?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "An MS patient on disease-modifying therapy (DMT) lost follow-up and presented to the ER with low platelets and a skin rash. What medication might they be on?",
+    "options": {
+      "A": "Ofatumumab",
+      "B": "Alemtuzumab",
+      "C": "Fingolimod",
+      "D": "Natalizumab"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q243",
+    "question_text": "",
+    "options": {
+      "A": "IVIG",
+      "B": "Steroid",
+      "C": "Plasmapheresis",
+      "D": "Discontinuation of Natalizumab"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q247",
+    "question_text": "",
+    "options": {
+      "A": "It is optional",
+      "B": "It is standard",
+      "C": "It is contraindicated",
+      "D": "It is only for severe cases"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "High-dose corticosteroids",
+      "B": "Immediate temporal artery biopsy",
+      "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+      "D": "Observation and follow-up"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "",
+    "options": {
+      "A": "OCB testing",
+      "B": "Rituximab therapy",
+      "C": "ANCA and anti-dsDNA testing",
+      "D": "Lymphoma evaluation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

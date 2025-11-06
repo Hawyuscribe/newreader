@@ -1,0 +1,128 @@
+<!-- Updated explanation display section for mcq.html -->
+<!-- Replace the existing explanation tab content with this -->
+
+<div class="tab-pane fade show active" id="explanation" role="tabpanel" aria-labelledby="explanation-tab">
+    {% if mcq.explanation_sections %}
+    <div class="explanation-content">
+        <!-- Conceptual Foundation -->
+        {% if mcq.explanation_sections.conceptual_foundation %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-lightbulb text-primary me-2 fs-4"></i>
+                <h4 class="mb-0">Conceptual Foundation</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.conceptual_foundation|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Pathophysiological Mechanisms -->
+        {% if mcq.explanation_sections.pathophysiological_mechanisms %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-activity text-danger me-2 fs-4"></i>
+                <h4 class="mb-0">Pathophysiological Mechanisms</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.pathophysiological_mechanisms|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Clinical Correlation -->
+        {% if mcq.explanation_sections.clinical_correlation %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-heart-pulse text-info me-2 fs-4"></i>
+                <h4 class="mb-0">Clinical Correlation</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.clinical_correlation|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Classification and Nosology -->
+        {% if mcq.explanation_sections.classification_and_nosology %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-diagram-3 text-success me-2 fs-4"></i>
+                <h4 class="mb-0">Classification and Nosology</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.classification_and_nosology|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Diagnostic Approach -->
+        {% if mcq.explanation_sections.diagnostic_approach %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-search text-warning me-2 fs-4"></i>
+                <h4 class="mb-0">Diagnostic Approach</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.diagnostic_approach|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Management Principles -->
+        {% if mcq.explanation_sections.management_principles %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-clipboard2-pulse text-primary me-2 fs-4"></i>
+                <h4 class="mb-0">Management Principles</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.management_principles|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Option Analysis -->
+        {% if mcq.explanation_sections.option_analysis %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-list-check text-secondary me-2 fs-4"></i>
+                <h4 class="mb-0">Option Analysis</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.option_analysis|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Clinical Pearls -->
+        {% if mcq.explanation_sections.clinical_pearls %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-gem text-warning me-2 fs-4"></i>
+                <h4 class="mb-0">Clinical Pearls</h4>
+            </div>
+            <div class="section-content clinical-pearls">{{ mcq.explanation_sections.clinical_pearls|safe }}</div>
+        </div>
+        {% endif %}
+        
+        <!-- Current Evidence -->
+        {% if mcq.explanation_sections.current_evidence %}
+        <div class="explanation-section mb-4">
+            <div class="section-header d-flex align-items-center mb-3">
+                <i class="bi bi-journal-medical text-info me-2 fs-4"></i>
+                <h4 class="mb-0">Current Evidence</h4>
+            </div>
+            <div class="section-content">{{ mcq.explanation_sections.current_evidence|safe }}</div>
+        </div>
+        {% endif %}
+    </div>
+    {% elif mcq.explanation %}
+    <!-- Fallback to old explanation format -->
+    <div class="explanation-content p-3">
+        <div class="d-flex align-items-center mb-3">
+            <i class="bi bi-journal-medical text-primary me-2 fs-4"></i>
+            <h4 class="m-0">Detailed Explanation</h4>
+        </div>
+        <div id="explanation-content-wrapper">
+            <div id="formatted-explanation">{{ mcq.explanation|safe }}</div>
+        </div>
+    </div>
+    {% else %}
+    <div class="text-center py-5">
+        <i class="bi bi-lightbulb fs-1 text-warning mb-3"></i>
+        <p class="text-muted mb-4">No explanation available yet. Generate a comprehensive explanation with the latest medical evidence.</p>
+        <form action="{{ url_for('create_explanation', mcq_id=mcq.id) }}" method="post">
+            <button type="submit" class="btn btn-primary">
+                <i class="bi bi-lightbulb"></i> Create Evidence-Based Explanation
+            </button>
+        </form>
+    </div>
+    {% endif %}
+</div>

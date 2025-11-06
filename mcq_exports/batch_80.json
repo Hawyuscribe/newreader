@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q237",
+    "question_text": "",
+    "options": {
+      "A": "patient who underwent radiation therapy for breast cancer 28 months ago presents with numbness in the 3rd and 4th fingers and arm pain. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "patient with a picture of limb-girdle muscular dystrophy (LGMD) underwent three surgeries under general anesthesia without complications. His brother developed malignant hyperthermia after a procedure. What should be communicated to the patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "50+ year old male presents with weakness in hand flexors and quadriceps. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q520",
+    "question_text": "In a patient with Acute Inflammatory Demyelinating Polyneuropathy (AIDP), what is the characteristic clinical finding?",
+    "options": {
+      "A": "Progressive, symmetrical muscle weakness with absent deep tendon reflexes",
+      "B": "Asymmetrical muscle weakness with preserved reflexes",
+      "C": "Sensory loss without motor involvement",
+      "D": "Flaccid paralysis with hyperreflexia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "Scenario of progressive bulbar palsy: what is the diagnosis?",
+    "options": {
+      "A": "Progressive bulbar palsy",
+      "B": "Bulbar onset ALS",
+      "C": "Myasthenia gravis",
+      "D": "Brainstem stroke"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "In the context of periodic paralysis, which of the following statements is true regarding serum potassium levels?",
+    "options": {
+      "A": "Always low in hypokalemic periodic paralysis",
+      "B": "Always high in hyperkalemic periodic paralysis",
+      "C": "Normal but may be high in hypokalemic periodic paralysis",
+      "D": "None of the above"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q254",
+    "question_text": "What percentage of Guillain-Barr\u00e9 syndrome patients experience recurrence?",
+    "options": {
+      "A": "0-1%",
+      "B": "2-5%",
+      "C": "10-15%",
+      "D": "20-25%"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q428",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with clear symptoms of periodic paralysis lasting for hours. What is the next test that should be performed?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "In patients with generalized Myasthenia Gravis, positive AChR-binding antibodies are found in what percentage of cases?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "80%",
+      "D": "97%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "What is the effect of cold in hypokalemic periodic paralysis?",
+    "options": {
+      "A": "May induce an attack",
+      "B": "Relieves an attack",
+      "C": "No effect",
+      "D": "Prevents an attack"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with upper extremity painful neuropathy and atrophy. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q563",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old obese female has delayed muscle relaxation, complains of tingling in her hands, and has slight bradycardia in her vital signs. What investigation should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hand stiffness that worsens and becomes weak with exercise and cold. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "Which of the following conditions is characterized by paralysis that typically occurs in the first to second decade of life and predominantly affects males?",
+    "options": {
+      "A": "Hypokalemic Periodic Paralysis",
+      "B": "Hyperkalemic Periodic Paralysis",
+      "C": "Paramyotonia Congenita",
+      "D": "Myotonic Dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "In congenital myasthenia gravis, which channel types are involved?",
+    "options": {
+      "A": "Slow channel",
+      "B": "Fast channel",
+      "C": "Calcium channel",
+      "D": "Potassium channel"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "In an elderly patient presenting with neuropathy and weakness, which of the following is a recommended diagnostic procedure if amyloidosis is suspected?",
+    "options": {
+      "A": "Fat aspiration",
+      "B": "Immunofixation",
+      "C": "Plasma electrophoresis",
+      "D": "TTR gene testing"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q301",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old male has a history of lower limb weakness for days, initially starting with numbness and tingling. Days later, the weakness involved the upper limbs and was associated with hyperhidrosis in the lower limbs and facial involvement. He also has a history of epigastric pain. Examination shows bilateral lower limb weakness. He received an influenza vaccine 2 weeks prior to the onset of symptoms. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q519",
+    "question_text": "",
+    "options": {
+      "A": "case of Bell's palsy underwent EMG. Which muscle is likely to show findings?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with falling down and an acetabulum fracture. After admission, he still has a very painful right leg; however, he noticed that he could not dorsiflex his right foot along with decreased sensation of the dorsum of the right foot. What is most likely injured in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "What is the most sensitive test to diagnose myasthenia gravis (MG)?",
+    "options": {
+      "A": "Single fiber EMG",
+      "B": "Acetylcholine receptor antibodies",
+      "C": "Repetitive nerve stimulation",
+      "D": "Chest CT scan for thymoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with right arm weakness that was slowly progressive for 5 years and then became static, involving multiple muscles while sparing the brachioradialis. The patient denies pain or trauma. What is expected to be found?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q542",
+    "question_text": "In a scenario of Acute Inflammatory Demyelinating Polyneuropathy (AIDP) on day 5, what will the nerve conduction study (NCS) show?",
+    "options": {
+      "A": "Sural sparing with affected median and ulnar nerves",
+      "B": "Normal sensory and motor nerve conduction velocities",
+      "C": "Reduced compound muscle action potential (CMAP) amplitudes without demyelination",
+      "D": "Increased distal motor latencies with conduction block"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q245",
+    "question_text": "Anti-MuSK Myasthenia gravis is characterized by which of the following features?",
+    "options": {
+      "A": "Tongue fasciculation and atrophy",
+      "B": "Less common in females",
+      "C": "Good response to pyridostigmine",
+      "D": "Proximal muscle weakness"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "patient with ALS presents with fatigue. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "patient with back pain radiating to the left lower limb and normal ankle reflexes is evaluated. Which muscle is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

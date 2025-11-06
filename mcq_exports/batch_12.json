@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "22-year-old woman with a history of epilepsy on topiramate is now complaining of difficulty in concentration and cognitive functions. What is the best option for her management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q256",
+    "question_text": "",
+    "options": {
+      "A": "video of a patient with bizarre movements during sleep is presented. What classification does this fall under according to the definition of epilepsy?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "Regarding mesial temporal sclerosis, which statement is true?",
+    "options": {
+      "A": "History of epilepsy",
+      "B": "History of febrile seizure",
+      "C": "Typically presents with sudden onset hemiparesis",
+      "D": "Commonly associated with multiple sclerosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "In a focal aware seizure, which antiepileptic medication (ASM) is commonly used?",
+    "options": {
+      "A": "LCM (Lacosamide)",
+      "B": "VPA (Valproic Acid)",
+      "C": "CBZ (Carbamazepine)",
+      "D": "LEV (Levetiracetam)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "",
+    "options": {
+      "A": "child brought to you with a decrease in understanding of language and partial aphasia has recurrent seizures at night. EEG during sleep showed continuous spike and wave discharges. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q196",
+    "question_text": "",
+    "options": {
+      "A": "23-year-old female is brought to the clinic by her husband, who states she has hyperactive jerky movements, especially during sleep. EEG shows frontal lobe epileptic spikes in waves. What is the best medication for her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q211",
+    "question_text": "In a patient with a history of moderate head trauma from a motor vehicle accident, for how long does the risk of seizure persist?",
+    "options": {
+      "A": "2 years",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "15 years"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "What is the percentage of juvenile myoclonic epilepsy (JME) patients that will be seizure-free without treatment?",
+    "options": {
+      "A": "15-30%",
+      "B": "40-50%",
+      "C": "60-70%",
+      "D": "80-90%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old patient with seizures controlled on antiepileptic drugs (AED) developed facial redness and fatigue. What is the likely AED?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q349",
+    "question_text": "",
+    "options": {
+      "A": "patient with mesial temporal lobe (MTL) epilepsy on two AEDs came to the clinic. What is the reason for her breakthrough seizure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "What is the mean age of onset for Landau-Kleffner syndrome?",
+    "options": {
+      "A": "2 years",
+      "B": "5.5 years",
+      "C": "10 years",
+      "D": "13 years"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "patient came to the emergency room with multiple episodes of decreased level of consciousness. What is the most important indicator that you need to start antiepileptic drugs (AED)?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "",
+    "options": {
+      "A": "patient with a seizure scenario is asked about the best EEG predictor for good prognosis. Which of the following is the best predictor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "",
+    "options": {
+      "A": "young lady with epilepsy on lamotrigine wants to start oral contraceptive pills (OCP). What should you recommend for her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q269",
+    "question_text": "Patient with absence seizure; what is the medication that worsens the seizure?",
+    "options": {
+      "A": "Oxycarbazepine",
+      "B": "Ethosuximide",
+      "C": "Valproic acid",
+      "D": "Lamotrigine"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q294",
+    "question_text": "In early myoclonic encephalopathy with migrating myoclonus that then became more generalized, what is the EEG finding?",
+    "options": {
+      "A": "Burst suppression",
+      "B": "Hypsarrhythmia",
+      "C": "Generalized spike-and-wave discharges",
+      "D": "Focal slowing"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "young female epileptic patient on Topamax has decreased concentration. What should be switched to?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "In a case involving MRI findings consistent with Mesial Temporal Lobe Epilepsy (MTLE), what type of aura might the patient experience?",
+    "options": {
+      "A": "Cephalic",
+      "B": "Visual",
+      "C": "Auditory",
+      "D": "Olfactory"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q202",
+    "question_text": "",
+    "options": {
+      "A": "seizure described as early non-focal right head turning with right hand automatism. What is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q185",
+    "question_text": "",
+    "options": {
+      "A": "female patient known to have complex partial seizures with generalized tonic-clonic (GTC) seizures occurring twice per week. EEG shows temporal spikes and MRI reveals mesial temporal sclerosis. After trying Dilantin (phenytoin) without improvement, she started on carbamazepine and Keppra. After one year of follow-up, she reports improvement in complex partial seizures and no GTC seizures, with attacks occurring once per month. What is the next appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q278",
+    "question_text": "Which factors favor seizures over syncope?",
+    "options": {
+      "A": "Cyanosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q274",
+    "question_text": "Patient has focal seizure on treatment and he is well controlled. What is the favorable outcome in this patient?",
+    "options": {
+      "A": "One type seizure",
+      "B": "Normal neurological examination",
+      "C": "No seizure recurrence for at least 2 years",
+      "D": "Good response to first antiepileptic drug"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q271",
+    "question_text": "Male patient has migraine and seizure; what medications will you give?",
+    "options": {
+      "A": "Valproic acid",
+      "B": "Carbamazepine",
+      "C": "Topiramate",
+      "D": "Phenytoin"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q282",
+    "question_text": "Patient with MTS seizure on Topamax 200mg BID and Carbamazepine 400mg BID; his seizure is still not controlled; what will you do?",
+    "options": {
+      "A": "Increase Carbamazepine dose",
+      "B": "Refer to surgery",
+      "C": "Add a benzodiazepine as adjunct therapy",
+      "D": "Switch Topamax to Levetiracetam"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "An 18-year-old girl with MTLE is on lacosamide 200 mg BID, but her seizures remain uncontrolled. What is the best course of action?",
+    "options": {
+      "A": "Increase the lacosamide dose",
+      "B": "Add carbamazepine",
+      "C": "Add valproic acid",
+      "D": "Refer for surgical evaluation"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

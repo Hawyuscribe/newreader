@@ -1,0 +1,141 @@
+{
+  "total_mcqs": 3301,
+  "mcqs_with_merged_options": 780,
+  "mcqs_fixed": 772,
+  "mcqs_unfixable": 8,
+  "by_subspecialty": {
+    "Dementia": {
+      "total": 117,
+      "merged_options": 89,
+      "merged_percentage": 76.07,
+      "fixed": 88,
+      "fixed_percentage": 98.88
+    },
+    "Pediatric Neurology": {
+      "total": 35,
+      "merged_options": 15,
+      "merged_percentage": 42.86,
+      "fixed": 15,
+      "fixed_percentage": 100.0
+    },
+    "Epilepsy": {
+      "total": 327,
+      "merged_options": 167,
+      "merged_percentage": 51.07,
+      "fixed": 163,
+      "fixed_percentage": 97.6
+    },
+    "Neuropsychiatry": {
+      "total": 63,
+      "merged_options": 40,
+      "merged_percentage": 63.49,
+      "fixed": 40,
+      "fixed_percentage": 100.0
+    },
+    "Neurogenetics": {
+      "total": 106,
+      "merged_options": 9,
+      "merged_percentage": 8.49,
+      "fixed": 9,
+      "fixed_percentage": 100.0
+    },
+    "Critical Care Neurology": {
+      "total": 127,
+      "merged_options": 20,
+      "merged_percentage": 15.75,
+      "fixed": 20,
+      "fixed_percentage": 100.0
+    },
+    "Neuroanatomy": {
+      "total": 102,
+      "merged_options": 14,
+      "merged_percentage": 13.73,
+      "fixed": 14,
+      "fixed_percentage": 100.0
+    },
+    "Vascular Neurology/Stroke": {
+      "total": 388,
+      "merged_options": 50,
+      "merged_percentage": 12.89,
+      "fixed": 50,
+      "fixed_percentage": 100.0
+    },
+    "Neuro-otology": {
+      "total": 9,
+      "merged_options": 1,
+      "merged_percentage": 11.11,
+      "fixed": 1,
+      "fixed_percentage": 100.0
+    },
+    "Other/Unclassified": {
+      "total": 88,
+      "merged_options": 9,
+      "merged_percentage": 10.23,
+      "fixed": 9,
+      "fixed_percentage": 100.0
+    },
+    "Neuroimmunology": {
+      "total": 333,
+      "merged_options": 35,
+      "merged_percentage": 10.51,
+      "fixed": 34,
+      "fixed_percentage": 97.14
+    },
+    "Neuroophthalmology": {
+      "total": 98,
+      "merged_options": 6,
+      "merged_percentage": 6.12,
+      "fixed": 6,
+      "fixed_percentage": 100.0
+    },
+    "Movement Disorders": {
+      "total": 268,
+      "merged_options": 12,
+      "merged_percentage": 4.48,
+      "fixed": 12,
+      "fixed_percentage": 100.0
+    },
+    "Sleep Neurology": {
+      "total": 52,
+      "merged_options": 32,
+      "merged_percentage": 61.54,
+      "fixed": 32,
+      "fixed_percentage": 100.0
+    },
+    "Headache": {
+      "total": 285,
+      "merged_options": 176,
+      "merged_percentage": 61.75,
+      "fixed": 174,
+      "fixed_percentage": 98.86
+    },
+    "Neuro-oncology": {
+      "total": 164,
+      "merged_options": 1,
+      "merged_percentage": 0.61,
+      "fixed": 1,
+      "fixed_percentage": 100.0
+    },
+    "Neuro-infectious": {
+      "total": 229,
+      "merged_options": 7,
+      "merged_percentage": 3.06,
+      "fixed": 7,
+      "fixed_percentage": 100.0
+    },
+    "Neuromuscular": {
+      "total": 469,
+      "merged_options": 92,
+      "merged_percentage": 19.62,
+      "fixed": 92,
+      "fixed_percentage": 100.0
+    },
+    "Neurotoxicology": {
+      "total": 41,
+      "merged_options": 5,
+      "merged_percentage": 12.2,
+      "fixed": 5,
+      "fixed_percentage": 100.0
+    }
+  }
+}

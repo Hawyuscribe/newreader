@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Based on the following imaging, which territory involved?",
+    "options": {
+      "option_a": "Posterior cerebral artery",
+      "option_b": "PICA",
+      "option_c": "Superior cerebellar artery SCA",
+      "option_d": "AICA",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Young female developed severe headache and photophobia post-partum, what to do?",
+    "options": {
+      "option_a": "Brain CT venography",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Based on the following visual field defect in picture B, which artery involved?",
+    "options": {
+      "option_a": "Anterior choroidal artery",
+      "option_b": "Posterior choroidal artery",
+      "option_c": "Ophthalmic artery",
+      "option_d": "Posterior cerebral artery",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Same image, and the question what to do next to confirm the diagnosis?",
+    "options": {
+      "option_a": "Brain CT Angio",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient presented with chronic headache, no other neurological symptoms, found to have 3 mm unruptured aneurysm, what to do?",
+    "options": {
+      "option_a": "Observe and follow in 6 months",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Based on the following brain CT, what is the most likely diagnosis?",
+    "options": {
+      "option_a": "Perimesencephalic hemorrhage SAH",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Based on the following brain MRI, what is the most likely mechanism?",
+    "options": {
+      "option_a": "ICA stenosis",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient developed ischemic stroke, his echo showed valvular hypokinesia lesion, how to treat this patient?",
+    "options": {
+      "option_a": "Warfarin",
+      "option_b": "NOACs",
+      "option_c": "Aspirin",
+      "option_d": "Clopidogrel",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Typical scenario of CADASIL and the Q about the diagnosis",
+    "options": {
+      "option_a": "",
+      "option_b": "(genetic testing for NOTCH3 mutations) is correct because it is the definitive diagnostic modality. Option A (skin biopsy) is only supportive and is less sensitive and specific. Option C (MRI alone) reveals characteristic but nonspecific findings that overlap with other small vessel pathologies. Option D (CSF analysis) and Option E (routine blood tests) are non",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "TIA with severe ICA stenosis (symptomatic side), what to do?",
+    "options": {
+      "option_a": "Angioplasty plus stenting",
+      "option_b": "Male 50 shunting",
+      "option_c": "Otherwise endarterectomy",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario about Weber's syndrome, where is the lesion?",
+    "options": {
+      "option_a": "Midbrain basis",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "A case of acute ischemic stroke, BP is 193/103, what to do next?",
+    "options": {
+      "option_a": "IV labetalol",
+      "option_b": "IV nitroprusside",
+      "option_c": "Observation",
+      "option_d": "Resume home medications",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient has recurrent headache and TIAs, he did cerebral angio which showed the following, what is the most likely diagnosis?",
+    "options": {
+      "option_a": "",
+      "option_b": "(assumed to be Moyamoya disease) is correct if the angiography reveals progressive stenosis of the terminal internal carotid arteries with prominent collateral vessels. Other options can be excluded as follows: \u2022 Atherosclerosis typically shows focal stenosis in older individuals. \u2022 Arterial dissection would present acutely with a tear, often along the cervical vessels. \u2022 Vasculitis tends to have systemic inflammatory markers and multifocal segmental narrowing. \u2022 Fibromuscular dysplasia classically displays a 'string\u2010of\u2010beads' pattern rather than the \u201cpuff\u2010of\u2010smoke\u201d appearance.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "82-year-old woman came with acute ischemic stroke (2 hours onset) with partial improvement of her deficit?",
+    "options": {
+      "option_a": "Give IV tPA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient developed ischemic stroke, his echo showed intracardiac thrombus as part of stroke work up what is the best option for secondary prevention of stroke?",
+    "options": {
+      "option_a": "Warfarin",
+      "option_b": "NOACs",
+      "option_c": "Aspirin",
+      "option_d": "Clopidogrel",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Sickle cell disease patient developed ischemic stroke, what to do as secondary prevention?",
+    "options": {
+      "option_a": "Chronic blood transfusion (from AHA/ASA 2021 guidelines for secondary prevention of stroke)",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario with picture of AVM, which of the following is a risk factor for bleeding?",
+    "options": {
+      "option_a": "Previous history of bleeding",
+      "option_b": "Deep AVM",
+      "option_c": "Deep venous drain",
+      "option_d": "Presence of aneurysm",
+      "option_e": "Highest grade with size"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Pt with muscle weakness, optic atrophy, hearing loss, family history of similar condition:",
+    "options": {
+      "option_a": "SCA 7",
+      "option_b": "SCA 6",
+      "option_c": "Friedrich ataxia",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Young male coming with early dementia and bilateral LL weakness, has brothers who are similarly affected, MRI showed diffuse white matter lesions what is the diagnosis:",
+    "options": {
+      "option_a": "Adrenoleukodystrophy.",
+      "option_b": "Hereditary spastic paraplegia.",
+      "option_c": "Krabbe disease",
+      "option_d": "Tangier disease",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What is the mechanism of stroke in dissection?",
+    "options": {
+      "option_a": "",
+      "option_b": ") is assumed to represent the mechanism of stroke via thrombus formation and subsequent embolization from the dissection site. This is the accepted pathophysiological mechanism in most cases of cervical artery dissection. Other potential answers may have described hemodynamic compromise or direct occlusion, but evidence favors an embolic mechanism as the predominant cause of ischemic stroke in dissection.",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2018",
+    "exam_type": "Part I"
+  }
+]

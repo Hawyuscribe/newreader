@@ -1,0 +1,378 @@
+[
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "patient with progressive myoclonus and dementia is suspected to have which condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "63-year-old male has a 4-year history of Parkinson's Disease with visual hallucinations. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q228",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's patient came with increased hallucinations and memory loss; what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "In a case scenario of a Parkinson's disease patient presenting with hallucinations and memory problems, what is the recommended treatment?",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "Quetiapine",
+      "C": "Clozapine",
+      "D": "Donepezil"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q109",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease presents with hallucinations and memory problems. What medication should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q139",
+    "question_text": "Which of the following is a common side effect of cholinesterase inhibitors in individuals with parkinsonism?",
+    "options": {
+      "A": "Nausea",
+      "B": "Worsening tremor",
+      "C": "Insomnia",
+      "D": "Weight gain"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q215",
+    "question_text": "An 80-year-old patient presents with concerns about his memory function, as he is forgetting names of people and where he is putting his belongings; he is totally independent. What is the diagnosis?",
+    "options": {
+      "A": "Alzheimer disease",
+      "B": "Normal aging",
+      "C": "Mild cognitive impairment",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "An 80-year-old patient presents with concerns about his memory function, as he is forgetting names and where he is putting his belongings. He is totally independent. What is the likely diagnosis?",
+    "options": {
+      "A": "Alzheimer disease",
+      "B": "Mild cognitive impairment (MCI)",
+      "C": "Normal aging",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q207",
+    "question_text": "",
+    "options": {
+      "A": "patient with dementia presents with insomnia and agitation. What medication would you prescribe?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "What is the second most common type of neurodegenerative dementia?",
+    "options": {
+      "A": "Alzheimer's Disease (AD)",
+      "B": "Lewy Body Dementia (LBD)",
+      "C": "Frontotemporal Dementia (FTD)",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "",
+    "options": {
+      "A": "patient with frontotemporal dementia (FTD) shows frontal and temporal atrophy on MRI. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "An elderly patient presented to the neurology clinic with complaints of progressive memory problems. The physician prescribed medication for him. After 2 weeks, he presented with nausea, anorexia, and diarrhea. Which of the following is the most likely prescribed medication?",
+    "options": {
+      "A": "Memantine",
+      "B": "Rivastigmine",
+      "C": "Donepezil",
+      "D": "Galantamine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "What is the mechanism of action of Donepezil?",
+    "options": {
+      "A": "Acetylcholine esterase inhibitor",
+      "B": "Acetylcholine esterase agonist",
+      "C": "NMDA antagonist",
+      "D": "Dopamine receptor antagonist"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "young patient with a history of memory loss has a family history of similar issues. Which gene is most likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q225",
+    "question_text": "What is the most likely diagnosis for a patient with a PET scan showing low FOG uptake in the parietal cortex and temporal and frontal regions in advanced stages?",
+    "options": {
+      "A": "Frontotemporal Dementia (FTD)",
+      "B": "Alzheimer's Disease (AD)",
+      "C": "Dementia with Lewy Bodies (DLB)",
+      "D": "Parkinson's Disease (PD)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "FTLD\u2013tau type pathology",
+      "B": "Alzheimer\u2019s disease pathology",
+      "C": "FTLD\u2013TDP\u201343 type C pathology",
+      "D": "Vascular dementia pathology"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "Which gene is related to early onset Alzheimer's disease (AD)?",
+    "options": {
+      "A": "APOE",
+      "B": "APP",
+      "C": "Presenilin 1",
+      "D": "Presenilin 2"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "What is the drug that showed evidence to treat visual hallucinations in dementia with Lewy bodies (DLB)?",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "Quetiapine",
+      "C": "Donepezil",
+      "D": "Clonazepam"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "In a scenario about DLB, if a patient developed hallucinations and psychiatric symptoms, which treatment is indicated?",
+    "options": {
+      "A": "Quetiapine",
+      "B": "Rivastigmine",
+      "C": "Clozapine",
+      "D": "Donepezil"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "APP",
+      "B": "APOE4",
+      "C": "Presenilin 1",
+      "D": "Presenilin 2"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "",
+    "options": {
+      "A": "Euphoria",
+      "B": "Psychosis",
+      "C": "Hyperactivity",
+      "D": "Mania"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with young-onset familial Alzheimer's disease and a family history of the condition. What is the gene associated with this type of Alzheimer's?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "Which of the following conditions is characterized by 3-repeat tau and ubiquitin?",
+    "options": {
+      "A": "FTD-pick",
+      "B": "FTD-parkinsonism",
+      "C": "bvFTD",
+      "D": "FTD-ALS"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "Which of the following genes is commonly linked to Alzheimer's disease?",
+    "options": {
+      "A": "APOE4",
+      "B": "APP",
+      "C": "PSEN1",
+      "D": "MAPT"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "Which of the following genes is associated with familial Alzheimer\u2019s disease?",
+    "options": {
+      "A": "APP",
+      "B": "PSEN1",
+      "C": "PSEN2",
+      "D": "Apolipoprotein E"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  }
+]

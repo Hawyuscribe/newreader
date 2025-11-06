@@ -1,0 +1,21 @@
+{
+  "fixed": [
+    {
+      "mcq_id": 100023258,
+      "question": "A patient presents with a history of vertigo and nausea. Diffusion-weighted imaging (DWI) showed abnormalities. Which of the following findings might be observed?",
+      "old_answer": "B",
+      "new_answer": "C",
+      "rationale": "Explanation states that in a left-sided PICA infarct, the uvula would move to the right. The \"Incorrect Options Analysis\" section explicitly lists option B as incorrect and states \"in a PICA infarct with left-sided DWI changes, the uvula would move to the right\"."
+    },
+    {
+      "mcq_id": 100023275,
+      "question": "Which of the following structures is most likely to be abnormal on VRE in a patient with oscillopsia?",
+      "old_answer": "D",
+      "new_answer": "A",
+      "rationale": "Explanation states that inferior cerebellar peduncle lesions lead to reduced VOR gain, consistent with oscillopsia. The \"Incorrect Options Analysis\" section explicitly lists options B, C, and D as incorrect, while option A is described in the \"Evidence-Based Analysis\" as causing \"reduced horizontal VOR gain\" and \"oscillopsia\"."
+    }
+  ],
+  "not_found": [],
+  "already_correct": [],
+  "timestamp": "2025-05-08T20:50:46.516348"
+}

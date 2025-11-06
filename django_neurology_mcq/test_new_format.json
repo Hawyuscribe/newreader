@@ -1,0 +1,77 @@
+{
+  "mcqs": [
+    {
+      "question_number": "Q1",
+      "question_text": "A 25-year-old woman presents with optic neuritis and has multiple white matter lesions on MRI. What is the most likely diagnosis?",
+      "options": [
+        {"letter": "A", "text": "Multiple Sclerosis"},
+        {"letter": "B", "text": "Neuromyelitis Optica"},
+        {"letter": "C", "text": "Acute Disseminated Encephalomyelitis"},
+        {"letter": "D", "text": "Vitamin B12 Deficiency"}
+      ],
+      "correct_answer": "A",
+      "verified_answer": "A",
+      "verification_confidence": "high",
+      "primary_category": "Demyelinating/Multiple Sclerosis",
+      "secondary_category": "Neuroimmunology",
+      "key_concept": "Clinical presentation and MRI findings of multiple sclerosis",
+      "difficulty_level": "Basic",
+      "subspecialty": "Neuroimmunology",
+      "explanation_sections": {
+        "conceptual_foundation": "Demyelinating disorders are characterized by damage to the myelin sheath of neurons. Multiple sclerosis (MS) is the prototypical demyelinating disorder of the central nervous system, characterized by inflammation, demyelination, and axonal degeneration.",
+        "pathophysiological_mechanisms": "MS is an immune-mediated disorder where T cells, B cells, and macrophages attack components of the myelin sheath and oligodendrocytes, leading to demyelination and subsequent neuronal dysfunction. This process creates the characteristic white matter lesions (plaques) seen on MRI.",
+        "clinical_correlation": "Optic neuritis is one of the most common initial presentations of MS, occurring in approximately 20% of patients. It typically presents as monocular vision loss with pain on eye movement. The presence of multiple white matter lesions on MRI strongly supports the diagnosis of MS, especially in a young woman, as MS is more common in females and typically presents between ages 20-40.",
+        "option_analysis": "Option A (Multiple Sclerosis): Correct. The combination of optic neuritis and multiple white matter lesions on MRI in a young woman is highly suggestive of MS.\n\nOption B (Neuromyelitis Optica): Incorrect. While NMO can cause optic neuritis, it typically causes longitudinally extensive transverse myelitis and has a predilection for the optic nerves and spinal cord rather than multiple white matter lesions throughout the brain.\n\nOption C (Acute Disseminated Encephalomyelitis): Incorrect. ADEM typically occurs following a viral illness or vaccination and presents with encephalopathy, which is not mentioned in this case.\n\nOption D (Vitamin B12 Deficiency): Incorrect. B12 deficiency can cause neurological symptoms, but typically presents with posterior column and pyramidal tract dysfunction, not optic neuritis or multiple white matter lesions."
+      }
+    },
+    {
+      "question_number": "Q2",
+      "question_text": "A 65-year-old man presents with a 2-hour history of right-sided weakness and aphasia. His NIH Stroke Scale score is 14. A CT scan shows no hemorrhage. What is the most appropriate next step in management?",
+      "options": [
+        {"letter": "A", "text": "Administer IV tPA"},
+        {"letter": "B", "text": "Perform mechanical thrombectomy"},
+        {"letter": "C", "text": "Start dual antiplatelet therapy"},
+        {"letter": "D", "text": "Obtain MRI with diffusion-weighted imaging"}
+      ],
+      "correct_answer": "A",
+      "verified_answer": "A",
+      "verification_confidence": "high",
+      "primary_category": "Cerebrovascular/Stroke",
+      "secondary_category": "Vascular Neurology",
+      "key_concept": "Acute management of ischemic stroke",
+      "difficulty_level": "Intermediate",
+      "subspecialty": "Vascular Neurology_Stroke",
+      "explanation_sections": {
+        "conceptual_foundation": "Acute ischemic stroke is a medical emergency characterized by the sudden onset of a neurological deficit due to cerebral ischemia. Timely reperfusion therapy is critical for improving outcomes.",
+        "pathophysiological_mechanisms": "In ischemic stroke, a blood vessel supplying the brain is occluded, leading to inadequate blood flow to a region of the brain. This results in an ischemic cascade of events that can lead to irreversible neuronal damage if blood flow is not restored promptly.",
+        "management_principles": "The management of acute ischemic stroke focuses on rapid reperfusion therapy. For patients presenting within the therapeutic window (traditionally up to 4.5 hours from symptom onset), intravenous tissue plasminogen activator (tPA) is the standard of care if there are no contraindications.",
+        "option_analysis": "Option A (Administer IV tPA): Correct. For a patient with an acute ischemic stroke presenting within the therapeutic window (2 hours in this case), IV tPA is the standard of care if there are no contraindications. The CT scan has ruled out hemorrhage, which is a major contraindication to thrombolysis.\n\nOption B (Perform mechanical thrombectomy): Incorrect. While mechanical thrombectomy is indicated for large vessel occlusions, it should be performed in conjunction with IV tPA when patients are eligible for both. Additionally, vessel imaging would be needed to confirm a large vessel occlusion before proceeding with thrombectomy.\n\nOption C (Start dual antiplatelet therapy): Incorrect. Dual antiplatelet therapy is not the first-line treatment for acute ischemic stroke within the therapeutic window for IV tPA. It may be considered for patients who are not eligible for IV tPA or mechanical thrombectomy.\n\nOption D (Obtain MRI with diffusion-weighted imaging): Incorrect. While MRI with DWI is more sensitive for detecting early ischemic changes, it should not delay the administration of IV tPA when the diagnosis of acute ischemic stroke is clear based on clinical presentation and a non-contrast CT has ruled out hemorrhage."
+      }
+    },
+    {
+      "question_number": "Q3",
+      "question_text": "A 45-year-old man with chronic migraine presents with new onset resting tremor, bradykinesia, and cogwheel rigidity affecting his right arm. He has been taking propranolol for migraine prophylaxis for 10 years. His tremor does not improve with propranolol. What is the most likely diagnosis?",
+      "options": [
+        {"letter": "A", "text": "Parkinson's disease"},
+        {"letter": "B", "text": "Essential tremor"},
+        {"letter": "C", "text": "Drug-induced parkinsonism"},
+        {"letter": "D", "text": "Psychogenic movement disorder"}
+      ],
+      "correct_answer": "A",
+      "verified_answer": "A",
+      "verification_confidence": "medium",
+      "primary_category": "Movement Disorders",
+      "secondary_category": "Parkinson's Disease and Parkinsonism",
+      "key_concept": "Differential diagnosis of tremor and parkinsonian features",
+      "difficulty_level": "Advanced",
+      "subspecialty": "Movement Disorders",
+      "explanation_sections": {
+        "conceptual_foundation": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the cardinal motor features of bradykinesia, resting tremor, rigidity, and postural instability. These features result from the loss of dopaminergic neurons in the substantia nigra pars compacta.",
+        "pathophysiological_mechanisms": "The pathophysiology of PD involves the accumulation of misfolded alpha-synuclein protein in neuronal inclusions called Lewy bodies. This leads to neuronal dysfunction and death, particularly in the substantia nigra pars compacta, resulting in dopamine deficiency in the striatum and disruption of the basal ganglia circuitry.",
+        "clinical_correlation": "The classic clinical presentation of PD includes asymmetric onset of motor symptoms, with resting tremor, bradykinesia, and rigidity being the most common initial manifestations. The resting tremor of PD typically occurs at a frequency of 4-6 Hz and is suppressed during voluntary movement. Cogwheel rigidity is another characteristic feature, representing an increased resistance to passive movement that has a ratchet-like quality.",
+        "differential_diagnosis": "When evaluating tremor and parkinsonian features, several conditions must be considered in the differential diagnosis:\n- Essential tremor: Typically an action or postural tremor that improves with alcohol and beta-blockers\n- Drug-induced parkinsonism: Caused by dopamine-blocking agents (antipsychotics, antiemetics)\n- Psychogenic movement disorders: Often have abrupt onset, distractibility, and variable amplitude\n- Other parkinsonian syndromes: MSA, PSP, CBD, DLB, vascular parkinsonism",
+        "option_analysis": "Option A (Parkinson's disease): Correct. The patient presents with the classic triad of PD: resting tremor, bradykinesia, and rigidity. The asymmetric onset (affecting only the right arm) is typical of PD. Propranolol is effective for essential tremor but does not improve the resting tremor of PD, which helps differentiate between these conditions.\n\nOption B (Essential tremor): Incorrect. Essential tremor is primarily a postural and action tremor, not a resting tremor. It typically affects both hands symmetrically and improves with alcohol and beta-blockers like propranolol. The presence of bradykinesia and rigidity makes essential tremor unlikely.\n\nOption C (Drug-induced parkinsonism): Incorrect. While drug-induced parkinsonism is an important consideration in the differential diagnosis, it is typically caused by dopamine-blocking agents like antipsychotics or antiemetics. Propranolol is not known to cause parkinsonism. Additionally, drug-induced parkinsonism usually presents with symmetric features, while this patient has asymmetric symptoms.\n\nOption D (Psychogenic movement disorder): Incorrect. Psychogenic movement disorders typically have features inconsistent with organic disorders, such as abrupt onset, distractibility, and variable amplitude. The presence of classic parkinsonian features (resting tremor, bradykinesia, and cogwheel rigidity) in this patient is more consistent with an organic cause like PD."
+      }
+    }
+  ]
+}

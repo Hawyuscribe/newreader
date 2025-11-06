@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q36",
+    "question_text": "What MRI finding is commonly associated with idiopathic intracranial hypertension (IIH)?",
+    "options": {
+      "A": "Enlarged ventricles",
+      "B": "Empty sella",
+      "C": "Cerebellar atrophy",
+      "D": "Hydrocephalus"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q216",
+    "question_text": "",
+    "options": {
+      "A": "5-day postpartum patient presents with right eye ptosis. On examination, the right pupil measures 3 mm in dim light while the left pupil measures 5 mm. What is the most likely cause of the anisocoria observed in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "patient has left eye hypertropia that improves with a head tilt to the left. Where is the lesion located? (Implies Bielschowsky head tilt test for CN IV palsy)"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "The side of the head tilt is ipsilateral to the affected trochlear nerve",
+      "B": "The side of the head tilt is contralateral to the affected trochlear nerve",
+      "C": "The Bielschowsky head tilt test localizes the lesion to the oculomotor nerve (CN III)",
+      "D": "The Bielschowsky head tilt test is used to diagnose abducens nerve (CN VI) palsy"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old man suffers bilateral vertebral artery dissections and multiple brainstem and cerebellar infarctions causing right hemiplegia, dysarthria, and dysphagia. Two years later, he returns complaining of oscillopsia at rest. What is the likely examination finding? (Likely pendular nystagmus)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "In a case of right eye complete vision loss with superior temporal defects in the contralateral eye, what is the localization?",
+    "options": {
+      "A": "Anterior chiasm",
+      "B": "Optic tract",
+      "C": "Lateral geniculate body",
+      "D": "Optic radiation"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "patient after minor trauma was reading a newspaper and presented with diplopia, worse when the patient looks down and to the left. The outer image came from the right eye. What is the muscle affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "In a scenario about right internuclear ophthalmoplegia (INO), where is the lesion located?",
+    "options": {
+      "A": "Right MLF",
+      "B": "Left MLF",
+      "C": "Right optic nerve",
+      "D": "Left optic nerve"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "patient with right relative afferent pupillary defect (RAPD) and right homonymous hemianopia is evaluated. Where is the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with nystagmus at primary gaze, low amplitude, and fast beat to the right. What is the likely localization? (Description potentially ambiguous, but asks for localization based on nystagmus features)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "22-year-old male presents with symptoms suggestive of right fourth cranial nerve palsy. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q413",
+    "question_text": "What is the most common cause of fourth cranial nerve (CN) palsy?",
+    "options": {
+      "A": "Congenital",
+      "B": "Trauma",
+      "C": "Microvascular",
+      "D": "Neoplasm"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "Susac syndrome is associated with a clinical triad of which of the following?",
+    "options": {
+      "A": "Visual loss caused by branch retinal artery occlusions",
+      "B": "Sensorineural hearing loss",
+      "C": "Subacute encephalopathy",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "Which visual field defect is characterized by loss of vision in the lower quadrant of the visual field?",
+    "options": {
+      "A": "Contralateral superior quadrantopia",
+      "B": "Contralateral inferior quadrantopia",
+      "C": "Bitemporal hemianopia",
+      "D": "Central scotoma"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "The amplitude of the oscillation is larger in the right eye. Which of the following structures is most likely to be abnormal on MRI? (Context likely pendular nystagmus post-stroke from Q3/Q21)",
+    "options": {
+      "A": "Left inferior cerebellar peduncle",
+      "B": "Left inferior olive",
+      "C": "Optic chiasm",
+      "D": "Right brachium conjunctivum"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "",
+    "options": {
+      "A": "patient with a headache for 2 months, worsening with standing, has occasional blurring of vision upon leaning forward. On examination, she has bilateral papilledema. The CT scan is unremarkable. How to reach the diagnosis? (Suggests IIH or potentially SIH)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient with one eye ptosis and normal pupils is presented. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "Most common cause of isolated 4th nerve palsy is:",
+    "options": {
+      "A": "Trauma",
+      "B": "AVM",
+      "C": "Aneurysm",
+      "D": "Cavernous sinus thrombosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "45-year-old man suffers bilateral vertebral artery dissection leading to brain stem and cerebellar infarctions, causing right hemiplegia and dysphagia. Two years later, he returns complaining of oscillopsia. Examination reveals a 1-Hz pendular oscillation with conjugate vertical and torsional components. The right eye extorts as it falls while the left eye extorts as it rises. The amplitude of the oscillation is larger in the right eye. Which structure is most likely to be abnormal?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "Lesion in the medial longitudinal fasciculus (MLF)",
+      "B": "Lesion in the paramedian pontine reticular formation (PPRF)",
+      "C": "Lesion in the dorsal medulla affecting the inferior olivary nucleus",
+      "D": "Lesion in the oculomotor nerve nucleus"
+    },
+    "correct_answer": "C",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "What would suggest central nystagmus rather than peripheral nystagmus?",
+    "options": {
+      "A": "Direction-changing nystagmus on lateral gaze",
+      "B": "Nystagmus suppressed by visual fixation",
+      "C": "Nystagmus with a torsional component only",
+      "D": "Presence of vertigo and hearing loss"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q510",
+    "question_text": "",
+    "options": {
+      "A": "case scenario describes a patient with a history of blurry vision and headache. She has acne and is taking vitamin A. Examination shows papilledema, BMI 35, and a normal MRI report. Which of the following is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "Immediate lumbar puncture with CSF drainage and acetazolamide therapy",
+      "B": "High-dose intravenous corticosteroids",
+      "C": "Surgical decompression of the optic nerve sheath",
+      "D": "Observation and repeat neuroimaging in 6 months"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "clinical feature suggestive of right medial longitudinal fasciculus (MLF) involvement includes impaired right eye adduction with left eye nystagmus on abduction. Where is the lesion located?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "In a case of acute painless vision loss (Non-AION), what is the appropriate treatment?",
+    "options": {
+      "A": "No treatment available",
+      "B": "IV steroid",
+      "C": "Oral steroid",
+      "D": "Antiplatelet therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  }
+]

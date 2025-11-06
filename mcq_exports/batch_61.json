@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "young patient has tics and seizures, and MRI shows diffuse high signal intensity. How can the diagnosis be made?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "In a typical scenario of MELAS, how can the diagnosis be made?",
+    "options": {
+      "A": "Lactate-pyruvate profile",
+      "B": "MRI of the brain",
+      "C": "Muscle biopsy",
+      "D": "Genetic testing"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old female presented with oculomotor apraxia and ataxia; she had normal immunoglobulin levels and high AFP. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with ataxia and has a family history of X-linked recessive disorders. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old patient presents with ataxia, spasticity, sensorimotor neuropathy, hypometric saccades, and brain MRI shows mild cerebellar atrophy. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "",
+    "options": {
+      "A": "child with insomnia and low gonadotropin levels underwent an MRI that showed agenesis of the olfactory bulb. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "",
+    "options": {
+      "A": "patient came with ataxia, optic atrophy, hearing loss, and slow saccades; what is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old patient presents with a 10-year history of lower limb proximal weakness and difficulty standing from a sitting position. He has siblings with the same problem, and his parents are related. EMG findings are not available, and CK levels are 2800. What is the chance that the patient will pass the disease to his offspring?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "Facial angiofibroma",
+      "B": "Renal angiomyolipoma",
+      "C": "Retinal achromic patch",
+      "D": "Cardiac rhabdomyoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "< 10 years",
+      "B": "< 20 years",
+      "C": "< 30 years",
+      "D": "< 40 years"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "",
+    "options": {
+      "A": "Send his employer an email",
+      "B": "Hide the genetic test results",
+      "C": "Record him as having other diagnoses",
+      "D": "Respect his wishes and record that on file"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q166",
+    "question_text": "",
+    "options": {
+      "A": "More than 48 repeats.",
+      "B": "36 to 39 repeats",
+      "C": "26 to 35 repeats",
+      "D": "Less than 26 repeats"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "Adrenoleukodystrophy",
+      "B": "Hereditary spastic paraparesis",
+      "C": "Multiple sclerosis",
+      "D": "Metachromatic leukodystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "case of spastic paraplegia with a family history of multiple sclerosis in the brother shows periventricular white matter lesions on MRI. What is the gene associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q10",
+    "question_text": "",
+    "options": {
+      "A": "case of ataxia with one sister and brother affected but none of the parents involved (autosomal recessive) presents with ataxia and decreased reflexes. The patient closes his eyes and shakes his head to change his gaze, with a normal musculoskeletal exam. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "14-year-old boy presents with lancinating pain in his feet. His sister has similar symptoms. There is a significant family history of strokes in his maternal grandfather before age 50. On examination, he has pain sensation scaling. His lower extremities show normal skin lesions. What is the best test to diagnose?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q165",
+    "question_text": "",
+    "options": {
+      "A": "Globotriaosylceramide (no alpha-galactosidase in the answers)",
+      "B": "Beta-glucocerebrosidase",
+      "C": "Sphingomyelinase",
+      "D": "Hexosaminidase A"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "Adrenoleukodystrophy",
+      "B": "Hereditary spastic paraplegia",
+      "C": "Krabbe disease",
+      "D": "Tangier disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "",
+    "options": {
+      "A": "young male with diabetes mellitus presents with gait and limb ataxia, lower limb weakness, and hearing loss. Examination shows lower limb weakness and areflexia. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hypomelanotic lesions. Which condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q134",
+    "question_text": "",
+    "options": {
+      "A": "AOA1",
+      "B": "SOD1",
+      "C": "MAPT",
+      "D": "C9orf72"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "",
+    "options": {
+      "A": "Photosensitivity, freckling, and increased risk of skin cancers",
+      "B": "Muscle weakness and ataxia",
+      "C": "Progressive memory loss and dementia",
+      "D": "Seizures and hemiparesis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "",
+    "options": {
+      "A": "case of ADHD is presented alongside a hyperpigmented brownish skin lesion with axillary freckling. Which condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "Case of X-linked inheritance (all the men in the family have similar symptoms); what is the answer?",
+    "options": {
+      "A": "Adrenoleukodystrophy",
+      "B": "Duchenne Muscular Dystrophy",
+      "C": "Hemophilia A",
+      "D": "Fragile X Syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "",
+    "options": {
+      "A": "Fragile X syndrome",
+      "B": "Down syndrome",
+      "C": "Rett syndrome",
+      "D": "Angelman syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neurogenetics",
+    "explanation": ""
+  }
+]

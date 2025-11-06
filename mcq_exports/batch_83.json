@@ -1,0 +1,357 @@
+[
+  {
+    "question_number": "Q471",
+    "question_text": "",
+    "options": {
+      "A": "patient wakes up from sleep with right upper limb pain followed by weakness and multiple nerve involvement. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "patient with Sj\u00f6gren's disease presents with neurological symptoms. Which of the following is a possible presentation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old female has proximal muscle weakness and progressive dysphagia. On examination, she has a weak cough and edematous eyes. What is the treatment? (This case is suggestive of dermatomyositis.)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "Which factor is known to trigger an attack in Paramyotonia Congenita?",
+    "options": {
+      "A": "Rest",
+      "B": "Exercise",
+      "C": "Cold exposure",
+      "D": "Glucose intake"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "52-year-old female with dyslipidemia on statin had pneumonia and was admitted to the hospital. After starting on erythromycin, she developed weakness. What is the factor that increases the risk of toxic myopathy?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q518",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with right Bell's palsy. You performed the blink reflex test, and the EMG showed axonal injury. Which muscle is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q539",
+    "question_text": "",
+    "options": {
+      "A": "young patient came with weakness and is unable to extend his elbow and has toe walking; ECG showed RBBB. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q454",
+    "question_text": "",
+    "options": {
+      "A": "clear scenario about MMN presents with severe weakness and no atrophy, asking about the diagnosis, but there are no NCS findings. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q534",
+    "question_text": "",
+    "options": {
+      "A": "patient came with channelopathy. What is the best workup?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q187",
+    "question_text": "Scenario of recurrent painless multifocal mononeuropathies at common compression sites. PMP-22 deletion was detected. What is the expected biopsy finding?",
+    "options": {
+      "A": "Onion bulb formation",
+      "B": "Axonal degeneration",
+      "C": "Demyelination (Tomacula / sausage-like thickenings)",
+      "D": "Normal findings"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q199",
+    "question_text": "What is the most common myopathy in elderly individuals above 50 years of age?",
+    "options": {
+      "A": "Inclusion body myositis",
+      "B": "Polymyositis",
+      "C": "Dermatomyositis",
+      "D": "Muscular dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q483",
+    "question_text": "",
+    "options": {
+      "A": "typical scenario of a patient presents with decreased sensation and bilateral weakness in the lower limbs with areflexia. The patient had a history of diarrhea 10 days prior. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q526",
+    "question_text": "What is the first-line treatment for Acute Inflammatory Demyelinating Polyneuropathy (AIDP)?",
+    "options": {
+      "A": "Plasmapheresis",
+      "B": "IV Immunoglobulin (IVIG)",
+      "C": "Corticosteroids",
+      "D": "Anticonvulsants"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q201",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with subacute flaccid quadriplegia following diarrheal illnesses, with sparing of the face and sensation. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "",
+    "options": {
+      "A": "typical case of Hirayama disease presents with right upper limb weakness, preserved brachioradialis, and minimal weakness in the left upper limb. What is the associated finding in this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "What is the most common myopathy disease in patients above 50 years of age?",
+    "options": {
+      "A": "Inclusion Body Myositis (IBM)",
+      "B": "Polymyositis",
+      "C": "Dermatomyositis",
+      "D": "Muscular dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "Which of the following muscles is innervated by the ulnar nerve?",
+    "options": {
+      "A": "Adductor pollicis",
+      "B": "Flexor carpi ulnaris",
+      "C": "Flexor digitorum profundus (digits 4, 5)",
+      "D": "Lumbricals (III, IV)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q443",
+    "question_text": "",
+    "options": {
+      "A": "lady with a history of treated breast cancer presents with one week of numbness in the 4th and 5th digits, and weakness in her hand and forearm. A chest and neck CT is normal. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "young man came to the ER who went to sleep at 10 PM and woke up at midnight with weakness in his whole body, which resolved after a few hours. His history is recurrent with sparing of cranial nerves and respiratory muscles. What is the most useful test to be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "Which of the following is a function of the femoral nerve?",
+    "options": {
+      "A": "Hip flexion (via Iliopsoas, partly femoral)",
+      "B": "Knee extension (via Quadriceps)",
+      "C": "Medial area of thigh decreased sensation (Saphenous nerve, branch of femoral)",
+      "D": "Ankle dorsiflexion (via Tibialis anterior)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q562",
+    "question_text": "",
+    "options": {
+      "A": "young man played football for one day, developed generalized weakness mainly in the proximal limbs, and the next day his urine changed color to dark brown and he had muscle pain. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q244",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with weakness that is induced by cold exposure. Which channel is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q231",
+    "question_text": "In a case of dysautonomia with carpal tunnel syndrome (CTS), what is the most appropriate diagnostic test?",
+    "options": {
+      "A": "Protein electrophoresis",
+      "B": "Abdominal fat aspiration",
+      "C": "EMG/NCS",
+      "D": "Immunofixation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q504",
+    "question_text": "In a case of a patient with colchicine toxicity-induced myopathy, who presents with high CK levels and EMG findings of prominent fibrillations, positive sharp waves, and excessively polyphasic motor action potentials in the proximal muscles that are brief and small in amplitude, what is the cause?",
+    "options": {
+      "A": "Colchicine",
+      "B": "Statins",
+      "C": "Alcohol",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "In congenital Myotonic dystrophy type 1 (DM1), which of the following symptoms is typically absent on EMG?",
+    "options": {
+      "A": "Hypotonia",
+      "B": "Myotonia",
+      "C": "Delayed motor skills",
+      "D": "Failure to thrive"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "question_number": "Q167",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old female presented with oculomotor apraxia and ataxia; she had normal immunoglobulin and high AFP. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of diabetes mellitus presents with axial and appendicular ataxia and has a conduction block. What is the likely gene mutation associated with Friedreich's ataxia?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "The most common familial gene mutation associated with Parkinson's disease is:",
+    "options": {
+      "A": "LRRK2",
+      "B": "Parkin",
+      "C": "SNCA",
+      "D": "PINK1"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q277",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old female presents with complaints of imbalance and tremor. MRI shows bilateral hyperintense cerebellar peduncles. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q110",
+    "question_text": "In a scenario of a girl with dystonia and no Parkinsonism features, which genetic mutation is most likely associated?",
+    "options": {
+      "A": "DYT 1",
+      "B": "DYT 5 (GCH1)",
+      "C": "DYT 6 (THAP1)",
+      "D": "DYT 11 (SGCE)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "In a scenario about a patient with Wilson's disease who has chorea, dystonia, and an ophthalmological exam showing a Kayser\u2013Fleischer ring, what is the next step in confirmation of the diagnosis?",
+    "options": {
+      "A": "Liver biopsy",
+      "B": "Serum ceruloplasmin",
+      "C": "MRI brain",
+      "D": "24-hour urinary copper excretion"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q221",
+    "question_text": "Which genetic mutation is associated with dystonia accompanied by myoclonus?",
+    "options": {
+      "A": "SCG1",
+      "B": "SGCE (DYT11)",
+      "C": "TOR1A (DYT1)",
+      "D": "THAP1 (DYT6)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old female presents with recent intention tremor and memory problems, with MRI findings of cerebellar peduncle changes. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q285",
+    "question_text": "What is the most common familial gene associated with Parkinson's disease?",
+    "options": {
+      "A": "LRRK2",
+      "B": "PARK",
+      "C": "PINK1",
+      "D": "SNCA"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q198",
+    "question_text": "Dystonia with myoclonus is most commonly associated with which genetic mutation?",
+    "options": {
+      "A": "SGCE (DYT11)",
+      "B": "TOR1A (DYT1)",
+      "C": "THAP1 (DYT6)",
+      "D": "GCH1 (DYT5)"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of abnormal movements and falls, which interfere with his daily routine, is experiencing behavioral and mood changes. What trinucleotide repeat expansion would you expect to find?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q252",
+    "question_text": "In a case of Wilson's disease with Kayser-Fleischer ring and pyramidal signs, which test confirms the diagnosis?",
+    "options": {
+      "A": "MRI brain",
+      "B": "Biopsy",
+      "C": "CT",
+      "D": "Serum copper and ceruloplasmin"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "What is the recommended treatment for Wilson's disease during pregnancy?",
+    "options": {
+      "A": "D-Penicillamine",
+      "B": "Trientine",
+      "C": "Zinc",
+      "D": "Liver transplantation"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q247",
+    "question_text": "",
+    "options": {
+      "A": "young female has Kayser-Fleischer rings on slit lamp exam and presents with parkinsonism and dystonia. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q291",
+    "question_text": "",
+    "options": {
+      "A": "78-year-old female presents with ataxia for one year and mild cognitive impairment. MRI showed cerebellar peduncle hyperintensities. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q4",
+    "question_text": "In the case of Sydenham's chorea, what is the recommended action?",
+    "options": {
+      "A": "ASO titer",
+      "B": "Start dopamine antagonists",
+      "C": "Immediate corticosteroid therapy",
+      "D": "Brain MRI"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "9-year-old boy has a history of 14 months of vocal and motor tics, along with a history of OCD. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "Sydenham chorea",
+    "options": {
+      "A": "Is a movement disorder associated with rheumatic fever",
+      "B": "Is primarily caused by Huntington's disease",
+      "C": "Is characterized by rigidity and bradykinesia",
+      "D": "Is an autoimmune disorder affecting the peripheral nerves"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "12-year-old male patient had a runny nose two weeks ago. He presents with abnormal movements, and a video is attached for reference. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "An 11-year-old boy comes to the office with his parents because of a 14-month history of motor and vocal tics... Which of the following is the most appropriate description of this patient\u2019s symptoms?",
+    "options": {
+      "A": "Chronic tic disorder",
+      "B": "Stereotypes",
+      "C": "Tourette syndrome",
+      "D": "Transient tic disorder"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q173",
+    "question_text": "",
+    "options": {
+      "A": "9-year-old boy, previously healthy, develops abnormal movements of the upper and lower limbs with gait instability. The family reports a 6-week history of runny nose. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q102",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have psychiatric symptoms on antipsychotic medication for a long time presented with abnormal movements of the face and tongue. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q199",
+    "question_text": "",
+    "options": {
+      "A": "patient was in a psychiatric hospital and developed abnormal movements. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with blunted affect and rigidity after carbon monoxide exposure. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "In the management of Tic disorders and ADHD, which medication is commonly prescribed?",
+    "options": {
+      "A": "Atomoxetine",
+      "B": "Methylphenidate"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

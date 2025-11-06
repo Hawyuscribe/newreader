@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q507",
+    "question_text": "",
+    "options": {
+      "A": "female with abnormal movements in the form of arching back had an EEG that was normal during the event. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q131",
+    "question_text": "Who is more likely to benefit from dopamine agonists compared to levodopa?",
+    "options": {
+      "A": "Patients with juvenile Parkinsonism",
+      "B": "Elderly patients with Parkinson's disease",
+      "C": "Patients with advanced Parkinson's disease",
+      "D": "Patients with essential tremor"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q201",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with typical orthostatic tremor. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "An elderly patient presented with peak dose dyskinesia that is bothering him and affecting his daily living activities. He is a known case of Parkinson's disease and is maintained on levodopa/carbidopa four times a day. He is doing well otherwise but has a recurrence of the Parkinsonian features just 30 minutes before the next dose. Which of the following is the appropriate management?",
+    "options": {
+      "A": "Add Selegiline",
+      "B": "Add Amantadine",
+      "C": "Switch to levodopa/carbidopa/entacapone",
+      "D": "Increase the frequency of levodopa/carbidopa dosing"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hand stiffness, usually during writing. Her father had the same symptoms. What is the diagnosis? (case of DYT 11)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "72-year-old woman is brought to the clinic by her family due to trouble walking. She reports feeling unsteady when she stands to walk and is scared of falling, but she can walk normally afterward. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "In a clear scenario of essential palatal myoclonus, what is the recommended investigation?",
+    "options": {
+      "A": "MRI of the brain",
+      "B": "EEG",
+      "C": "Electromyography (EMG) of the palatal muscles",
+      "D": "Blood tests for metabolic causes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q185",
+    "question_text": "In a case of spontaneous generalized chorea, which of the following options describes the phenomenology of the condition?",
+    "options": {
+      "A": "Tics",
+      "B": "Task-specific dystonia",
+      "C": "Chorea",
+      "D": "Myoclonus"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q248",
+    "question_text": "",
+    "options": {
+      "A": "case of essential tremor in a young law student with bronchial asthma is presented. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q229",
+    "question_text": "In a scenario of hemifacial spasm, what is the recommended treatment?",
+    "options": {
+      "A": "Botox",
+      "B": "Oral corticosteroids",
+      "C": "Antiepileptic drugs",
+      "D": "Surgical decompression"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "patient with no significant medical history experiences episodes of jerky movements of the right upper limb followed by dystonia with posturing, which occur suddenly when she turns while running. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "",
+    "options": {
+      "A": "patient on metoclopramide developed dystonia, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "question describes symptomatic palatal myoclonus and asks what to do (not improved with sleep). What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q223",
+    "question_text": "Inclusion with alpha synucleinopathy contains:",
+    "options": {
+      "A": "Ubiquitin",
+      "B": "Lewy body",
+      "C": "Amyloid",
+      "D": "Neurofibrillary tangles"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q125",
+    "question_text": "",
+    "options": {
+      "A": "case of essential tremor is noted with a frequency of 6 Hz that improves with alcohol and has a family history. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "",
+    "options": {
+      "A": "case scenario describes a patient with hemineglect, myoclonic jerks, and abnormal movement of one limb. MRI shows parietal atrophy. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "What is the best way to confirm the diagnosis of synucleinopathy?",
+    "options": {
+      "A": "Clinically",
+      "B": "Radiologically",
+      "C": "Neuropathologically",
+      "D": "Biochemically"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "In a patient with Tourette's syndrome and ADHD, which medication is appropriate for treatment (Clonidine was not one of the options)?",
+    "options": {
+      "A": "Methylphenidate",
+      "B": "Atomoxetine",
+      "C": "Haloperidol",
+      "D": "Fluoxetine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q398",
+    "question_text": "In a patient with corticobasal degeneration (CBD), what would a PET scan most likely reveal?",
+    "options": {
+      "A": "Asymmetrical hypometabolism in the temporal-parietal region",
+      "B": "Hypometabolism in the precentral and postcentral association cortex with asymmetry within the same hemisphere",
+      "C": "Frontoportal hypometabolism",
+      "D": "Normal metabolic activity"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q459",
+    "question_text": "What imaging finding is associated with corticobasal degeneration (CBD)?",
+    "options": {
+      "A": "Temporal and parietal association involvement",
+      "B": "Symmetric frontal lobe atrophy",
+      "C": "Hippocampal sclerosis",
+      "D": "Diffuse white matter hyperintensities"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q412",
+    "question_text": "In a scenario suggestive of Wilson's disease with Parkinsonism and dystonia, what is the recommended treatment?",
+    "options": {
+      "A": "Penicillamine",
+      "B": "Zinc supplementation",
+      "C": "Trientine",
+      "D": "No treatment"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q515",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with mild parkinsonism over a few months, a history of urinary incontinence for several years, and mild cognitive impairment. Imaging reveals mild cerebral atrophy with moderate ventriculomegaly. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's patient came with increased hallucinations and memory loss; what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "",
+    "options": {
+      "A": "67-year-old patient known to have Parkinson's disease presents with sleep disorders. Which sleep disorder is most likely to improve with dopamine agonist treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q490",
+    "question_text": "Which of the following disorders is associated with Parkinson's disease treated with dopamine agonists?",
+    "options": {
+      "A": "Restless Legs Syndrome (RLS)",
+      "B": "Parasomnia",
+      "C": "Neuropathy",
+      "D": "REM sleep behavior disorder"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

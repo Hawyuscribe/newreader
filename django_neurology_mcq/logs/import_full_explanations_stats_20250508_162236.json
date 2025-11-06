@@ -1,0 +1,16 @@
+{
+  "headache": {
+    "placeholders_found": 171,
+    "mcqs_matched": 62,
+    "mcqs_updated": 62
+  },
+  "sleep_neurology": {
+    "placeholders_found": 33,
+    "mcqs_matched": 14,
+    "mcqs_updated": 14
+  },
+  "timestamp": "20250508_162236",
+  "total_placeholders": 204,
+  "total_matched": 76,
+  "total_updated": 76
+}

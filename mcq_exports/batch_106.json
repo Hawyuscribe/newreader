@@ -1,0 +1,399 @@
+[
+  {
+    "question_number": "Q496",
+    "question_text": "Topiramate",
+    "options": {
+      "A": "Is primarily used to treat Parkinson\u2019s disease",
+      "B": "Is an antiepileptic drug also effective for migraine prophylaxis",
+      "C": "Is contraindicated in patients with epilepsy",
+      "D": "Is a dopamine agonist used in restless legs syndrome"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q394",
+    "question_text": "Medical therapy",
+    "options": {
+      "A": "Antiplatelet agents",
+      "B": "Beta-blockers",
+      "C": "Levodopa",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "The same patient is asking what treatment you will give. What will you choose?",
+    "options": {
+      "A": "Antiepileptic",
+      "B": "Antithrombotic",
+      "C": "Antihypertensive",
+      "D": "Statin"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q360",
+    "question_text": "Thiamine",
+    "options": {
+      "A": "Is a vitamin B1 deficiency that causes Wernicke's encephalopathy",
+      "B": "Is a vitamin B6 deficiency that causes peripheral neuropathy",
+      "C": "Is a vitamin B12 deficiency that causes subacute combined degeneration",
+      "D": "Is a vitamin C deficiency that causes scurvy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q360",
+    "question_text": "Thiamine",
+    "options": {
+      "A": "Is a vitamin B1 deficiency that causes Wernicke's encephalopathy",
+      "B": "Is a vitamin B6 deficiency that causes peripheral neuropathy",
+      "C": "Is a vitamin B12 deficiency that causes subacute combined degeneration",
+      "D": "Is a vitamin C deficiency that causes scurvy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q353",
+    "question_text": "What is the mechanism?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Coagulopathy",
+      "C": "Aneurysm",
+      "D": "Arteriovenous malformation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q270",
+    "question_text": "tPA",
+    "options": {
+      "A": "tPA is contraindicated in ischemic stroke beyond 4.5 hours of symptom onset",
+      "B": "tPA is used to treat hemorrhagic stroke",
+      "C": "tPA is a platelet aggregation inhibitor",
+      "D": "tPA is a thrombolytic agent used in acute ischemic stroke"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q503",
+    "question_text": "CK level",
+    "options": {
+      "A": "Is typically normal in multiple sclerosis",
+      "B": "Is elevated in muscular dystrophies",
+      "C": "Is decreased in amyotrophic lateral sclerosis",
+      "D": "Is elevated in Guillain-Barr\u00e9 syndrome"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q269",
+    "question_text": "MRI/MRV",
+    "options": {
+      "A": "MRI is the preferred imaging modality for detecting acute ischemic stroke",
+      "B": "MRV is primarily used to evaluate cerebral venous sinus thrombosis",
+      "C": "MRI cannot detect demyelinating lesions in multiple sclerosis",
+      "D": "MRV is routinely used to assess intracranial aneurysms"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q533",
+    "question_text": "The same patient is asking about the treatment options. What is the treatment?",
+    "options": {
+      "A": "IVIG",
+      "B": "PLEX",
+      "C": "Corticosteroids",
+      "D": "Plasma exchange"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q262",
+    "question_text": "Taking one medication",
+    "options": {
+      "A": "Is always safer than taking multiple medications",
+      "B": "Eliminates the risk of drug interactions",
+      "C": "May still cause side effects depending on the medication and patient factors",
+      "D": "Guarantees symptom resolution without adverse effects"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q433",
+    "question_text": "Which of the following is associated with apoptosis?",
+    "options": {
+      "A": "Pyknosis",
+      "B": "Swelling in mitochondria with change in shape",
+      "C": "Endonuclease inhibition",
+      "D": "Intact cell membrane"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q313",
+    "question_text": "3.",
+    "options": {
+      "A": "Parkinson's disease",
+      "B": "Multiple sclerosis",
+      "C": "Amyotrophic lateral sclerosis",
+      "D": "Guillain-Barr\u00e9 syndrome"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q203",
+    "question_text": "In the same scenario, what is the most important and useful way for investigation?",
+    "options": {
+      "A": "Brain MRI",
+      "B": "Lumbar puncture",
+      "C": "Evoked potentials",
+      "D": "Blood tests"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q485",
+    "question_text": "In the case of the patient mentioned above, what is the next step in management?",
+    "options": {
+      "A": "Start antibiotics that were not used for the abscess",
+      "B": "Consult neurosurgery",
+      "C": "Perform repeat imaging to assess abscess progression",
+      "D": "Initiate corticosteroid therapy to reduce cerebral edema"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q230",
+    "question_text": "",
+    "options": {
+      "A": "patient has hyperreflexia and a headache, and MRI shows diffuse lesions. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q478",
+    "question_text": "In a scenario with a different presentation, what is the most likely diagnosis?",
+    "options": {
+      "A": "PRES",
+      "B": "CVT",
+      "C": "HSV",
+      "D": "Lupus cerebritis"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q333",
+    "question_text": "In the same scenario, if the patient came to the emergency room, what is the treatment?",
+    "options": {
+      "A": "IV diazepam",
+      "B": "IV phenytoin",
+      "C": "IV valproate",
+      "D": "IV levetiracetam"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q225",
+    "question_text": "Same scenario as above. What should be done next?",
+    "options": {
+      "A": "MRI of plexus",
+      "B": "Nerve conduction studies",
+      "C": "Blood tests for inflammatory markers",
+      "D": "Electromyography"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q311",
+    "question_text": "What is the mechanism of the patient's condition?",
+    "options": {
+      "A": "Aneurysm rupture",
+      "B": "Atherosclerosis",
+      "C": "Premesencephalic hemorrhage",
+      "D": "Arteriovenous malformation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q356",
+    "question_text": "Endarterectomy",
+    "options": {
+      "A": "Is a surgical procedure to remove atherosclerotic plaque from the carotid artery",
+      "B": "Is a treatment for epilepsy",
+      "C": "Is a diagnostic test for multiple sclerosis",
+      "D": "Is a medication used in Parkinson\u2019s disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q434",
+    "question_text": "",
+    "options": {
+      "A": "CTA",
+      "B": "MRI brain",
+      "C": "Echocardiogram",
+      "D": "Carotid Doppler ultrasound"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q494",
+    "question_text": "",
+    "options": {
+      "A": "Mitochondrial myopathy",
+      "B": "Autoimmune disorder",
+      "C": "Demyelinating disease",
+      "D": "Neurodegenerative disorder"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "",
+    "options": {
+      "A": "Acute inflammatory demyelinating polyneuropathy (AIDP)",
+      "B": "Acute motor axonal neuropathy (AMAN)",
+      "C": "Chronic inflammatory demyelinating polyneuropathy (CIDP)",
+      "D": "Multifocal motor neuropathy (MMN)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q324",
+    "question_text": "",
+    "options": {
+      "A": "Cytomegalovirus (CMV) retinitis with encephalitis",
+      "B": "Bacterial endophthalmitis",
+      "C": "Acute angle-closure glaucoma",
+      "D": "Central retinal artery occlusion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Other/Unclassified",
+    "explanation": ""
+  }
+]

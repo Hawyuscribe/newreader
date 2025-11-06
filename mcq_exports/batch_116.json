@@ -1,0 +1,348 @@
+[
+  {
+    "question_number": "Q169",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a right small thalamic hemorrhage and normal blood pressure. What is the next appropriate step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient with a history of diabetes mellitus and cardiac risk factors on aspirin presents with right hemiplegia and has left MCA stenosis. What is your next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "In a case scenario of an acute ischemic stroke patient, what is a contraindication for administering tPA?",
+    "options": {
+      "A": "Blood pressure >200 mm Hg",
+      "B": "Rapid improvement",
+      "C": "Platelet count <150,000/mm\u00b3",
+      "D": "Recent major surgery within 14 days"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q274",
+    "question_text": "",
+    "options": {
+      "A": "patient with cardioembolic stroke, ECG showed atrial fibrillation, and echocardiogram indicated nonvalvular cardiac disease. What should be given?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q119",
+    "question_text": "",
+    "options": {
+      "A": "patient with an acute stroke has a brain MRI that shows a dorsal cerebellar infarction (superior cerebellar artery). What will you find on examination?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q207",
+    "question_text": "",
+    "options": {
+      "A": "patient was playing tennis and was brought to the emergency room after a car accident. Initially, he was fine and doing well. A CT brain scan and labs came back normal with a BP of 160/95. Two hours later, he developed left hemianopia. He has a history of migraine since age 15, with recurrent episodes every 6 months. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q224",
+    "question_text": "",
+    "options": {
+      "A": "patient with acute stroke is on warfarin and has a CT scan showing intracerebral hemorrhage (ICH) with an INR of 5. After receiving prothrombin complex concentrate, what additional treatment should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "",
+    "options": {
+      "A": "patient came with left side weakness; CT showed right semiovale hypodensity; what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q288",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient with an NIHSS score of 3. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q282",
+    "question_text": "The same patient is now asking what treatment you will give. What will you prescribe?",
+    "options": {
+      "A": "Antiepileptic",
+      "B": "Antithrombotic",
+      "C": "Immunosuppressive therapy",
+      "D": "Antihypertensive medication"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q219",
+    "question_text": "In a case about a young patient with malignant middle cerebral artery (MCA) stroke, what is the next step?",
+    "options": {
+      "A": "Hemicraniectomy",
+      "B": "Intravenous thrombolysis",
+      "C": "Mechanical thrombectomy",
+      "D": "Supportive care with anticoagulation"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q70",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with acute ischemic stroke underwent workup, and her vessel imaging showed atherosclerotic disease; however, there was no critical stenosis. An echocardiogram is normal except for an ejection fraction of 55%. An 8-hour Holter monitor did not show any arrhythmia. What is the most likely mechanism of her stroke?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "man who developed acute vertigo and dysphagia along with left side ataxia on examination had the following finding (picture of uvula deviated to left). What is the most common finding?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "patient on warfarin developed weakness. A CT brain scan shows intracranial bleeding with fluid level features. What is the cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "In a case of stroke with intracranial stenosis, what is the recommended management?",
+    "options": {
+      "A": "DAPT",
+      "B": "Aspirin",
+      "C": "Warfarin",
+      "D": "Thrombectomy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q173",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a picture showing a fluid level hemorrhage. What is the mechanism of this hemorrhage?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q228",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient who came with a left PICA territory infarction is presented. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "",
+    "options": {
+      "A": "lady in her 30s was presented to the ER with a history of headache and neck pain that started after her visit to the dentist. She has left-sided Horner syndrome and ataxia. MRI was done. Which of the following is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "What clinical features are seen in a patient with superior cerebellar artery infarction?",
+    "options": {
+      "A": "Nystagmus",
+      "B": "Wide-based gait",
+      "C": "Impaired finger-nose test",
+      "D": "Dysmetria"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "brain MRI shows unilateral watershed infarction. What should be ordered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a CT brain showing a unilateral occipital stroke. Which artery is most likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q204",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient presented within the treatment window with a normal brain CT and CTA. The NIHSS score is 16 and blood pressure is 200/140. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "What are the CSF findings in RCVS?",
+    "options": {
+      "A": "Slightly high protein",
+      "B": "Normal protein levels",
+      "C": "Elevated white blood cells",
+      "D": "Low glucose levels"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q140",
+    "question_text": "Foville Syndrome is characterized by lesions involving the dorsal pontine tegmentum in the caudal region. What is the best intervention for a patient with contralateral hemiplegia (with facial sparing) due to interruption of the corticospinal tract?",
+    "options": {
+      "A": "Surgical clipping",
+      "B": "Endovascular coiling",
+      "C": "Supportive care and rehabilitation",
+      "D": "Antiplatelet therapy"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q158",
+    "question_text": "",
+    "options": {
+      "A": "50-year-old patient presents with transient right-sided weakness. The diagnosis is TIA, with right ICA stenosis of 60% and left ICA stenosis of 65%. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

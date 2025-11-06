@@ -1,0 +1,69 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+
+{% block title %}Search: {{ query }} - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1>Search Results</h1>
+        <p class="text-muted">
+            {% if query %}
+                Found {{ result_count }} results containing all words in "{{ query }}"
+            {% else %}
+                Enter a search term above to find MCQs
+            {% endif %}
+        </p>
+    </div>
+    <div class="col-md-4 text-md-end">
+        <a href="{% url 'dashboard' %}" class="btn btn-outline-primary">
+            <i class="bi bi-arrow-left me-1"></i> Back to Dashboard
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card shadow">
+            <div class="card-header bg-light">
+                <form action="{% url 'search' %}" method="get">
+                    <div class="input-group mb-2">
+                        <input type="text" name="query" class="form-control" placeholder="Search questions by multiple words (e.g., HIV confusion)" value="{{ query }}">
+                        <button class="btn btn-primary" type="submit">
+                            <i class="bi bi-search me-1"></i> Search
+                        </button>
+                    </div>
+                    <small class="text-muted">Search will find MCQs containing all words, regardless of word order or position.</small>
+                </form>
+            </div>
+            <div class="card-body">
+                {% if results %}
+                    <div class="list-group">
+                        {% for mcq in results %}
+                            <a href="{% url 'view_mcq' mcq_id=mcq.id %}" class="list-group-item list-group-item-action">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <h5 class="mb-1">{{ mcq.question_number }}</h5>
+                                        <p class="mb-1 text-truncate">{{ mcq.question_text|truncatechars:120 }}</p>
+                                    </div>
+                                    <span class="badge bg-primary rounded-pill">{{ mcq.subspecialty }}</span>
+                                </div>
+                            </a>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {% if query %}
+                        <div class="alert alert-info">
+                            <i class="bi bi-info-circle me-2"></i> No MCQs found matching your search for "{{ query }}".
+                        </div>
+                    {% else %}
+                        <div class="alert alert-secondary">
+                            <i class="bi bi-search me-2"></i> Use the search box above to find MCQs.
+                        </div>
+                    {% endif %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

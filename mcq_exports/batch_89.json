@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "patient with myotonia presents. What condition is associated with it?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "In a patient with Amyotrophic Lateral Sclerosis (ALS), which of the following findings is typically observed in nerve conduction studies (NCS) or electromyography (EMG)?",
+    "options": {
+      "A": "Fasciculations",
+      "B": "Normal SNAPs",
+      "C": "Increased CMAP amplitude",
+      "D": "Decreased latency"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q298",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with back pain and L5 radiculopathy. Which muscle is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q224",
+    "question_text": "What is the first-line treatment for Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)?",
+    "options": {
+      "A": "Prednisolone",
+      "B": "IVIG",
+      "C": "Plasmapheresis",
+      "D": "Supportive care"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q303",
+    "question_text": "",
+    "options": {
+      "A": "20-year-old male has a history of limb weakness. Examination reveals significant weakness of the posterior thigh and scapular muscles with winging of the scapula, sparing the face. Muscle biopsy shows eosinophilia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q206",
+    "question_text": "In a patient diagnosed with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP), what is the characteristic clinical presentation?",
+    "options": {
+      "A": "Symmetrical sensorimotor polyneuropathy with proximal and distal motor involvement",
+      "B": "Asymmetrical weakness with sensory loss",
+      "C": "Rapidly progressive weakness over days",
+      "D": "Isolated sensory symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "",
+    "options": {
+      "A": "15-year-old male has myotonia and weakness that improves after exercise; his father has the same condition. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q552",
+    "question_text": "Which of the following cranial nerves is primarily responsible for controlling the muscles of facial expression?",
+    "options": {
+      "A": "Trigeminal nerve (Cranial Nerve V)",
+      "B": "Facial nerve (Cranial Nerve VII)",
+      "C": "Glossopharyngeal nerve (Cranial Nerve IX)",
+      "D": "Vagus nerve (Cranial Nerve X)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q523",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old patient came with lower limb paresthesia and heaviness that is getting worse, reaching to the upper limb, and intermittent abdominal pain, hyperhidrosis; he received a vaccine 2 weeks ago. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of findings suggestive of multifocal motor neuropathy (MMN) is presented. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q242",
+    "question_text": "What is the treatment of choice for acute attacks of hypokalemic periodic paralysis?",
+    "options": {
+      "A": "Spironolactone",
+      "B": "Acetazolamide",
+      "C": "Potassium",
+      "D": "Calcium gluconate"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "In a patient with a stab wound resulting in ulnar neuropathy, what would you expect to find in nerve conduction studies (NCS) after 5 days?",
+    "options": {
+      "A": "Decreased recruitment",
+      "B": "Fibrillations",
+      "C": "Insertional activity",
+      "D": "Complex repetitive discharges"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q219",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypokalemic periodic paralysis has a potassium level of 2.6. After you give potassium to the patient, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "Which of the following is the most common cause of acute ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion",
+      "D": "Arterial dissection"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q343",
+    "question_text": "In a scenario about botulism with an increment on high-frequency repetitive nerve stimulation (RNS), what is the pathology?",
+    "options": {
+      "A": "Prevent acetylcholine release from presynaptic vesicles",
+      "B": "Block postsynaptic acetylcholine receptors",
+      "C": "Cause demyelination of peripheral nerves",
+      "D": "Induce muscle fiber necrosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "decrement greater than 10% in CMAP during a Two-hertz to 5-Hz RNS study is indicative of what condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q493",
+    "question_text": "",
+    "options": {
+      "A": "57-year-old male presented with progressive proximal weakness, progressive external ophthalmoplegia, cardiomyopathy, and parkinsonism. No gastrointestinal symptoms were noted. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "Filipino male had sudden generalized weakness after vigorous exercise. What laboratory test should be ordered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q467",
+    "question_text": "",
+    "options": {
+      "A": "patient taking a multivitamin is experiencing sensory neuronopathy. Which vitamin is most likely involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q551",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with scapular winging and weakness. He has very high CK levels, and a muscle biopsy showed eosinophils. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q473",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with dysphagia, tongue fasciculation, and an exaggerated jaw reflex for 18 months, with other neurological examinations normal. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient with myopathy and malignant hyperthermia is presented. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q11",
+    "question_text": "An elderly patient with uncontrolled diabetes presents with foot drop, thigh pain, and weight loss. What is the most important management step?",
+    "options": {
+      "A": "IVIG",
+      "B": "Tight glycemic control and foot care",
+      "C": "Extensive physiotherapy",
+      "D": "Pain management"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "",
+    "options": {
+      "A": "patient who had a mastectomy presents with arm pain and dysesthesia over the fourth and fifth fingers. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q557",
+    "question_text": "",
+    "options": {
+      "A": "case of Hirayama disease presents with weakness in distal hand and forearm muscles that progressed over 18 months and then became static. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

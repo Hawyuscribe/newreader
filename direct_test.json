@@ -1,0 +1,1 @@
+[{"model": "mcq.mcq", "pk": null, "fields": {"question_number": "DIRECT_TEST_001", "question_text": "Direct test question", "options": {"A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D"}, "correct_answer": "A", "explanation": "This is a test explanation", "subspecialty": "Test Category", "exam_type": "Test", "exam_year": 2025}}]

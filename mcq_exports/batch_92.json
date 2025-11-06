@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q34",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old patient presented with ptosis, extraocular muscle weakness, dysphagia, and proximal weakness. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "In a patient with Acute Inflammatory Demyelinating Polyneuropathy (AIDP), what is the first abnormality typically seen in nerve conduction studies (NCS) or electromyography (EMG)?",
+    "options": {
+      "A": "F wave abnormalities",
+      "B": "Conduction block",
+      "C": "Temporal dispersion",
+      "D": "Reduced CMAP amplitude"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "patient with shoulder pain and weakness in the forearm and arm is evaluated. What is the most commonly involved structure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old patient presented with posterior thigh weakness and calf weakness, and he cannot perform plantar flexion. His CK level is 35 times the normal value. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In a patient with Type 2 Charcot-Marie-Tooth disease, what is the typical feature?",
+    "options": {
+      "A": "SNAP drop",
+      "B": "Affects upper limbs more than lower limbs",
+      "C": "Demyelinating neuropathy",
+      "D": "Early onset sensory ataxia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "patient with C5-C6 radiculopathy is evaluated. Which muscle is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q238",
+    "question_text": "",
+    "options": {
+      "A": "patient presents 2 days postpartum with flaccid paralysis, decreased reflexes, and normal sensation. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "The same patient is asking about the treatment. What is the most effective treatment for this condition?",
+    "options": {
+      "A": "IV immunoglobulin (IVIG)",
+      "B": "Plasmapheresis (PLEX)",
+      "C": "Corticosteroids",
+      "D": "Cyclophosphamide"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q172",
+    "question_text": "",
+    "options": {
+      "A": "44-year-old female presents with a 3-week history of left leg numbness and right hand and arm areflexia on the left ankle and knee. An EMG showed peroneal nerve involvement, while radial and ulnar nerves were asymptomatic. The ESR was high, and the MRI was normal. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q234",
+    "question_text": "What is the characteristic presentation of monomelic amyotrophy?",
+    "options": {
+      "A": "Distal upper limb weakness and muscle wasting",
+      "B": "Symmetrical weakness in the lower limbs",
+      "C": "Rapidly progressive weakness with sensory loss",
+      "D": "Isolated sensory symptoms in the upper limbs"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q144",
+    "question_text": "In anti-MuSK positive myasthenia gravis, which muscle group is most commonly affected?",
+    "options": {
+      "A": "Bulbar",
+      "B": "Distal",
+      "C": "Ocular",
+      "D": "Proximal"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "young male presents with neck and shoulder pain, along with decreased sensation in the medial wrist affecting the 4th and 5th fingers. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q233",
+    "question_text": "An image of nerve conduction studies (NCS) of the median nerve shows:",
+    "options": {
+      "A": "Conduction block",
+      "B": "Temporal dispersion",
+      "C": "Normal conduction",
+      "D": "Prolonged latency"
+    },
+    "correct_answer": "D",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "What is the treatment for Lambert-Eaton myasthenic syndrome (LEMS) assuming it is paraneoplastic?",
+    "options": {
+      "A": "Prednisolone + pyridostigmine",
+      "B": "3,4-Diaminopyridine (3-4 DAP) + Azathioprine",
+      "C": "3,4-DAP + Prednisolone",
+      "D": "Plasmapheresis"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q187",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old female with a known case of Myasthenia Gravis for 5 years presents with worsening generalized weakness. She has positive acetylcholine antibodies and thymic hyperplasia on CT chest. Currently, she is on pyridostigmine every 4 hours. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q236",
+    "question_text": "",
+    "options": {
+      "A": "2-month-old infant had apnea, macroglossia, and cardiac disease. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "",
+    "options": {
+      "A": "scenario typical for paramyotonia congenita is presented. What is the gene involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q129",
+    "question_text": "What is the typical recovery time for Guillain-Barr\u00e9 syndrome?",
+    "options": {
+      "A": "Recovery can continue for more than 3 years after onset",
+      "B": "Recovery is usually complete within 6 months",
+      "C": "Recovery is rare",
+      "D": "Recovery takes less than 1 year"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q230",
+    "question_text": "In a patient with Amyotrophic Lateral Sclerosis (ALS), what is a key clinical finding?",
+    "options": {
+      "A": "Combination of upper motor neuron (UMN) and lower motor neuron (LMN) findings",
+      "B": "Isolated sensory loss",
+      "C": "Normal reflexes with muscle wasting",
+      "D": "Flaccid paralysis without atrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q468",
+    "question_text": "",
+    "options": {
+      "A": "patient is losing the clutch, has Lhermitte sign, and experiences ataxia that worsens at night. The blood film is abnormal. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "What is the treatment for Inclusion Body Myositis (IBM)?",
+    "options": {
+      "A": "Steroid",
+      "B": "IVIG",
+      "C": "Supportive treatment",
+      "D": "Immunosuppressants"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "patient with myotonic dystrophy presents with shoulder pain. What is the most appropriate management for this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "After radiation therapy, a patient presents with shoulder abduction weakness (4/5), impaired sensation in the lateral thumb and lateral forearm, and improved function in the index and third fingers. Which nerve is likely impaired?",
+    "options": {
+      "A": "Suprascapular/long thoracic",
+      "B": "Axillary and lateral antebrachial",
+      "C": "Radial",
+      "D": "Musculocutaneous"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "question about Kennedy disease is presented."
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a history of mononeuropathy multiplex. Biopsy showed necrosis and inflammatory cells in the vessels. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

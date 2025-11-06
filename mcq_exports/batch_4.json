@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q146",
+    "question_text": "",
+    "options": {
+      "A": "mother receiving antiepileptic drugs has an infant who developed intraventricular hemorrhage (IVH). Which medication is most likely responsible?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q337",
+    "question_text": "",
+    "options": {
+      "A": "pregnant patient presents with recurrent vomiting. What should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q120",
+    "question_text": "",
+    "options": {
+      "A": "patient developed cognitive impairment and ataxia. MRI showed high signals in the mammillary bodies. What is the most likely deficiency?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "Pregnant lady came with confusion and had a history of increased vomiting; she has no ophthalmology findings; what will you give?",
+    "options": {
+      "A": "Thiamine",
+      "B": "Intravenous glucose",
+      "C": "Antiemetics",
+      "D": "Corticosteroids"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q212",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady came with confusion and had a history of increased vomiting; she has no ophthalmology findings. What will you give?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q21",
+    "question_text": "",
+    "options": {
+      "A": "patient was on warfarin and developed intracerebral hemorrhage (ICH). Which of the following has the best efficacy to manage this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "An alcoholic patient came with post-traumatic seizure and delirium. He was on Keppra and Depakin, then the seizure improved; after 2 days, the patient had worsening of his delirium. What will you do?",
+    "options": {
+      "A": "Alcohol level",
+      "B": "Toxicology screening",
+      "C": "Ammonia",
+      "D": "Electrolyte panel"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "6-year-old female has recurrent episodes of headache, nausea, and vomiting that occur shortly after dialysis sessions. What is the possible mechanism to explain these symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "What is the management of hyponatremia due to cerebral salt wasting syndrome?",
+    "options": {
+      "A": "Hypertonic saline",
+      "B": "IV fluid (isotonic)",
+      "C": "Fludrocortisone",
+      "D": "Fluid restriction"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male presented to the ER with a 2-day history of unilateral weakness and dysarthria. On examination, his blood pressure is 70/90 mmHg [Likely typo, assume 170/90 or similar elevated BP]. What is the next step in the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q90",
+    "question_text": "What is the best imaging modality for diffuse axonal injury?",
+    "options": {
+      "A": "CT with contrast",
+      "B": "MRI with diffusion-weighted imaging (DWI)",
+      "C": "Non-contrast CT",
+      "D": "PET scan"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with inattentiveness, and laboratory tests including liver function tests (LFT), electrolyte levels, and a CT scan of the brain are normal. What could explain this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "patient came after head trauma and was fine initially. After one hour, he started to have a decrease in level of consciousness (LOC). What type of hematoma is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q154",
+    "question_text": "",
+    "options": {
+      "A": "patient presented to the emergency room with meningitis and no papilledema, what is the appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have congenital heart disease presents with headache, fever, and hemiparesis. What will you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt; Originally Critical_Care_Neurology",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q255",
+    "question_text": "In the assessment of brain death, which of the following is a critical step?",
+    "options": {
+      "A": "Stop sedation",
+      "B": "Stop muscle relaxants",
+      "C": "Confirm absence of brainstem reflexes",
+      "D": "Perform apnea test"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q267",
+    "question_text": "",
+    "options": {
+      "A": "patient on sedation has EEG findings suggestive of bilateral generalized slowing. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q289",
+    "question_text": "An elderly patient is intubated with intact level of consciousness but is only able to move his extraocular muscles. What is the next step in workup? [Suggests Locked-in Syndrome or severe neuromuscular weakness]",
+    "options": {
+      "A": "NCS with RNS",
+      "B": "EEG",
+      "C": "MRI Brain",
+      "D": "Urine toxicology"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q260",
+    "question_text": "Which of the following is a mechanism by which hypertonic saline reduces intracranial pressure?",
+    "options": {
+      "A": "It increases the osmotic gradient across the blood-brain barrier.",
+      "B": "It directly causes vasodilation.",
+      "C": "It decreases blood volume.",
+      "D": "It enhances cerebral perfusion pressure."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q257",
+    "question_text": "",
+    "options": {
+      "A": "male elderly patient with liver disease and hypertension presents with decreased and fluctuating level of consciousness. Laboratory tests show high liver function tests, high renal function tests, and high ammonia levels. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "PCC",
+      "B": "Vitamin K",
+      "C": "FFP",
+      "D": "Platelet transfusion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q292",
+    "question_text": "",
+    "options": {
+      "A": "Vitamin K",
+      "B": "Fresh frozen plasma (FFP)",
+      "C": "Protamine sulfate",
+      "D": "Prothrombin complex concentrate (PCC)"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q205",
+    "question_text": "",
+    "options": {
+      "A": "Administration of mannitol",
+      "B": "Administration of thiamine",
+      "C": "External ventricular drainage",
+      "D": "Hypothermia"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q186",
+    "question_text": "",
+    "options": {
+      "A": "Decreased blood viscosity",
+      "B": "Decreased osmotic gradient across the blood-brain barrier",
+      "C": "Decreased tissue oxygen delivery",
+      "D": "Increased hematocrit"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady had a headache, and her CT showed an intracranial hemorrhage (ICH). What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  }
+]

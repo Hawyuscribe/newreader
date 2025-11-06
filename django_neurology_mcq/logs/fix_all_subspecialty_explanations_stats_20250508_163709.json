@@ -1,0 +1,12 @@
+{
+  "timestamp": "20250508_163709",
+  "total_placeholders": 0,
+  "total_updated": 100,
+  "remaining_placeholders": 0,
+  "subspecialty_counts": {
+    "Neuroimmunology": 30,
+    "Neuroophthalmology": 10,
+    "Movement Disorders": 49,
+    "Neuro-infectious": 11
+  }
+}

@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q39",
+    "question_text": "In neurosyphilis, which of the following can be associated?",
+    "options": {
+      "A": "Hypochromatic macules",
+      "B": "Erythema nodosum",
+      "C": "Enlarged pupils",
+      "D": "Small pupils"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "patient with a typical history of Creutzfeldt-Jakob disease (CJD) has a family that wants him to be in the organ donation program; what is the best action?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "patient had meningococcal meningitis. What medication should be given to his family for prophylaxis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of congenital heart disease presents with headache, fever, and hemiparesis. What will you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "What is the best treatment to prevent post-herpetic neuralgia?",
+    "options": {
+      "A": "Antiviral",
+      "B": "Corticosteroids",
+      "C": "Analgesics",
+      "D": "Antidepressants"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q211",
+    "question_text": "What is the most common brain abscess in patients with HIV?",
+    "options": {
+      "A": "Tuberculosis (TB)",
+      "B": "Toxoplasmosis",
+      "C": "Cytomegalovirus (CMV)",
+      "D": "Cryptococcosis"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV presents with pain radiating to the back. MRI of the spine is negative, and CSF is negative. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q253",
+    "question_text": "What is the first thing to do in case of acute meningitis when the patient arrives at the emergency room?",
+    "options": {
+      "A": "CT scan",
+      "B": "Lumbar puncture if examination shows no papilledema",
+      "C": "Start antibiotics",
+      "D": "Obtain blood cultures"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q265",
+    "question_text": "",
+    "options": {
+      "A": "Praziquantel",
+      "B": "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+      "C": "Amphotericin B",
+      "D": "Antitubercular therapy"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "stroke patient has a fever, and cardiac consultation shows a pansystolic murmur. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q13",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with retinal whitening and an orange spot. Which of the following infections could be the cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q265",
+    "question_text": "Light-near dissociation is most commonly described in which of the following conditions?",
+    "options": {
+      "A": "Paranoid syndrome",
+      "B": "Neurosyphilis",
+      "C": "Adie's pupil",
+      "D": "Diabetes mellitus"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with orange retinal structures. Which of the following conditions could be responsible? (Possibly referring to histoplasmosis scars or other infectious/inflammatory causes)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "Patient came with orange retina; what is the diagnosis?",
+    "options": {
+      "A": "Syphilis",
+      "B": "Brucellosis",
+      "C": "Bartonella",
+      "D": "Malaria"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "What is the most common route of spread for an epidural abscess?",
+    "options": {
+      "A": "Hematogenous",
+      "B": "Direct",
+      "C": "Osteomyelitis",
+      "D": "Contiguous soft tissue infection"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "",
+    "options": {
+      "A": "patient with HIV presents with a 1-month history of bilateral lower extremity weakness and numbness, without back pain. What is the pathogenesis of the spinal cord disease that developed?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuro infectious",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "Pseudorossettes are characteristic of which of the following tumors?",
+    "options": {
+      "A": "Medulloblastoma",
+      "B": "Ependymoma",
+      "C": "Glioblastoma",
+      "D": "Meningioma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "What is the characteristic of diffuse astrocytoma grade 2?",
+    "options": {
+      "A": "Pilocytic astrocytoma",
+      "B": "Has good response to resection",
+      "C": "Typically shows high mitotic activity",
+      "D": "Commonly presents with necrosis and microvascular proliferation"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "Patient with intracranial mass crossing the corpus callosum; what is the histology you will see?",
+    "options": {
+      "A": "Pseudopalisading necrosis",
+      "B": "Rosenthal fibers",
+      "C": "Perivascular lymphocytic cuffing",
+      "D": "Homer Wright rosettes"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with headache and bilateral 6th nerve palsy with papilledema, and a red mass is seen from the nostril with MRI showing a cystic lesion arising from the clivus. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "Dexamethasone is best indicated for which type of edema?",
+    "options": {
+      "A": "Vasogenic edema",
+      "B": "Cytotoxic edema",
+      "C": "Hypertension",
+      "D": "Liver encephalopathy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "Dexamethasone is helpful in which of the following clinical scenarios?",
+    "options": {
+      "A": "Traumatic brain injury (TBI)",
+      "B": "Brain tumor with surrounding vasogenic edema",
+      "C": "Bacterial meningitis",
+      "D": "Acute ischemic stroke"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q341",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old female smoker presents with sensory neuropathy and motor symptoms. A chest X-ray shows a mass at the lung apex. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "Which brain tumor is characterized by histopathological pseudorosettes?",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Astrocytoma",
+      "C": "Schwannoma",
+      "D": "Metastasis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "Histopathology for the attached MRI shows which of the following features indicative of Glioblastoma?",
+    "options": {
+      "A": "Pseudopalisading necrosis",
+      "B": "Pseudorosette",
+      "C": "Fried egg appearance",
+      "D": "Psammoma bodies"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  }
+]

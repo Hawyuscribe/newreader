@@ -1,0 +1,13 @@
+{
+  "total_mcqs": 38,
+  "updated_year": 38,
+  "updated_exam_type": 38,
+  "assigned_years": {
+    "2018": 37,
+    "2017": 1
+  },
+  "assigned_exam_types": {
+    "Part I": 37,
+    "Part II": 1
+  }
+}

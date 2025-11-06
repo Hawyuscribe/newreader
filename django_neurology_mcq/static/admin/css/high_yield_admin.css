@@ -1,0 +1,174 @@
+body.high-yield-admin-active {
+    background-color: #f3f4f6;
+}
+
+body.high-yield-admin-active #content-main {
+    display: flex;
+    gap: 24px;
+}
+
+.high-yield-editor-nav {
+    flex: 0 0 240px;
+    position: sticky;
+    top: 100px;
+    align-self: flex-start;
+    background: #fff;
+    border: 1px solid #d0d7de;
+    border-radius: 10px;
+    padding: 16px;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+.high-yield-editor-nav h3 {
+    margin: 0 0 12px;
+    font-weight: 600;
+    color: #0f172a;
+}
+
+.high-yield-editor-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.high-yield-editor-nav li {
+    margin-bottom: 8px;
+}
+
+.high-yield-editor-nav button {
+    width: 100%;
+    text-align: left;
+    border: none;
+    background: transparent;
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    color: #1f2937;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.high-yield-editor-nav button:hover,
+.high-yield-editor-nav button:focus {
+    background: #e0ecff;
+    color: #0f172a;
+}
+
+.high-yield-editor-nav button.active {
+    background: #1d4ed8;
+    color: #fff;
+    font-weight: 600;
+}
+
+.high-yield-editor-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.high-yield-editor-actions button {
+    flex: 1;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 0;
+    background: #f1f5f9;
+    color: #1f2937;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.high-yield-editor-actions button:hover {
+    background: #dbeafe;
+}
+
+.high-yield-editor-form {
+    flex: 1;
+}
+
+fieldset.high-yield-section {
+    margin-bottom: 28px;
+    padding: 18px 20px 24px;
+    border: 1px solid #d0d7de;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 1px 4px rgba(15, 23, 42, 0.04);
+}
+
+body.high-yield-focus-mode .high-yield-editor-nav {
+    display: none;
+}
+
+body.high-yield-focus-mode #content-main {
+    flex-direction: column;
+}
+
+body.high-yield-focus-mode .high-yield-editor-form {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+fieldset.high-yield-section legend {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #0f172a;
+    margin-bottom: 12px;
+}
+
+fieldset.high-yield-section .help {
+    margin-top: 6px;
+    font-size: 0.9rem;
+    color: #475569;
+}
+
+.high-yield-floating-toolbar {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    display: flex;
+    gap: 10px;
+    z-index: 1000;
+}
+
+.high-yield-floating-toolbar button {
+    border: none;
+    border-radius: 50px;
+    padding: 10px 18px;
+    background: #1d4ed8;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 10px 20px rgba(37, 99, 235, 0.25);
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.high-yield-floating-toolbar button:hover {
+    background: #2563eb;
+    box-shadow: 0 12px 24px rgba(37, 99, 235, 0.3);
+}
+
+@media (max-width: 1200px) {
+    body.high-yield-admin-active #content-main {
+        flex-direction: column;
+    }
+
+    .high-yield-editor-nav {
+        position: relative;
+        top: 0;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    .high-yield-editor-nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        width: 100%;
+    }
+
+    .high-yield-editor-nav li,
+    .high-yield-editor-nav button {
+        width: auto;
+    }
+}

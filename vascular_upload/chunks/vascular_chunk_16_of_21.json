@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Intracranial MCA severe stenosis what next",
+    "options": {
+      "option_a": "(DAPT) is correct because it directly targets the pathophysiology of platelet activation and subsequent thrombus formation in severe stenosis. Alternative options such as single antiplatelet therapy, anticoagulation, or immediate endovascular intervention are less suitable based on current evidence, which emphasizes the efficacy of DAPT. The marked answer (B) is incorrect because the evidence supports DAPT as the initial management strategy.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Minor stroke NIHSS 3 (left side decrease sensation, mild facial weakness) within the window what\u2019s next",
+    "options": {
+      "option_a": "(DAPT) is not the appropriate acute treatment because it does not address the clot directly as required in reperfusion strategies. Option B (tPA) is correct because it actively dissolves the clot and has been shown to improve outcomes in acute ischemic stroke. Option C (Aspirin alone) only serves a role in secondary prevention and lacks the efficacy in restoring perfusion during the acute phase.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "TIA found to have atrial flutter echo normal",
+    "options": {
+      "option_a": "(Factor Xa inhibitor) is correct because these agents have been shown to be effective in reducing the risk of embolic events in patients with atrial flutter. Other options such as antiplatelet therapy or rate control alone do not adequately reduce the thromboembolic risk associated with this arrhythmia.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "82 female with stroke NIHSS 20, BP 180/100, 3 hrs from symptoms onset, brain CT pic look okay no clear hypodensity but showed subtle early ischemic changes in BG, insular ribbon what to do next",
+    "options": {
+      "option_a": "(Labetalol) is incorrect because the patient\u2019s BP is below the threshold that necessitates acute lowering prior to thrombolysis; unnecessary BP reduction may compromise cerebral perfusion. Option B (Thrombolysis) is correct as the patient is within the 4.5",
+      "option_b": "",
+      "option_c": "(Thrombectomy) is not immediately indicated without further vascular imaging confirming a large vessel occlusion.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Case of malignant MCA with mass effect and decreased level of consciousness found unresponsive, what will change outcomes",
+    "options": {
+      "option_a": "(Decompressive hemicraniectomy) is correct because it directly addresses the mass effect and intracranial hypertension, altering the course of the disease. Option B (Stroke admission) is vital for supportive care but does not reverse the mass effect. Option C (Hyperventilation) only provides transient reduction of ICP and may risk ischemia without improving long\u2010term outcomes.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Acute stroke treated with tPA pic showing tongue angio edema, patient stable but severely dysarthric, what to do",
+    "options": {
+      "option_a": "(Intubation) is incorrect in this context because the patient does not demonstrate active airway compromise. Option B (Steroid with antihistamine) is the appropriate first",
+      "option_b": "",
+      "option_c": "(ACE inhibitor with diuretics) is contraindicated because ACE inhibitors can exacerbate angioedema.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Long senario pt came with anyrism rupture of PcOm what you will do?",
+    "options": {
+      "option_a": "Cliping",
+      "option_b": "Coiling",
+      "option_c": "Decompressivw craniotomy",
+      "option_d": "Amdission to stroke unit",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "60 years old male pt DM/ HTN/ came with history of TiA for 10 min numbness and dysarthtia. NiHSs is 3. We have to calculate ABCD2 score. On examination ot still have numbness what you will give",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "plavix",
+      "option_c": "dual",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "45 YO female came with SAH and found to have P-chom aneurysm what's next",
+    "options": {
+      "option_a": "Endovascular coiling",
+      "option_b": "Surgical clipping",
+      "option_c": "Observation",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What to expect from O.A. infarction",
+    "options": {
+      "option_a": "Ipsilateral Horner",
+      "option_b": "Ipsilateral hearing loss",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Clear scenario of anterior choroidal artery infarction, they brought VF suggestive of it",
+    "options": {
+      "option_a": "anterior choroidal artery infarction",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "pt suddenly explaned to his wife seeing animals and fade after while pt loss consciousness / EMd arrived. Take him to the hospital intubation done. Attache Ct scan. New left occipital stroke. What you will do? Pt presneted with window not mention bt writeen sudden and within 1 hr",
+    "options": {
+      "option_a": "cta",
+      "option_b": "EEG",
+      "option_c": "tpa",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Male 56 years old male pt found in teh house with decreas level of consuos Last tome seen normal 1 day back Brain ct scan showed:",
+    "options": {
+      "option_a": "tpa",
+      "option_b": "admission to stroke unite",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "What you can see with RCVS",
+    "options": {
+      "option_a": "Low glucose",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "SCA came with ??",
+    "options": {
+      "option_a": "(Ipsilateral Horner's syndrome) is correct as it reflects the involvement of the descending sympathetic fibers in the lateral midbrain due to SCA infarct. Option B (4th cranial nerve palsy) is incorrect as the trochlear nerve is usually spared in SCA territory strokes, making it an uncommon presentation.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with right side weakness, non-fluent speech, impaired repetition and naming but intact comprehension but Broca aphasia localization",
+    "options": {
+      "option_a": "Supramarginal Gyrus",
+      "option_b": "Frontal Perisylvian",
+      "option_c": "Temporal posterior, superior",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with visual defect, what is the artery",
+    "options": {
+      "option_a": "SCA",
+      "option_b": "Basilar artery",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Hypertension & diabetic who bone fracture went for surgery then developed stroke what is the mechanism in sickle cell anemia patient with 2 attacks of weakness 1 year apart. What is the most common provocative factor",
+    "options": {
+      "option_a": "Physical stress",
+      "option_b": "Emotional Stress",
+      "option_c": "Hypertension",
+      "option_d": "Hyperventilation",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "ICH 2 days later with BP 170/90 with long list of labs all within normal but marginal low 145 platelet count what is next",
+    "options": {
+      "option_a": "Labetalol",
+      "option_b": "Amlodipine",
+      "option_c": "Platelet transfusion",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "After 5 hours of labour, with depression on SSRI, ?? CT picture & angiography",
+    "options": {
+      "option_a": "PRES",
+      "option_b": "??",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q150",
+    "question_text": "What is considered a poor prognosis in burst suppression?",
+    "options": {
+      "A": "Burst suppression with identical bursts",
+      "B": "Burst suppression with variable bursts",
+      "C": "Burst suppression induced by sedative medications",
+      "D": "Burst suppression with preserved reactivity"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "",
+    "options": {
+      "A": "67-year-old female experiences recurrent episodes of headache, nausea, and vomiting shortly after dialysis. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "",
+    "options": {
+      "A": "patient with renal failure missed one dialysis session. What would you expect to see on EEG?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q511",
+    "question_text": "What is a common side effect of hypertonic saline administration?",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hypernatremia",
+      "C": "Hypotension",
+      "D": "Bradycardia"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "Cardiac arrest in a smoker patient complicated with hypotension and intubation. After 1 month, the patient returned to the clinic with chronic headaches and dizziness. What is the pathogenesis?",
+    "options": {
+      "A": "Hypercapnia",
+      "B": "Vasospasm",
+      "C": "Hypoxic-ischemic encephalopathy",
+      "D": "Post-intubation airway trauma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "In a case scenario of post-subarachnoid hemorrhage (SAH) and hyponatremia, what is the recommended treatment?",
+    "options": {
+      "A": "3% hypertonic saline",
+      "B": "Fluid restriction",
+      "C": "Vasopressin",
+      "D": "Normal saline infusion"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q169",
+    "question_text": "What is the most important predictor of outcome in cardiac arrest?",
+    "options": {
+      "A": "Bilateral SSEP",
+      "B": "Duration of CPR",
+      "C": "Absent pupillary response at 24 hours",
+      "D": "Age of the patient"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "An approximately 70-year-old male patient post-CABG 2 days ago is extubated, awake but not following commands, and all labs are normal. What is the best diagnostic test?",
+    "options": {
+      "A": "Lumbar puncture (LP)",
+      "B": "MRI of the brain",
+      "C": "CT of the brain",
+      "D": "EEG"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q97",
+    "question_text": "",
+    "options": {
+      "A": "brain CT picture shows coup and contrecoup injury. What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "An elderly patient with a history of sick sinus syndrome had a pacemaker implanted and subsequently developed a right subdural hematoma. On day 3, she has decreased level of consciousness and left-sided weakness. A repeat CT shows expected postoperative changes. What is the next appropriate test?",
+    "options": {
+      "A": "EEG",
+      "B": "CTA",
+      "C": "Echocardiogram",
+      "D": "Holter monitor"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "",
+    "options": {
+      "A": "female patient with high blood pressure (180/??) presents with seizures and confusion. MRI shows bilateral occipital cortical hyperintensity. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "case of intracerebral hemorrhage (ICH) with a 6 mm midline shift is presented. What is an appropriate treatment option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "In a sedated patient, which diagnostic test is least likely to provide useful information?",
+    "options": {
+      "A": "EEG",
+      "B": "MRI",
+      "C": "SSEP",
+      "D": "Brain death assessment"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "",
+    "options": {
+      "A": "patient was in the ICU for 33 days. On the 3rd day, he has a persistent sleep-wake cycle. What is the most likely term for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "",
+    "options": {
+      "A": "patient has an MRI showing tonsillar herniation. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old male was found unconscious on the street. What do you expect as the mechanism of injury for the attached CT scan, which appeared to show a coup-contrecoup bleed?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "Which test is used to assess the blood-brain barrier (BBB) in traumatic brain injury (TBI)?",
+    "options": {
+      "A": "S100",
+      "B": "Myelin basic protein",
+      "C": "Serum specific enolase",
+      "D": "Glial fibrillary acidic protein"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "In a patient with dialysis, what is the pathophysiology behind the disequilibrium syndrome?",
+    "options": {
+      "A": "Influx of water to the cells",
+      "B": "Excessive removal of potassium causing hyperkalemia",
+      "C": "Accumulation of uremic toxins in the bloodstream",
+      "D": "Decreased cerebral blood flow due to hypotension during dialysis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "In a case of intracerebral hemorrhage (ICH) in the basal ganglia, what is the target blood pressure?",
+    "options": {
+      "A": "160/100",
+      "B": "140/90",
+      "C": "180/110",
+      "D": "120/80"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "What is assessed to evaluate the blood-brain barrier (BBB) in traumatic brain injury (TBI)?",
+    "options": {
+      "A": "S100",
+      "B": "Myelin basic protein",
+      "C": "Serum specific enolase",
+      "D": "Glial fibrillary acidic protein"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q345",
+    "question_text": "",
+    "options": {
+      "A": "patient had cerebellar intracerebral hemorrhage (ICH) near the 4th ventricle with dilated lateral ventricles and 3rd ventricle. Which of the following is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "Which type of brain herniation is commonly associated with a fixed dilated pupil?",
+    "options": {
+      "A": "Uncal herniation",
+      "B": "Central herniation",
+      "C": "Tonsillar herniation",
+      "D": "Subfalcine herniation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "patient had a road traffic accident (RTA) and was intubated in the ICU for 33 days. The patient has an intact wake and sleep cycle but no interaction with the environment. How would you label the patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with visual symptoms, confusion, and is taking immunosuppressants for renal transplantation. Brain MRI showed PRES. What is the mechanism involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q499",
+    "question_text": "An elderly patient who suffered a cardiac arrest is not waking up. What is the next best step in management?",
+    "options": {
+      "A": "EEG",
+      "B": "MRI",
+      "C": "Somatosensory evoked potentials (SSEP)",
+      "D": "Administer intravenous fluids"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  }
+]

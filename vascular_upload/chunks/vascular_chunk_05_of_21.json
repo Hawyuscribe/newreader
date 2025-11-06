@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Homonymous hemianopia:",
+    "options": {
+      "option_a": "(ACA) is incorrect because the anterior cerebral artery supplies medial frontal and parietal lobes and is not involved in the primary visual pathway. Option b (MCA) is also incorrect because, although the MCA supplies lateral cortex including sensorimotor areas, it generally spares the deep visual pathway structures. Option c (Anterior choroidal artery) is correct as it directly supplies the optic tract and lateral geniculate nucleus, causing homonymous hemianopia when infarcted.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "56-year-old male with Hx of memory loss for 24 hours & asking the same question repeatedly, investigation",
+    "options": {
+      "option_a": "(CT & CTA) is correct because it meets the urgency of diagnosing acute cerebrovascular events and provides both hemorrhage exclusion and vascular assessment. Option b (MRI) while sensitive for ischemia, is less appropriate in the emergency setting due to longer scan times and possible contraindications. The marked answer (B) is therefore incorrect.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case about patient with recurrent epistaxis & Telangiectasia over- skin. - mucous membranes - retina & GIT. What to do next:",
+    "options": {
+      "option_a": "(Annual MRI brain) is not routinely indicated unless neurological symptoms develop. Option b (Regular BP check",
+      "option_b": "",
+      "option_c": "(ECHO) may help screen for pulmonary arteriovenous malformations but does not tackle the GI bleeding risk. Option d (Endoscopy) is the correct next step as it directly evaluates and may treat gastrointestinal telangiectasias responsible for chronic bleeding.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with radial fracture one month ago came complaining of pain and erythema, the exam was difficult because of pain what is the dx:",
+    "options": {
+      "option_a": "Complex regional pain syndrome",
+      "option_b": "Arterial insufficiency",
+      "option_c": "Dejerine Roussy syndrome",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of Wilson disease and features of KF ring (greenish and greyish discoloration) the most common feature:",
+    "options": {
+      "option_a": "Mania",
+      "option_b": "Psychosis",
+      "option_c": "Depression",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with progressive myoclonus and dementia how to confirm the diagnosis",
+    "options": {
+      "option_a": "MRI",
+      "option_b": "Lactate",
+      "option_c": "Muscle biopsy",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with early-onset Alzheimer what is the gene (presenilin not in the choices):",
+    "options": {
+      "option_a": "APP",
+      "option_b": "APOE",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2019",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Brain MRI is showing unilateral watershed infarction what is the mechanism",
+    "options": {
+      "option_a": "ICA stenosis",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient underwent carotid endarterectomy due to severe symptomatic stenosis and the next day he deteriorated, brain CT is showing right frontal cortical SAH. What is the cause?",
+    "options": {
+      "option_a": "Hyperperfusion",
+      "option_b": "Rupture of undiagnosed aneurysm",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Locked in syndrome",
+    "options": {
+      "option_a": "Ventral pons",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Large acute MCA stroke and history of Afib what to give for acute management",
+    "options": {
+      "option_a": "Aspirin",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Brain MRI is showing unilateral watershed infarction what to order?",
+    "options": {
+      "option_a": "CTA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Hemorrhagic stroke and INR of 3.1",
+    "options": {
+      "option_a": "PCC",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Scenario of 82-year-old lady with ischemic stroke presented within 1 hour with no contraindications",
+    "options": {
+      "option_a": "Tpa",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of a lady in postpartum period presented with headache and seizure, normal brian CT what to do next? (No Mg in the choices)",
+    "options": {
+      "option_a": "CTV",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario about acute ischemic stroke happened in the morning and her presented in the evening with high BP of 190/90 and asked what to do in regards to his blood pressure",
+    "options": {
+      "option_a": "No management",
+      "option_b": "oral amlodipine",
+      "option_c": "IV labetalol",
+      "option_d": "IV nicardipine",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Intracranial bleed and asked about the blood pressure management",
+    "options": {
+      "option_a": "140/90",
+      "option_b": "160/90",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Lady with two days history of malignant left MCA and midline shift (CT was attached) transferred from another hospital what will you do for her",
+    "options": {
+      "option_a": "Craniectomy",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of lateral pontine syndrome (hint was hearing loss)",
+    "options": {
+      "option_a": "AICA",
+      "option_b": "PICA",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case scenario of alexia without agraphia, what artery is involved?",
+    "options": {
+      "option_a": "PCA",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2020",
+    "exam_type": "Part I"
+  }
+]

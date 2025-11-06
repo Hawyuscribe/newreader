@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q131",
+    "question_text": "",
+    "options": {
+      "A": "patient with an acute stroke has a CT image with no established stroke ASPECT score of 8. After being treated with tPA, the patient vomits and becomes lethargic with a blood pressure of 180/110. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "",
+    "options": {
+      "A": "brain CT shows right SCA territory infarction at the level of the midbrain. Which artery is affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q172",
+    "question_text": "What can you see with reversible cerebral vasoconstriction syndrome (RCVS)?",
+    "options": {
+      "A": "Low glucose",
+      "B": "High protein",
+      "C": "Normal glucose",
+      "D": "Normal protein"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "In a patient with a hemorrhagic stroke, what is the recommended blood pressure target?",
+    "options": {
+      "A": "160/100",
+      "B": "140/90",
+      "C": "180/110",
+      "D": "120/80"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "An MRI shows dissection. What is the recommended management?",
+    "options": {
+      "A": "Medical Therapy",
+      "B": "Surgical Repair",
+      "C": "Endovascular Stenting",
+      "D": "Observation and Repeat Imaging"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "In a scenario of acute ischemic stroke, the patient started on tPA. 30 minutes later, he has a headache, vomiting, and lethargy. What is the best next step?",
+    "options": {
+      "A": "Brain CT"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q252",
+    "question_text": "Patient had mild trauma as he cannot see the left side of the road. Presented with visual deficit and reported a similar headache at age 15 years occurring for about 24 hours. What is your diagnosis?",
+    "options": {
+      "A": "PRES",
+      "B": "RCVS",
+      "C": "Vertebral Dissection",
+      "D": "Occipital Lobe Infarction"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q181",
+    "question_text": "",
+    "options": {
+      "A": "male with progressive myelopathy has an attached image clearly showing slow voiding and long cord signal changes. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "case scenario about an acute ischemic stroke occurred in the morning, and the patient presented in the evening with a high blood pressure of 190/90. What should be done regarding his blood pressure?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with transient lower extremity weakness that worsens upon coughing or during Valsalva maneuver. An MRI of the spine is attached. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q227",
+    "question_text": "",
+    "options": {
+      "A": "female patient taking oral contraceptive pills (OCP) had a cerebral venous thrombosis (CVT), and the thrombophilia workup was negative. For how long should she be on anticoagulation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q286",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple hemorrhages in the brain was on aspirin; his lips showed petechiae. What should you do? [Image likely shows telangiectasias]"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "Locked-in syndrome is associated with infarction of which part of the brain?",
+    "options": {
+      "A": "Ventral pons",
+      "B": "Basilar artery occlusion",
+      "C": "Bilateral infarction of the base of the pons",
+      "D": "Medial medulla"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "In a young female with a small PFO and atrial fibrillation who developed a stroke, what is the recommended treatment?",
+    "options": {
+      "A": "Closure",
+      "B": "Warfarin",
+      "C": "ASA",
+      "D": "Direct oral anticoagulants"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q281",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with Horner's syndrome and a left deviated uvula. What other finding would you expect? [Likely implies Wallenberg/PICA syndrome]"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "",
+    "options": {
+      "A": "patient with polycystic kidney disease presents with a history suggestive of subarachnoid hemorrhage (SAH). What is the most likely cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q271",
+    "question_text": "Which of the following is the correct mechanism of action of these medications? [Likely lists antiplatelet/anticoagulant drugs]",
+    "options": {
+      "A": "Aspirin inhibits adenosine deaminase",
+      "B": "Ticagrelor inhibits P2Y12",
+      "C": "Apixaban and rivaroxaban are direct thrombin inhibitors",
+      "D": "Clopidogrel inhibits factor 7, 10, 11, 12"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "In a scenario about CADASIL, which of the following is the correct answer? [Question context missing, but CADASIL is the focus]",
+    "options": {
+      "A": "CADASIL",
+      "B": "Multiple sclerosis",
+      "C": "Amyotrophic lateral sclerosis",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "In a case of posterior reversible encephalopathy syndrome (PRES) with MRI findings, what is the underlying mechanism?",
+    "options": {
+      "A": "Autoregulation failure",
+      "B": "Ischemia",
+      "C": "Hemorrhage",
+      "D": "Infection"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q290",
+    "question_text": "What is the first cellular change in stroke?",
+    "options": {
+      "A": "Cellular swelling",
+      "B": "Demyelination",
+      "C": "Neuronal necrosis",
+      "D": "Inflammatory cell infiltration"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "Exchange transfusion  [Likely the answer to Q85 regarding Sickle Cell/MCA stenosis management]",
+    "options": {
+      "A": "Exchange transfusion",
+      "B": "Aspirin therapy",
+      "C": "Intravenous thrombolysis",
+      "D": "Surgical revascularization"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "Stenting",
+    "options": {
+      "A": "Carotid endarterectomy",
+      "B": "Antiplatelet therapy",
+      "C": "Stenting",
+      "D": "Anticoagulation"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "In a scenario about Wernicke's aphasia, which artery is typically affected?",
+    "options": {
+      "A": "Inferior division of the MCA",
+      "B": "Superior division of the MCA",
+      "C": "Anterior cerebral artery",
+      "D": "Posterior cerebral artery"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q175",
+    "question_text": "",
+    "options": {
+      "A": "patient starts seeing animals and then has decreased level of consciousness and decerebrate posturing. A CT scan shows a hyperdense basilar sign. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q116",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with right face, arm, and leg weakness with mild articulation difficulties. Where is the localization of his lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Vascular neurology stroke",
+    "explanation": ""
+  }
+]

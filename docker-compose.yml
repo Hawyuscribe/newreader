@@ -1,0 +1,66 @@
+version: "3.9"
+
+services:
+  web:
+    build:
+      context: .
+    command: >
+      gunicorn neurology_mcq.wsgi:application
+      --chdir django_neurology_mcq
+      --workers 3
+      --timeout 120
+      --bind 0.0.0.0:8000
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgres://postgres:postgres@db:5432/neurology_mcq}
+      REDIS_URL: ${REDIS_URL:-redis://redis:6379/0}
+      DJANGO_SETTINGS_MODULE: ${DJANGO_SETTINGS_MODULE:-django_neurology_mcq.neurology_mcq.settings}
+      PYTHONPATH: ${PYTHONPATH:-/app/django_neurology_mcq}
+      ALLOWED_HOSTS: ${ALLOWED_HOSTS:-*}
+    env_file:
+      - .env.local
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+      - redis
+
+  worker:
+    build:
+      context: .
+    command: >
+      celery -A django_neurology_mcq.neurology_mcq.celery_app worker -l info
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgres://postgres:postgres@db:5432/neurology_mcq}
+      REDIS_URL: ${REDIS_URL:-redis://redis:6379/0}
+      DJANGO_SETTINGS_MODULE: ${DJANGO_SETTINGS_MODULE:-django_neurology_mcq.neurology_mcq.settings}
+      PYTHONPATH: ${PYTHONPATH:-/app/django_neurology_mcq}
+      RUN_COLLECTSTATIC: "0"
+    env_file:
+      - .env.local
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+      - redis
+
+  db:
+    image: postgres:15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: neurology_mcq
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    volumes:
+      - redis_data:/data
+
+volumes:
+  postgres_data:
+  redis_data:

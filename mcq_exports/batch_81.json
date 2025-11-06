@@ -1,0 +1,378 @@
+[
+  {
+    "question_number": "Q64",
+    "question_text": "Which of the following electrodiagnostic tests is most helpful in the diagnosis of periodic paralysis?",
+    "options": {
+      "A": "High-frequency repetitive stimulation",
+      "B": "Long exercise testing",
+      "C": "Low-frequency repetitive stimulation",
+      "D": "Short exercise testing"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q550",
+    "question_text": "",
+    "options": {
+      "A": "patient has muscle stiffness that worsens with exercise. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q431",
+    "question_text": "",
+    "options": {
+      "A": "poorly controlled type 1 diabetic male with an HbA1c of 14% became controlled one week ago and started to complain of pain. What is the best management option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "Most common presentation of post-polio syndrome:",
+    "options": {
+      "A": "New muscle weakness and fatigue",
+      "B": "Asymptomatic",
+      "C": "Aseptic meningitis",
+      "D": "Flu-like symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "Most common presentation of post-polio syndrome:",
+    "options": {
+      "A": "New onset muscle weakness and fatigue",
+      "B": "Asymptomatic",
+      "C": "Aseptic meningitis",
+      "D": "Flu-like symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q426",
+    "question_text": "",
+    "options": {
+      "A": "38-year-old male presents with a history of generalized weakness, a \"spring\" face, and respiratory issues. Examination reveals hyporeflexia. He came to the ER and received potassium supplements, but later repeated the same attacks weekly. His potassium level is 2.6 (low). What is the most accurate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "patient with a picture of Myasthenia Gravis (eye, proximal weakness, and bulbar symptoms) and a flat tongue. Which of the following antibodies is supposed to be positive?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q470",
+    "question_text": "How to differentiate between C8 and ulnar neuropathy?",
+    "options": {
+      "A": "Abnormal SNAP",
+      "B": "Prolonged F-wave",
+      "C": "Digiti minimi weakness",
+      "D": "Sensory loss in the medial forearm"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q548",
+    "question_text": "What is the characteristic clinical presentation of Multifocal Motor Neuropathy (MMN)?",
+    "options": {
+      "A": "Subacute onset of patchy, asymmetrical weakness without sensory involvement",
+      "B": "Rapidly progressive weakness with sensory loss",
+      "C": "Bilateral symmetrical weakness with sensory symptoms",
+      "D": "Isolated sensory symptoms in the lower limbs"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "What is the nerve supply to the sartorius muscle?",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Obturator nerve",
+      "C": "Genitofemoral nerve",
+      "D": "Sciatic nerve"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q114",
+    "question_text": "In a scenario with congenital myasthenia gravis, where the patient has hand involvement and proximal upper and lower limb weakness, what is the likely diagnosis?",
+    "options": {
+      "A": "Slow channel myasthenia gravis",
+      "B": "Fast channel congenital myasthenic syndrome",
+      "C": "Acetylcholine receptor deficiency syndrome",
+      "D": "Endplate acetylcholinesterase deficiency"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q127",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with back pain, facial sweating, and intermittent epigastric pain associated with progressive distal sensory loss and weakness. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q432",
+    "question_text": "What is commonly associated with anti-MuSK antibodies?",
+    "options": {
+      "A": "Normal thyroid function",
+      "B": "HLA-DRB3, HLA-DR14-DQ5 association",
+      "C": "Predominant facial and bulbar muscle weakness",
+      "D": "Poor response to acetylcholinesterase inhibitors"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "An infant with hypotonia, macroglossia, feeding problems, trouble breathing, muscle weakness, and an enlarged heart. What is the defective enzyme?",
+    "options": {
+      "A": "Acid fast Maltase (Acid alpha-glucosidase)",
+      "B": "Hexosaminidase A",
+      "C": "Glucose-6-phosphatase",
+      "D": "Phenylalanine hydroxylase"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q342",
+    "question_text": "In a scenario about a patient with static weakness sparing the brachioradialis, what would you expect to see on MRI?",
+    "options": {
+      "A": "Spinal Segment Atrophy",
+      "B": "Diffuse Brain Atrophy",
+      "C": "Multiple Sclerosis Plaques",
+      "D": "Normal MRI"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In a case of limb girdle muscular dystrophy type 2A, what is the recommended diagnostic test?",
+    "options": {
+      "A": "Echocardiogram",
+      "B": "Pulmonary function test",
+      "C": "Muscle biopsy",
+      "D": "Genetic testing"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male patient came with progressive spastic lower limb weakness that progressed over time to involve the upper limb, with fasciculations present. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q186",
+    "question_text": "What is the most common cause of femoral neuropathy?",
+    "options": {
+      "A": "Trauma",
+      "B": "Diabetes mellitus",
+      "C": "Lumbar radiculopathy",
+      "D": "Claw hand"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q261",
+    "question_text": "Kearns-Sayre syndrome",
+    "options": {
+      "A": "Is characterized by progressive external ophthalmoplegia, pigmentary retinopathy, and onset before age 20",
+      "B": "Is an autosomal recessive disorder affecting the peripheral nerves",
+      "C": "Primarily affects the lower motor neurons causing muscle atrophy",
+      "D": "Is caused by mutations in the dystrophin gene"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "In a patient with Amyotrophic Lateral Sclerosis (ALS), what is a characteristic finding on EMG?",
+    "options": {
+      "A": "Slow conduction velocity",
+      "B": "H reflex",
+      "C": "Fibrillation",
+      "D": "Prolonged distal latency"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "",
+    "options": {
+      "A": "case with features of POEM presents with lower limb edema and neuropathy. What is the likely associated factor?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q247",
+    "question_text": "In the management of acute attacks of hypokalemic periodic paralysis, potassium is typically given orally at what dosage?",
+    "options": {
+      "A": "5-10 mEq every 15-30 minutes",
+      "B": "10-20 mEq every 15-30 minutes",
+      "C": "20-30 mEq every 15-30 minutes",
+      "D": "30-40 mEq every 15-30 minutes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q544",
+    "question_text": "In a scenario of AIDP, what are the early findings in nerve conduction studies (NCS)?",
+    "options": {
+      "A": "Prolonged or absent F wave with absent H reflex",
+      "B": "Increased amplitude of compound muscle action potential (CMAP)",
+      "C": "Normal conduction velocity with reduced sensory nerve action potential (SNAP) amplitude",
+      "D": "Early recruitment of motor units on electromyography"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "diabetic patient presents with features of small fiber neuropathy (pain worse at night, intact reflexes). What is the best treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q250",
+    "question_text": "What is one of the diagnostic criteria for Guillain-Barr\u00e9 syndrome?",
+    "options": {
+      "A": "Routine laboratory tests",
+      "B": "Exclude other causes",
+      "C": "CSF examination",
+      "D": "Nerve conduction studies"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

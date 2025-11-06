@@ -1,0 +1,20 @@
+{
+  "start_time": "2025-05-08T14:06:55.401404",
+  "files_processed": 19,
+  "total_questions": 3044,
+  "updated_explanations": 2843,
+  "new_explanations": 0,
+  "replaced_explanations": 2843,
+  "unmatched_questions": 201,
+  "questions_without_explanation": 0,
+  "invalid_explanations": 0,
+  "failed_updates": 0,
+  "files_with_errors": 0,
+  "matched_by_question_number": 2778,
+  "matched_by_exact_text": 0,
+  "matched_by_similarity": 65,
+  "matched_by_exam_year_options": 0,
+  "matched_by_no_match": 0,
+  "end_time": "2025-05-08T14:07:23.201090",
+  "duration": 27.799686
+}

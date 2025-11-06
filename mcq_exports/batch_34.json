@@ -1,0 +1,348 @@
+[
+  {
+    "question_number": "Q16",
+    "question_text": "What is the male-to-female ratio in the inheritance of paroxysmal kinesigenic dyskinesia?",
+    "options": {
+      "A": "1:1",
+      "B": "4:1",
+      "C": "2:1",
+      "D": "3:1"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q205",
+    "question_text": "In a patient with progressive supranuclear palsy (PSP) receiving Sinemet, which symptom is likely to improve?",
+    "options": {
+      "A": "Rigidity",
+      "B": "Bradykinesia",
+      "C": "Both A and B",
+      "D": "None of the above"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with dystonia and myoclonus. What characteristic is likely associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of Parkinson's disease on levodopa/carbidopa describes having recurrent tremor and bradykinesia before the next dose. What is the description of this phenomenon?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "patient with typical orthostatic tremor is being treated. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "What is the treatment for Sydenham chorea?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Valproic acid",
+      "C": "Carbamazepine",
+      "D": "Prednisone"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q101",
+    "question_text": "What is the diagnosis for a clear case of Parkinson's Disease (PD)?",
+    "options": {
+      "A": "Essential tremor",
+      "B": "Parkinson's Disease",
+      "C": "Multiple sclerosis",
+      "D": "Alzheimer's disease"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q163",
+    "question_text": "Multiple System Atrophy (MSA)",
+    "options": {
+      "A": "A neurodegenerative disorder characterized by alpha-synuclein accumulation in oligodendrocytes",
+      "B": "A demyelinating disease primarily affecting the peripheral nervous system",
+      "C": "A hereditary ataxia caused by trinucleotide repeat expansions",
+      "D": "An autoimmune disorder targeting the neuromuscular junction"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q196",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old had dystonia that improved with wine, and her father has the same condition. What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q98",
+    "question_text": "",
+    "options": {
+      "A": "young patient with lip biting and face and limb dystonia has a blood smear showing abnormal RBCs with thorny projections. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q193",
+    "question_text": "",
+    "options": {
+      "A": "patient with essential tremor and asthma, what is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with a hand tremor that improves with alcohol, and there is a family history of similar symptoms. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q448",
+    "question_text": "",
+    "options": {
+      "A": "32-year-old female with a history of Parkinson's disease presents with worsening symptoms, including resting tremor. She has had remarkable improvement with L-dopa. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease on multiple agents has developed hallucinations. What is the first step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old child with dopa-responsive dystonia started with foot dystonia and progressed to generalized symptoms with diurnal variation. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "",
+    "options": {
+      "A": "68-year-old male presented to the clinic due to a history of recurrent falls. He has a history of CABG 6 months ago. Physical examination showed limited vertical gaze, bradykinesia, and an unsteady gait. Brain MRI showed generalized atrophy with ex-vacuo and atrophy of the midbrain tectum. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "An elderly patient with gait imbalance and urinary urgency that progressed to incontinence has bilateral mild rigidity with no tremor. What are the likely findings on MRI of the brain?",
+    "options": {
+      "A": "Hot cross bun sign",
+      "B": "Hummingbird sign",
+      "C": "Brain atrophy",
+      "D": "Putaminal hypointensity"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "",
+    "options": {
+      "A": "female patient has a tremor, and her father also has a tremor. The father reports that his tremor improves with wine. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q160",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male patient with a history of Parkinson\u2019s disease for 10 years, who has been responding well to levodopa, presents with orthostatic hypotension and frequent falls. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q171",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease on Sinemet every 4 hours and Selegiline complains of wearing off 2.5 hours before his next dose and peak dose dyskinesia. What is the best management option?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with parkinsonism and swallowing difficulty, and MRI shows atrophy of the midbrain. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "",
+    "options": {
+      "A": "30-year-old female patient presents with parkinsonism and worsening dystonia. She had a similar presentation 10 years ago and improved with levodopa. What should you give her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "",
+    "options": {
+      "A": "young female patient presents to the clinic with head tremor and neck pain. On exam, she has torticollis and reports improvement of her symptoms when she faces the wall. What is the most accurate statement?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q286",
+    "question_text": "Palatal Myoclonus with continuous ear sound in a young male. What is the most likely explanation?",
+    "options": {
+      "A": "Caudate atrophy",
+      "B": "It is myoclonic seizure",
+      "C": "It is palatal myoclonus and it may continue in sleep",
+      "D": "Not a movement disorder and will disappear in sleep"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q156",
+    "question_text": "",
+    "options": {
+      "A": "case presents with axial rigidity and parkinsonism, and the patient has upgaze palsy. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

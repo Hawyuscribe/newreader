@@ -1,0 +1,381 @@
+[
+  {
+    "question_number": "Q11",
+    "question_text": "Which of the following statements is true regarding multiple sclerosis?",
+    "options": {
+      "A": "Activation of unmyelinated axons will result in Uhthoff phenomenon",
+      "B": "It primarily affects the peripheral nervous system",
+      "C": "It is caused by a viral infection",
+      "D": "It is characterized by demyelination of motor neurons"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q185",
+    "question_text": "",
+    "options": {
+      "A": "Immune-mediated vascular endotheliopathy",
+      "B": "Demyelination of central nervous system neurons",
+      "C": "Autoimmune attack on myelin basic protein",
+      "D": "Viral infection of the inner ear and brain"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q298",
+    "question_text": "",
+    "options": {
+      "A": "patient with multiple sclerosis on fingolimod for a couple of years developed weakness and slurred speech. VZV test was positive, and his JCV before starting treatment was negative. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q335",
+    "question_text": "",
+    "options": {
+      "A": "Anti-NMDA receptor encephalitis",
+      "B": "Opsoclonus myoclonus syndrome",
+      "C": "Pilocytic astrocytoma",
+      "D": "Medulloblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "",
+    "options": {
+      "A": "Amantadine",
+      "B": "Modafinil",
+      "C": "Methylphenidate",
+      "D": "Physical exercise"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q279",
+    "question_text": "",
+    "options": {
+      "A": "child with a history of vaccination presents with confusion. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "",
+    "options": {
+      "A": "Anti-Ri",
+      "B": "Anti-NMDA",
+      "C": "Anti-GAD",
+      "D": "Anti-CRMP-1"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "Demyelination is commonly linked to which organism?",
+    "options": {
+      "A": "HIV",
+      "B": "HHV-6",
+      "C": "EBV",
+      "D": "CMV"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "woman who had an episode of nausea and vomiting, along with visual changes in both eyes at different times, now presents with symptoms of transverse myelitis (TM). What is the treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "",
+    "options": {
+      "A": "patient with relapsing-remitting multiple sclerosis (RRMS) has been stable on disease-modifying therapy (DMT) but stopped it 2 months ago as she wants to get pregnant. She presents with new MRI findings showing active enhancing brain lesions. What is the mechanism of the DMT that she was taking?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q221",
+    "question_text": "",
+    "options": {
+      "A": "10 - 20%",
+      "B": "30 - 50%",
+      "C": "44 - 93%",
+      "D": "60 - 80%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "",
+    "options": {
+      "A": "Number of attacks",
+      "B": "Objective clinical evidence for the number of MS lesions",
+      "C": "Family history of migraines",
+      "D": "Brain MRI (with and without gadolinium)"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "",
+    "options": {
+      "A": "Relapses and remissions",
+      "B": "Onset between ages 11 and 50 years",
+      "C": "Progressive cognitive decline from onset",
+      "D": "Absence of sensory symptoms"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "Young lady, with encephalopathy and hearing impairment, no visual symptoms mentioned, MRI attached showed corpus callosum lesions typical of snowball sign, asking about the pathophysiology of the diagnosis?",
+    "options": {
+      "A": "Microvascular endothelial proliferation damage",
+      "B": "Demyelination of central nervous system neurons",
+      "C": "Autoimmune-mediated peripheral nerve destruction",
+      "D": "Neuronal mitochondrial dysfunction"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged female presents with lower limb stiffness mainly affecting hip muscles and has lumbar hyperlordosis. What antibody is likely to be found?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q251",
+    "question_text": "",
+    "options": {
+      "A": "Fingolimod",
+      "B": "Glatiramer acetate (GA)",
+      "C": "Teriflunomide",
+      "D": "Dimethyl fumarate (DF)"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "HSV",
+      "B": "EBV",
+      "C": "CMV",
+      "D": "VZV"
+    },
+    "correct_answer": "B",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "Patient was diagnosed with Multiple sclerosis and has psoriasis. What is an appropriate DMT for her case?",
+    "options": {
+      "A": "Dimethyl fumarate",
+      "B": "Interferon beta-1a",
+      "C": "Natalizumab",
+      "D": "Fingolimod"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q172",
+    "question_text": "",
+    "options": {
+      "A": "patient with intractable vomiting and nausea was admitted under GI and investigated with no identifiable cause. An MRI was done. Which of the following is a core feature for the suspected diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "1-2%",
+      "B": "5-10%",
+      "C": "15-20%",
+      "D": "25-30%"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q267",
+    "question_text": "",
+    "options": {
+      "A": "Gabapentin",
+      "B": "Carbamazepine",
+      "C": "Baclofen",
+      "D": "Diazepam"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "",
+    "options": {
+      "A": "female with a history of Type 1 diabetes mellitus presented with symptoms of axial and peripheral muscle stiffness. What antibodies are usually found in this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "Young lady presented with acute decrease in vision bilaterally, MRI brain done showed hyperintensity in optic nerve, rest of MRI was normal, what is the management? (case of optic neuritis)",
+    "options": {
+      "A": "IV methylprednisolone",
+      "B": "Oral prednisone",
+      "C": "Plasma exchange",
+      "D": "Observation and follow-up"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q362",
+    "question_text": "",
+    "options": {
+      "A": "Anti-MA",
+      "B": "Anti-GAD",
+      "C": "Anti-NMDA",
+      "D": "Anti-CRMP"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q183",
+    "question_text": "",
+    "options": {
+      "A": "Anti-NMDA receptor encephalitis",
+      "B": "Viral encephalitis",
+      "C": "Autoimmune encephalitis",
+      "D": "Paraneoplastic encephalitis"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroimmunology",
+    "explanation": ""
+  }
+]

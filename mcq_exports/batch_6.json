@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q30",
+    "question_text": "",
+    "options": {
+      "A": "77-year-old man with a 3-year history of personality changes and cognitive impairment reports seeing small animals around him. His wife notes that there are days when he is extremely confused and agitated, and days when he is closer to his prior baseline. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "Apathy is more commonly seen in which condition?",
+    "options": {
+      "A": "Alzheimer disease",
+      "B": "Parkinson disease",
+      "C": "Amyotrophic lateral sclerosis",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "",
+    "options": {
+      "A": "62-year-old male exhibits inappropriate behavior, impaired social functioning, and a tendency to eat sweets. He pays no attention to personal hygiene for the last year. A PET scan shows frontal and temporal hypometabolism. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q79",
+    "question_text": "What is the best test to check cognitive impairment in a patient with MCI?",
+    "options": {
+      "A": "MOCA",
+      "B": "MMSE",
+      "C": "Serial Seven",
+      "D": "Clock Drawing Test"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "Apathy is more commonly seen in which of the following conditions?",
+    "options": {
+      "A": "Frontotemporal dementia",
+      "B": "Idiopathic Parkinson's disease",
+      "C": "Traumatic brain injury",
+      "D": "Wilson's disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "Typical history of Lewy Body Dementia (LBD); PET showed posterior corpus callosum abnormality (the picture is not obvious); what is the diagnosis?",
+    "options": {
+      "A": "Lewy Body Dementia (clear from the history)",
+      "B": "Alzheimer\u2019s Disease",
+      "C": "Frontotemporal Dementia",
+      "D": "Vascular Dementia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q84",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of neuropsychiatric symptoms and dementia for more than 5 years had PrPSc. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "The nonfluent/agrammatic variant of primary progressive aphasia (nfvPPA) is primarily associated with atrophy in which brain region?",
+    "options": {
+      "A": "Left inferior frontal gyrus (Broca area)",
+      "B": "Right temporal lobe",
+      "C": "Medial temporal lobe",
+      "D": "Occipital lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "In a patient with normal semantic and language function, what is the pathology associated with behavioral variant frontotemporal dementia (bvFTD)?",
+    "options": {
+      "A": "TDP-43",
+      "B": "FTD type A TDP",
+      "C": "FTD type B TDP",
+      "D": "FTD type C TDP"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q38",
+    "question_text": "",
+    "options": {
+      "A": "67-year-old male is brought to the clinic because of cognitive decline and multiple neurological symptoms over the last 6 months. Initially, he stopped worrying about his job and started to exhibit unusual behaviors. He leaves the house without showering, then he became apathetic and anhedonic. For the last month, he has ataxia, frequent falls, and myoclonic jerks. An MRI was obtained and shown. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "patient has normal pressure hydrocephalus (NPH) and abdominal tuberculosis. What is the most appropriate management?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "Pathology showed Lewy bodies. What is the diagnosis?",
+    "options": {
+      "A": "Lewy body dementia",
+      "B": "Parkinson\u2019s disease",
+      "C": "Alzheimer\u2019s disease",
+      "D": "Multiple system atrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "patient exhibits word-finding difficulties and behavioral changes. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "An elderly man has been acting out his dreams, kicking his wife, and experiencing vivid visual hallucinations. His delirium workup was negative. What is the most likely diagnosis?",
+    "options": {
+      "A": "Lewy body dementia",
+      "B": "Alzheimer's disease",
+      "C": "Corticobasal degeneration",
+      "D": "Frontotemporal dementia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "patient comes with progressive dementia over the last 6 months, exhibiting startle and sensory myoclonus. A DWI image shows a cortical ribbon sign. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "In an Alzheimer patient, what are the expected cerebrospinal fluid (CSF) results?",
+    "options": {
+      "A": "Low Amyloid \u03b2, High Tau",
+      "B": "High Amyloid \u03b2, Low Tau",
+      "C": "Normal Amyloid \u03b2, Normal Tau",
+      "D": "Low Amyloid \u03b2, Low Tau"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "What helps differentiate Alzheimer's disease from frontotemporal dementia?",
+    "options": {
+      "A": "Anterograde memory loss",
+      "B": "Language difficulties",
+      "C": "Behavioral changes",
+      "D": "Visual hallucinations"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with one year of progressive apathy and memory loss. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q87",
+    "question_text": "Cholinesterase inhibitors are most useful for which condition?",
+    "options": {
+      "A": "Apathy",
+      "B": "Depression",
+      "C": "Anxiety",
+      "D": "Psychosis"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "Typical history of Lewy Body Dementia (LBD), PET showed posterior corpus callosum abnormality (the picture is not obvious); what is the diagnosis?",
+    "options": {
+      "A": "Lewy Body Dementia (clear from the history)",
+      "B": "C9ORF/Ch9 (TDP-43)",
+      "C": "Behavioral variant Frontotemporal Dementia (bvFTD)",
+      "D": "Frontotemporal Dementia - Amyotrophic Lateral Sclerosis (FTD-ALS)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "In the same scenario of MCI, what is the conversion rate of cognitive impairment to dementia?",
+    "options": {
+      "A": "6%",
+      "B": "10 - 20%",
+      "C": "21 - 30%",
+      "D": "31 - 90%"
+    },
+    "correct_answer": "B",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q34",
+    "question_text": "Which disorder most commonly presents with apathy?",
+    "options": {
+      "A": "Progressive supranuclear palsy (PSP)",
+      "B": "Parkinson's disease",
+      "C": "Frontotemporal dementia (FTD)",
+      "D": "Alzheimer's disease (AD)"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "In the Mini-Mental State Examination (MMSE), which component carries the highest weight?",
+    "options": {
+      "A": "Orientation",
+      "B": "Registration",
+      "C": "Attention and calculation",
+      "D": "Recall"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "The same imaging findings as previous but with agrammatic aphasia are present. What is the diagnosis?",
+    "options": {
+      "A": "Frontotemporal dementia (FTD)",
+      "B": "Alzheimer's disease",
+      "C": "Vascular dementia",
+      "D": "Prion disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "male patient was brought to the hospital by his wife for forgetfulness issues. He has difficulty with speech expression with his friends, which has made his social life difficult. On examination, he couldn\u2019t recall 3 items on the MMSE. He has impaired naming and repetition, with intact comprehension. Which of the following is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  }
+]

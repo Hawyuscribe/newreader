@@ -1,0 +1,33 @@
+[
+  {
+    "model": "mcq.mcq",
+    "pk": "99993268",
+    "fields": {
+      "question_number": "27",
+      "question_text": "A patient had a head trauma, after 10 days developed spontaneous perimesencephalic SAH. Done 2 digital subtraction imaging 2 weeks apart which was unremarkable, which of the following is the appropriate management:",
+      "options": {
+        "A": "Send him home with F/U in the clinic",
+        "B": "Repeat digital subtraction imaging",
+        "C": "MR angiography",
+        "D": "CT angiography"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology/Stroke",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation_sections": {
+        "conceptual_foundation": "This question addresses the management of a patient with a perimesencephalic subarachnoid hemorrhage (SAH) following head trauma. The key concept is recognizing that a non-aneurysmal perimesencephalic SAH, confirmed by two negative digital subtraction angiographies (DSAs), typically has a benign clinical course and warrants conservative management.",
+        "pathophysiology": "Perimesencephalic SAH is often venous in origin and is characterized by a limited distribution of blood around the midbrain. Unlike aneurysmal SAH, it does not involve a ruptured cerebral aneurysm and is associated with minimal risk of rebleeding. The absence of vascular abnormalities on repeated DSAs further supports a benign etiology.",
+        "clinical_correlation": "Patients with perimesencephalic SAH usually present with a sudden headache and may have mild neurological complaints but tend to have a favorable prognosis. The negative imaging studies reduce worry about a missed aneurysm, thereby supporting outpatient management with appropriate follow-up rather than further invasive testing.",
+        "diagnostic_approach": "The diagnosis is established by neuroimaging, starting with CT which shows the characteristic pattern of hemorrhage around the midbrain. Digital subtraction angiography is the gold standard to rule out an aneurysm. Differential diagnoses include aneurysmal SAH, traumatic SAH from high-impact injury, and other vascular malformations. Serial imaging and clinical observation help differentiate these conditions.",
+        "classification_and_neurology": "PM-SAH is classified as a subtype of non-aneurysmal spontaneous subarachnoid hemorrhage. The broader classification of SAH includes traumatic vs spontaneous, with spontaneous further subdivided into aneurysmal and non-aneurysmal. Non-aneurysmal SAH can be perimesencephalic or non-perimesencephalic based on bleeding pattern. The Fisher grading scale for SAH on CT helps predict vasospasm risk but is less applicable in PM-SAH due to limited blood volume. The World Federation of Neurosurgical Societies (WFNS) grading system applies to clinical severity but PM-SAH patients usually present with low grades. The current nosological consensus recognizes PM-SAH as a distinct clinical and radiological entity with a benign prognosis, separate from aneurysmal SAH which carries significant morbidity and mortality. Some controversy exists regarding the need for repeated angiography, but consensus favors limited imaging once aneurysms are excluded.",
+        "classification_and_nosology": "Perimesencephalic SAH is a subtype of non-aneurysmal subarachnoid hemorrhage. It is classified separately from aneurysmal SAH due to its benign nature, distinct bleeding pattern, and low risk of complications. This nosological distinction guides both prognosis and management.",
+        "management_principles": "First-line management of non-aneurysmal perimesencephalic SAH is conservative. This includes observation, adequate analgesia, and sometimes short hospital admission for monitoring of potential complications (e.g., vasospasm). When two DSAs are negative, further invasive imaging is not needed, and the patient can be safely discharged with close outpatient follow-up. In pregnant or lactating patients, minimizing unnecessary radiation exposure is important; thus, when vascular imaging is not indicated, conservative management is particularly preferred.",
+        "option_analysis": "Option A (Send him home with follow-up in the clinic) is appropriate given the benign nature of perimesencephalic SAH and two repeatedly negative DSAs. Option B (Repeat digital subtraction imaging) is unnecessary after two high-quality negative studies. Option C (MR angiography) and Option D (CT angiography) are not warranted when DSAs have definitively ruled out aneurysmal pathology and would expose the patient to additional, often unnecessary, investigations.",
+        "clinical_pearls": "\u2022 Non-aneurysmal perimesencephalic SAH generally has an excellent prognosis with low rebleeding risk. \u2022 Two consecutive negative DSAs reliably exclude an aneurysmal source, making further invasive studies redundant. \u2022 Conservative management with outpatient follow-up is the standard approach once serious vascular abnormalities are ruled out.",
+        "current_evidence": "Recent studies and updated AHA/ASA guidelines support the conservative management of non-aneurysmal perimesencephalic SAH. The evidence indicates that after two negative DSAs, further invasive testing does not improve outcomes and may unnecessarily expose patients to procedure-related risks."
+      },
+      "source_file": "vascular_mcqs_20250519_071211_processed_20250519_225344_processed_20250520_014212.json"
+    }
+  }
+]

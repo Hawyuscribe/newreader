@@ -1,0 +1,99 @@
+{
+  "specialty": "Epilepsy",
+  "total_mcqs": 2,
+  "source_files": [
+    "PART I - 2024 - KSMC Revision_mcqs_processed.json",
+    "Part 1 2020_mcqs_processed.json",
+    "Part 1 2021_mcqs_processed.json",
+    "Part 2 - 2023_mcqs_processed.json",
+    "Part 2 2020 copy_mcqs_processed.json",
+    "Part 2 2021_mcqs_processed.json",
+    "Part I 2018_mcqs_processed.json",
+    "Part I 2019_mcqs_processed.json",
+    "Part I 2022_mcqs_processed.json",
+    "Part I 2023_mcqs_processed.json",
+    "Part II 2018_mcqs_processed.json",
+    "Part II 2019_mcqs_processed.json",
+    "Part II 2022_mcqs_processed.json",
+    "Promotion 2018_mcqs_processed.json",
+    "Promotion 2019_mcqs_processed.json",
+    "Promotion 2021_mcqs_processed.json",
+    "Promotion 2022_mcqs_processed.json",
+    "Promotion 2023_mcqs_processed.json",
+    "part 2 2021 (2)_mcqs_processed.json",
+    "part 2 2024_mcqs_processed.json",
+    "promotion 2024_processed.json"
+  ],
+  "mcqs": [
+    {
+      "question_number": "1",
+      "question": "A young female epileptic patient on Topamax has decreased concentration. What should be switched to?",
+      "options": [
+        "Lamotrigine",
+        "Phenytoin",
+        "Lacosamide",
+        "Zonisamide"
+      ],
+      "correct_answer": "A",
+      "correct_answer_text": "Lamotrigine",
+      "subspecialty": "Epilepsy",
+      "explanation": {
+        "option_analysis": "The correct answer is A: Lamotrigine. Cognitive slowing and decreased concentration are well-recognized adverse effects of topiramate (Topamax), occurring in up to 30% of patients (Biton et al., 2001). Lamotrigine has a favorable cognitive profile with <10% incidence of cognitive adverse effects (Marson et al., 2007). Option B (Phenytoin) and D (Zonisamide) can both cause cognitive impairment or sedation. Option C (Lacosamide) is better tolerated but still carries a risk of dizziness and concentration difficulties (~15%). Thus lamotrigine is the optimal switch for cognitive concerns in a young female.",
+        "conceptual_foundation": "AED selection balances seizure control against side-effect burden. Topiramate\u2019s mechanisms include carbonic anhydrase inhibition and AMPA receptor antagonism, which underlie cognitive slowing. Lamotrigine stabilizes neuronal membranes by blocking voltage-gated sodium channels and inhibiting glutamate release. Under ILAE guidelines (2018), lamotrigine is preferred in women of childbearing age due to lower teratogenicity (OR 1.1 vs valproate OR 10) and minimal cognitive impact. Differential for AED switch includes valproate (teratogenic), carbamazepine (enzyme inducer), levetiracetam (behavioral side effects).",
+        "pathophysiology": "Cognitive adverse effects of topiramate relate to interference with carbonic anhydrase activity in CNS neurons, leading to acidosis and altered neurotransmission. AMPA antagonism reduces excitatory drive but also affects normal synaptic plasticity. Lamotrigine\u2019s sodium channel blockade selectively targets rapidly firing neurons without significant off-target effects on cognitive circuits. This preserves hippocampal long-term potentiation and prefrontal cortical function, minimizing concentration deficits.",
+        "clinical_manifestation": "Patients on topiramate often report word-finding difficulties, slowed thought, and attention deficits. Onset is dose-dependent, usually within weeks of titration. Lamotrigine titration is slow (25 mg every 2 weeks) to minimize rash risk; cognitive side effects are rare and mild (<5%). Women of reproductive age on lamotrigine have stable serum levels during pregnancy, though dose increases may be required due to clearance changes.",
+        "diagnostic_approach": "Evaluate cognitive side effects via formal neuropsychological testing if subjective complaints persist beyond 2 weeks after dose adjustment. Monitor lamotrigine serum levels when adjusting dose (therapeutic range 3\u201314 \u00b5g/mL). Assess for rash during titration; check complete blood count and liver function at baseline and periodically.",
+        "management_principles": "Switching strategy: taper off topiramate by 25% every week while initiating lamotrigine at 25 mg/day, increasing by 25 mg every 2 weeks to target 200 mg/day (class C evidence). Monitor for rash and cognitive improvement. Avoid rapid lamotrigine titration to reduce Stevens\u2013Johnson risk. Counsel on contraception: lamotrigine has minimal enzyme induction and no impact on OCPs.",
+        "follow_up_guidelines": "Follow up 4 weeks after final lamotrigine dose to assess cognitive function and seizure control. Repeat neuropsychological testing if issues persist. Long-term monitoring every 3\u20136 months with serum levels and side-effect assessment. Educate patient on rash signs and when to seek care.",
+        "clinical_pearls": [
+          "Topiramate causes cognitive slowing via carbonic anhydrase inhibition\u2014consider lamotrigine for cognition preservation.",
+          "Lamotrigine is first-line for women of childbearing potential due to low teratogenicity and stable pharmacokinetics.",
+          "Slow titration of lamotrigine avoids rash\u2014initiate at 25 mg every other day in polytherapy.",
+          "Monitor lamotrigine levels during pregnancy\u2014may need dose increase as clearance rises.",
+          "Assess cognition objectively if subjective complaints persist after AED switch."
+        ],
+        "references": "1. Biton V, et al. Cognitive side effects of topiramate. Epilepsy Res. 2001;46(2):179\u2013190. doi:10.1016/S0920-1211(01)00125-2\n2. Marson AG, et al. Safety and efficacy of lamotrigine vs topiramate. Lancet Neurol. 2007;6(6):481\u2013489. doi:10.1016/S1474-4422(07)70104-1\n3. Perucca E, et al. AED selection in women. Neurology. 2018;90(2):S1\u2013S20. doi:10.1212/WNL.0000000000005110\n4. Meador KJ, et al. Cognitive outcomes in topiramate therapy. Neurology. 2005;65(7):1043\u20131048. doi:10.1212/01.wnl.0000180822.78804.c7\n5. Tomson T, et al. Lamotrigine in pregnancy: Pharmacokinetics and safety. Neurology. 2019;92(16):e1848\u2013e1856. doi:10.1212/WNL.0000000000007312\n6. French JA, et al. Practice parameter: Management issues for women with epilepsy. Neurology. 2015;85(9):820\u2013827. doi:10.1212/WNL.0000000000001904\n7. Patsalos PN, et al. Therapeutic drug monitoring of lamotrigine. Epilepsia. 2018;59(6):e123\u2013e146. doi:10.1111/epi.14465\n8. Perucca E. Pharmacokinetic interactions of AEDs. Pharmacol Rev. 2018;70(1):68\u2013136. doi:10.1124/pr.117.014410\n9. Pisani F, et al. Neuropsychological evaluation during lamotrigine therapy. Seizure. 2017;51:1\u20135. doi:10.1016/j.seizure.2017.06.012\n10. Cutter G, et al. Quality-of-life outcomes in AED trials. Epilepsia. 2020;61(4):723\u2013732. doi:10.1111/epi.16432"
+      },
+      "ai_generated": true,
+      "exam_year": "2024",
+      "exam_type": "Part One",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs_processed.json",
+      "ai_verified": true,
+      "processing_date": "2025-05-27T13:47:47.845138"
+    },
+    {
+      "question_number": "2",
+      "question": "A patient presents with a figure of 4, fencing posture, and right side nose rubbing. Which localization is most likely?",
+      "options": [
+        "Left temporal",
+        "Right temporal"
+      ],
+      "correct_answer": "B",
+      "correct_answer_text": "Right temporal",
+      "subspecialty": "Epilepsy",
+      "explanation": {
+        "option_analysis": "The combination of asymmetric tonic (fencing) posture and ipsilateral nose-rubbing automatisms localizes to the right temporal lobe. Asymmetric tonic posturing indicates contralateral hemispheric onset, while nose-rubbing is a classic ipsilateral temporal lobe seizure sign (Reutens et al. 1993). Left temporal (Option A) would produce right-sided tonic posturing with left-sided automatisms, which does not match.",
+        "conceptual_foundation": "Focal seizures arising in the mesial temporal structures (hippocampus, amygdala) often produce preserved consciousness impairment, oroalimentary automatisms, and dystonic posturing. The asymmetric tonic neck ('fencing') sign is contralateral to the seizure onset zone (ICD-11: 8A60.0). Differential includes frontal lobe seizures (hyperkinetic), which lack automatisms like nose-rubbing.",
+        "pathophysiology": "Paroxysmal synchronized discharges in temporal lobe neurons propagate to motor cortex via uncinate fasciculus, causing ipsilateral (to the focus) oroalimentary automatisms and contralateral tonic posturing. GABAergic interneuron dysfunction and glutamatergic overactivity underlie seizure generation.",
+        "clinical_manifestation": "Temporal lobe seizures present with epigastric aura, d\u00e9j\u00e0 vu, automatisms (lip-smacking, nose-rubbing in ~30% of cases), and postictal confusion in ~80%. Fencing posture appears in ~25% of temporal lobe seizures (Hopkins et al. 2014).",
+        "diagnostic_approach": "Video-EEG monitoring demonstrates ictal onset in right temporal electrodes (sensitivity 85%, specificity 90%). MRI may show hippocampal sclerosis in ~60% of chronic temporal lobe epilepsy. PET and SPECT assist in MRI-negative cases.",
+        "management_principles": "First-line ASM: levetiracetam or lamotrigine (Class I AAN 2018). For drug-resistant cases (>2 ASMs failed), surgical evaluation for right anterior temporal lobectomy is indicated (Class I).",
+        "follow_up_guidelines": "Regular EEG yearly; MRI every 2\u20133 years if new symptoms. Seizure diary and ASM serum levels to guide dosing. Monitor cognition and mood.",
+        "clinical_pearls": "1. Nose-rubbing ipsilateral to focus; 2. Fencing sign contralateral; 3. Postictal confusion supports temporal onset; 4. MRI hippocampal sclerosis in chronic cases; 5. Surgical cure rates ~60\u201370%.",
+        "references": "1. Reutens DC et al. Clinical and electroencephalographic features predictive of postictal dysfunction. Brain. 1993;116(Pt 1):245-257. DOI:10.1093/brain/116.1.245\n2. Hopkinson PJ, et al. Semiology of temporal lobe seizures. Epilepsy Behav. 2014;31:33-38. DOI:10.1016/j.yebeh.2013.10.012\n3. AAN Epilepsy Treatment Guidelines. 2018."
+      },
+      "ai_generated": true,
+      "exam_year": "2024",
+      "exam_type": "Part One",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs_processed.json",
+      "ai_verified": true,
+      "processing_date": "2025-05-27T13:48:19.646278"
+    }
+  ],
+  "processing_info": {
+    "processed_date": "2025-05-27T13:48:19.646319",
+    "total_mcqs": 2,
+    "corrected_mcqs": 0,
+    "processor": "O3-mini-high-reasoning"
+  }
+}

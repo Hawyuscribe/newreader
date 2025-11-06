@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q210",
+    "question_text": "",
+    "options": {
+      "A": "slow EEG is most commonly associated with which condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q240",
+    "question_text": "In a case of status epilepticus, when will the compensatory mechanisms fail?",
+    "options": {
+      "A": "5 min",
+      "B": "10 min",
+      "C": "30-60 min",
+      "D": "15 min"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q142",
+    "question_text": "",
+    "options": {
+      "A": "patient with Juvenile Myoclonic Epilepsy (JME) on a single AED has been seizure-free for the last 2 years. They come to the clinic and ask about the possibility of stopping the medication. What would you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q192",
+    "question_text": "Which antiepileptic drugs (AEDs) exacerbate myoclonus?",
+    "options": {
+      "A": "Phenobarbital",
+      "B": "Carbamazepine",
+      "C": "Phenytoin",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q251",
+    "question_text": "What is the effect of phenytoin when taken with valproic acid?",
+    "options": {
+      "A": "Increase the phenytoin level",
+      "B": "Decrease the phenytoin level",
+      "C": "No significant interaction",
+      "D": "Increase the valproic acid level"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "",
+    "options": {
+      "A": "patient who has mesial temporal lobe epilepsy (MTLE) and is on 2 antiepileptic drugs (AEDs) presents to the clinic for follow-up. He has around 1-2 attacks every few months. What would you do next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient on three antiepileptic medications is not improving. What is the recommended next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q226",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with epileptic spasms and EEG showing hypsarrhythmia. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q8",
+    "question_text": "Which of the following antiepileptic drugs (AEDs) is known to worsen myoclonic seizures?",
+    "options": {
+      "A": "Phenobarbital",
+      "B": "Carbamazepine",
+      "C": "Gabapentin",
+      "D": "Lamotrigine"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "What is the risk of recurrence for febrile seizures in the future?",
+    "options": {
+      "A": "Approximately 10%",
+      "B": "Approximately 30%",
+      "C": "Approximately 50%",
+      "D": "Approximately 70%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "Which area, if removed by surgery, will result in seizure freedom?",
+    "options": {
+      "A": "Epileptogenic zone",
+      "B": "Ictal onset zone",
+      "C": "Irritative zone",
+      "D": "Symptomatogenic zone"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q246",
+    "question_text": "In a case scenario of juvenile myoclonic epilepsy (JME), what is a characteristic feature?",
+    "options": {
+      "A": "Photosensitivity",
+      "B": "Progressive memory loss",
+      "C": "Unilateral weakness",
+      "D": "Sensory ataxia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q198",
+    "question_text": "",
+    "options": {
+      "A": "young male with nocturnal hyperkinetic movements at night, facial clonic spells, and profuse salivation sometimes evolves to generalized tonic-clonic seizures. A diagnosis of epilepsy was established. Where is the site of seizure focus?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "",
+    "options": {
+      "A": "patient experiences an episode of upraising gastric sensation followed by laryngeal constriction. What is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q218",
+    "question_text": "",
+    "options": {
+      "A": "known case of epilepsy in a female patient on lamotrigine wants to start on oral contraceptive pills (OCP); what will you tell her?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "Which cranial nerve is primarily responsible for the sense of smell?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Facial nerve (CN VII)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q149",
+    "question_text": "Landau-Kleffner syndrome (LKS) is also known as:",
+    "options": {
+      "A": "Childhood absence epilepsy",
+      "B": "Acquired epileptic aphasia",
+      "C": "Juvenile myoclonic epilepsy",
+      "D": "Temporal lobe epilepsy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q100",
+    "question_text": "What is the AED that has the highest concentration in breast milk?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Valproate",
+      "C": "Levetiracetam",
+      "D": "Phenobarbital"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "What is the next step in the management of a patient with refractory epilepsy?",
+    "options": {
+      "A": "Increase current medication dosage",
+      "B": "Change to a different medication",
+      "C": "Refer for surgical evaluation",
+      "D": "Initiate a ketogenic diet"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q170",
+    "question_text": "",
+    "options": {
+      "A": "three-month-old baby with early myoclonic encephalopathy had migrating myoclonic seizures that then became more generalized. EEG was done; what is expected to be seen?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q294",
+    "question_text": "Which cranial nerve is primarily responsible for the sense of smell?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Facial nerve (CN VII)"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q94",
+    "question_text": "Patient has focal seizure on treatment and he is well controlled. What is the favorable outcome in this patient?",
+    "options": {
+      "A": "One type seizure",
+      "B": "Multiple types of seizures",
+      "C": "Frequent breakthrough seizures",
+      "D": "Development of status epilepticus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q274",
+    "question_text": "Which of the following is the most common cause of ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion",
+      "D": "Cerebral venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q36",
+    "question_text": "",
+    "options": {
+      "A": "female patient with epilepsy is on two antiepileptic drugs (AEDs) but is still not controlled. She wants to try a newly released AED. What considerations should be taken into account?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q152",
+    "question_text": "In the scenario of an elderly patient with comorbidities and polypharmacy who has had frequent seizures in the last 2 years, which drug is the best option considering drug interactions?",
+    "options": {
+      "A": "Lamictal",
+      "B": "Levetiracetam",
+      "C": "Phenytoin",
+      "D": "Topamax"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

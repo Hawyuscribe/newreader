@@ -1,0 +1,229 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+
+{% block title %}Import MCQs - Neurology MCQ Reader{% endblock %}
+
+{% block extra_css %}
+<style>
+    .import-form-container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    
+    .card {
+        border: none;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+        margin-bottom: 2rem;
+    }
+    
+    .card-header {
+        background-color: #f8f9fa;
+        font-weight: 500;
+    }
+    
+    .example-container {
+        background-color: #f8f9fa;
+        border-radius: 5px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .example-mcq {
+        font-family: monospace;
+        white-space: pre-wrap;
+        padding: 1rem;
+        background-color: #f1f1f1;
+        border-radius: 5px;
+        border-left: 5px solid #0d6efd;
+        font-size: 0.9rem;
+    }
+    
+    .form-label {
+        font-weight: 500;
+    }
+    
+    .form-text {
+        color: #6c757d;
+        font-size: 0.875rem;
+    }
+    
+    .invalid-feedback {
+        display: none;
+    }
+    
+    .alert-notice {
+        background-color: #e2f3ff;
+        border-left: 4px solid #0d6efd;
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+    
+    .submit-btn {
+        padding: 10px 30px;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="import-form-container">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="mb-3">Import Neurology MCQs</h1>
+            <p class="lead">Use this form to import neurological MCQs in the specified format.</p>
+        </div>
+    </div>
+    
+    <div class="card mb-4">
+        <div class="card-header">
+            <h5 class="mb-0"><i class="bi bi-info-circle me-2"></i>Import Instructions</h5>
+        </div>
+        <div class="card-body">
+            <div class="alert-notice">
+                <div class="d-flex align-items-center mb-2">
+                    <i class="bi bi-exclamation-circle me-2 text-primary" style="font-size: 1.2rem;"></i>
+                    <h5 class="mb-0">Important Note</h5>
+                </div>
+                <p class="mb-0">Each MCQ must follow the exact format shown below. The system will parse your input based on specific markers like "Q:" and "CORRECT ANSWER:".</p>
+            </div>
+            
+            <h6 class="mb-3">Format Requirements:</h6>
+            <div class="example-container">
+                <p class="mb-2"><strong>Example MCQ Format:</strong></p>
+                <div class="example-mcq">Q36. (Source: Part I 2019_mcqs.txt)  
+A patient with features of Whipple's disease and oculomasticatory myorhythmia is being evaluated. What is the next best step in management?
+
+A. Jejunum biopsy  
+B. MRI of the brain  
+C. Lumbar puncture  
+D. Start antibiotics [CORRECT]  
+
+*Classification Reason: Focuses on the diagnostic approach for Whipple's disease, a chronic bacterial infection with characteristic neurological signs (oculomasticatory myorhythmia).*</div>
+            </div>
+            
+            <ul class="list-group mb-3">
+                <li class="list-group-item"><i class="bi bi-check-circle-fill text-success me-2"></i>Each question should start with <strong>"Q"</strong> followed by a question number and source info, e.g. <strong>"Q36. (Source: Part I 2019_mcqs.txt)"</strong></li>
+                <li class="list-group-item"><i class="bi bi-check-circle-fill text-success me-2"></i>Options must be labeled with <strong>A, B, C, D, E</strong> (one option per line)</li>
+                <li class="list-group-item"><i class="bi bi-check-circle-fill text-success me-2"></i>Mark the correct answer with <strong>"[CORRECT]"</strong> at the end of the option line</li>
+                <li class="list-group-item"><i class="bi bi-check-circle-fill text-success me-2"></i>Include a <strong>"*Classification Reason: ..."</strong> line that explains the question's subspecialty</li>
+                <li class="list-group-item"><i class="bi bi-check-circle-fill text-success me-2"></i>Source field (e.g., "Part I 2019_mcqs.txt") will be used to extract exam type and year</li>
+                <li class="list-group-item"><i class="bi bi-check-circle-fill text-success me-2"></i>Questions should be separated by <strong>"--------------------------------------------------"</strong></li>
+            </ul>
+            
+            <div class="alert alert-info">
+                <h5><i class="bi bi-info-circle"></i> How Subspecialties Are Determined</h5>
+                <p>The system will automatically determine the subspecialty for each MCQ by analyzing:</p>
+                <ol>
+                    <li><strong>Source file name:</strong> If the source file contains subspecialty indicators (like "Dementia" or "Stroke"), it will be used</li>
+                    <li><strong>Classification reason:</strong> Keywords in the classification reason will be used to determine the appropriate subspecialty</li>
+                    <li><strong>Question content:</strong> Medical terms and conditions mentioned in the question</li>
+                </ol>
+                <p>The Classification Reason text will be used for categorization but <strong>will not</strong> be stored with the MCQ.</p>
+            </div>
+            
+            <p><strong>Available Subspecialties:</strong></p>
+            <div class="row">
+                {% for subspecialty in subspecialties %}
+                <div class="col-md-4">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" disabled>
+                        <label class="form-check-label">{{ subspecialty }}</label>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+    <form action="{% url 'import_mcqs_form' %}" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+        {% csrf_token %}
+        
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="bi bi-cloud-upload me-2"></i>Import MCQs</h5>
+            </div>
+            <div class="card-body">
+                <ul class="nav nav-tabs mb-4" id="importTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="text-tab" data-bs-toggle="tab" data-bs-target="#text-import" type="button" role="tab" aria-controls="text-import" aria-selected="true">Text Import</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="json-tab" data-bs-toggle="tab" data-bs-target="#json-import" type="button" role="tab" aria-controls="json-import" aria-selected="false">JSON File Import</button>
+                    </li>
+                </ul>
+                
+                <div class="tab-content" id="importTabsContent">
+                    <div class="tab-pane fade show active" id="text-import" role="tabpanel" aria-labelledby="text-tab">
+                        <div class="mb-4">
+                            <label for="mcqs_text" class="form-label">Paste MCQs here:</label>
+                            <textarea class="form-control" id="mcqs_text" name="mcqs_text" rows="15"></textarea>
+                            <div class="form-text">
+                                Each MCQ should follow the format shown in the example above.
+                            </div>
+                            <div class="invalid-feedback">
+                                Please paste your MCQs in the required format.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane fade" id="json-import" role="tabpanel" aria-labelledby="json-tab">
+                        <div class="mb-4">
+                            <label for="json_file" class="form-label">Upload JSON file:</label>
+                            <input type="file" class="form-control" id="json_file" name="json_file" accept=".json">
+                            <div class="form-text">
+                                Upload a JSON file containing MCQs in the proper format.
+                            </div>
+                            <div class="invalid-feedback">
+                                Please select a JSON file to upload.
+                            </div>
+                        </div>
+                        
+                        <div class="alert-notice">
+                            <div class="d-flex align-items-center mb-2">
+                                <i class="bi bi-info-circle me-2 text-primary" style="font-size: 1.2rem;"></i>
+                                <h5 class="mb-0">JSON Format</h5>
+                            </div>
+                            <p class="mb-0">The JSON file must be an array of MCQ objects with fields: question_number, question_text, options, correct_answer, subspecialty, and optionally source_file, exam_type, exam_year, explanation.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-check mb-4 mt-4">
+                    <input class="form-check-input" type="checkbox" id="confirm_format" name="confirm_format" required>
+                    <label class="form-check-label" for="confirm_format">
+                        I confirm that my MCQs follow the required format
+                    </label>
+                    <div class="invalid-feedback">
+                        You must confirm the format before submitting.
+                    </div>
+                </div>
+                
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary submit-btn">
+                        <i class="bi bi-upload me-2"></i>Import MCQs
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+// Example of form validation script
+document.addEventListener('DOMContentLoaded', function() {
+    // Fetch forms that need validation
+    const forms = document.querySelectorAll('.needs-validation');
+    
+    // Loop over them and prevent submission
+    Array.prototype.slice.call(forms).forEach(function(form) {
+        form.addEventListener('submit', function(event) {
+            if (!form.checkValidity()) {
+                event.preventDefault();
+                event.stopPropagation();
+            }
+            
+            form.classList.add('was-validated');
+        }, false);
+    });
+});
+</script>
+{% endblock %}

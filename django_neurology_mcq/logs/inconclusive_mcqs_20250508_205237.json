@@ -1,0 +1,2136 @@
+{
+  "total_mcqs": 3044,
+  "inconclusive_count": 162,
+  "reasons": {
+    "All options mentioned": 137,
+    "Multiple options not mentioned: D, C, B, A": 25
+  },
+  "subspecialty_counts": {
+    "Vascular Neurology Stroke": 33,
+    "Movement Disorders": 22,
+    "Neuroimmunology": 18,
+    "Neuromuscular": 14,
+    "Dementia": 12,
+    "Neurogenetics": 10,
+    "Other Unclassified": 9,
+    "Neuro-infectious": 9,
+    "Epilepsy": 7,
+    "Neuroanatomy": 6,
+    "Headache": 6,
+    "Neuro oncology": 6,
+    "Neuroophthalmology": 4,
+    "Critical Care Neurology": 2,
+    "Sleep Neurology": 2,
+    "Pediatric Neurology": 1,
+    "Neuropsychiatry": 1
+  },
+  "inconclusive_mcqs": [
+    {
+      "id": 100022089,
+      "question": "A medical patient with diabetes mellitus, hypertension, hyperlipidemia, osteoporosis, and on warfari...",
+      "options": {
+        "A": "Lamictal",
+        "B": "Phenytoin",
+        "C": "Carbamazepine",
+        "D": "Valproic acid"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Epilepsy",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100022129,
+      "question": "A 53-year-old male who presented with a first-time generalized tonic-clonic seizure, normal physical...",
+      "options": {
+        "A": "10%",
+        "B": "30%",
+        "C": "50%",
+        "D": "70%"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Epilepsy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022137,
+      "question": "In a focal aware seizure, which antiepileptic medication (ASM) is commonly used?",
+      "options": {
+        "A": "LCM (Lacosamide)",
+        "B": "VPA (Valproic Acid)",
+        "C": "CBZ (Carbamazepine)",
+        "D": "LEV (Levetiracetam)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Epilepsy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022257,
+      "question": "What is the treatment for focal seizures?",
+      "options": {
+        "A": "IV diazepam",
+        "B": "IV Keppra",
+        "C": "IV phenytoin",
+        "D": "IV Depakine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Epilepsy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022302,
+      "question": "A patient with epilepsy denies any aura, and the MRI shows heterotopia. What is the classification o...",
+      "options": {
+        "A": "Unknown",
+        "B": "Genetic",
+        "C": "Structural",
+        "D": "Symptomatic"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Epilepsy",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100022313,
+      "question": "A patient has seizure recurrence while on topiramate 200 mg and carbamazepine 400 mg bid. An EEG sho...",
+      "options": {
+        "A": "Drug interactions",
+        "B": "MTS",
+        "C": "Interictal spikes",
+        "D": "Poor compliance"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Epilepsy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022343,
+      "question": "A young patient presented to the neurology outpatient clinic for epilepsy evaluation. He has seizure...",
+      "options": {
+        "A": "Jacksonian March",
+        "B": "Impaired awareness to bilateral tonic-clonic seizure",
+        "C": "Focal aware seizure",
+        "D": "Absence seizure"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Epilepsy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022473,
+      "question": "An EEG shows a burst suppression pattern. What is the most likely status of the patient?",
+      "options": {
+        "A": "Brain dead",
+        "B": "Deep coma",
+        "C": "Under general anesthesia",
+        "D": "Hypothermia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022511,
+      "question": "Q2. A brain CT shows a coup-contrecoup injury with left frontal and right temporal bleed. What is th...",
+      "options": {
+        "A": "Trauma",
+        "B": "Cardioembolic",
+        "C": "Artery to artery",
+        "D": "Obstruction of venous flow"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Critical Care Neurology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022522,
+      "question": "Dementia with Lewy Bodies (DLB)",
+      "options": {
+        "A": "Characterized by early memory loss and language deficits",
+        "B": "Typically presents with prominent visual hallucinations and fluctuating cognition",
+        "C": "Is primarily caused by vascular pathology",
+        "D": "Does not involve parkinsonism features"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022524,
+      "question": "For the same patient, what treatment would you recommend?",
+      "options": {
+        "A": "Rivastigmine",
+        "B": "Lifestyle modification",
+        "C": "Memantine",
+        "D": "Donepezil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022525,
+      "question": "In the context of Dementia with Lewy Bodies (DLB), which medication is used for cognitive symptoms?",
+      "options": {
+        "A": "Quetiapine",
+        "B": "Rivastigmine",
+        "C": "Clonazepam",
+        "D": "Pimavanserin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022527,
+      "question": "In the case of Gerstmann syndrome, what is the associated language deficit?",
+      "options": {
+        "A": "Anomic aphasia",
+        "B": "Wernicke's aphasia",
+        "C": "Transcortical motor aphasia",
+        "D": "Conduction aphasia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022528,
+      "question": "This is a 70-year-old female with a history of short-term memory impairment, long-term memory not af...",
+      "options": {
+        "A": "Frontotemporal Dementia (FTD)",
+        "B": "Alzheimer's Disease (AD)",
+        "C": "Dementia with Lewy Bodies (DLB)",
+        "D": "Corticobasal Degeneration (CBD)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022545,
+      "question": "Apathy is more commonly seen in which condition?",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Parkinson disease",
+        "C": "Amyotrophic lateral sclerosis",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022549,
+      "question": "A patient with a history of neuropsychiatric symptoms and dementia for more than 5 years had PrPSc. ...",
+      "options": {
+        "A": "Variant CJD",
+        "B": "Kuru",
+        "C": "Familial insomnia",
+        "D": "Familial CJD"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022575,
+      "question": "Which of the following suggests Alzheimer Disease (AD) rather than Lewy Body Dementia (LBD)?",
+      "options": {
+        "A": "Staring into space for long periods",
+        "B": "Visual hallucinations",
+        "C": "Parkinsonian motor features",
+        "D": "Anterograde memory loss"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022592,
+      "question": "An 80-year-old patient presents with concerns about his memory function, as he is forgetting names o...",
+      "options": {
+        "A": "Alzheimer disease",
+        "B": "Normal aging",
+        "C": "Mild cognitive impairment",
+        "D": "Vascular dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022605,
+      "question": "Q101. In the context of Lewy body dementia, which of the following behavioral symptoms is commonly o...",
+      "options": {
+        "A": "Euphoria",
+        "B": "Psychosis",
+        "C": "Hyperactivity",
+        "D": "Mania"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022606,
+      "question": "What is the most likely diagnosis for a patient with a PET scan showing low FDG uptake in the pariet...",
+      "options": {
+        "A": "Frontotemporal Dementia (FTD)",
+        "B": "Alzheimer's Disease (AD)",
+        "C": "Dementia with Lewy Bodies (DLB)",
+        "D": "Parkinson's Disease (PD)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022626,
+      "question": "Fatigue during the daytime and increased sleepiness in a patient with Alzheimer\u2019s disease is due to ...",
+      "options": {
+        "A": "Atrophy in subthalamic nuclei",
+        "B": "Disturbance in serotonin pathway",
+        "C": "Decrease in glucose level",
+        "D": "Suprachiasmatic nucleus degeneration"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Dementia",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022647,
+      "question": "In a case of Sturge-Weber syndrome (hint: port wine stain on the face), what associated condition is...",
+      "options": {
+        "A": "Renal Angiofibroma",
+        "B": "Cardiac Rhabdomyosarcoma",
+        "C": "Glaucoma",
+        "D": "Seizures"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Pediatric Neurology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022654,
+      "question": "In Alzheimer's disease, which antipsychotic medication is known to increase weight?",
+      "options": {
+        "A": "Clozapine",
+        "B": "Quetiapine",
+        "C": "Haloperidol",
+        "D": "Olanzapine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuropsychiatry",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022693,
+      "question": "A 20-year-old patient presents with ataxia, spasticity, sensorimotor neuropathy, hypometric saccades...",
+      "options": {
+        "A": "Friedreich's ataxia",
+        "B": "Ataxic telangiectasia",
+        "C": "OPA1",
+        "D": "OPA2"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022702,
+      "question": "A case of spastic paraplegia with a family history of multiple sclerosis in the brother shows perive...",
+      "options": {
+        "A": "SPAST",
+        "B": "SPG4",
+        "C": "SPG3A",
+        "D": "ATL1"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022709,
+      "question": "A young male with diabetes mellitus presents with gait and limb ataxia, lower limb weakness, and hea...",
+      "options": {
+        "A": "Send him to cardiology to rule out cardiomyopathy",
+        "B": "Most of them are autosomal dominant",
+        "C": "Related to CAG",
+        "D": "Related to CTG"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022721,
+      "question": "A patient has had two strokes, sensory peripheral neuropathy, and a skin rash. What enzyme is involv...",
+      "options": {
+        "A": "Alpha-Galactosidase",
+        "B": "Hexosaminidase A",
+        "C": "Glucocerebrosidase",
+        "D": "Arylsulfatase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100022725,
+      "question": "A young male patient presented for evaluation of limb numbness. He is complaining of paresthesia and...",
+      "options": {
+        "A": "Low HDL",
+        "B": "High HDL",
+        "C": "High Cholesterol",
+        "D": "Low triglyceride"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100022735,
+      "question": "In a case scenario of spinal muscular atrophy (SMA) suggestive of autosomal recessive inheritance, w...",
+      "options": {
+        "A": "25% affected",
+        "B": "25% carriers",
+        "C": "50% carriers",
+        "D": "50% normal"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022743,
+      "question": "In a scenario of Fabry disease, what is the enzyme that is defective?",
+      "options": {
+        "A": "Alpha-galactosidase A",
+        "B": "Beta-glucocerebrosidase",
+        "C": "Sphingomyelinase",
+        "D": "Hexosaminidase A"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022746,
+      "question": "Pediatric patient had a bullous rash that worsens with sun exposure, and he has conjunctivitis; what...",
+      "options": {
+        "A": "Xeroderma pigmentosum",
+        "B": "Epidermolysis bullosa",
+        "C": "Porphyria cutanea tarda",
+        "D": "Systemic lupus erythematosus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022750,
+      "question": "Q296. An infant presents with a head circumference at the 100th percentile, height at the 10th perce...",
+      "options": {
+        "A": "Neurofibromatosis Type 1 (NF1)",
+        "B": "Neurofibromatosis Type 2 (NF2)",
+        "C": "Tuberous Sclerosis Complex (TSC)",
+        "D": "Fetal Alcohol Spectrum Disorder"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022768,
+      "question": "A patient with developmental delay and bilateral basal ganglia high signal intensity. What is the di...",
+      "options": {
+        "A": "Leigh syndrome",
+        "B": "Wilson disease",
+        "C": "Pantothenate kinase-associated neurodegeneration",
+        "D": "Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neurogenetics",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100022795,
+      "question": "A patient has tongue deviation to the left. Which area of the brain is likely affected?",
+      "options": {
+        "A": "Right medulla",
+        "B": "Left medulla",
+        "C": "Right midbrain",
+        "D": "Left midbrain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022804,
+      "question": "A patient exhibits agraphia, acalculia, and finger agnosia (Gerstmann Syndrome). What type of aphasi...",
+      "options": {
+        "A": "Anomia",
+        "B": "Broca's aphasia",
+        "C": "Wernicke's aphasia",
+        "D": "Conduction aphasia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100022820,
+      "question": "Q83. A patient presents with Horner's syndrome and a left deviated uvula. What other finding would y...",
+      "options": {
+        "A": "Right ptosis",
+        "B": "Left tongue deviation",
+        "C": "Right facial droop",
+        "D": "Left hemiparesis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022846,
+      "question": "Q91. A patient came with Broca\u2019s aphasia. What is the localization?",
+      "options": {
+        "A": "Frontoparietal operculum",
+        "B": "Wernicke's area",
+        "C": "Angular gyrus",
+        "D": "Primary auditory cortex"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022866,
+      "question": "A patient diagnosed with trigeminal neuralgia, what artery is the cause?",
+      "options": {
+        "A": "Superior Cerebellar",
+        "B": "Inferior Cerebellar",
+        "C": "Posterior Cerebellar",
+        "D": "Posterior communicating"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022872,
+      "question": "What is the most common artery to cause trigeminal neuralgia (TN)?",
+      "options": {
+        "A": "Superior cerebellar artery (SCA)",
+        "B": "Anterior inferior cerebellar artery (AICA)",
+        "C": "Posterior inferior cerebellar artery (PICA)",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroanatomy",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022897,
+      "question": "A similar case presents with left frontal focal hyperintensity mainly subcortical, with cortical dif...",
+      "options": {
+        "A": "Cerebral venous thrombosis (CVT)",
+        "B": "Posterior reversible encephalopathy syndrome (PRES)",
+        "C": "Arterial ischemic stroke",
+        "D": "Multiple sclerosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022898,
+      "question": "A patient presented with an inability to read his own handwriting, while his comprehension for spoke...",
+      "options": {
+        "A": "Posterior cerebral artery (PCA)",
+        "B": "Middle cerebral artery (MCA)",
+        "C": "Anterior cerebral artery (ACA)",
+        "D": "Posterior inferior cerebellar artery (PICA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022908,
+      "question": "Q40. Which of the following is a common neurologic deficit associated with AICA (Anterior Inferior C...",
+      "options": {
+        "A": "Headache",
+        "B": "Unilateral hearing loss",
+        "C": "Nausea/vomiting",
+        "D": "Vertigo"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022952,
+      "question": "A patient with sickle cell anemia is concerned about his risk of stroke due to a family history. Wha...",
+      "options": {
+        "A": "Transcranial Doppler",
+        "B": "CT Angiography (CTA)",
+        "C": "MRI",
+        "D": "Carotid ultrasound"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022975,
+      "question": "In a case of lateral pontine syndrome with a hint of hearing loss, which artery is most likely invol...",
+      "options": {
+        "A": "Anterior Inferior Cerebellar Artery (AICA)",
+        "B": "Posterior Inferior Cerebellar Artery (PICA)",
+        "C": "Superior Cerebellar Artery (SCA)",
+        "D": "Basilar Artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022979,
+      "question": "A patient experiences symptoms of a transient ischemic attack (TIA) for 10 minutes. Both echocardiog...",
+      "options": {
+        "A": "Neck CTA",
+        "B": "Brain MRI",
+        "C": "Carotid Doppler ultrasound",
+        "D": "Electroencephalogram (EEG)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100022998,
+      "question": "A lady with a two-day history of malignant left middle cerebral artery (MCA) stroke and midline shif...",
+      "options": {
+        "A": "Craniectomy",
+        "B": "Medical management with osmotic agents",
+        "C": "Anticoagulation therapy",
+        "D": "Thrombolysis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023008,
+      "question": "A 64-year-old diabetic patient presents with unilateral weakness that lasted 25 minutes and then ful...",
+      "options": {
+        "A": "Loading dose of Plavix followed by regular ASA and Plavix for 21 days",
+        "B": "ASA only",
+        "C": "Dual antiplatelet therapy",
+        "D": "Anticoagulation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023013,
+      "question": "In the context of acute ischemic stroke, which visual field defect is commonly observed?",
+      "options": {
+        "A": "Bitemporal hemianopia",
+        "B": "Homonymous hemianopia",
+        "C": "Central scotoma",
+        "D": "Quadrantanopia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023031,
+      "question": "Q146. What clinical features are seen in a patient with superior cerebellar artery infarction?",
+      "options": {
+        "A": "Nystagmus",
+        "B": "Wide-based gait",
+        "C": "Impaired finger-nose test",
+        "D": "Dysmetria"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023033,
+      "question": "A brain MRI shows unilateral watershed infarction. What should be ordered?",
+      "options": {
+        "A": "CTA",
+        "B": "MRI angiography",
+        "C": "CT scan",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023052,
+      "question": "In a scenario for giant cell arteritis (GCA), what is the most likely mechanism or artery involved?",
+      "options": {
+        "A": "Posterior ciliary artery",
+        "B": "Retinal central artery occlusion",
+        "C": "Superficial temporal artery",
+        "D": "Vertebral artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023056,
+      "question": "In a case scenario of alexia without agraphia, what artery is involved?",
+      "options": {
+        "A": "Posterior cerebral artery (PCA)",
+        "B": "Middle cerebral artery (MCA)",
+        "C": "Anterior cerebral artery (ACA)",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023060,
+      "question": "In a case scenario, a patient initially has a high NIH Stroke Scale Score (NIHSS) that drops to 6 bu...",
+      "options": {
+        "A": "Give t-PA",
+        "B": "Observe and monitor without intervention",
+        "C": "Start aspirin immediately",
+        "D": "Arrange urgent MRI brain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023070,
+      "question": "Q237. (Source: Promotion 2021mcqs.txt) An 80-year-old man with a history of diabetes and hypertensio...",
+      "options": {
+        "A": "IV tPA",
+        "B": "IV tPA followed by thrombectomy",
+        "C": "Observation",
+        "D": "Intravenous fluids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023084,
+      "question": "A patient with perimesencephalic subarachnoid hemorrhage (SAH) has undergone two normal angiograms. ...",
+      "options": {
+        "A": "Send home",
+        "B": "Repeat digital subtraction angiogram",
+        "C": "Perform MRI of the brain",
+        "D": "Initiate empiric antibiotic therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023092,
+      "question": "Post aortic surgery, a patient is awake with flaccid paraparesis and a sensory level at which of the...",
+      "options": {
+        "A": "T4",
+        "B": "T8",
+        "C": "L4",
+        "D": "C2"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023095,
+      "question": "A 65-year-old male with multiple cardiovascular risk factors and atrial fibrillation presents with a...",
+      "options": {
+        "A": "Anticoagulation",
+        "B": "Osmotic therapy",
+        "C": "Craniotomy/decompression",
+        "D": "Aspirin"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023100,
+      "question": "Q77. A patient post-RTA has an image attached. Where is the localization of the lesion?",
+      "options": {
+        "A": "Internal carotid artery",
+        "B": "Vertebral artery",
+        "C": "Middle cerebral artery",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023110,
+      "question": "A 60-year-old female patient presents with left side weakness. Carotid Doppler shows right carotid s...",
+      "options": {
+        "A": "Medical therapy",
+        "B": "Left carotid stent",
+        "C": "Left endarterectomy",
+        "D": "Right carotid stent"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023114,
+      "question": "A patient with asymptomatic extracranial internal carotid artery (ICA) 60% stenosis, what is the bes...",
+      "options": {
+        "A": "Maximize medical therapy",
+        "B": "Carotid endarterectomy",
+        "C": "Carotid stenting",
+        "D": "Lifestyle modification and risk factor control"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023121,
+      "question": "A patient with acute stroke received tPA and then developed intracerebral hemorrhage. What should be...",
+      "options": {
+        "A": "Cryoprecipitate",
+        "B": "Fresh frozen plasma",
+        "C": "Platelet transfusion",
+        "D": "Vitamin K"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023130,
+      "question": "A clear picture suggests perimesencephalic SAH. What is the most likely diagnosis?",
+      "options": {
+        "A": "Benign perimesencephalic SAH",
+        "B": "Aneurysmal SAH",
+        "C": "Traumatic SAH",
+        "D": "Non-aneurysmal SAH"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023147,
+      "question": "An 82-year-old woman presents with an acute ischemic stroke (onset 2 hours ago) and shows partial im...",
+      "options": {
+        "A": "Give IV tPA",
+        "B": "Administer aspirin",
+        "C": "Perform a thrombectomy",
+        "D": "Observe and reassess"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023150,
+      "question": "A male patient developed weakness and ptosis. A CTA image is attached. What is the most likely diagn...",
+      "options": {
+        "A": "ICA dissection",
+        "B": "Myasthenia gravis",
+        "C": "Brain tumor",
+        "D": "Stroke"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023192,
+      "question": "An elderly man with diabetes mellitus, hypertension, and a history of coronary artery bypass graftin...",
+      "options": {
+        "A": "Progressive supranuclear palsy (PSP)",
+        "B": "Vascular parkinsonism",
+        "C": "Dementia with Lewy bodies (DLB)",
+        "D": "Multiple system atrophy (MSA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023194,
+      "question": "An elderly man with diabetes mellitus, hypertension, and a history of coronary artery bypass graftin...",
+      "options": {
+        "A": "Vascular parkinsonism",
+        "B": "Normal pressure hydrocephalus (NPH)",
+        "C": "Parkinson's disease (PD)",
+        "D": "Progressive supranuclear palsy (PSP)"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023197,
+      "question": "A patient with stroke and fibromuscular dysplasia is being evaluated. What is the next step in manag...",
+      "options": {
+        "A": "Renal Angiography",
+        "B": "Antiplatelet therapy",
+        "C": "Carotid endarterectomy",
+        "D": "Blood pressure control"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023199,
+      "question": "A patient presented with acute limb weakness and dysarthria. A CT brain was performed and was normal...",
+      "options": {
+        "A": "Stop t-PA",
+        "B": "Diphenhydramine",
+        "C": "Immediate intubation",
+        "D": "CT brain"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023215,
+      "question": "An elderly patient with confusion, seizure, and weakness was brought to the emergency department. MR...",
+      "options": {
+        "A": "Amyloid-beta related angiitis",
+        "B": "Primary CNS angiitis",
+        "C": "Cerebral amyloid angiopathy without inflammation",
+        "D": "Hypertensive intracerebral hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023235,
+      "question": "What is a new recommendation for adults with acute ischemic stroke who have known sickle cell diseas...",
+      "options": {
+        "A": "IV alteplase may be beneficial",
+        "B": "Surgical intervention is mandatory",
+        "C": "No treatment is necessary",
+        "D": "Only supportive care is recommended"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023246,
+      "question": "In a patient with ischemic stroke, imaging shows bilateral anterior and posterior circulation stroke...",
+      "options": {
+        "A": "Prolonged cardiac monitoring",
+        "B": "Administer thrombolytics",
+        "C": "Start antiplatelet therapy",
+        "D": "Perform carotid endarterectomy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023257,
+      "question": "An IV drug user presented with an acute stroke within 2 hours. A noncontrast head CT (showing no hem...",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Thrombolysis",
+        "C": "Thrombectomy",
+        "D": "Supportive care and monitoring"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Vascular Neurology Stroke",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023297,
+      "question": "Medical therapy",
+      "options": {
+        "A": "Antiplatelet agents",
+        "B": "Beta-blockers",
+        "C": "Levodopa",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Other Unclassified",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023306,
+      "question": "The same patient is asking what treatment you will give. What will you choose?",
+      "options": {
+        "A": "Antiepileptic",
+        "B": "Antithrombotic",
+        "C": "Antihypertensive",
+        "D": "Statin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other Unclassified",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023310,
+      "question": "The same patient is asking about the treatment options. What is the treatment?",
+      "options": {
+        "A": "IVIG",
+        "B": "PLEX",
+        "C": "Corticosteroids",
+        "D": "Plasma exchange"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other Unclassified",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023319,
+      "question": "After all stroke workups are completed except for CTA, what is the next step?",
+      "options": {
+        "A": "CTA",
+        "B": "MRI brain",
+        "C": "Echocardiogram",
+        "D": "Carotid Doppler ultrasound"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other Unclassified",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023322,
+      "question": "Q311. What is the mechanism of the patient's condition?",
+      "options": {
+        "A": "Aneurysm rupture",
+        "B": "Atherosclerosis",
+        "C": "Premesencephalic hemorrhage",
+        "D": "Arteriovenous malformation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other Unclassified",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023327,
+      "question": "Which of the following statements about glucose is correct?",
+      "options": {
+        "A": "Glucose is the primary energy source for the brain",
+        "B": "Glucose is not utilized by neurons",
+        "C": "Glucose levels do not affect neurological function",
+        "D": "Glucose is only important in peripheral tissues"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other Unclassified",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023346,
+      "question": "A patient presents with dysarthria and dysphagia. What do you expect to find on this patient?",
+      "options": {
+        "A": "Left eye ptosis",
+        "B": "Right eye ptosis",
+        "C": "Right plantar Babinski response",
+        "D": "Tongue deviation to one side"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other Unclassified",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023349,
+      "question": "Q3. Mental retardation",
+      "options": {
+        "A": "Is a diagnosis",
+        "B": "Is a description of cognitive impairment",
+        "C": "Is caused by a single gene defect",
+        "D": "Is always progressive"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Other Unclassified",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023353,
+      "question": "Q73. A nurse got a needle stick in her finger after blood extraction from a patient. She refuses to ...",
+      "options": {
+        "A": "Report the incident.",
+        "B": "Respect the nurse's need.",
+        "C": "Check the patient file.",
+        "D": "Screen the patient for HIV, HBV, and HCV."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Other Unclassified",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023373,
+      "question": "In a patient with bilateral optic neuritis and longitudinally extensive transverse myelitis (LETM), ...",
+      "options": {
+        "A": "Oligoclonal bands (OCB)",
+        "B": "Aquaporin 4 antibodies",
+        "C": "Myelin oligodendrocyte glycoprotein (MOG) antibodies",
+        "D": "Anti-nuclear antibody (ANA)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023376,
+      "question": "In the scenario of a patient with Giant Cell Arteritis (GCA), which vessel is most commonly involved...",
+      "options": {
+        "A": "Posterior ciliary artery",
+        "B": "Middle cerebral artery",
+        "C": "Anterior cerebral artery",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023377,
+      "question": "A case scenario describes a patient with recurrent oral ulcers presenting with neurological deficits...",
+      "options": {
+        "A": "Neuro Beh\u00e7et's disease",
+        "B": "Systemic lupus erythematosus",
+        "C": "Multiple sclerosis",
+        "D": "Sj\u00f6gren's syndrome"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023410,
+      "question": "A female patient with optic neuritis has one periventricular MRI lesion. What is the next step in ma...",
+      "options": {
+        "A": "Start natalizumab",
+        "B": "Start interferon",
+        "C": "Observation until further investigation",
+        "D": "Repeat MRI in 6 months"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023426,
+      "question": "A young female with subacute behavioral change is admitted under psychiatric care. An MRI shows mesi...",
+      "options": {
+        "A": "Ovarian teratoma",
+        "B": "Lung cancer",
+        "C": "Breast cancer",
+        "D": "Thymoma"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023456,
+      "question": "A patient with one clinical attack of multiple sclerosis has:",
+      "options": {
+        "A": "Objective clinical evidence of one lesion",
+        "B": "Objective clinical evidence of two or more lesions",
+        "C": "Historical evidence of a prior attack involving a lesion in a distinct CNS location",
+        "D": "Normal neurological examination"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023523,
+      "question": "Q33. In the scenario of a patient with Giant Cell Arteritis (GCA) presenting with loss of vision, wh...",
+      "options": {
+        "A": "High-dose corticosteroids",
+        "B": "Immediate temporal artery biopsy",
+        "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "D": "Observation and follow-up"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023542,
+      "question": "Patient was diagnosed with Multiple sclerosis and has psoriasis. What is an appropriate DMT for her ...",
+      "options": {
+        "A": "Dimethyl fumarate",
+        "B": "Interferon beta-1a",
+        "C": "Natalizumab",
+        "D": "Fingolimod"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023553,
+      "question": "In patients with NMOSD, neurologic involvement is seen in what percentage of cases?",
+      "options": {
+        "A": "1-2%",
+        "B": "5-10%",
+        "C": "15-20%",
+        "D": "25-30%"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023559,
+      "question": "Q23. (Source: CriticalCareNeurology) A patient with relapsing-remitting multiple sclerosis (RRMS) an...",
+      "options": {
+        "A": "Dimethyl fumarate",
+        "B": "Natalizumab",
+        "C": "Interferon beta",
+        "D": "Glatiramer acetate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023575,
+      "question": "Q141. (Source: MovementDisorders) MS pathophysiology is most commonly associated with which of the f...",
+      "options": {
+        "A": "EBV",
+        "B": "Vitamin B12",
+        "C": "HHV-6",
+        "D": "Herpes Simplex Virus"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023586,
+      "question": "Q210. A patient with optic neuritis and one periventricular lesion. What is her McDonald criteria?",
+      "options": {
+        "A": "Fulfilling both space and time",
+        "B": "Fulfilling only space but not time",
+        "C": "Not fulfilling both space and time",
+        "D": "Fulfilling only time but not space"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroimmunology",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023605,
+      "question": "Q82. In a long scenario for a patient with neuropathy and asthma, what is the next step in managemen...",
+      "options": {
+        "A": "ANCA testing for Churg-Strauss syndrome",
+        "B": "Nerve conduction studies",
+        "C": "High-dose corticosteroids",
+        "D": "Chest X-ray"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023640,
+      "question": "A young female with a previous history of two optic neuritis attacks presents with new symptoms of s...",
+      "options": {
+        "A": "Relapsing remitting multiple sclerosis",
+        "B": "Neuromyelitis optica spectrum disorder",
+        "C": "Acute disseminated encephalomyelitis",
+        "D": "Myelin oligodendrocyte glycoprotein antibody\u2010associated disease"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023641,
+      "question": "A young female presented with a typical history of optic neuritis. Brain and spine MRI were normal. ...",
+      "options": {
+        "A": "16% risk of conversion to MS",
+        "B": "25% risk of conversion to MS",
+        "C": "51% risk of conversion to MS",
+        "D": "10% risk of conversion to MS"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023652,
+      "question": "In the same scenario [Implicitly related to an MS/NMO context], what is the most likely diagnosis fo...",
+      "options": {
+        "A": "Relapsing remitting multiple sclerosis",
+        "B": "Primary progressive multiple sclerosis",
+        "C": "Transverse myelitis",
+        "D": "Neuromyelitis optica"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023668,
+      "question": "A patient with systemic lupus erythematosus (SLE) complicated by nephritis presents with acute behav...",
+      "options": {
+        "A": "Herpes simplex virus (HSV) encephalitis",
+        "B": "SLE cerebritis",
+        "C": "Posterior reversible encephalopathy syndrome (PRES)",
+        "D": "Cerebral venous thrombosis (CVT)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023675,
+      "question": "A 78-year-old female presents with bilateral headaches and facial pain when eating, accompanied by d...",
+      "options": {
+        "A": "Ischemic optic neuropathy due to short ciliary artery involvement",
+        "B": "Retinal artery occlusion",
+        "C": "Central retinal artery occlusion",
+        "D": "Giant cell arteritis (GCA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroimmunology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023739,
+      "question": "Most common cause of isolated 4th nerve palsy is:",
+      "options": {
+        "A": "Trauma",
+        "B": "AVM",
+        "C": "Aneurysm",
+        "D": "Cavernous sinus thrombosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023763,
+      "question": "A 45-year-old female presented with visual blurring and is diagnosed with Brun\u2019s nystagmus. Brun\u2019s n...",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Ipsilateral vestibular system",
+        "C": "Midbrain",
+        "D": "Pons"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuroophthalmology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023769,
+      "question": "Q279. A patient came with right optic atrophy and left papilledema. Where is the localization of the...",
+      "options": {
+        "A": "Left frontal",
+        "B": "Right frontal",
+        "C": "Right occipital",
+        "D": "Left occipital"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023780,
+      "question": "A young male presents with progressive bilateral ptosis and ophthalmoparesis, with no family history...",
+      "options": {
+        "A": "Kearns-Sayre syndrome",
+        "B": "Oculopharyngeal muscular dystrophy",
+        "C": "Myasthenia gravis",
+        "D": "Chronic progressive external ophthalmoplegia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuroophthalmology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023783,
+      "question": "A patient with frequent falls and vertical gaze palsy shows tectal atrophy on Brain MRI. What condit...",
+      "options": {
+        "A": "Progressive Supranuclear Palsy (PSP)",
+        "B": "Multiple System Atrophy (MSA)",
+        "C": "Alzheimer's Disease",
+        "D": "Parkinson's Disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023792,
+      "question": "In a case of multiple system atrophy (MSA), what radiological finding is commonly associated?",
+      "options": {
+        "A": "Hot cross bun sign",
+        "B": "Dawson's fingers",
+        "C": "Butterfly glioma",
+        "D": "Ring-enhancing lesion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023799,
+      "question": "What is dyskinesia related to essential physiological conditions?",
+      "options": {
+        "A": "Shambolic",
+        "B": "Amnesia related to alcohol",
+        "C": "Y- Be",
+        "D": "Bandhand neck"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023814,
+      "question": "An approximately 70-year-old male patient has had recurrent falls and gait imbalance over the last 6...",
+      "options": {
+        "A": "Progressive Supranuclear Palsy (PSP)",
+        "B": "Multiple System Atrophy (MSA)",
+        "C": "Lewy Body Dementia (LBD)",
+        "D": "Corticobasal Degeneration (CBD)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023820,
+      "question": "A 61\u2010year\u2010old male with a 2\u2010year history of limb tremors and bradykinesia has postural instability a...",
+      "options": {
+        "A": "Corticobasal degeneration (CBD)",
+        "B": "Multiple system atrophy (MSA)",
+        "C": "Alzheimer's disease (AD)",
+        "D": "Parkinson's disease (PD)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023821,
+      "question": "A patient with essential tremor and asthma, what is the treatment?",
+      "options": {
+        "A": "Primidone",
+        "B": "Propranolol",
+        "C": "Topiramate",
+        "D": "Gabapentin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023830,
+      "question": "An elderly patient has a history of frequent falls, limited vertical gaze, and parkinsonian features...",
+      "options": {
+        "A": "Progressive supranuclear palsy (PSP)",
+        "B": "Multiple system atrophy (MSA)",
+        "C": "Parkinson's disease",
+        "D": "Corticobasal degeneration"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023851,
+      "question": "A male patient, 85 years old, presents with gait freezing, cognitive changes, bradykinesia, and urin...",
+      "options": {
+        "A": "Start levodopa",
+        "B": "Start donepezil",
+        "C": "Refer for surgery",
+        "D": "Initiate physical therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023857,
+      "question": "A 70-year-old male presents with a history of left arm dystonia, bradykinesia, and myoclonus. He mov...",
+      "options": {
+        "A": "Frontotemporal dementia (FTD)",
+        "B": "Alzheimer's disease (AD)",
+        "C": "Dementia with Lewy bodies (DLB)",
+        "D": "Corticobasal degeneration (CBD)"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023858,
+      "question": "A 60-year-old male presents with recent onset of progressive difficulty using the right hand. Clinic...",
+      "options": {
+        "A": "Corticobasal degeneration",
+        "B": "Basal ganglia stroke",
+        "C": "Progressive Supranuclear Palsy (PSP)",
+        "D": "Multiple System Atrophy (MSA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023863,
+      "question": "A 70-year-old female with a known case of Parkinson\u2019s disease has had stable symptoms for the last 6...",
+      "options": {
+        "A": "Add Artane",
+        "B": "Decrease levodopa and increase interval",
+        "C": "Deep brain stimulation (DBS)",
+        "D": "Rescue injection"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023867,
+      "question": "An elderly patient presents with imbalance that improves with walking. On examination, you find gait...",
+      "options": {
+        "A": "NCS/EMG",
+        "B": "Brain MRI",
+        "C": "Dopamine transporter (DAT) scan",
+        "D": "Trial of levodopa"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100023902,
+      "question": "A patient with essential tremor and asthma, what is the treatment?",
+      "options": {
+        "A": "Primidone",
+        "B": "Propranolol",
+        "C": "Topiramate",
+        "D": "Benzodiazepines"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023918,
+      "question": "A 70-year-old male patient with a history of Parkinson\u2019s disease for 10 years, who has been respondi...",
+      "options": {
+        "A": "Idiopathic Parkinson disease",
+        "B": "Multiple System Atrophy (MSA)",
+        "C": "Progressive Supranuclear Palsy",
+        "D": "Lewy Body Dementia"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023919,
+      "question": "A male patient presents with parkinsonism and swallowing difficulty, and MRI shows atrophy of the mi...",
+      "options": {
+        "A": "Progressive Supranuclear Palsy (PSP)",
+        "B": "Multiple System Atrophy (MSA)",
+        "C": "Parkinson's Disease",
+        "D": "Corticobasal Degeneration"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023935,
+      "question": "A 70-year-old male patient presents with recurrent falls and gait imbalance over the last 6 months. ...",
+      "options": {
+        "A": "Progressive Supranuclear Palsy (PSP)",
+        "B": "Multiple System Atrophy (MSA)",
+        "C": "Lewy Body Dementia (LBD)",
+        "D": "Corticobasal Degeneration (CBD)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023947,
+      "question": "What is the pathology associated with Multiple System Atrophy (MSA)?",
+      "options": {
+        "A": "Iron deposition",
+        "B": "Glial cytoplasmic inclusions",
+        "C": "Neurofibrillary tangles",
+        "D": "Lewy bodies"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023960,
+      "question": "In a patient with parkinsonism symptoms not responding to Sinemet, which condition is characterized ...",
+      "options": {
+        "A": "Corticobasal degeneration (CBD)",
+        "B": "Lewy body dementia (LBD)",
+        "C": "Progressive supranuclear palsy (PSP)",
+        "D": "Multiple system atrophy (MSA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100023992,
+      "question": "Which is a Tauopathy?",
+      "options": {
+        "A": "MSA",
+        "B": "PSP",
+        "C": "DLB",
+        "D": "CBD"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024007,
+      "question": "A patient with features of Friedreich Ataxia is asked about the associated gene. What is the gene in...",
+      "options": {
+        "A": "FXN gene with GAA trinucleotide repeat expansion",
+        "B": "HTT gene",
+        "C": "SOD1 gene",
+        "D": "PARK2 gene"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024013,
+      "question": "A 50-year-old female presents with complaints of imbalance and tremor. MRI shows bilateral hyperinte...",
+      "options": {
+        "A": "Fragile X syndrome [FXTAS]",
+        "B": "Paraneoplastic syndrome",
+        "C": "Multiple System Atrophy (MSA)",
+        "D": "Progressive Supranuclear Palsy (PSP)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024035,
+      "question": "What test is associated with Sydenham chorea in a girl?",
+      "options": {
+        "A": "ASO titer",
+        "B": "Anti-DNAse B antibody",
+        "C": "ESR (Erythrocyte Sedimentation Rate)",
+        "D": "ANA (Antinuclear Antibody)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Movement Disorders",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024054,
+      "question": "Which of the following is a primary sleep-related movement disorder commonly exacerbated during preg...",
+      "options": {
+        "A": "Restless Legs Syndrome (RLS)",
+        "B": "Parkinson's Disease",
+        "C": "Multiple Sclerosis",
+        "D": "Epilepsy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024065,
+      "question": "A 45-year-old male is experiencing poor sleep and recent mood changes, with early awakening as repor...",
+      "options": {
+        "A": "Pharmacotherapy and hypnotic measures have good effects.",
+        "B": "Sleep hygiene measures always fail.",
+        "C": "Hypnotic measures are effective in sleep apnea.",
+        "D": "Use antipsychotics for depression."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Sleep Neurology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024079,
+      "question": "In a scenario of SUNA (Short-lasting Unilateral Neuralgiform headache attacks with conjunctival inje...",
+      "options": {
+        "A": "Lamotrigine",
+        "B": "Indomethacin",
+        "C": "Triptans",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024131,
+      "question": "A male patient has a history of headaches that consistently awaken him from sleep. What is the most ...",
+      "options": {
+        "A": "Caffeine",
+        "B": "Triptan",
+        "C": "Lamotrigine (Lamictal)",
+        "D": "Verapamil (VA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024151,
+      "question": "A young female patient with a history of migraines and diabetes mellitus is a university student. Wh...",
+      "options": {
+        "A": "Amitriptyline (can cause sedation)",
+        "B": "Propranolol",
+        "C": "Topamax",
+        "D": "Valproate"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024163,
+      "question": "A female patient presented with a history of flashing in the right eye, followed by right homonymous...",
+      "options": {
+        "A": "Hemiplegic migraine.",
+        "B": "Transient ischemic attack (TIA).",
+        "C": "Occipital lobe seizure.",
+        "D": "Posterior reversible encephalopathy syndrome (PRES)."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024243,
+      "question": "A 50-year-old male with a history of migraine has recently been diagnosed with myocardial infarction...",
+      "options": {
+        "A": "Amitriptyline",
+        "B": "Verapamil",
+        "C": "Triptan",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024249,
+      "question": "Q66. SUNCT and SUNA are characterized by sudden brief attacks of severe unilateral head pain in whic...",
+      "options": {
+        "A": "Occipital and cervical",
+        "B": "Orbital, peri-orbital, or temporal",
+        "C": "Frontal and parietal",
+        "D": "Maxillary and mandibular"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024267,
+      "question": "A lady presents with a cerebellopontine angle mass; pathology shows psammoma bodies. What is the lik...",
+      "options": {
+        "A": "Meningioma",
+        "B": "Ependymoma",
+        "C": "Schwannoma",
+        "D": "Epidermoid cyst"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro oncology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024324,
+      "question": "Regarding diffuse astrocytoma grade 2, which statement is true?",
+      "options": {
+        "A": "Most common type is polyastrocytoma",
+        "B": "Surgical removal has a good outcome.",
+        "C": "It typically shows rapid progression within weeks",
+        "D": "It is highly responsive to chemotherapy alone"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro oncology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024326,
+      "question": "Q403. Addresses management of symptomatic edema in GBM.",
+      "options": {
+        "A": "Dexamethasone",
+        "B": "Phenytoin",
+        "C": "Bevacizumab",
+        "D": "Mannitol"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro oncology",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024354,
+      "question": "A coronal brain MRI shows a frontal extra-axial homogeneous mass. What is the likely histopathology ...",
+      "options": {
+        "A": "Psammoma bodies",
+        "B": "Pseudopalisading",
+        "C": "Neovascularization",
+        "D": "Antoni A and B areas"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro oncology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024385,
+      "question": "An elderly male patient presents with pancerebellar degeneration. What is the paraneoplastic antibod...",
+      "options": {
+        "A": "Anti-Hu",
+        "B": "VGCC",
+        "C": "Anti-Ma",
+        "D": "Anti-Yo"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro oncology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024408,
+      "question": "A patient came with a brain tumor, and his first-degree relative had a history of spine tumor and pe...",
+      "options": {
+        "A": "Neurofibromatosis type 1 (NF1)",
+        "B": "Familial schwannoma",
+        "C": "Von-Hippel Lindau",
+        "D": "Tuberous sclerosis complex"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuro oncology",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024438,
+      "question": "A male from Africa presents to Saudi Arabia with fever and vague neurological symptoms, including en...",
+      "options": {
+        "A": "Cerebral malaria",
+        "B": "Meningitis",
+        "C": "Encephalitis",
+        "D": "Stroke"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024447,
+      "question": "Q63. A sickle cell patient presents with back pain and lower limb weakness. On examination, he has b...",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Escherichia coli",
+        "D": "Salmonella spp."
+      },
+      "correct_answer": "D",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024458,
+      "question": "In the case of tuberculosis (TB), which artery is most commonly involved?",
+      "options": {
+        "A": "Middle cerebral artery (MCA)",
+        "B": "Anterior cerebral artery (ACA)",
+        "C": "Posterior cerebral artery (PCA)",
+        "D": "Basilar artery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024465,
+      "question": "A patient with sickle cell anemia presents with low back pain and fever. What is the most likely org...",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Salmonella species",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Escherichia coli"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024476,
+      "question": "A case scenario of a young male IV drug user presented with fever and hemiparesis. What will you do?",
+      "options": {
+        "A": "Start antibiotics",
+        "B": "Anti-platelets",
+        "C": "Anticoagulation",
+        "D": "tPA"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024499,
+      "question": "Q17. A patient with a known case of diabetes mellitus presents with a black spot on the nose. What i...",
+      "options": {
+        "A": "Amphotericin B",
+        "B": "Fluconazole",
+        "C": "Surgical debridement",
+        "D": "Voriconazole"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024553,
+      "question": "An Indian patient presents with seizures and multiple small brain lesions. What is the most likely d...",
+      "options": {
+        "A": "Cysticercosis",
+        "B": "Toxoplasmosis",
+        "C": "Tuberculoma",
+        "D": "Brain abscess"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024610,
+      "question": "Q89. What is the most common cause of polyradiculoneuropathy?",
+      "options": {
+        "A": "CMV",
+        "B": "West Nile",
+        "C": "HIV",
+        "D": "Lyme disease"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024624,
+      "question": "What is the most common brain abscess in patients with HIV?",
+      "options": {
+        "A": "Tuberculosis (TB)",
+        "B": "Toxoplasmosis",
+        "C": "Cytomegalovirus (CMV)",
+        "D": "Cryptococcosis"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuro-infectious",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024648,
+      "question": "Q157. A patient with myotonia is being evaluated. Which of the following conditions is associated wi...",
+      "options": {
+        "A": "Diabetes Mellitus (DM)",
+        "B": "Myotonic dystrophy",
+        "C": "Hypertension",
+        "D": "Osteolytic bone lesions"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024670,
+      "question": "A patient with a picture of limb-girdle muscular dystrophy (LGMD) underwent three surgeries under ge...",
+      "options": {
+        "A": "He is not at risk at all since he underwent three procedures without complications",
+        "B": "He still has the risk",
+        "C": "He is at high risk",
+        "D": "He can safely undergo anesthesia without precautions"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024711,
+      "question": "Kearns-Sayre syndrome",
+      "options": {
+        "A": "Is characterized by progressive external ophthalmoplegia, pigmentary retinopathy, and onset before age 20",
+        "B": "Is an autosomal recessive disorder affecting the peripheral nerves",
+        "C": "Primarily affects the lower motor neurons causing muscle atrophy",
+        "D": "Is caused by mutations in the dystrophin gene"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024767,
+      "question": "Which of the following muscles is innervated by the ulnar nerve?",
+      "options": {
+        "A": "Adductor pollicis",
+        "B": "Flexor carpi ulnaris",
+        "C": "Flexor digitorum profundus (digits 4, 5)",
+        "D": "Lumbricals (III, IV)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100024768,
+      "question": "A patient presents with moderate muscle weakness, hyperkeratosis on the hands, and lung crackles. Wh...",
+      "options": {
+        "A": "MDA antibody",
+        "B": "Anti-synthase antibody",
+        "C": "Anti-Mi-2 antibody",
+        "D": "Anti-SRP antibody"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024832,
+      "question": "A young man who had abdominal pain around 1 week back and had a flu vaccine 2 weeks ago presented wi...",
+      "options": {
+        "A": "IV IG",
+        "B": "Prednisolone",
+        "C": "Plasma exchange",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024933,
+      "question": "In a scenario of LGM1B (laminopathy) with elevated heart enzyme levels, what is the expected finding...",
+      "options": {
+        "A": "Contracture of elbow and ankle",
+        "B": "Late contracture in LGMD1B (AD)",
+        "C": "Early contracture in Emery-Dreifuss dystrophy (X-linked)",
+        "D": "Cardiac conduction defects"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024934,
+      "question": "In a case scenario of a patient with findings suggestive of hereditary motor and sensory neuropathy ...",
+      "options": {
+        "A": "Onion bulb",
+        "B": "Sausage-like demyelination",
+        "C": "Axonal injury",
+        "D": "Normal findings"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024954,
+      "question": "The same patient is asking about the treatment. What is the most effective treatment for this condit...",
+      "options": {
+        "A": "IV immunoglobulin (IVIG)",
+        "B": "Plasmapheresis (PLEX)",
+        "C": "Corticosteroids",
+        "D": "Cyclophosphamide"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100024994,
+      "question": "An elderly female presents with typical features of CIDP (Chronic Inflammatory Demyelinating Polyneu...",
+      "options": {
+        "A": "MAG antibodies",
+        "B": "Anti-MAG antibodies",
+        "C": "Anti-GM1 antibodies",
+        "D": "Anti-MuSK antibodies"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100025013,
+      "question": "Q36. In a scenario of Hereditary Sensory and Autonomic Neuropathy type 1 (HSAN 1) characterized by p...",
+      "options": {
+        "A": "SPTLC1",
+        "B": "IKABh",
+        "C": "TRKA",
+        "D": "RAB7"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100025014,
+      "question": "In a case scenario of a patient with an androgen receptor gene defect suggestive of Kennedy syndrome...",
+      "options": {
+        "A": "Diabetes Mellitus (DM)",
+        "B": "Hepatomegaly",
+        "C": "Testicular atrophy",
+        "D": "Gynecomastia"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Neuromuscular",
+      "reason": "Multiple options not mentioned: D, C, B, A"
+    },
+    {
+      "id": 100025021,
+      "question": "Q38. What is the mode of inheritance for adult familial ALS?",
+      "options": {
+        "A": "Autosomal Dominant",
+        "B": "Autosomal Recessive",
+        "C": "X-linked Recessive",
+        "D": "Mitochondrial Inheritance"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    },
+    {
+      "id": 100025025,
+      "question": "In a case of a young female who developed episodic and recurrent weakness at different sites (compre...",
+      "options": {
+        "A": "PMP22 deletion",
+        "B": "PMP22 duplication",
+        "C": "Charcot-Marie-Tooth type 1A",
+        "D": "Myasthenia gravis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Neuromuscular",
+      "reason": "All options mentioned"
+    }
+  ],
+  "timestamp": "2025-05-08T20:52:37.005743"
+}

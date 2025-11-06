@@ -1,0 +1,351 @@
+[
+  {
+    "question_number": "Q57",
+    "question_text": "Which diagnostic study is used to identify focal motor conduction block in MMN?",
+    "options": {
+      "A": "MRI",
+      "B": "Nerve conduction studies (NCS)",
+      "C": "Sural nerve biopsy",
+      "D": "Blood tests"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q200",
+    "question_text": "",
+    "options": {
+      "A": "patient presented to the outpatient clinic with complaints of wrist drop. Examination showed weakness in finger extension, with normal wrist and elbow flexion and extension, and normal sensation. Where is the site of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q202",
+    "question_text": "In a scenario involving a female patient with ocular myasthenia gravis, what is the best sensitive test to confirm the diagnosis?",
+    "options": {
+      "A": "Single fiber EMG",
+      "B": "AChR antibody",
+      "C": "Ice pack test",
+      "D": "Repetitive nerve stimulation"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypokalemic periodic paralysis has a potassium level of 2.6. After administering potassium, what is the next step in treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q385",
+    "question_text": "",
+    "options": {
+      "A": "case of a patient with cramps and stiffness that relieve with movements is noted, with a similar history in the father. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "In a case scenario of a patient with findings suggestive of dermatomyositis (hints: dermal lesions, myopathy), what is the expected biopsy finding?",
+    "options": {
+      "A": "Rimmed vacuole",
+      "B": "Perifascicular atrophy",
+      "C": "Endomysial inflammation",
+      "D": "Necrotizing myopathy"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q419",
+    "question_text": "In the context of neuromyopathies, which medication is commonly associated with treatment?",
+    "options": {
+      "A": "Chloroquine",
+      "B": "Prednisone",
+      "C": "Azathioprine",
+      "D": "Methotrexate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q124",
+    "question_text": "",
+    "options": {
+      "A": "young patient had recurrent weakness induced by exercise that improves after a period of rest. How can the diagnosis (Case of McArdle disease) be reached?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q422",
+    "question_text": "",
+    "options": {
+      "A": "Filipino male patient presents with a history of generalized weakness upon waking. What laboratory test should be ordered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q538",
+    "question_text": "What is the treatment for Inclusion Body Myositis (IBM)?",
+    "options": {
+      "A": "Steroid",
+      "B": "IVIG",
+      "C": "Supportive treatment",
+      "D": "Immunosuppressants"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q555",
+    "question_text": "",
+    "options": {
+      "A": "patient with proximal upper and lower limb weakness and dysmorphic features underwent a muscle biopsy that showed central core. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q117",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old patient has difficulty climbing stairs, a positive Gower sign, and on examination has bilateral scapular winging. His parents are first-degree cousins, and his sister is affected as well. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q183",
+    "question_text": "",
+    "options": {
+      "A": "35-year-old male has progressive asymmetric weakness starting in the right leg that ascends to both arms, with no sensory, ocular, or autonomic features. On examination, there is brisk deep tendon reflexes with atrophy and fasciculation. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q543",
+    "question_text": "What is a hallmark finding in the cerebrospinal fluid (CSF) of patients with CIDP?",
+    "options": {
+      "A": "Elevated protein with normal cell count",
+      "B": "Increased white blood cell count",
+      "C": "Decreased glucose levels",
+      "D": "Presence of oligoclonal bands"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "",
+    "options": {
+      "A": "patient with proximal upper and lower limb weakness and dysmorphic features underwent a muscle biopsy that showed central core. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q555",
+    "question_text": "Which of the following is the most common cause of ischemic stroke?",
+    "options": {
+      "A": "Cardioembolism",
+      "B": "Large artery atherosclerosis",
+      "C": "Small vessel occlusion",
+      "D": "Cerebral venous thrombosis"
+    },
+    "correct_answer": "B",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q462",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a long face and central core on pathology. What condition might this suggest?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q146",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old man had renal tubular acidosis (RTA) and a right acetabular fracture, and developed right ankle dorsiflexion weakness with decreased sensation over the dorsum of the right foot. What structure is most likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q429",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypokalemic periodic paralysis has a potassium level of 2.3 mEq/L. What is the first-line treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q532",
+    "question_text": "In a patient with AIDP, what is the expected nerve conduction study (NCS) finding at day 5?",
+    "options": {
+      "A": "Sural sparing with affected median and ulnar nerves"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q464",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with upper limb and lower limb weakness and numbness with bilateral lower limb edema. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q481",
+    "question_text": "",
+    "options": {
+      "A": "patient with high CK levels and myositis is currently on statin therapy. What is the recommended management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q552",
+    "question_text": "",
+    "options": {
+      "A": "15-year-old male has myotonia and weakness that improves after exercise; his father has the same condition. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q387",
+    "question_text": "SMA",
+    "options": {
+      "A": "A sensory neuropathy",
+      "B": "A motor neuron disease",
+      "C": "A demyelinating polyneuropathy",
+      "D": "A neuromuscular junction disorder"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q560",
+    "question_text": "",
+    "options": {
+      "A": "young man presents with myotonia that improves after exercise. His father had the same diagnosis. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

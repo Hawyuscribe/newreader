@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q68",
+    "question_text": "Which visual field defect is characterized by loss of vision in the upper quadrant of the visual field?",
+    "options": {
+      "A": "Contralateral superior quadrantopia",
+      "B": "Contralateral inferior quadrantopia",
+      "C": "Bitemporal hemianopia",
+      "D": "Central scotoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q293",
+    "question_text": "Which of the following has a large effect on Relative Afferent Pupillary Defect (RAPD)?",
+    "options": {
+      "A": "Optic nerve",
+      "B": "Retina",
+      "C": "Optic tract",
+      "D": "Lateral geniculate ganglion (LGG)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "Hydroxyamphetamine drops help differentiate between which conditions?",
+    "options": {
+      "A": "Preganglionic from postganglionic",
+      "B": "Sympathetic from parasympathetic lesions",
+      "C": "Central from peripheral Horner's syndrome",
+      "D": "Adie's pupil from Horner's syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "In a patient with ipsilateral scotoma and contralateral quadrantanopia, where is the localization of the lesion? (Describes junctional scotoma variant)",
+    "options": {
+      "A": "Occipital lobe",
+      "B": "Optic radiation",
+      "C": "Optic chiasm",
+      "D": "Optic nerve"
+    },
+    "correct_answer": "C",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q20",
+    "question_text": "Examination of patients with anisocoria using hydroxyamphetamine eye drops helps in the diagnosis of?",
+    "options": {
+      "A": "Pre and post ganglionic lesion",
+      "B": "Third nerve palsy",
+      "C": "Adie\u2019s pupils",
+      "D": "Horner\u2019s syndrome"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "Hydroxyamphetamine causes dilation of the pupil by releasing norepinephrine from the postganglionic neuron."
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with one eye visual loss followed by hearing loss. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q108",
+    "question_text": "",
+    "options": {
+      "A": "Branch retinal artery occlusions and sensorineural hearing loss",
+      "B": "Progressive muscle weakness and fasciculations",
+      "C": "Episodic memory loss and personality changes",
+      "D": "Sudden onset hemiparesis and aphasia"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "In the case of the largest relative afferent pupillary defect (RAPD), which structure is primarily affected?",
+    "options": {
+      "A": "Optic nerves",
+      "B": "Optic tracts",
+      "C": "Lateral geniculate body",
+      "D": "Optic chiasma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "In the case of giant cell arteritis, what is the next step in management?",
+    "options": {
+      "A": "Steroid therapy",
+      "B": "Temporal artery biopsy",
+      "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+      "D": "Observation and symptomatic treatment"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q206",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with eye pain that worsens with movement. Which of the following conditions could be the cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "In an embryological problem of the optic chiasm, what finding would you expect to see in the examination?",
+    "options": {
+      "A": "Optic ataxia",
+      "B": "Seesaw nystagmus",
+      "C": "Oculomotor apraxia",
+      "D": "Bitemporal hemianopia"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q123",
+    "question_text": "In a scenario of Leber's Hereditary Optic Neuropathy (LHON), what diagnostic tests would you consider to assess complications of this condition?",
+    "options": {
+      "A": "ECG",
+      "B": "Renal ultrasound",
+      "C": "Visual evoked potentials",
+      "D": "Brain MRI"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q363",
+    "question_text": "",
+    "options": {
+      "A": "patient had left eye heterotopia and skew deviation, tilting to the right. Where is the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q14",
+    "question_text": "What is the most common cause of trochlear nerve palsy?",
+    "options": {
+      "A": "Trauma",
+      "B": "Congenital",
+      "C": "Microvascular ischemia",
+      "D": "Neoplasm"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "middle-aged patient presented with sudden severe headache and double vision. Examination shows complete right ptosis and decreased visual acuity in the right eye. What is the possible diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q323",
+    "question_text": "What is the most common cause of trochlear nerve atrophy?",
+    "options": {
+      "A": "Infarction",
+      "B": "Trauma",
+      "C": "Compression by tumor",
+      "D": "Demyelinating disease"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q73",
+    "question_text": "",
+    "options": {
+      "A": "patient with Horner syndrome did not respond to either hydroxyamphetamine or cocaine. What type of lesion is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q235",
+    "question_text": "",
+    "options": {
+      "A": "female patient presents with central nervous system manifestations, including hearing loss and retinal artery occlusion. Which of the following conditions is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "patient with Horner syndrome did not respond to either hydroxyamphetamine or cocaine. What is the most likely location of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "In a case of optic neuritis in the right eye, which of the following findings is consistent with the condition?",
+    "options": {
+      "A": "Prolonged P100 in the right eye",
+      "B": "Prolonged P100 in the left eye",
+      "C": "Shortened P100 in the right eye",
+      "D": "Shortened P100 in the left eye"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q96",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with Horner's syndrome that does not react to cocaine or amphetamine. What type of lesion is indicated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "",
+    "options": {
+      "A": "75-year-old male patient with a history of hypertension and diabetes mellitus presents with chronic symptoms of polymyalgia rheumatica, severe headache, and visual loss in the right eye. Fundoscopic examination shows cotton wool exudates and an elevated ESR. What is the most appropriate next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q438",
+    "question_text": "",
+    "options": {
+      "A": "patient with ptosis is evaluated with Hydroxyamphetamine. What does this test differentiate?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q354",
+    "question_text": "",
+    "options": {
+      "A": "young lady presents with proptosis, ptosis, complete ophthalmoplegia, and decreased sensation in V1 and V2. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroophthalmology",
+    "explanation": ""
+  }
+]

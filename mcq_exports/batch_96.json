@@ -1,0 +1,342 @@
+[
+  {
+    "question_number": "Q229",
+    "question_text": "In a case of Duchenne muscular dystrophy where the patient\u2019s brother has the same disease, which of the following statements is true?",
+    "options": {
+      "A": "The disease is autosomal dominant.",
+      "B": "The heart is rarely involved in this disease.",
+      "C": "The mother is a carrier.",
+      "D": "The disease is curable."
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with findings suggestive of Myotonic dystrophy. Which gene is associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q302",
+    "question_text": "",
+    "options": {
+      "A": "female patient with a history of neuropathic ulcer underwent testing for PMP22 deletion and duplication, which was negative. What is the gene associated with her condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q168",
+    "question_text": "",
+    "options": {
+      "A": "typical scenario of hereditary motor and sensory neuropathy (HMSN) shows a biopsy revealing onion bulb formations. What gene is associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "2-month-old infant had apnea, macroglossia, and cardiac disease. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q128",
+    "question_text": "",
+    "options": {
+      "A": "one-month-old baby presented with a history of one week of lethargy, weak cry, and weak sucking. Examination showed hypotonia, ptosis, and non-reactive pupils. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q243",
+    "question_text": "",
+    "options": {
+      "A": "newborn presents with macroglossia, hypotonia, and myotonia. Which enzyme deficiency is most likely responsible for this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q344",
+    "question_text": "An infant presents with hypotonia, cardiomegaly, and macroglossia. Creatine Kinase (CK) levels are elevated. What is the most likely diagnosis?",
+    "options": {
+      "A": "Acid Maltase deficiency (Pompe disease)",
+      "B": "Phosphofructokinase deficiency",
+      "C": "Duchenne muscular dystrophy",
+      "D": "Congenital hypothyroidism"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "man with a long history of malnutrition presented with peripheral neuropathy, ataxia, deafness, and retinal degeneration. He was diagnosed with Strachan syndrome, which is a deficiency in:"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q397",
+    "question_text": "",
+    "options": {
+      "A": "patient who underwent bariatric surgery 6 months ago presents with weakness and imbalance. Symptoms started 3 months ago, and examination reveals loss of proprioception and spasticity. B12 and methylmalonic acid levels are normal. What deficiency is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q40",
+    "question_text": "After gastric bypass surgery, a patient presents with symptoms of Vitamin B1 deficiency. What is the most appropriate management?",
+    "options": {
+      "A": "Vitamin B1 (Thiamine)",
+      "B": "Vitamin B12",
+      "C": "Vitamin B6",
+      "D": "Folate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q26",
+    "question_text": "",
+    "options": {
+      "A": "patient with Crohn\u2019s disease who underwent resection presents with fat in the stool, ataxia, and decreased reflexes, along with myelopathy. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "",
+    "options": {
+      "A": "lady post-bariatric surgery is noted to have posterior column symptoms and numbness with weakness. She has an unsteady gait in the dark, a positive Romberg test, and decreased vibration sense. What vitamin deficiency is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q229",
+    "question_text": "",
+    "options": {
+      "A": "patient who had bariatric surgery developed weakness and large fiber neuropathy, with normal B12 and MMA levels. What is the most likely deficiency?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q44",
+    "question_text": "Scenario of a patient who had a mastectomy and presents with arm pain and dysesthesia over the fourth and fifth fingers. What should be done next?",
+    "options": {
+      "A": "MRI of plexus",
+      "B": "Nerve conduction studies",
+      "C": "Ultrasound of the axilla",
+      "D": "Electromyography"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with spasticity and upper motor neuron signs. A video shows tongue fasciculations and atrophy. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "case scenario of a patient with Vitamin B12 deficiency (with symptoms involving vibration and proprioception) but with Vitamin B12 levels at the upper normal limit. What should you order?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "",
+    "options": {
+      "A": "patient came with right upper limb weakness and intrinsic hand atrophy and diminished reflexes. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "patient with a radial fracture one month ago presents with pain and erythema. The exam was difficult due to pain. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "young male patient presents with eyelid myotonia that increases after eating ice cream or exposure to cold. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "young female presents with dilated pupils, dysphagia, and descending weakness. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "patient presents after a hysterectomy with weakness in hip flexion and knee extension. Which nerve is likely affected?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "In a known case of Duchenne muscular dystrophy, what are the first symptoms?",
+    "options": {
+      "A": "Walk on toe",
+      "B": "Loss of fine movement",
+      "C": "Difficulty rising from the floor",
+      "D": "Frequent falls"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "patient with a known case of diabetes mellitus presents with peripheral neuropathy and has impaired sensation for pinprick up to mid-shin. Which treatment has level A evidence in the management of peripheral neuropathy?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with stiffness that worsens with repeated exercise. Which of the following conditions is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

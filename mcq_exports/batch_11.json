@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q2",
+    "question_text": "An elderly woman with diabetes mellitus, hypertension, and atrial fibrillation had an episode of syncope followed by convulsions. The episode was witnessed by her family, who reported that she was confused for a short period afterward. Upon presentation to the emergency department, her blood pressure was 90/70, and she was fatigued but conscious and oriented. Which of the following will help you with the diagnosis?",
+    "options": {
+      "A": "Rhythmic clonus",
+      "B": "Multifocal myoclonus",
+      "C": "Oral automatism",
+      "D": "Up rolling of eyes"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q280",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady post tumor resection on oral contraceptive pills (OCP) and known to have seizures. Which of the following antiepileptic drugs (AED) would be least likely to interact with her oral contraceptive pills?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q151",
+    "question_text": "In a scenario of uncontrolled epilepsy on 2 AEDs, what is the next step?",
+    "options": {
+      "A": "Refer to surgery",
+      "B": "Vagal nerve stimulation",
+      "C": "Add another AED",
+      "D": "Optimize current AED doses"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q289",
+    "question_text": "What factors favor seizures over syncope?",
+    "options": {
+      "A": "Cyanosis",
+      "B": "Absence of tonic-clonic seizures",
+      "C": "Precipitated by intense fear",
+      "D": "Postictal confusion"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q181",
+    "question_text": "",
+    "options": {
+      "A": "lady with diabetes mellitus on multiple anti-diabetic medications, hypertension, and osteoporosis has complex partial epilepsy. What medications will you give?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q182",
+    "question_text": "Characteristic of temporal lobe epilepsy:",
+    "options": {
+      "A": "Ipsilateral nose rubbing",
+      "B": "Asymmetric tonic limb posturing",
+      "C": "Prolonged postictal state",
+      "D": "Automatisms such as lip-smacking"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "What is the most common type of aura in mesial temporal lobe (MTL) seizures?",
+    "options": {
+      "A": "Visual aura",
+      "B": "Auditory aura",
+      "C": "Epigastric rising sensation",
+      "D": "Olfactory aura"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q75",
+    "question_text": "In a patient with seizures that include myoclonic jerks, which medication is appropriate to prescribe?",
+    "options": {
+      "A": "Lacosamide",
+      "B": "Valproic acid (VPA)",
+      "C": "Levetiracetam (LEV)",
+      "D": "Topiramate"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "",
+    "options": {
+      "A": "young female epileptic patient on Topamax has decreased concentration. What should she be switched to?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q150",
+    "question_text": "Lennox-Gastaut syndrome is characterized by which of the following triad?",
+    "options": {
+      "A": "Absence seizures, 3 Hz spike-and-wave EEG, normal intelligence",
+      "B": "Infantile spasms, hypsarrhythmia on EEG, developmental regression",
+      "C": "Multiple seizure types, slow spike-and-wave EEG pattern, cognitive impairment",
+      "D": "Focal seizures, temporal lobe EEG abnormalities, normal development"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q201",
+    "question_text": "",
+    "options": {
+      "A": "young female with epilepsy on Topamax has worsened difficulty concentrating. Which choice is the best for her?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q30",
+    "question_text": "In a case of Mesial Temporal Lobe Epilepsy (MTLE), a patient is on the maximum dose of Keppra. What is the next recommended medication?",
+    "options": {
+      "A": "Tegretol",
+      "B": "Phenytoin",
+      "C": "Lamictal",
+      "D": "Valproate"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q137",
+    "question_text": "What\u2019s the EEG finding of Juvenile Myoclonic Epilepsy (JME)?",
+    "options": {
+      "A": "3 Hz spike and wave",
+      "B": "4-6 Hz poly spike and wave",
+      "C": "Generalized slow wave",
+      "D": "Focal temporal spikes"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q291",
+    "question_text": "In a case of laryngeal spasm, what is the localization of the seizure?",
+    "options": {
+      "A": "Insula",
+      "B": "Temporal lobe",
+      "C": "Frontal operculum",
+      "D": "Parietal lobe"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "pregnant lady with epilepsy on valproic acid wants to change her medication. Which of the following is a suitable alternative?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q218",
+    "question_text": "In a pregnant patient with seizures, which statement is true?",
+    "options": {
+      "A": "Lamotrigine clearance increases in the 1st and 2nd trimester",
+      "B": "Levetiracetam is the safest medication during pregnancy",
+      "C": "Valproate is the first-line treatment",
+      "D": "All antiepileptic drugs are safe during pregnancy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "The patient, an alcoholic with a known case of epilepsy on antiepileptic medication (ASM), came with an active seizure. After being loaded with IV VPA, he was agitated and then had a decreased level of consciousness. What should be done next?",
+    "options": {
+      "A": "Send for ETOH level",
+      "B": "Send for ammonia level",
+      "C": "Administer intravenous glucose",
+      "D": "Intubate and provide supportive care"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q191",
+    "question_text": "",
+    "options": {
+      "A": "53-year-old male who presented with a first-time generalized tonic-clonic seizure, normal physical examination, and normal EEG, with no family history of epilepsy, what is his risk of seizure recurrence?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q200",
+    "question_text": "",
+    "options": {
+      "A": "young lady diagnosed with mesial temporal lobe epilepsy (MTLE) is on lamotrigine and carbamazepine. Her last generalized tonic-clonic seizure was a couple of months ago, but she presents to the clinic with episodes of partial unaware seizures occurring four times a month. What is the best next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "patient has a history of new onset of generalized tonic-clonic seizures (GTCs) and an EEG picture. What medication will you start?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "Patient with seizure; EEG showed multifocal spikes. What is the surgery for this patient?",
+    "options": {
+      "A": "VNS (Vagus Nerve Stimulation)",
+      "B": "Temporal lobectomy",
+      "C": "Corpus callosotomy",
+      "D": "Responsive neurostimulation (RNS)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q266",
+    "question_text": "",
+    "options": {
+      "A": "young lady who underwent tumor resection presented with a staring spell and loss of awareness. What is the seizure classification?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q284",
+    "question_text": "Patient with MTS seizure; EEG showed left temporal discharges; what symptoms does he have?",
+    "options": {
+      "A": "Left automatism",
+      "B": "Right hemiparesis",
+      "C": "Visual field defect",
+      "D": "Aphasia"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q177",
+    "question_text": "",
+    "options": {
+      "A": "child with continuous jerky movement of the right arm for a prolonged time developed mild weakness of the right arm. Brain MRI reported left perisylvian atrophy. What is expected to be found?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q222",
+    "question_text": "What is the effect of hyperventilation on EEG?",
+    "options": {
+      "A": "Frontal theta/delta slowing",
+      "B": "Generalized delta slowing",
+      "C": "Increased alpha rhythm",
+      "D": "Focal spike activity"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

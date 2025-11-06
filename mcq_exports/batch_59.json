@@ -1,0 +1,372 @@
+[
+  {
+    "question_number": "Q51",
+    "question_text": "Which structure is involved in vision and not in pupillary responses?",
+    "options": {
+      "A": "Optic nerves",
+      "B": "Inferior parietal",
+      "C": "Lateral geniculate body",
+      "D": "Chiasma"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q54",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with third nerve palsy and contralateral weakness. Where is the likely localization of the lesion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "",
+    "options": {
+      "A": "patient with headache, MRI showed a picture of Arnold Chiari malformation. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "Gerstmann syndrome is linked to which area of the brain?",
+    "options": {
+      "A": "Angular gyrus",
+      "B": "Broca\u2019s area",
+      "C": "Hippocampus",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "Which of the following arteries arise from the internal carotid artery?",
+    "options": {
+      "A": "AICA",
+      "B": "PICA",
+      "C": "PCA",
+      "D": "SCA"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "What is the nerve supply for shoulder adduction and internal rotation?",
+    "options": {
+      "A": "Axillary nerve",
+      "B": "Suprascapular nerve",
+      "C": "Subscapular nerve",
+      "D": "Musculocutaneous nerve"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with upper limb numbness, loss of pain sensation, and is burning her hands. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In Gerstmann syndrome, which area of the brain is typically involved in localization?",
+    "options": {
+      "A": "Temporal",
+      "B": "Parietal",
+      "C": "Occipital",
+      "D": "Frontal"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q74",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a visual field defect, impaired reading, and intact writing. This is a case of alexia without agraphia. What is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q86",
+    "question_text": "Which of the following paired muscles is supplied by L5?",
+    "options": {
+      "A": "Tibialis anterior & tibialis posterior",
+      "B": "Tibialis anterior & abductor hallucis longus",
+      "C": "Tibialis anterior & adductor digiti minimi",
+      "D": "Extensor hallucis longus & gluteus medius"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q93",
+    "question_text": "",
+    "options": {
+      "A": "patient with C5-C6 radiculopathy. What muscle is involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q288",
+    "question_text": "One of the branches of the Internal Carotid Artery (ICA) is:",
+    "options": {
+      "A": "SCA",
+      "B": "Posterior Communicating",
+      "C": "Anterior Choroidal",
+      "D": "AICA"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q290",
+    "question_text": "An elderly patient with quadriplegia presents with horizontal gaze palsy but has spared vertical gaze. What is the likely localization of the lesion?",
+    "options": {
+      "A": "Pons",
+      "B": "Thalamus",
+      "C": "Basis pontis",
+      "D": "Midbrain"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q224",
+    "question_text": "Which area of the brain is primarily associated with prosopagnosia?",
+    "options": {
+      "A": "Parietal",
+      "B": "Fronto-temporal",
+      "C": "Inferior occipital temporal",
+      "D": "Mid-temporal"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "",
+    "options": {
+      "A": "patient known to have multiple sclerosis presents with double vision. Examination showed left impaired adduction and right abduction nystagmus. Where is the localization?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q132",
+    "question_text": "Which condition is characterized by ipsilateral Horner's syndrome due to dorsal cerebellar SCA?",
+    "options": {
+      "A": "Multiple sclerosis",
+      "B": "Amyotrophic lateral sclerosis",
+      "C": "Chiari malformation",
+      "D": "Cerebellar ataxia"
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q12",
+    "question_text": "",
+    "options": {
+      "A": "patient with a CT scan showing a \"molar tooth\" appearance is suspected to have which condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "In a scenario about AICA syndrome, which artery is involved?",
+    "options": {
+      "A": "AICA",
+      "B": "PCA",
+      "C": "SCA",
+      "D": "PICA"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "",
+    "options": {
+      "A": "patient with trigeminal neuralgia, what artery is usually involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q113",
+    "question_text": "",
+    "options": {
+      "A": "patient diagnosed with trigeminal neuralgia, what artery is the cause?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "What are the signs of intracranial hypotension observed in brain MRI?",
+    "options": {
+      "A": "Enlargement of the pituitary gland",
+      "B": "Leptomeningeal enhancement",
+      "C": "Pachymeningeal enhancement (most common finding)",
+      "D": "Increased venous blood volume"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q60",
+    "question_text": "In a case of trigeminal neuralgia involving the V2 distribution with decreased sensation in V3, which artery is likely involved?",
+    "options": {
+      "A": "SCA",
+      "B": "PCA",
+      "C": "Pcom",
+      "D": "AICA"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "patient with trigeminal neuralgia, what artery is usually involved?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q184",
+    "question_text": "What is the most common artery to cause trigeminal neuralgia (TN)?",
+    "options": {
+      "A": "Superior cerebellar artery (SCA)",
+      "B": "Anterior inferior cerebellar artery (AICA)",
+      "C": "Posterior inferior cerebellar artery (PICA)",
+      "D": "Basilar artery"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2024_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "What is the commonest presentation in Arnold-Chiari malformation?",
+    "options": {
+      "A": "Ataxia",
+      "B": "Hydrocephalus",
+      "C": "Headache",
+      "D": "Visual disturbances"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuroanatomy",
+    "explanation": ""
+  }
+]

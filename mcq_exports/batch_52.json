@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q11",
+    "question_text": "",
+    "options": {
+      "A": "patient with hypopituitarism, a pituitary mass, and meningeal enhancement is being evaluated. What is the next appropriate imaging study?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q143",
+    "question_text": "",
+    "options": {
+      "A": "female patient has papilledema, signs of increased intracranial pressure, and MRI showed a frontal mass; what is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "",
+    "options": {
+      "A": "Surgical resection to obtain tissue diagnosis and relieve mass effect"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "patient with active but untreated renal cell carcinoma presents with a headache. Brain imaging reveals a single mass with surrounding edema. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "Surgical resection followed by whole brain radiotherapy"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q33",
+    "question_text": "Patient with an intracranial mass crossing the corpus callosum; what is the histology you will see?",
+    "options": {
+      "A": "Pseudopalisading necrosis",
+      "B": "Oligodendroglioma",
+      "C": "Meningioma",
+      "D": "Ependymoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q141",
+    "question_text": "",
+    "options": {
+      "A": "Glioblastoma multiforme (GBM)",
+      "B": "Oligodendroglioma",
+      "C": "Ependymoma",
+      "D": "Medulloblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q1",
+    "question_text": "Question of metastases only to the dura and skull will happen with what of the following?",
+    "options": {
+      "A": "Prostate cancer",
+      "B": "Breast cancer",
+      "C": "Lung cancer",
+      "D": "Melanoma"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "",
+    "options": {
+      "A": "Lung cancer",
+      "B": "Prostate cancer",
+      "C": "Melanoma",
+      "D": "Colon cancer"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "What is the most common pediatric posterior fossa tumor?",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Pilocytic astrocytoma",
+      "C": "Medulloblastoma",
+      "D": "Meningioma"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "",
+    "options": {
+      "A": "Medulloblastomas are the most common malignant brain tumors in children."
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q403",
+    "question_text": "",
+    "options": {
+      "A": "patient came with a history of confusion and difficulty to arouse. MRI shows a glioblastoma multiforme (GBM) with large diffuse vasogenic edema. What is your next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "Dexamethasone administration"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "",
+    "options": {
+      "A": "4-year-old boy diagnosed with an intramedullary spinal cord tumor, non-enhancing on MRI, presents with no other details. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "",
+    "options": {
+      "A": "Low-grade astrocytoma",
+      "B": "Ependymoma",
+      "C": "Medulloblastoma",
+      "D": "Hemangioblastoma"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q24",
+    "question_text": "Psammoma bodies are typically found in which of the following tumors?",
+    "options": {
+      "A": "Oligodendroglioma",
+      "B": "Meningioma",
+      "C": "Anaplastic astrocytoma",
+      "D": "Ependymoma"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q122",
+    "question_text": "",
+    "options": {
+      "A": "57-year-old male patient with renal cell carcinoma is brought to the emergency department with confusion and seizures. The brain MRI shows a single mass with vasogenic edema. Which of the following is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q72",
+    "question_text": "",
+    "options": {
+      "A": "Surgical resection followed by whole brain radiotherapy"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "An elderly patient diagnosed with glioblastoma multiforme (GBM) and treated 5 years ago presented with decreased level of consciousness. MRI of the brain showed a tumor with vasogenic edema. What is the next step?",
+    "options": {
+      "A": "Steroid",
+      "B": "Temozolomide",
+      "C": "Radiation",
+      "D": "Surgical resection"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "Regarding diffuse astrocytoma grade 2, which statement is true?",
+    "options": {
+      "A": "Most common type is polyastrocytoma",
+      "B": "Surgical removal has a good outcome.",
+      "C": "It typically shows rapid progression within weeks",
+      "D": "It is highly responsive to chemotherapy alone"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "",
+    "options": {
+      "A": "They typically have a poor prognosis with median survival less than 1 year",
+      "B": "They often present with rapid neurological deterioration",
+      "C": "They usually have an indolent course with potential for malignant transformation",
+      "D": "They are highly responsive to chemotherapy alone"
+    },
+    "correct_answer": "C",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q28",
+    "question_text": "",
+    "options": {
+      "A": "patient with glioblastoma multiforme (GBM) has an MRI showing increased edema and mass effect. What is the next step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q403",
+    "question_text": "",
+    "options": {
+      "A": "Dexamethasone"
+    },
+    "correct_answer": "A",
+    "source_file": "",
+    "exam_type": null,
+    "exam_year": null,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q189",
+    "question_text": "",
+    "options": {
+      "A": "child presents with a cerebellopontine angle tumor and hearing loss for more than 5 months. What should be done?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "In which of the following conditions does dexamethasone provide benefit?",
+    "options": {
+      "A": "Tumor with vasogenic edema",
+      "B": "Bacterial meningitis",
+      "C": "Viral encephalitis",
+      "D": "Acute ischemic stroke"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Neuro oncology",
+    "explanation": ""
+  }
+]

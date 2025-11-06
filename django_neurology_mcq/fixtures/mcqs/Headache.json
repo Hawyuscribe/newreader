@@ -1,0 +1,3502 @@
+[
+  {
+    "model": "mcq.MCQ",
+    "pk": 68021199,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "A pregnant patient at 12 weeks GA with migraine came with status migrainosus. What is the management?",
+      "options": {
+        "A": "IV Depakin",
+        "B": "Dihydroergotamine",
+        "C": "Subcutaneous sumatriptan",
+        "D": "Steroid"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the acute management of a severe migraine variant (status migrainosus) specifically in the context of pregnancy, requiring knowledge of safe and effective treatments in this population."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 7579246,
+    "fields": {
+      "question_number": "Q105",
+      "question_text": "Which of the following characteristics is associated with pain in glossopharyngeal neuralgia?",
+      "options": {
+        "A": "Lasting from a few seconds to two minutes",
+        "B": "Severe intensity",
+        "C": "Electric shock-like, shooting, stabbing, or sharp in quality",
+        "D": "Triggered by swallowing or talking"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the defining clinical pain characteristics of glossopharyngeal neuralgia, a specific cranial neuralgia managed under the headache/facial pain subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76835991,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "What is the first-line treatment for glossopharyngeal neuralgia?",
+      "options": {
+        "A": "Carbamazepine (CBZ)",
+        "B": "Gabapentin",
+        "C": "Baclofen",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the standard first-line pharmacological treatment for glossopharyngeal neuralgia, a specific cranial neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36309290,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A known case of migraine, a female patient in her 1st trimester, came to the ER with a headache. What is the treatment?",
+      "options": {
+        "A": "Triptan",
+        "B": "Dexamethasone",
+        "C": "Acetaminophen",
+        "D": "NSAIDs"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the appropriate acute treatment choice for migraine during early pregnancy, a common clinical scenario in headache management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70349785,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "A patient presents with a small area of headache associated with hair loss. What is the most appropriate treatment?",
+      "options": {
+        "A": "Gabapentin",
+        "B": "Local anesthesia",
+        "C": "Topical corticosteroids",
+        "D": "Oral analgesics"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes symptoms suggestive of a less common primary headache disorder (potentially nummular headache or a localized neuralgia) and asks for treatment, fitting within the Headache subspecialty."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84814312,
+    "fields": {
+      "question_number": "Q71",
+      "question_text": "A patient recently had a baby delivered by C-section one day ago and came to the ED with a headache that increases while sitting and coughing. Brain MRI showed normal results, and the neurological exam was normal. What will you do next?",
+      "options": {
+        "A": "LP",
+        "B": "Blood patch",
+        "C": "MRV",
+        "D": "Analgesics and hydration"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes a classic presentation of post-dural puncture headache (a secondary headache) and asks for the appropriate management (epidural blood patch)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92912509,
+    "fields": {
+      "question_number": "Q132",
+      "question_text": "In a scenario of SUNA (Short-lasting Unilateral Neuralgiform headache attacks with conjunctival injection and tearing), what is the first line treatment?",
+      "options": {
+        "A": "Lamotrigine",
+        "B": "Indomethacin",
+        "C": "Triptans",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the specific first-line pharmacological treatment for SUNA, a distinct type of Trigeminal Autonomic Cephalalgia (TAC) under the Headache classification."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 89443379,
+    "fields": {
+      "question_number": "Q133",
+      "question_text": "Which of the following features would be most supportive of a diagnosis of medication-overuse headache (MOH) in a patient?",
+      "options": {
+        "A": "Absence of neck pain",
+        "B": "Constant frontal location",
+        "C": "Mild severity",
+        "D": "Worsened severity upon awakening"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests the ability to identify a key clinical characteristic used in diagnosing medication-overuse headache (MOH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30698780,
+    "fields": {
+      "question_number": "Q237",
+      "question_text": "A patient presents with unilateral headache on a daily basis associated with ptosis and lacrimation. What is the diagnosis?",
+      "options": {
+        "A": "Hemicrania continua",
+        "B": "Cluster headache",
+        "C": "Migraine with autonomic features",
+        "D": "Paroxysmal hemicrania"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the diagnosis based on a classic description of Hemicrania Continua, a primary headache disorder (TAC)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36129972,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "Patient came with tongue pain and paresthesia, radiating to the neck, increased with neck movement; what is the diagnosis?",
+      "options": {
+        "A": "Neck-tongue syndrome",
+        "B": "Glossopharyngeal Neuralgia",
+        "C": "Trigeminal Neuralgia",
+        "D": "Cervical Radiculopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Requires diagnosis of Neck-Tongue Syndrome, a rare condition often discussed within the context of cervicogenic or craniofacial pain syndromes under the Headache umbrella."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70349785,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "A migraine patient with daily persistent headache, who used to take daily triptans and NSAIDs, what is the next management step?",
+      "options": {
+        "A": "Abrupt discontinuation of the medications",
+        "B": "Gradual discontinuation of the medications",
+        "C": "Steroid",
+        "D": "Initiation of preventive migraine therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Directly addresses the management strategy (medication withdrawal) for Medication Overuse Headache (MOH) superimposed on migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72760886,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "A male patient presents with headache, congestion, tearing, with a duration of 15-30 minutes, occurring 5 times per day, always on the same side. His history includes pain provoked by touching the face. What is the most likely diagnosis?",
+      "options": {
+        "A": "SUNCT",
+        "B": "SUNA",
+        "C": "Migraine",
+        "D": "Cluster Headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Requires differentiation between various Trigeminal Autonomic Cephalalgias (TACs) based on specific clinical features (duration, frequency, triggers), leading to a SUNCT/SUNA diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46119330,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "A pregnant patient presents with a severe migraine attack, similar to her previous migraine attacks. What is the appropriate management?",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Sumatriptan",
+        "C": "Opioid",
+        "D": "NSAIDs"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on selecting safe and appropriate acute migraine treatment during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29608476,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "A young female patient, known to have migraine controlled on medications, now presents with unilateral headache associated with lacrimation and conjunctival injection, lasting for less than 2 minutes and resolving completely. It occurs up to 40 times per day, and she is completely asymptomatic between the attacks. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Short-lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT)",
+        "B": "Chronic paroxysmal hemicrania",
+        "C": "Hemicrania continua",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests the ability to diagnose SUNCT based on its highly specific clinical phenotype (very short, frequent attacks with autonomic features)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27732426,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "A young lady post uneventful delivery by cesarean section came with a history of positional headache that worsens with standing and improves with lying on her back for more than 2 weeks. MRI of the brain was done (image attached). Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Intracranial hypotension",
+        "B": "Cerebral venous thrombosis",
+        "C": "Post-dural puncture headache",
+        "D": "Subarachnoid hemorrhage"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on integrating clinical history (post-procedure postural headache) and implied MRI findings to diagnose intracranial hypotension, a secondary cause of headache."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31619762,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "A 35-year-old woman presents with a headache, describing 10 episodes a day of sharp pain over the left eye, lasting about 5 minutes each, which cause her to sit or lie quietly until the attacks pass. Which of the following autonomic phenomena is most commonly associated with this type of headache?",
+      "options": {
+        "A": "Lacrimation",
+        "B": "Conjunctival injection",
+        "C": "Horner syndrome",
+        "D": "Photophobia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes a TAC (likely Paroxysmal Hemicrania or SUNCT/SUNA based on description) and asks about characteristic associated autonomic features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12001650,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "In the same case scenario as above, what is the recommended treatment?",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Oxcarbazepine",
+        "C": "Lamotrigine",
+        "D": "Gabapentin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assuming the missing preceding scenario described Trigeminal Neuralgia, this question asks about its standard pharmacological treatment, classifying it under management of headache/facial pain syndromes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 41918921,
+    "fields": {
+      "question_number": "Q179",
+      "question_text": "In a scenario of intracranial hypotension not responding to routine measures, what is the next step?",
+      "options": {
+        "A": "Blood patch",
+        "B": "Surgical intervention",
+        "C": "Increased hydration",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Deals with the specific management (epidural blood patch) for refractory intracranial hypotension headache."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19841126,
+    "fields": {
+      "question_number": "Q180",
+      "question_text": "In a scenario of glossopharyngeal neuralgia, what should be done next?",
+      "options": {
+        "A": "MRI of the head and neck",
+        "B": "Refer to ENT specialist",
+        "C": "Start carbamazepine",
+        "D": "Perform a cervical spine MRI"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Concerns the initial diagnostic workup and management considerations for glossopharyngeal neuralgia, a cranial neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69164441,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "In a case of a headache attributed to trigeminal neuralgia, what is the best treatment option?",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Indomethacin",
+        "C": "Gabapentin",
+        "D": "Baclofen"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the first-line pharmacological treatment specific to trigeminal neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2705564,
+    "fields": {
+      "question_number": "Q321",
+      "question_text": "A male patient reports shock-like electric sensations in half of his face multiple times per day, and he avoids brushing and shaving. What is the likely diagnosis?",
+      "options": {
+        "A": "Trigeminal neuralgia",
+        "B": "Postherpetic neuralgia",
+        "C": "Bell's palsy",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to recognize the classic clinical description of trigeminal neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50361480,
+    "fields": {
+      "question_number": "Q205",
+      "question_text": "A 10-week pregnant woman presents with severe acute migraine. Which of the following is the recommended first-line treatment?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Triptan",
+        "C": "Valproic acid",
+        "D": "Naproxen"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Assesses knowledge of safe and appropriate first-line acute migraine treatment during early pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28062521,
+    "fields": {
+      "question_number": "Q46",
+      "question_text": "A case scenario of a migraine patient who is doing well and has controlled headaches. He requests a prescription for pregabalin, which he takes occasionally on weekends to help him relax. What should you do?",
+      "options": {
+        "A": "Refer to psychiatry",
+        "B": "Refill for 3 months",
+        "C": "Give him gabapentin instead",
+        "D": "Refuse his request and discharge him from outpatient department (OPD)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses appropriate prescribing practices and management of potential medication misuse within the context of ongoing migraine patient care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45028077,
+    "fields": {
+      "question_number": "Q350",
+      "question_text": "A patient presents with severe periorbital episodic headache lasting 5 minutes. What is the most common associated feature?",
+      "options": {
+        "A": "Lacrimation",
+        "B": "Conjunctival injection",
+        "C": "Horner's syndrome",
+        "D": "Nasal congestion"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes features suggestive of a TAC (likely SUNCT/SUNA or Paroxysmal Hemicrania) and asks to identify common associated autonomic features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13836441,
+    "fields": {
+      "question_number": "Q115",
+      "question_text": "In a scenario of trigeminal neuralgia, what is needed to reach the diagnosis?",
+      "options": {
+        "A": "Clinical diagnosis, no need for imaging",
+        "B": "Brain MRI",
+        "C": "CT scan",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the diagnostic approach for trigeminal neuralgia, including the role of imaging (MRI) often recommended to rule out secondary causes, which is part of the headache/facial pain workup."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83046633,
+    "fields": {
+      "question_number": "Q94",
+      "question_text": "Triptans can be used in patients with which of the following conditions?",
+      "options": {
+        "A": "Coronary artery disease",
+        "B": "Hemiplegic migraine",
+        "C": "Peptic ulcer disease",
+        "D": "Tension-type headache"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge regarding the appropriate use and contraindications (specifically ruling out vascular risks and specific migraine subtypes) of triptans, a mainstay of migraine treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63048837,
+    "fields": {
+      "question_number": "Q106",
+      "question_text": "A patient has irritable bowel syndrome, is obese, and has migraine. What would you prescribe as a prophylactic agent?",
+      "options": {
+        "A": "Topiramate",
+        "B": "Valproate",
+        "C": "Amitriptyline",
+        "D": "Propranolol"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on selecting an appropriate migraine prophylactic medication by considering patient comorbidities (obesity, IBS), a key aspect of personalized headache management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20966396,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "A boy presents with a headache that is more pronounced in the morning and is associated with nausea and vomiting. What should be done next?",
+      "options": {
+        "A": "CT brain",
+        "B": "Prescribe analgesics and observe",
+        "C": "Refer to psychiatry for anxiety evaluation",
+        "D": "Start migraine prophylaxis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests recognition of headache red flags (morning worsening, vomiting) indicating the need for urgent neuroimaging to rule out serious underlying pathology, a fundamental concept in headache evaluation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1216121,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "A boy presents with headaches that are worse in the morning and associated with nausea and vomiting. What is the next step in management?",
+      "options": {
+        "A": "CT brain",
+        "B": "Prescribe analgesics and observe",
+        "C": "Refer to psychiatry for headache management",
+        "D": "Start migraine prophylaxis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Identical to Q8, focuses on recognizing headache red flags requiring investigation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39715679,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "A patient with migraine underwent a brain MRI as a routine workup for chronic headache, which showed white matter lesions. What is the most appropriate action?",
+      "options": {
+        "A": "Reassurance",
+        "B": "Immediate hospitalization",
+        "C": "Start prophylactic migraine medication",
+        "D": "Refer for neurosurgery"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Deals with the clinical approach to managing incidental neuroimaging findings (white matter lesions) commonly seen in migraine patients, requiring interpretation within the context of the primary headache disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20299279,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "A male patient presents with lacinating pain lasting for seconds, and MRI shows SCA compression over the trigeminal nerve. What is the recommended treatment?",
+      "options": {
+        "A": "Decompressive surgery",
+        "B": "Carbamazepine",
+        "C": "Oxcarbazepine",
+        "D": "Gabapentin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Presents a classic case of trigeminal neuralgia with identified vascular compression and asks for management options (both medical first-line and surgical)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64333389,
+    "fields": {
+      "question_number": "Q35",
+      "question_text": "In the evaluation of a patient suspected of suffering from glossopharyngeal neuralgia, which of the following is important to inquire about?",
+      "options": {
+        "A": "Presence of trigger factors",
+        "B": "Family history of headaches",
+        "C": "Previous surgeries",
+        "D": "Medication history"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on key diagnostic clinical features (trigger factors) specific to glossopharyngeal neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96517678,
+    "fields": {
+      "question_number": "Q34",
+      "question_text": "A patient experiences a visual aura for 10-20 minutes followed by a headache. What is the most likely diagnosis?",
+      "options": {
+        "A": "Tension-type headache",
+        "B": "Cluster headache",
+        "C": "Migraine",
+        "D": "Hemicrania continua"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests the ability to diagnose migraine with aura based on the characteristic temporal sequence of aura followed by headache."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96008350,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "A patient has a severe headache with typical migraine features and has had previous episodes during menstruation. What is the most likely diagnosis?",
+      "options": {
+        "A": "Migraine without aura",
+        "B": "Menstrual migraine",
+        "C": "Abdominal migraine",
+        "D": "Tension-type headache"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on diagnosing a specific subtype of migraine (Menstrual Migraine) based on its clear temporal link to the menstrual cycle."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16778835,
+    "fields": {
+      "question_number": "Q111",
+      "question_text": "Patient came with tongue pain and paresthesia, radiating to the neck, increased with neck movement. What is the diagnosis?",
+      "options": {
+        "A": "Tongue neck syndrome",
+        "B": "Glossopharyngeal neuralgia",
+        "C": "Trigeminal neuralgia",
+        "D": "Cervical radiculopathy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Asks for the diagnosis of a specific craniofacial pain syndrome, distinguishing between two conditions often managed within headache/facial pain clinics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68227455,
+    "fields": {
+      "question_number": "Q73",
+      "question_text": "In a case with continuous headache and episodes of more intense headache, which treatment is indicated?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Valproic acid",
+        "C": "Lamictal",
+        "D": "Naproxen"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the pharmacological treatment (specifically Indomethacin) for a headache pattern suggestive of an indomethacin-responsive headache syndrome (e.g., hemicrania continua)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64117668,
+    "fields": {
+      "question_number": "Q51",
+      "question_text": "Which of the following neurotransmitters has a role in the pathogenesis of migraine headache?",
+      "options": {
+        "A": "Serotonin",
+        "B": "Acetylcholine",
+        "C": "Norepinephrine",
+        "D": "Glutamate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the fundamental pathophysiology of migraine, specifically the role of neurotransmitters like serotonin."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25065132,
+    "fields": {
+      "question_number": "Q15",
+      "question_text": "A patient came for a third opinion, diagnosed with Cluster Headache and another trigeminal autonomic cephalgia. How can you distinguish between them?",
+      "options": {
+        "A": "Duration",
+        "B": "Response to treatment",
+        "C": "Laterality of pain",
+        "D": "Presence of autonomic symptoms"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on differentiating between specific trigeminal autonomic cephalalgias (like Cluster Headache) based on diagnostic criteria (duration, treatment response)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64311423,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "Which medication is considered safe for use in the 1st and 2nd trimester of pregnancy for treating migraine?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "NSAID",
+        "C": "Hydrocodone",
+        "D": "Sumatriptan"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Deals with the specific clinical scenario of treating migraine safely during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 90670916,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "In a patient with occipital seizures and migraine with aura, which feature is in favor of a visual aura?",
+      "options": {
+        "A": "Circular coloring",
+        "B": "Typical migraine headache",
+        "C": "Scintillating",
+        "D": "30s-1min in duration"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: The question asks to identify features that specifically support a diagnosis of migraine visual aura when differentiating it from occipital seizure visual phenomena, focusing on the characteristics of the headache-related symptom."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83046633,
+    "fields": {
+      "question_number": "Q94",
+      "question_text": "A young lady post uneventful delivery by cesarean section came with a history of positional headache that worsens with standing and improves with lying on her back for more than 2 weeks. MRI of the brain was done (image attached). Which of the following is the next step in management?",
+      "options": {
+        "A": "Blood patch",
+        "B": "Continue conservative management",
+        "C": "Start corticosteroids",
+        "D": "Perform lumbar puncture"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes classic post-dural puncture headache (a form of intracranial hypotension) and asks about management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88276534,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "What is the attack duration for SUNCT?",
+      "options": {
+        "A": "1 to 5 seconds",
+        "B": "5 to 240 seconds",
+        "C": "1 to 10 minutes",
+        "D": "10 to 30 minutes"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the diagnostic criteria (attack duration) for a specific headache syndrome (SUNCT)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 61444046,
+    "fields": {
+      "question_number": "Q93",
+      "question_text": "A patient came with a history of severe unilateral headache lasting less than 5 minutes, stabbing in nature, associated with tearing and conjunctival injection. Which of the following is the best treatment for him?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Lamotrigine",
+        "C": "Carbamazepine",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes symptoms typical of short-lasting trigeminal autonomic cephalalgias (SUNCT/SUNA or Paroxysmal Hemicrania) and asks for appropriate treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70282588,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "According to the International Classification of Headache Disorders 3rd edition (ICHD-3), how many attacks are required for the diagnosis of short-lasting unilateral neuralgiform headache attacks?",
+      "options": {
+        "A": "At least 10 attacks",
+        "B": "At least 15 attacks",
+        "C": "At least 20 attacks",
+        "D": "At least 25 attacks"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the diagnostic criteria (number of attacks) for a specific headache syndrome (SUNHA) per ICHD-3 guidelines."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 85485940,
+    "fields": {
+      "question_number": "Q118",
+      "question_text": "In a scenario of intracranial hypotension, which of the following is the most common MRI brain finding?",
+      "options": {
+        "A": "Leptomeningeal enhancement",
+        "B": "Enlarged pituitary gland",
+        "C": "Decreased venous sinus size",
+        "D": "Decreased anterior-posterior diameter of the brainstem"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for characteristic imaging findings in a specific headache-related condition (intracranial hypotension)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81327807,
+    "fields": {
+      "question_number": "Q102",
+      "question_text": "A patient with migraine headache has white matter changes that are not typical for multiple sclerosis lesions. What is the most appropriate management?",
+      "options": {
+        "A": "Reassurance",
+        "B": "IV Methylprednisolone",
+        "C": "Oral Steroid",
+        "D": "Referral to a specialist"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the common clinical scenario of interpreting non-specific white matter changes in migraineurs and the appropriate management approach (often reassurance)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11132005,
+    "fields": {
+      "question_number": "Q86",
+      "question_text": "Which of the following statements is true regarding medication overuse headache?",
+      "options": {
+        "A": "It is worse when waking up from sleep",
+        "B": "It is mild in intensity",
+        "C": "It shows normal MRI findings",
+        "D": "It improves with continued use of the overused medication"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge about the clinical characteristics and diagnostic features of Medication Overuse Headache (MOH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10019938,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "A patient presents with recurrent attacks of headache lasting 4 days, accompanied by ptosis and ophthalmoplegia. What is the most likely diagnosis?",
+      "options": {
+        "A": "Ophthalmoplegic migraine",
+        "B": "Optic Neuritis",
+        "C": "Brainstem Migraine",
+        "D": "Cluster Headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Requires diagnosing a specific syndrome (recurrent painful ophthalmoplegic neuropathy, formerly Ophthalmoplegic Migraine) based on characteristic features (headache with ophthalmoplegia), which falls under headache/cranial neuralgia classifications."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96008350,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "How does pediatric migraine compare to adult migraine?",
+      "options": {
+        "A": "Bilateral and shorter",
+        "B": "Less vomiting",
+        "C": "Less aura",
+        "D": "More frequent attacks"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Compares the typical clinical features and presentation of migraine headaches in children versus adults, focusing on the headache disorder itself."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28041355,
+    "fields": {
+      "question_number": "Q116",
+      "question_text": "In a scenario of nummular headache, what is the recommended treatment?",
+      "options": {
+        "A": "Gabapentin",
+        "B": "Acetaminophen",
+        "C": "Topiramate",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Asks for the appropriate pharmacological treatment for a specific, less common primary headache syndrome (nummular headache)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 63212691,
+    "fields": {
+      "question_number": "Q328",
+      "question_text": "Which medication is absolutely contraindicated in pregnancy for the treatment of migraine?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "NSAIDs",
+        "C": "Opioids",
+        "D": "Ergotamine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the safe pharmacological management of migraine, specifically identifying a medication (Ergotamine) with absolute contraindication during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 45894349,
+    "fields": {
+      "question_number": "Q285",
+      "question_text": "What is the first-line treatment for migraine in pregnancy?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "NSAIDs",
+        "C": "Opioids",
+        "D": "Triptans"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the specific management (first-line abortive therapy) of migraine during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74304097,
+    "fields": {
+      "question_number": "Q248",
+      "question_text": "A young patient presents with trigeminal neuralgia. What is the next best step in management?",
+      "options": {
+        "A": "CT scan",
+        "B": "Reassurance",
+        "C": "MRI",
+        "D": "Lumbar Puncture (LP)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the initial diagnostic workup (requiring MRI) for trigeminal neuralgia, particularly in a young patient to rule out secondary causes. Trigeminal neuralgia is a common facial pain syndrome managed within headache/facial pain contexts."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 90538452,
+    "fields": {
+      "question_number": "Q513",
+      "question_text": "A patient experiences unilateral severe periorbital headache with autonomic features lasting 10-15 minutes, occurring up to 10 times per day. What is the most appropriate treatment?",
+      "options": {
+        "A": "Verapamil",
+        "B": "Indomethacin",
+        "C": "Topiramate",
+        "D": "Oxygen therapy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes symptoms highly suggestive of a Trigeminal Autonomic Cephalalgia (likely SUNCT/SUNA or Paroxysmal Hemicrania given duration/frequency/options) and asks about treatment options relevant to these syndromes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95693894,
+    "fields": {
+      "question_number": "Q236",
+      "question_text": "Which branch of the trigeminal nerve is most commonly affected in trigeminal neuralgia?",
+      "options": {
+        "A": "V1 (ophthalmic)",
+        "B": "V2 (maxillary)",
+        "C": "V3 (mandibular)",
+        "D": "All branches equally"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the typical anatomical distribution of pain in trigeminal neuralgia, a key clinical feature."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21548520,
+    "fields": {
+      "question_number": "Q367",
+      "question_text": "A female patient presents with a headache and occasional blurring of vision when leaning forward. She has papilledema but no visual field defects or decrease in visual acuity. This presentation is suggestive of idiopathic intracranial hypertension (IIH). What is the most appropriate treatment?",
+      "options": {
+        "A": "Oral prednisone",
+        "B": "IV methylprednisolone",
+        "C": "Weight loss",
+        "D": "Optic nerve fenestration"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes symptoms and signs suggestive of Idiopathic Intracranial Hypertension (IIH), a condition causing secondary headache, and asks about primary management strategies."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 91397415,
+    "fields": {
+      "question_number": "Q219",
+      "question_text": "Prior to prescribing oral contraceptive pills, evaluating for potential hypercoagulable states is most necessary in which of the following populations?",
+      "options": {
+        "A": "Women with basilar migraine",
+        "B": "Women with chronic daily headache",
+        "C": "Women with menstrual migraine",
+        "D": "Women with migraine with aura"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses risk stratification for OCP use based on migraine subtype, specifically highlighting the increased stroke risk associated with migraine with aura, a key consideration in headache management."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72195703,
+    "fields": {
+      "question_number": "Q217",
+      "question_text": "In a scenario of hemicrania continua, what is the first line treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Amitriptyline",
+        "C": "Topiramate",
+        "D": "Valproate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2018_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of the specific, pathognomonic treatment (Indomethacin) for hemicrania continua, a type of trigeminal autonomic cephalalgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 22169516,
+    "fields": {
+      "question_number": "Q112",
+      "question_text": "A known case of migraine in a female patient who is pregnant in her first trimester came to the ER with a headache; what is the treatment?",
+      "options": {
+        "A": "Triptan",
+        "B": "Dexamethasone",
+        "C": "Acetaminophen",
+        "D": "Nonsteroidal anti-inflammatory drugs (NSAIDs)"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the acute treatment of migraine specifically within the context of pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28512149,
+    "fields": {
+      "question_number": "Q209",
+      "question_text": "A 40-year-old woman is seen in consultation for chronic daily headaches. She takes acetaminophen twice daily and oral sumatriptan 3 to 4 times per week. A medication-overuse headache (MOH) is suspected. Which of the following associated features would be most supportive of a diagnosis of MOH in this patient?",
+      "options": {
+        "A": "Absence of neck pain",
+        "B": "Absence of rhinorrhea",
+        "C": "Constant frontal location",
+        "D": "Worsened severity upon awakening"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests the clinical features supporting the diagnosis of Medication Overuse Headache (MOH), a specific secondary headache disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69164441,
+    "fields": {
+      "question_number": "Q78",
+      "question_text": "A male patient has a history of headaches that worsen after going to sleep. What is the most appropriate treatment?",
+      "options": {
+        "A": "Caffeine",
+        "B": "Triptan",
+        "C": "Lamotrigine (Lamictal)",
+        "D": "Verapamil (VA)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes symptoms suggestive of hypnic headache and asks for its specific treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88276534,
+    "fields": {
+      "question_number": "Q53",
+      "question_text": "A female with migraine occurring once a month underwent a brain MRI, which showed two small white matter non-specific lesions in each hemisphere. What should be done next?",
+      "options": {
+        "A": "CTA",
+        "B": "Reassurance",
+        "C": "Methylprednisolone",
+        "D": "Repeat MRI in 6 months"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the clinical management decision regarding incidental neuroimaging findings in a patient with established migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 33708291,
+    "fields": {
+      "question_number": "Q22",
+      "question_text": "A scenario describes a patient with basilar migraine and vertigo. What is the diagnosis?",
+      "options": {
+        "A": "Basilar migraine",
+        "B": "Hemicrania continua",
+        "C": "Medication overuse headache",
+        "D": "Ophthalmic migraine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests the ability to diagnose a specific migraine subtype (migraine with brainstem aura, formerly basilar migraine) based on clinical features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 81327807,
+    "fields": {
+      "question_number": "Q102",
+      "question_text": "A patient with headache and lancinating pain in the face, what should be done next?",
+      "options": {
+        "A": "CT with contrast",
+        "B": "Observation",
+        "C": "MRI with contrast",
+        "D": "Carbamazepine trial"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the appropriate diagnostic workup (neuroimaging) for a patient presenting with headache and facial pain, potentially indicating trigeminal neuralgia or a secondary cause."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24058186,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A patient presents with a headache and tearing that lasts less than 5 minutes and occurs 20-30 times a day. What is the likely diagnosis?",
+      "options": {
+        "A": "SUNCT",
+        "B": "Hemicrania Continua",
+        "C": "Chronic paroxysmal hemicrania",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to diagnose Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (SUNCT) based on its characteristic clinical presentation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94134478,
+    "fields": {
+      "question_number": "Q99",
+      "question_text": "A patient with migraine on amitriptyline and sumatriptan became pregnant. What should be done?",
+      "options": {
+        "A": "Keep the same medications and encourage taking multivitamins.",
+        "B": "Discontinue sumatriptan.",
+        "C": "Discontinue amitriptyline.",
+        "D": "Switch to acetaminophen for acute migraine attacks"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the management of established migraine medications (prophylactic and acute) during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12856754,
+    "fields": {
+      "question_number": "Q100",
+      "question_text": "A patient with migraine that worsens with her period, what is the recommended treatment?",
+      "options": {
+        "A": "Start triptan 2 days before her period for 7 days",
+        "B": "Propranolol",
+        "C": "Naproxen",
+        "D": "Magnesium supplementation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of specific treatment strategies for menstrual migraine, a common pattern of migraine exacerbation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42483307,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "Which of the following is NOT a preventive management option for short-lasting unilateral neuralgiform headache attacks?",
+      "options": {
+        "A": "Lamotrigine",
+        "B": "Topiramate",
+        "C": "Gabapentin",
+        "D": "Sumatriptan"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of preventive (prophylactic) treatments specifically for SUNCT/SUNA, distinguishing them from acute treatments."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 42483307,
+    "fields": {
+      "question_number": "Q61",
+      "question_text": "What is the risk of stroke in patients with migraine?",
+      "options": {
+        "A": "Risk of stroke increased in migraine with aura",
+        "B": "No increase in stroke risk",
+        "C": "Risk of stroke increased in migraine without aura",
+        "D": "Risk of stroke decreased in migraine patients"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Addresses the known epidemiological association and risk (specifically stroke risk) related to migraine, particularly migraine with aura."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31619762,
+    "fields": {
+      "question_number": "Q65",
+      "question_text": "A young female presented with a severe headache that worsens with standing and is relieved by lying down. Based on your suspected diagnosis of intracranial hypotension, what is the most common imaging finding?",
+      "options": {
+        "A": "Leptomeningeal enhancement",
+        "B": "Enlarged pituitary gland",
+        "C": "Venous spaces",
+        "D": "Subdural fluid collections"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the characteristic neuroimaging findings associated with spontaneous intracranial hypotension (SIH), a cause of orthostatic headache."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40697186,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "A male experiences a very severe headache after orgasm, which then improves. What would be the next step in management?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Brain CT",
+        "C": "Lumbar puncture",
+        "D": "MRI brain"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on the initial diagnostic approach to primary headache associated with sexual activity, emphasizing the need to rule out secondary causes like subarachnoid hemorrhage."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28883692,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "A 24-year-old female came to the clinic asking for a third opinion for her headache. The first doctor told her she has cluster headaches while the other one said it is migraine. She asked you what is the best way to differentiate these two headaches?",
+      "options": {
+        "A": "Response to treatment",
+        "B": "Duration of attack",
+        "C": "Imaging",
+        "D": "Family history"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of the key clinical features used to differentiate between two distinct primary headache disorders: cluster headache and migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2002489,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A young female patient with a history of migraines and diabetes mellitus is a university student. What is the best preventive medication for her migraines?",
+      "options": {
+        "A": "Amitriptyline (can cause sedation)",
+        "B": "Propranolol",
+        "C": "Topamax",
+        "D": "Valproate"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on selecting appropriate migraine prophylaxis, considering patient-specific factors like comorbidities (diabetes) and potential side effects relevant to a student (sedation)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 30115894,
+    "fields": {
+      "question_number": "Q82",
+      "question_text": "The acute treatment for cluster headache is:",
+      "options": {
+        "A": "Sumatriptan",
+        "B": "Verapamil",
+        "C": "Lithium",
+        "D": "Oral prednisolone"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the standard first-line acute (abortive) therapies for cluster headache attacks."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 37937080,
+    "fields": {
+      "question_number": "Q110",
+      "question_text": "A patient presents with papilledema and headache, suggestive of idiopathic intracranial hypertension (IIH). What is your next step in management?",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Topiramate",
+        "C": "VP shunt",
+        "D": "Lumbar puncture"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the necessary diagnostic procedure (lumbar puncture for pressure measurement and CSF analysis) in the workup of suspected Idiopathic Intracranial Hypertension (IIH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 244441,
+    "fields": {
+      "question_number": "Q98",
+      "question_text": "A patient with cluster headache, what is the treatment?",
+      "options": {
+        "A": "Verapamil",
+        "B": "Sumatriptan",
+        "C": "Lithium",
+        "D": "Prednisone"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of standard prophylactic (preventive) treatment for cluster headache (Verapamil is first-line)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54243526,
+    "fields": {
+      "question_number": "Q117",
+      "question_text": "In a case of typical SUNCT, what is the recommended treatment?",
+      "options": {
+        "A": "Lamictal",
+        "B": "Carbamazepine",
+        "C": "Indomethacin",
+        "D": "Verapamil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the first-line treatment (Lamotrigine/Lamictal) for Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (SUNCT)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40697186,
+    "fields": {
+      "question_number": "Q76",
+      "question_text": "B. Indomethacin",
+      "options": {
+        "C": "Lamictal",
+        "D": "Naproxen",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes features suggestive of Short-lasting Unilateral Neuralgiform headache attacks with Autonomic symptoms (SUNA) and asks for its first-line treatment (Lamotrigine/Lamictal)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27933531,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "A case scenario presents findings suggestive of glossopharyngeal neuralgia (hints: syncope, throat pain). What is the next best step in management?",
+      "options": {
+        "A": "ENT & laryngoscope",
+        "B": "MRI brain (based on continuum)",
+        "C": "CT head and neck",
+        "D": "Carbamazepine trial"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the diagnostic workup (neuroimaging - MRI) for suspected glossopharyngeal neuralgia to rule out secondary causes, often managed within headache/facial pain clinics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64124926,
+    "fields": {
+      "question_number": "Q241",
+      "question_text": "A female patient experiences migraines once a month, and her brain MRI shows one small white matter lesion in each hemisphere. What should be the next step in management?",
+      "options": {
+        "A": "CT Angiography (CTA)",
+        "B": "Reassurance",
+        "C": "Methylprednisolone",
+        "D": "Intravenous Immunoglobulin (IVIG)"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the clinical management decision regarding incidental neuroimaging findings in a patient with established migraine. (Similar to Q53)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56676250,
+    "fields": {
+      "question_number": "Q368",
+      "question_text": "What is the best anti-emetic medication for migraine?",
+      "options": {
+        "A": "Domperidone",
+        "B": "Ondansetron",
+        "C": "Metoclopramide",
+        "D": "Chlorpromazine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of preferred medications for treating associated symptoms (nausea/vomiting) during migraine attacks."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1267995,
+    "fields": {
+      "question_number": "Q69",
+      "question_text": "In managing migraines during pregnancy, what should be the initial approach regardless of headache severity?",
+      "options": {
+        "A": "Start with simple analgesia",
+        "B": "Prescribe triptans",
+        "C": "Use opioids",
+        "D": "Recommend psychological therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the initial, safest approach to acute migraine treatment during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54332377,
+    "fields": {
+      "question_number": "Q85",
+      "question_text": "A pregnant female in her third trimester presents with status migrainosus. What is the most appropriate treatment option?",
+      "options": {
+        "A": "Methylprednisolone",
+        "B": "Intranasal DHE",
+        "C": "Valproic acid",
+        "D": "Subcutaneous sumatriptan"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the specific management of status migrainosus (prolonged, severe migraine) during late pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10019938,
+    "fields": {
+      "question_number": "Q48",
+      "question_text": "A 40-year-old patient presented with headache for the past 4 months. It is continuous with periods of exacerbation, unilateral side locked, associated with lacrimation. The patient is using paracetamol and NSAIDs on a daily basis with no benefits. What is the diagnosis?",
+      "options": {
+        "A": "Hemicrania continua",
+        "B": "Cluster headache",
+        "C": "Medication overuse headache",
+        "D": "Migraine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests the ability to diagnose Hemicrania Continua based on its characteristic clinical features (continuous unilateral pain with exacerbations, autonomic features, potential lack of response to simple analgesics)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69236274,
+    "fields": {
+      "question_number": "Q113",
+      "question_text": "A patient presents with a small area of headache associated with hair loss. What is the treatment?",
+      "options": {
+        "A": "Gabapentin",
+        "B": "Topical corticosteroids",
+        "C": "Tricyclic antidepressants",
+        "D": "Local anesthesia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes symptoms potentially suggestive of nummular headache or another localized headache syndrome and asks about potential treatment approaches."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27220759,
+    "fields": {
+      "question_number": "Q181",
+      "question_text": "In a pregnant patient with migraines, which prophylactic medication is suitable?",
+      "options": {
+        "A": "Topiramate",
+        "B": "Propranolol",
+        "C": "Valproic acid",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2023_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Concerns the selection of appropriate and safe prophylactic (preventive) medication for migraine during pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38686663,
+    "fields": {
+      "question_number": "Q18",
+      "question_text": "A patient presents with a stabbing headache occurring 100 times a day. What is the treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Lamictal",
+        "C": "Topamax",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes features suggestive of primary stabbing headache or possibly another indomethacin-responsive headache syndrome and asks for the characteristic treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28041355,
+    "fields": {
+      "question_number": "Q116",
+      "question_text": "In a case of trigeminal neuralgia, what is the most predictive of a structural cause?",
+      "options": {
+        "A": "Unilateral",
+        "B": "Old age",
+        "C": "Abnormal blink reflex",
+        "D": "Involving mainly V1"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2024_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on identifying clinical \"red flags\" or examination findings that suggest a secondary (structural) cause for trigeminal neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 31470062,
+    "fields": {
+      "question_number": "Q68",
+      "question_text": "A 30-year-old patient with a history of migraines presents with daily headaches for the past 2 months. Unlike her migraines, these headaches are not associated with nausea or photophobia. She states the headaches are constant, and she must take ibuprofen and many other analgesics with much improvement. What is the likely diagnosis?",
+      "options": {
+        "A": "Typical migraine",
+        "B": "Medication overuse headache",
+        "C": "Cluster headache",
+        "D": "Tension-type headache"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests the ability to diagnose Medication Overuse Headache (MOH) based on a change in headache pattern associated with frequent analgesic use."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 26060750,
+    "fields": {
+      "question_number": "Q59",
+      "question_text": "A patient experiences headaches lasting less than 1 minute, occurring 40 times a day, and is associated with lacrimation and eye injection. What is the most appropriate treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Lamotrigine",
+        "C": "Carbamazepine",
+        "D": "Topiramate"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes features characteristic of SUNCT/SUNA and asks for the appropriate first-line treatment (Lamotrigine)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 29608476,
+    "fields": {
+      "question_number": "Q40",
+      "question_text": "A patient presents with unilateral headaches on a daily basis associated with ptosis and lacrimation. What is the diagnosis?",
+      "options": {
+        "A": "Hemicrania continua",
+        "B": "Cluster headache",
+        "C": "Migraine",
+        "D": "Tension-type headache"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to differentiate Trigeminal Autonomic Cephalalgias (TACs), likely pointing towards Cluster Headache given the described autonomic features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 76835991,
+    "fields": {
+      "question_number": "Q21",
+      "question_text": "An obese lady with asthma also suffers from migraine. What is the recommended treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Lamictal",
+        "C": "Topamax",
+        "D": "Propranolol"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on selecting appropriate migraine prophylaxis (Topiramate is often considered due to potential weight loss, though asthma isn't a direct contraindication) considering comorbidities."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39729447,
+    "fields": {
+      "question_number": "Q97",
+      "question_text": "A female patient presented with a history of flashing in the right eye, followed by right homonymous hemianopia and left side weakness over 45 minutes. During her way, she had a headache. CT brain, CTA including DWI were all normal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Hemiplegic migraine.",
+        "B": "Transient ischemic attack (TIA).",
+        "C": "Occipital lobe seizure.",
+        "D": "Posterior reversible encephalopathy syndrome (PRES)."
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes a complex neurological sequence characteristic of hemiplegic migraine aura and asks for the diagnosis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20966396,
+    "fields": {
+      "question_number": "Q8",
+      "question_text": "What is the mechanism of action of Botox in the treatment of migraine headaches?",
+      "options": {
+        "A": "Serotonin agonist",
+        "B": "Serotonin reuptake inhibitors",
+        "C": "Monoamine inhibitor",
+        "D": "Modulation of neurotransmitter release (inhibits the release of neuropeptides such as substance P and CGRP and glutamate from primary sensory neurons)"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the specific pharmacological mechanism by which OnabotulinumtoxinA (Botox) is thought to work in chronic migraine prevention."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10022588,
+    "fields": {
+      "question_number": "Q5",
+      "question_text": "In the scenario of paroxysmal hemicrania, what is the management?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Sumatriptan",
+        "C": "Verapamil",
+        "D": "Carbamazepine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the specific, diagnostic treatment (Indomethacin) for Paroxysmal Hemicrania."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28883692,
+    "fields": {
+      "question_number": "Q67",
+      "question_text": "In managing migraine during pregnancy, what is the initial approach regardless of headache severity?",
+      "options": {
+        "A": "Start with NSAIDs",
+        "B": "Start with simple analgesia",
+        "C": "Start with triptans",
+        "D": "Start with opioids"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the initial, safest approach to acute migraine treatment during pregnancy. (Duplicate of Q69)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28046353,
+    "fields": {
+      "question_number": "Q83",
+      "question_text": "A male patient presents with unilateral pain on the forehead lasting for 1 minute, with conjunctival injection and tearing, occurring 40 times. There are no identifiable triggers. What is the most appropriate treatment?",
+      "options": {
+        "A": "Lamotrigine",
+        "B": "Indomethacin",
+        "C": "Topiramate",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Describes features characteristic of SUNCT/SUNA and asks for the appropriate first-line treatment (Lamotrigine). (Similar concept to Q59, Q76 Part II 2019)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46119330,
+    "fields": {
+      "question_number": "Q6",
+      "question_text": "A patient with migraine presents with nausea and vomiting. Laboratory tests show normal liver function but elevated amylase and lipase levels. Which of the following preventive treatments for migraine is known to cause this side effect?",
+      "options": {
+        "A": "Valproate",
+        "B": "Propranolol",
+        "C": "Topiramate",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of specific adverse effects (pancreatitis associated with elevated amylase/lipase) of migraine prophylactic medications (Valproate)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 40354764,
+    "fields": {
+      "question_number": "Q80",
+      "question_text": "Based on current FDA classifications, which of the following is NOT recommended for migraine treatment during pregnancy?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Metoclopramide",
+        "C": "Triptans",
+        "D": "NSAIDs in the second trimester"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge regarding the safety and recommendations for using common migraine medications during pregnancy (Triptans category C, NSAIDs avoided in 3rd trimester)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 62771003,
+    "fields": {
+      "question_number": "Q4",
+      "question_text": "In a case scenario of trigeminal neuralgia (TN) triggered by touching his face, he also has lacrimation. What is the management?",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Gabapentin",
+        "C": "Baclofen",
+        "D": "Surgical decompression"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests knowledge of the first-line pharmacological treatment (Carbamazepine) for Trigeminal Neuralgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43169529,
+    "fields": {
+      "question_number": "Q24",
+      "question_text": "A scenario describes a patient with ophthalmic migraine (third or sixth nerve palsy). What is the diagnosis?",
+      "options": {
+        "A": "Basilar migraine",
+        "B": "Hemicrania continua",
+        "C": "Medication overuse headache",
+        "D": "Ophthalmic migraine"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Tests the ability to diagnose Ophthalmoplegic Migraine (now classified as recurrent painful ophthalmoplegic neuropathy) based on headache associated with cranial nerve palsies."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 56245024,
+    "fields": {
+      "question_number": "Q23",
+      "question_text": "A woman who is post-partum (gave birth via cesarean section) presents with headache, and an MRI shows coronal T1 with pachymeningeal enhancement. The headache increases when she sits. What is the best management?",
+      "options": {
+        "A": "Blood patch",
+        "B": "MRV/MRI",
+        "C": "Pain management",
+        "D": "Observation"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes classic symptoms and imaging findings of post-dural puncture headache (a form of SIH) and asks for the most definitive treatment (epidural blood patch)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 16221954,
+    "fields": {
+      "question_number": "Q104",
+      "question_text": "A male patient presents with a shock-like electric sensation in half of his face multiple times per day, avoiding brushing and shaving. What is the recommended treatment?",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Gabapentin",
+        "C": "Valproic acid",
+        "D": "Keppra"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Describes classic symptoms of Trigeminal Neuralgia and asks for the first-line treatment (Carbamazepine)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 49555165,
+    "fields": {
+      "question_number": "Q45",
+      "question_text": "A patient presented with unilateral headache for a few months, sharp, lasting less than 1 minute, recurrent daily about 40 times, associated with lacrimation and conjunctival injection. What is the treatment of choice?",
+      "options": {
+        "A": "Lamotrigine",
+        "B": "Indomethacin",
+        "C": "Verapamil",
+        "D": "Sumatriptan"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes features characteristic of SUNCT/SUNA and asks for the treatment of choice (Lamotrigine). (Similar concept to Q59, Q76 Part II 2019, Q83)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 54243526,
+    "fields": {
+      "question_number": "Q117",
+      "question_text": "A 29-year-old female came to the neurology clinic asking for a third opinion regarding her headache. The first physician diagnosed her with cluster headache, while the second physician diagnosed her with SUNCT headache. What is the best way to differentiate between these two headache types?",
+      "options": {
+        "A": "Response to treatment",
+        "B": "Duration of the attack",
+        "C": "Brain imaging",
+        "D": "Frequency of attacks"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Tests knowledge of the key clinical features (attack duration, frequency, response to specific treatments like indomethacin/oxygen/triptans) used to differentiate between different Trigeminal Autonomic Cephalalgias (Cluster vs SUNCT)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50385191,
+    "fields": {
+      "question_number": "Q108",
+      "question_text": "A pregnant woman with a history of migraines requires prophylactic treatment. What is the best option?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Topiramate",
+        "C": "Amitriptyline",
+        "D": "Verapamil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Concerns the selection of appropriate prophylactic medication for migraine during pregnancy, weighing efficacy against fetal safety. (Similar concept to Q181)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72760886,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "A patient presents with a headache and tearing that lasts 15-30 minutes and occurs approximately 7 times a day, with a history of pain provoked by touching the face. What is the likely diagnosis?",
+      "options": {
+        "A": "Trigeminal Neuralgia",
+        "B": "Cluster headache",
+        "C": "Migraine",
+        "D": "Tension-type headache"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Tests the ability to differentiate between Trigeminal Neuralgia (typically very brief, triggered) and Cluster Headache (longer duration, spontaneous) based on clinical features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 46507751,
+    "fields": {
+      "question_number": "Q17",
+      "question_text": "A patient with continuous headache for 4 months experiences episodic increases in pain intensity. What is the recommended treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Lamictal",
+        "C": "Topamax",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes features suggestive of Hemicrania Continua (continuous baseline pain with exacerbations) and asks for its specific, diagnostic treatment (Indomethacin)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 11193039,
+    "fields": {
+      "question_number": "Q58",
+      "question_text": "A 35-year-old male presents with a history of headaches lasting 1 to 1.5 hours, accompanied by nasal congestion, tearing, and left facial swelling. These episodes occur every year for 1 to 1.5 months, after which he experiences no headaches for the rest of the year. What is the best treatment?",
+      "options": {
+        "A": "Calcium channel blocker",
+        "B": "Valproic acid",
+        "C": "Lamotrigine",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes classic episodic Cluster Headache and asks for a standard prophylactic treatment (Calcium channel blocker - Verapamil)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27732426,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "A male patient experiences a very severe headache after orgasm that then improves. What would you do?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Brain CT",
+        "C": "Lumbar puncture",
+        "D": "MRI brain"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the investigation and management of primary headache associated with sexual activity, specifically considering the need to rule out secondary causes like SAH initially, but also acknowledging treatments for the primary form."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23966964,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "A male presents with occipital headache radiating to the frontal area. On exam, he has tenderness over the occipital protuberance and his headache worsens with head movement. What is the recommended treatment?",
+      "options": {
+        "A": "Nerve block",
+        "B": "Carbamazepine",
+        "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "D": "Physical therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes symptoms consistent with occipital neuralgia and asks for appropriate treatment, which falls under headache and facial pain syndromes."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36309290,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A case of migraine presents with nausea and vomiting, liver function tests are normal, but there are elevated amylase and lipase levels. Which of the following preventive treatments for migraine is known to cause this side effect?",
+      "options": {
+        "A": "Valproate",
+        "B": "Propranolol",
+        "C": "Topiramate",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of side effects specifically related to migraine preventive medications (pancreatitis with Valproate)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94126250,
+    "fields": {
+      "question_number": "Q11",
+      "question_text": "A patient with migraine presents with a new onset of headache that is unlike their previous migraine headaches and is not improving despite an increased dose and frequency of analgesics. What is the most likely diagnosis?",
+      "options": {
+        "A": "Chronic daily headache",
+        "B": "Medication overuse headache",
+        "C": "Tension-type headache",
+        "D": "Secondary headache due to intracranial pathology"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with the diagnosis of a common complication of chronic migraine management, Medication Overuse Headache (MOH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 24058186,
+    "fields": {
+      "question_number": "Q12",
+      "question_text": "A patient presents with a positional headache that worsens with standing. A brain MRI shows pachymeningeal enhancement. What is the most likely diagnosis?",
+      "options": {
+        "A": "Intracranial hypotension",
+        "B": "Migraine",
+        "C": "Tension-type headache",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on diagnosing a specific secondary headache cause (intracranial hypotension) based on classic clinical and imaging features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 2002489,
+    "fields": {
+      "question_number": "Q13",
+      "question_text": "A pregnant woman in her 8th month presents with an acute migraine. What is the recommended treatment?",
+      "options": {
+        "A": "Ibuprofen",
+        "B": "Sumatriptans",
+        "C": "Hydrocodone",
+        "D": "Dihydroergotamine"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Concerns the acute treatment of migraine specifically within the context of late pregnancy, considering medication safety."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72760886,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "What\u2019s the mechanism of action of Botox in migraine headache?",
+      "options": {
+        "A": "Inhibition of acetylcholine release at neuromuscular junctions",
+        "B": "Serotonin agonist",
+        "C": "Serotonin reuptake inhibitors",
+        "D": "Monoamine inhibitor"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks about the specific mechanism of a treatment (Botox) used for chronic migraine prophylaxis."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 25065132,
+    "fields": {
+      "question_number": "Q15",
+      "question_text": "A female patient presents with severe headache and papilledema, and no imaging has been performed. What is the next best step in management?",
+      "options": {
+        "A": "MRV",
+        "B": "Lumbar puncture",
+        "C": "Non-contrast CT head",
+        "D": "Start acetazolamide"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Addresses the initial diagnostic workup for a patient presenting with headache and signs of increased intracranial pressure (papilledema), prioritizing imaging before LP."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 78103816,
+    "fields": {
+      "question_number": "Q64",
+      "question_text": "Which medication is recommended for migraine treatment in the 1st and 2nd trimester of pregnancy?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "NSAID",
+        "C": "Hydrocodone",
+        "D": "Sumatriptan"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the safe and recommended treatment options for migraine during early pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 83230469,
+    "fields": {
+      "question_number": "Q81",
+      "question_text": "What is the best treatment for migraine-related nausea?",
+      "options": {
+        "A": "Domperidone",
+        "B": "Metoclopramide",
+        "C": "Prochlorperazine",
+        "D": "Ondansetron"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Deals with the management of a specific symptom (nausea) commonly associated with migraine attacks."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 88614049,
+    "fields": {
+      "question_number": "Q49",
+      "question_text": "What is the first-line treatment for migraine in pediatric patients?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Ibuprofen",
+        "C": "Triptans",
+        "D": "Propranolol"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks about standard first-line migraine treatment, specifically in the pediatric age group, a core headache topic."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12844238,
+    "fields": {
+      "question_number": "Q44",
+      "question_text": "What is the best treatment for hypnic headache?",
+      "options": {
+        "A": "Lithium",
+        "B": "Indomethacin",
+        "C": "Caffeine",
+        "D": "Verapamil"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Addresses the specific treatment for a rare primary headache disorder (hypnic headache)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 23966964,
+    "fields": {
+      "question_number": "Q42",
+      "question_text": "Patient presented with recurrent migraine headache, disabling, causing loss of many hours per week, and has a history of asthma on inhalers. What is the treatment of choice?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Primidone",
+        "C": "Topiramate",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on selecting appropriate migraine prophylaxis while considering patient comorbidities (asthma contraindicating beta-blockers)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36309290,
+    "fields": {
+      "question_number": "Q43",
+      "question_text": "A 40-year-old patient presented with a headache for the past 4 months. It is continuous with periods of exacerbation, unilateral, associated with lacrimation. The patient tried paracetamol and NSAIDs with no benefits. What is the treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Sumatriptan",
+        "C": "Verapamil",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Describes symptoms characteristic of Hemicrania Continua and asks for its specific treatment (Indomethacin)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94126250,
+    "fields": {
+      "question_number": "Q11",
+      "question_text": "A postpartum patient presents with a history of headache, and an attached picture shows pachymeningeal enhancement. What is the next best step in management?",
+      "options": {
+        "A": "Blood patch",
+        "B": "Intravenous corticosteroids",
+        "C": "Lumbar puncture to measure opening pressure",
+        "D": "Empiric antibiotic therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Focuses on the management of presumed intracranial hypotension (likely post-dural puncture headache given postpartum context and imaging) with a specific intervention (blood patch)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 75410635,
+    "fields": {
+      "question_number": "Q77",
+      "question_text": "Which of the following medications is considered a third-line treatment for migraine and is classified as pregnancy category C?",
+      "options": {
+        "A": "Sumatriptan",
+        "B": "Acetaminophen",
+        "C": "Ergotamine",
+        "D": "Valproic acid"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge regarding the classification, tiering, and pregnancy safety categories of medications used for migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93895348,
+    "fields": {
+      "question_number": "Q70",
+      "question_text": "Which medication is NOT recommended for migraine treatment in the 3rd trimester of pregnancy?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Hydrocodone",
+        "C": "Sumatriptan",
+        "D": "NSAID"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on identifying contraindications for specific migraine treatments during late pregnancy (NSAIDs due to ductus arteriosus risk)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 95658016,
+    "fields": {
+      "question_number": "Q207",
+      "question_text": "An obese female with a history of bronchial asthma is seeking migraine prophylaxis. Which medication is most appropriate?",
+      "options": {
+        "A": "Beta-blockers (BB)",
+        "B": "Verapamil (VA)",
+        "C": "Amitriptyline",
+        "D": "Topiramate (TPX)"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on selecting appropriate migraine prophylaxis tailored to specific patient comorbidities (obesity favoring Topiramate, asthma contraindicating beta-blockers)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84713101,
+    "fields": {
+      "question_number": "Q109",
+      "question_text": "A patient presents with headache, photophobia, phonophobia, and nausea. Her mother reports a history of menstrual-related headaches, and her sister has similar headaches that require a calm environment. What is the likely diagnosis?",
+      "options": {
+        "A": "Menstrual migraine",
+        "B": "Migraine without aura",
+        "C": "Tension-type headache",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assesses the ability to diagnose a primary headache disorder (migraine without aura) based on classic clinical features and family history."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28062521,
+    "fields": {
+      "question_number": "Q46",
+      "question_text": "Patient has migraine headache, tried multiple analgesics and NSAIDs with no benefits. What is the symptomatic treatment?",
+      "options": {
+        "A": "Caffeine with barbiturates",
+        "B": "Triptans",
+        "C": "Paracetamol and NSAIDs",
+        "D": "Ergotamine derivatives"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Deals with the escalation of acute/symptomatic treatment for migraine when first-line options fail."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 90670916,
+    "fields": {
+      "question_number": "Q7",
+      "question_text": "A patient with migraine presents with a new onset of headache that is unlike previous migraine headaches and is not improving despite an increased dose and frequency of analgesics. What is the likely diagnosis?",
+      "options": {
+        "A": "Chronic daily headache",
+        "B": "Medication overuse headache",
+        "C": "Tension-type headache",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Deals with the diagnosis of a common complication of chronic migraine management, Medication Overuse Headache (MOH). (Duplicate of Q11 Part I 2019)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73946213,
+    "fields": {
+      "question_number": "Q79",
+      "question_text": "A 45-year-old with migraine and peptic ulcer, what is the best medication for prevention?",
+      "options": {
+        "A": "Triptan",
+        "B": "Propranolol",
+        "C": "Lamictal",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on selecting appropriate migraine prophylaxis while considering patient comorbidities (peptic ulcer contraindicating NSAIDs like Naproxen; Triptans are abortive, Lamictal not first-line)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27732426,
+    "fields": {
+      "question_number": "Q41",
+      "question_text": "In the same scenario, what is the recommended treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Sumatriptan",
+        "C": "Verapamil",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assumes a preceding scenario describing an indomethacin-responsive headache (e.g., Paroxysmal Hemicrania, Hemicrania Continua) and asks for the specific treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 73946213,
+    "fields": {
+      "question_number": "Q79",
+      "question_text": "A migraine patient's MRI brain shows hyperintense small lesions. What is the recommended management?",
+      "options": {
+        "A": "Start treatment",
+        "B": "Reassurance",
+        "C": "Repeat MRI in 6 months",
+        "D": "Refer for neurologic evaluation"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2021_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the clinical significance and management of common incidental MRI findings (UBOs) in migraine patients."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 60775863,
+    "fields": {
+      "question_number": "Q174",
+      "question_text": "A scenario of acute onset daily headache which is constant and not related to any triggering factors or other symptoms has been present for 3 months. What is the most likely diagnosis?",
+      "options": {
+        "A": "Tension headache",
+        "B": "Meningitis",
+        "C": "New daily persistent headache",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on the diagnosis of New Daily Persistent Headache (NDPH) based on its characteristic abrupt onset and persistent nature."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 20299279,
+    "fields": {
+      "question_number": "Q55",
+      "question_text": "A 25-year-old female with a history of type 1 diabetes mellitus experiences migraines once a month that last more than 24 hours. She is in her final year at university. What medication will you prescribe for prophylaxis?",
+      "options": {
+        "A": "Amitriptyline",
+        "B": "Topiramate",
+        "C": "Carbamazepine",
+        "D": "Propranolol"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses selection of migraine prophylaxis considering patient comorbidities (diabetes potentially influencing choice, e.g., avoiding beta-blockers if autonomic neuropathy or hypoglycemia unawareness is present)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 69602046,
+    "fields": {
+      "question_number": "Q87",
+      "question_text": "A pregnant woman at 10 weeks of gestation presents with severe migraine. What is the most appropriate medication to administer?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Aspirin",
+        "C": "Sumatriptan",
+        "D": "Propranolol"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on safe and appropriate acute treatment options for severe migraine during early pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94189496,
+    "fields": {
+      "question_number": "Q20",
+      "question_text": "A patient has continuous headache for 3 months with some increase in baseline pain. What is the likely diagnosis?",
+      "options": {
+        "A": "Medication overuse headache",
+        "B": "Hemicrania continua",
+        "C": "Basilar migraine",
+        "D": "Ophthalmic migraine"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Assesses the diagnosis of chronic daily headache types, particularly differentiating between MOH and Hemicrania Continua based on the description."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13836441,
+    "fields": {
+      "question_number": "Q115",
+      "question_text": "A migraine patient with daily persistent headache has been taking daily triptans and NSAIDs. What is the next management step?",
+      "options": {
+        "A": "Abrupt discontinuation of the medications",
+        "B": "Gradual discontinuation of the medications",
+        "C": "Start corticosteroid therapy",
+        "D": "Initiate preventive migraine medication"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the specific management strategy (medication withdrawal) for Medication Overuse Headache (MOH)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 79645849,
+    "fields": {
+      "question_number": "Q103",
+      "question_text": "A patient with chronic migraine, what is the treatment?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Depakene",
+        "C": "Botox",
+        "D": "Topiramate"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of approved prophylactic treatments specifically for chronic migraine (Botox being a key one)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 82948502,
+    "fields": {
+      "question_number": "Q75",
+      "question_text": "Which of the following is NOT a criterion for neuroimaging in children with headaches?",
+      "options": {
+        "A": "Abnormal findings at neurologic examination",
+        "B": "Atypical presentation, including vertigo",
+        "C": "Recent headache of less than 6 months' duration",
+        "D": "Family history of migraine"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of red flags and indications for neuroimaging specifically in the context of pediatric headache evaluation."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 12001650,
+    "fields": {
+      "question_number": "Q52",
+      "question_text": "What is the sign on brain MRI of a patient with intracranial hypotension?",
+      "options": {
+        "A": "Leptomeningeal enhancement",
+        "B": "Decrease in venous sinus size",
+        "C": "Pituitary enlargement",
+        "D": "Decrease in anterior-posterior diameter of the brainstem"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Tests knowledge of characteristic neuroimaging findings associated with intracranial hypotension, a cause of secondary headache. (Note: Answer A should likely be Pachymeningeal enhancement)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 19841126,
+    "fields": {
+      "question_number": "Q180",
+      "question_text": "In the same scenario asking about treatment, what is the appropriate medication?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Sumatriptan",
+        "C": "Propranolol",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Assumes a preceding scenario describing an indomethacin-responsive headache (e.g., Paroxysmal Hemicrania, Hemicrania Continua) and asks for its specific treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 92094636,
+    "fields": {
+      "question_number": "Q74",
+      "question_text": "A 27-year-old female presents with a severe headache located over the right side of her head, characterized by throbbing pain, nausea, and phonophobia. Her neurological examination is normal, and a magnetic resonance imaging (MRI) of the brain is also normal. Which of the following would be a reasonable first-line agent for her headache?",
+      "options": {
+        "A": "Acetaminophen",
+        "B": "Oral morphine",
+        "C": "Ergotamine",
+        "D": "Intravenous valproic acid"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2019_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Describes a classic migraine attack and asks for appropriate first-line acute treatment."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70282588,
+    "fields": {
+      "question_number": "Q62",
+      "question_text": "A 33-year-old female with a history of migraines calls the office because of a severe migraine at 32 weeks of pregnancy. There are no complicating features to her headache, and this headache is similar to all her prior headaches. Which of the following abortive therapies would be the most appropriate for this patient?",
+      "options": {
+        "A": "Oral ibuprofen",
+        "B": "Oral sumatriptan",
+        "C": "Intravenous valproic acid",
+        "D": "Intramuscular ketorolac"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Focuses on selecting appropriate acute (abortive) migraine therapy considering safety in late pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 21328954,
+    "fields": {
+      "question_number": "Q9",
+      "question_text": "A male presents with an occipital headache radiating to the frontal area. On examination, he has tenderness over the occipital protuberance, and the headache worsens with head movement. What is the recommended treatment?",
+      "options": {
+        "A": "Nerve block",
+        "B": "Carbamazepine",
+        "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "D": "Physical therapy"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes symptoms consistent with occipital neuralgia and asks for appropriate treatment. (Duplicate of Q42 Part I 2019)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 51758437,
+    "fields": {
+      "question_number": "Q84",
+      "question_text": "A 23-year-old female with type 1 diabetes mellitus is seeking prophylaxis for her migraines. What medication should be prescribed?",
+      "options": {
+        "A": "Topiramate",
+        "B": "Valproic acid",
+        "C": "Propranolol",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part II 2022_mcqs.txt",
+      "exam_type": "Part II",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Addresses selection of migraine prophylaxis considering patient comorbidities (diabetes). (Similar to Q55 Part I 2018)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 13789111,
+    "fields": {
+      "question_number": "Q60",
+      "question_text": "What is the treatment for an acute attack of short-lasting unilateral neuralgiform headache?",
+      "options": {
+        "A": "Lidocaine",
+        "B": "Indomethacin",
+        "C": "Gabapentin",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Focuses on the acute management of SUNCT/SUNA (Short-lasting Unilateral Neuralgiform Headache attacks), a type of trigeminal autonomic cephalalgia."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 35919464,
+    "fields": {
+      "question_number": "Q19",
+      "question_text": "A middle-aged female presents with unilateral headache associated with tearing and ptosis. What should be given?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Lamictal",
+        "C": "Topamax",
+        "D": "Medication overuse headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes a trigeminal autonomic cephalalgia and asks for treatment; the options suggest distinguishing between indomethacin-responsive types (PH, HC) and others."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 43096992,
+    "fields": {
+      "question_number": "Q3",
+      "question_text": "A case scenario of trigeminal neuralgia (TN) is presented, where the condition is triggered by touching his face and he also has lacrimation. What is the diagnosis?",
+      "options": {
+        "A": "Trigeminal Neuralgia (TN)",
+        "B": "Cluster Headache",
+        "C": "Postherpetic Neuralgia",
+        "D": "Temporomandibular Joint Disorder"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Describes classic features of Trigeminal Neuralgia, a facial pain syndrome often managed within headache/pain clinics."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94773267,
+    "fields": {
+      "question_number": "Q50",
+      "question_text": "What is the treatment for hypnic headache?",
+      "options": {
+        "A": "Lithium",
+        "B": "Oxygen",
+        "C": "Amitriptyline",
+        "D": "Indomethacin"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the specific treatment for a rare primary headache disorder (hypnic headache). (Similar to Q44 Part 2 2024 V9)"
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 39715679,
+    "fields": {
+      "question_number": "Q16",
+      "question_text": "What percentage of migraine patients report their attack in the emergency room as disabling after 24 hours?",
+      "options": {
+        "A": "10%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 2020 copy_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Asks about the epidemiology and functional impact (disability) associated with migraine attacks requiring emergency care."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 1216121,
+    "fields": {
+      "question_number": "Q1",
+      "question_text": "What is the physiology of cluster headache?",
+      "options": {
+        "A": "Imbalance neurotraumatic in the trigeminal nerve",
+        "B": "Brainstem change modulation",
+        "C": "Ipsilateral hypothalamus in the CNS",
+        "D": "Dysfunction of the autonomic nervous system"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses directly on the underlying pathophysiology and neuroanatomical correlates specific to cluster headache."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 5860556,
+    "fields": {
+      "question_number": "Q96",
+      "question_text": "A young lady experiences severe headaches with orgasm, and similar episodes occur every time. What is the most appropriate treatment?",
+      "options": {
+        "A": "Verapamil",
+        "B": "Indomethacin",
+        "C": "Sumatriptan",
+        "D": "Propranolol"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Addresses the treatment (likely prophylactic given Verapamil option) for primary headache associated with sexual activity."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64311423,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "In SUNCT, what are the minimum ipsilateral autonomic symptoms?",
+      "options": {
+        "A": "Conjunctival injection and lacrimation",
+        "B": "Nasal congestion and rhinorrhea",
+        "C": "Eyelid edema and miosis",
+        "D": "Forehead sweating and ptosis"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of the specific diagnostic criteria for SUNCT, focusing on the required autonomic features."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 93847203,
+    "fields": {
+      "question_number": "Q95",
+      "question_text": "A 25-year-old man presents with episodic, unilateral, throbbing headaches associated with nausea and light and noise sensitivity. They are triggered by some foods, including cheddar cheese. Most of his headaches occur without any obvious precipitant. He generally has one headache on the weekend that keeps him from his regular activities on the days they occur. He has had this occurring at least 1 to 2 days per week with at least 50% time loss. He has tried multiple over-the-counter remedies without satisfactory relief. Which of the following medications for symptomatic treatment of his headache would be most appropriate at this time?",
+      "options": {
+        "A": "Aspirin with metoclopramide",
+        "B": "A triptan",
+        "C": "Butalbital, caffeine, acetaminophen (APAP) combination",
+        "D": "Codeine with APAP"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes a typical presentation of migraine requiring effective acute treatment and asks to select an appropriate symptomatic therapy (triptan)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 84049524,
+    "fields": {
+      "question_number": "Q101",
+      "question_text": "In a case of paroxysmal hemicrania, what is the treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Sumatriptan",
+        "C": "Propranolol",
+        "D": "Topiramate"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2019_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Asks for the pathognomonic treatment (Indomethacin) for a specific trigeminal autonomic cephalalgia, Paroxysmal Hemicrania."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 47579407,
+    "fields": {
+      "question_number": "Q114",
+      "question_text": "A pregnant patient at 12 weeks gestational age with status migrainosus is asking about management. What is the appropriate treatment?",
+      "options": {
+        "A": "IV Depakin",
+        "B": "Dihydroergotamine",
+        "C": "Subcutaneous sumatriptan",
+        "D": "Steroid"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "part 2 2021 (2",
+      "exam_type": "Part",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: Addresses the management of a severe migraine complication (status migrainosus), specifically considering treatment options and safety in early pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 70349785,
+    "fields": {
+      "question_number": "Q54",
+      "question_text": "A patient presents with a history of unilateral headache, severe, lasting less than 5 minutes, with stabbing pain and associated autonomic symptoms on the same side (tearing). What is the most likely diagnosis?",
+      "options": {
+        "A": "Short-lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT)",
+        "B": "Hemicrania continua",
+        "C": "Chronic paroxysmal hemicrania",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Assesses the ability to differentiate between various trigeminal autonomic cephalalgias based on attack duration, frequency, and associated symptoms, pointing towards SUNCT."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 96008350,
+    "fields": {
+      "question_number": "Q72",
+      "question_text": "A 30-year-old female patient, known to have migraine, presented with a new headache unlike her usual migraines for more than 3 months. It is more constant, not associated with nausea, vomiting, photophobia, or phonophobia, and not improved with usual analgesics. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Chronic migraine headache",
+        "B": "Medications overuse headache",
+        "C": "New daily persistent headache",
+        "D": "Tension headache"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2023_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Focuses on diagnosing the type of chronic daily headache in a patient with prior migraine history, considering possibilities like transformation, MOH, or NDPH."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50456819,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "What is a contraindication for using NSAIDs in the 3rd trimester of pregnancy?",
+      "options": {
+        "A": "Risk of headache",
+        "B": "Premature closure of the ductus arteriosus",
+        "C": "Increased risk of nausea",
+        "D": "Ineffectiveness in treating migraines"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Tests knowledge of specific contraindications (premature closure of ductus arteriosus) for a common class of headache medications (NSAIDs) during late pregnancy."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 74899737,
+    "fields": {
+      "question_number": "Q173",
+      "question_text": "What is the main neurotransmitter involved in migraine headaches?",
+      "options": {
+        "A": "Glutamate",
+        "B": "Serotonin",
+        "C": "Dopamine",
+        "D": "GABA"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2022_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2022,
+      "explanation": "Classification Reason: Asks about the key neurotransmitter (Serotonin, although CGRP is now also central) implicated in the pathophysiology of migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 68021199,
+    "fields": {
+      "question_number": "Q57",
+      "question_text": "A young man has a history of headaches lasting 15-20 minutes, located over his orbit, associated with nasal congestion. His wife reports that he becomes irritated and angry during these episodes. What is the best treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "High flow Oxygen",
+        "C": "Sumatriptan",
+        "D": "Verapamil"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes features suggestive of cluster headache (duration, location, autonomic symptoms, agitation) and asks for the best acute treatment (Oxygen)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 36129972,
+    "fields": {
+      "question_number": "Q56",
+      "question_text": "A patient presents with a history of unilateral headache, severe, lasting less than 5 minutes, with stabbing pain and associated autonomic symptoms on the same side (tearing). What is the best approach for treatment?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Topamax",
+        "C": "Oxygen therapy",
+        "D": "Verapamil"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2018_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Describes SUNCT/SUNA (same as Q54) and asks for treatment approach (Indomethacin is incorrect; Topiramate/Topamax is a potential prophylactic option)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72760886,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "What is the mechanism of action of Botox in the treatment of migraine headaches?",
+      "options": {
+        "A": "Serotonin agonist",
+        "B": "Serotonin reuptake inhibitors",
+        "C": "Monoamine inhibitor",
+        "D": "Glutamate inhibition"
+      },
+      "correct_answer": "D",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Asks about the mechanism of action of a specific treatment (Botox/onabotulinumtoxinA) used for chronic migraine."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 77621939,
+    "fields": {
+      "question_number": "Q31",
+      "question_text": "A patient presents with a headache that came out of the blue and has persisted for 3 months. What is the most likely diagnosis?",
+      "options": {
+        "A": "NDPH",
+        "B": "SUNA",
+        "C": "HC",
+        "D": "Chronic Migraine"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: The question describes the characteristic temporal profile of New Daily Persistent Headache (NDPH), a primary headache disorder."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 38686663,
+    "fields": {
+      "question_number": "Q18",
+      "question_text": "What is the second-line management for trigeminal neuralgia after carbamazepine?",
+      "options": {
+        "A": "Pregabalin",
+        "B": "Lamotrigine",
+        "C": "Baclofen",
+        "D": "Gabapentin"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Focuses on the pharmacological treatment options for trigeminal neuralgia, a specific facial pain syndrome often managed within the scope of headache disorders."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 32480555,
+    "fields": {
+      "question_number": "Q29",
+      "question_text": "A patient presents with a headache, normal brain CT, and lumbar puncture (LP) done by an intern that shows 48 WBCs, 780 RBCs, normal protein, and glucose. What is the most likely diagnosis?",
+      "options": {
+        "A": "Traumatic Tap",
+        "B": "Viral meningitis",
+        "C": "Bacterial meningitis",
+        "D": "Subarachnoid Hemorrhage (SAH) with xanthochromia"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 1 2020_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2020,
+      "explanation": "Classification Reason: Focuses on interpreting CSF results in the context of headache, specifically distinguishing a traumatic tap from underlying pathology like meningitis or SAH."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 27933531,
+    "fields": {
+      "question_number": "Q10",
+      "question_text": "In a patient with migraine without aura, which of the following is the most relevant clinical picture?",
+      "options": {
+        "A": "30 to 60 minutes in duration",
+        "B": "Throbbing quality",
+        "C": "Bilateral location",
+        "D": "Not aggravated by daily activity"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of the diagnostic clinical features (e.g., throbbing quality) characteristic of migraine headaches."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64832084,
+    "fields": {
+      "question_number": "Q183",
+      "question_text": "A 50-year-old male with a history of migraine has recently been diagnosed with myocardial infarction (MI) and coronary artery disease (CAD). What is contraindicated for use regarding preventive treatment of migraine?",
+      "options": {
+        "A": "Amitriptyline",
+        "B": "Verapamil",
+        "C": "Triptan",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Focuses on contraindications for migraine *abortive* therapy (triptans) due to cardiovascular comorbidities (CAD/MI)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 72760886,
+    "fields": {
+      "question_number": "Q14",
+      "question_text": "Q14. (Source: PART I - 2024 - KSMC Revision_mcqs.txt) In a scenario of cluster headache, what additional finding is expected?",
+      "options": {
+        "A": "MRI brain shows brainstem hyperintensities",
+        "B": "PET scan shows changes in the diencephalon",
+        "C": "EEG shows spikes and acceleration",
+        "D": "Trigeminal nerve hypertrophy"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+      "exam_type": null,
+      "exam_year": 2024,
+      "explanation": "Classification Reason: Tests knowledge of associated features or potential findings in cluster headache, a primary headache disorder. (Note: Hypothalamic activation on PET is seen during attacks, but none of the options are standard clinical findings)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 10827410,
+    "fields": {
+      "question_number": "Q195",
+      "question_text": "Q195. (Source: Promotion 2018_mcqs.txt) Which of the following is required for a diagnosis of pseudotumor cerebri syndrome?",
+      "options": {
+        "A": "Papilledema",
+        "B": "Normal neurologic examination except for cranial nerve abnormalities",
+        "C": "Neuroimaging: Normal brain parenchyma without evidence of hydrocephalus, mass, or structural lesion and no abnormal meningeal enhancement on MRI",
+        "D": "Elevated lumbar puncture opening pressure (\u2265250 mm CSF in adults and \u2265280 mm CSF in children)"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2018_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2018,
+      "explanation": "Classification Reason: Asks for the diagnostic criteria (modified Dandy criteria) for Idiopathic Intracranial Hypertension (IIH)/Pseudotumor Cerebri, a condition primarily presenting with headache."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 28062521,
+    "fields": {
+      "question_number": "Q46",
+      "question_text": "A young female presented with a severe headache; CT imaging shows pituitary apoplexy. What is the likely diagnosis?",
+      "options": {
+        "A": "Pituitary apoplexy",
+        "B": "Migraine",
+        "C": "Tension headache",
+        "D": "Cluster headache"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Promotion 2021_mcqs.txt",
+      "exam_type": "Promotion",
+      "exam_year": 2021,
+      "explanation": "Classification Reason: While pituitary apoplexy has neuro-ophthalmological signs (often CN palsies), this question focuses solely on the diagnosis based on headache and imaging, fitting secondary headache.* *Correction:* The CT finding *is* the diagnosis. The question is essentially asking to recognize the diagnosis presented. Reconsidering: Pituitary apoplexy is an endocrine emergency often presenting with headache and CN palsies. Neuro-ophthalmology is crucial for the CN assessment, but the *diagnosis itself* based on imaging and sudden headache could arguably fit Neuro-oncology (pituitary lesion) or even Vascular (infarct/hemorrhage). Given the presentation *starts* with severe headache, and the diagnosis is provided by imaging, perhaps classifying it as Headache (secondary cause) is less ideal. Let's reclassify to **Neuro_oncology** as it involves a pituitary lesion event. *Final Reassessment:* The *presentation* described is severe headache + imaging finding = diagnosis. Pituitary apoplexy is an acute event involving a pituitary tumor/lesion. Neuro-oncology seems the best fit, focusing on the lesion event. *Wait, let's re-read the instructions: focus on the concept.* The concept is recognizing pituitary apoplexy from presentation + imaging. It's an acute neurological event. Let's place it under **Critical_Care_Neurology** due to the acute, emergent nature (headache, potential CN palsies, hormonal collapse). *Final Decision:* **Critical_Care_Neurology** seems most appropriate for the acute syndrome recognition. *Self-Correction:* Let's re-read Q31 above (classified as Neuroophth) - sudden severe headache, double vision, ptosis, decreased VA -> Pituitary apoplexy. That *focuses* on the neuro-ophth signs. Q46 *only* mentions severe headache + CT finding = diagnosis. The core is recognizing the named diagnosis *from* the headache and imaging. Let's stick to **Neuro_oncology** as it pertains to an event (apoplexy) within a lesion (pituitary adenoma usually)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 94126250,
+    "fields": {
+      "question_number": "Q11",
+      "question_text": "A postpartum patient who underwent a C-section presents with a headache that worsens upon standing and during Valsalva maneuver, and is not responding to medication. What is the most appropriate next step in management?",
+      "options": {
+        "A": "Blood patch",
+        "B": "Oral Steroid",
+        "C": "IV Steroid",
+        "D": "Observation and hydration"
+      },
+      "correct_answer": "A",
+      "subspecialty": "Headache",
+      "source_file": "Part 2 - 2023_mcqs.txt",
+      "exam_type": "Part",
+      "exam_year": 2023,
+      "explanation": "Classification Reason: Describes a classic presentation of a post-dural puncture headache (low CSF pressure headache) and asks for the definitive treatment (epidural blood patch)."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 50456819,
+    "fields": {
+      "question_number": "Q66",
+      "question_text": "SUNCT and SUNA are characterized by sudden brief attacks of severe unilateral head pain in which regions?",
+      "options": {
+        "A": "Occipital and cervical",
+        "B": "Orbital, peri-orbital, or temporal",
+        "C": "Frontal and parietal",
+        "D": "Maxillary and mandibular"
+      },
+      "correct_answer": "B",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": "Classification Reason: Tests knowledge of trigeminal autonomic cephalalgias."
+    }
+  },
+  {
+    "model": "mcq.MCQ",
+    "pk": 64311423,
+    "fields": {
+      "question_number": "Q39",
+      "question_text": "B. Pituitary adenoma compressing the optic chiasm",
+      "options": {
+        "C": "Retinal detachment",
+        "D": "Optic neuritis Classification: The presentation of severe bilateral temporal headache, elevated ESR, and sectoranopia suggests ischemic optic neuropathy secondary to temporal arteritis (giant cell arteritis).",
+        "A": "Option A",
+        "B": "Option B"
+      },
+      "correct_answer": "C",
+      "subspecialty": "Headache",
+      "source_file": "Part I 2019_mcqs.txt",
+      "exam_type": "Part I",
+      "exam_year": 2019,
+      "explanation": ""
+    }
+  }
+]

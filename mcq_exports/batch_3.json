@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": "Q69",
+    "question_text": "In a case scenario about cerebellar hemorrhage, what is the next step in management?",
+    "options": {
+      "A": "Neurosurgery consultation for evacuation",
+      "B": "Initiate high-dose corticosteroids",
+      "C": "Start anticoagulation therapy",
+      "D": "Observe with serial neurological exams"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "An elderly man has a 1-month history of right-sided weakness and confusion. A brain CT shows a crescentic-shaped hypodensity. What is the mechanism of the lesion?",
+    "options": {
+      "A": "Bridging veins rupture",
+      "B": "Middle meningeal artery rupture",
+      "C": "Cerebral artery thrombosis",
+      "D": "Venous sinus thrombosis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "",
+    "options": {
+      "A": "patient who was arrested by police presents with encephalopathy and has a halitosis odor. What treatment should be administered?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q126",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with subarachnoid hemorrhage and hyponatremia (serum sodium 129), with a blood pressure of 100 mmHg and high serum and urine osmolarity. What is the significance of these findings? (Note: Incomplete options)"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "",
+    "options": {
+      "A": "patient with intracerebral hemorrhage (ICH) two days later has a blood pressure of 170/90 and a marginally low platelet count of 145. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "",
+    "options": {
+      "A": "patient with acute stroke received tPA and subsequently developed difficulty with speaking or swallowing. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q254",
+    "question_text": "What EEG finding is associated with poor prognosis?",
+    "options": {
+      "A": "Non-reactive continuous alpha.",
+      "B": "FIRDA.",
+      "C": "Hypsarrhythmia.",
+      "D": "Continuous spindles."
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q392",
+    "question_text": "",
+    "options": {
+      "A": "56-year-old male patient is found in his house with decreased level of consciousness. He was last seen normal 1 day ago. A brain CT scan is performed. What will you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q327",
+    "question_text": "In a case of trauma, which biomarker is most reliable for detecting disrupted blood-brain barrier (BBB)?",
+    "options": {
+      "A": "S100\u03b2",
+      "B": "Neuron-specific enolase (NSE)",
+      "C": "GFAP",
+      "D": "MBP"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q195",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with acute confusion and is found to have elevated blood levels of urea. What is the most likely cause of their symptoms?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q95",
+    "question_text": "",
+    "options": {
+      "A": "patient with subarachnoid hemorrhage (SAH) presents with hyponatremia. What should you do?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q460",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with a headache for months, has papilledema, and an MRI shows hydrocephalus with transependymal edema. What should be done next, considering the presenting symptoms were seizure and confusion?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q491",
+    "question_text": "An elderly male with left-sided weakness and dysarthria, who is on dabigatran, underwent thrombectomy without receiving tPA. He later has a CT scan showing bleeding. What should be administered to reverse the bleeding?",
+    "options": {
+      "A": "Osmotic therapy",
+      "B": "Idarucizumab",
+      "C": "Vitamin K",
+      "D": "Prothrombin complex concentrate"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q115",
+    "question_text": "",
+    "options": {
+      "A": "patient progressed rapidly to quadriplegia and was intubated. He is awake and following commands with ocular movement, and the MRI is normal. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q174",
+    "question_text": "An EEG shows a burst suppression pattern. What is the most likely status of the patient?",
+    "options": {
+      "A": "Brain dead",
+      "B": "Deep coma",
+      "C": "Under general anesthesia",
+      "D": "Hypothermia"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q19",
+    "question_text": "",
+    "options": {
+      "A": "patient who is status post cardiac arrest and has been discharged from the hospital returns to the clinic complaining of sudden jerky movements sometimes upon touching. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q179",
+    "question_text": "Hypertonic saline is contraindicated in which of the following patient populations?",
+    "options": {
+      "A": "Patients with end-stage kidney disease",
+      "B": "Patients with diabetes mellitus",
+      "C": "Patients with hypertension",
+      "D": "Patients with traumatic brain injury"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q178",
+    "question_text": "What is the benefit of using mannitol over hypertonic saline in the management of increased intracranial pressure?",
+    "options": {
+      "A": "Less nephrotoxic",
+      "B": "Increased intravascular volume",
+      "C": "Better hypotension management",
+      "D": "Faster onset of action"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "For the same patient, what is the recommended treatment?",
+    "options": {
+      "A": "Osmotic therapy",
+      "B": "Surgery",
+      "C": "Corticosteroids",
+      "D": "Antiepileptic drugs"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q43",
+    "question_text": "",
+    "options": {
+      "A": "delirious patient presents. What is your next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "brain CT shows a coup contrecoup injury with left frontal and right temporal bleed. What is the most likely mechanism of injury?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "Alcoholic patient came with post-traumatic seizure and delirium; he was on Keppra and Depakin, then seizure improved. After 2 days, the patient had worsening of his delirium; what will you do?",
+    "options": {
+      "A": "Alcohol level",
+      "B": "Toxicology screening",
+      "C": "Ammonia",
+      "D": "Electrolyte panel"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "Epidural hematoma (EDH)",
+      "B": "Subdural hematoma (SDH)",
+      "C": "Axonal brain injury",
+      "D": "Intracerebral hemorrhage"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q196",
+    "question_text": "",
+    "options": {
+      "A": "patient who has recently delivered vaginally and is experiencing eclampsia presents with progressive flaccid paralysis. What is the next best step in management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q356",
+    "question_text": "",
+    "options": {
+      "A": "young lady with SLE nephritis on dialysis presents with seizures and confusion. MRI shows high blood pressure with findings consistent with PRES. What is your diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  }
+]

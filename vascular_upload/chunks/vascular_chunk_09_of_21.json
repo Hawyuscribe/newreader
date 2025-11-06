@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "What you can see with RCVS",
+    "options": {
+      "option_a": "Low glucose",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "60 years old male pt DM/ HTN/ came with history of TiA for 10 min numbness and dysarthtia. NiHSs is 3. We have to calculate ABCD2 score. On examination ot still have numbness what you will give",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "plavix",
+      "option_c": "dual",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What you will do:",
+    "options": {
+      "option_a": "(angioplasty alone) is not recommended because it can lead to vessel recoil and restenosis. Option B (stenting) is typically reserved for patients who cannot undergo surgery, while Option C (endarterectomy) is an option for selected high",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "(medical therapy) is the most appropriate initial approach in a broad range of patients with large vessel stenosis.",
+      "option_e": ""
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "sickler pt come with stroke work up done and found to have multiple stenosis in AcA and McA. Ehat is the method of prevention?",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "plavix",
+      "option_c": "chronic transfusion",
+      "option_d": "dual antiplate",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What is the mechanism?",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "82 years old male pt came within 3 hrs and have no contraindication for tpa and ct attached with early signe of stroke but infarction not established what you will give",
+    "options": {
+      "option_a": "aspirin",
+      "option_b": "plavix",
+      "option_c": "tpa",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "pt suddenly explaned to his wife seeing animals and fade after while pt loss consciousness / EMd arrived. Take him to the hospital intubation done. Attache Ct scan. New left occipital stroke. What you will do? Pt presneted with window not mention bt writeen sudden and within 1 hr",
+    "options": {
+      "option_a": "cta",
+      "option_b": "EEG",
+      "option_c": "tpa",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What yoi will do?",
+    "options": {
+      "option_a": "Shunt",
+      "option_b": "anticoagulant",
+      "option_c": "give",
+      "option_d": "give LMWH",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Long senario pt came with anyrism rupture of PcOm what you will do?",
+    "options": {
+      "option_a": "Cliping",
+      "option_b": "Coiling",
+      "option_c": "Decompressivw craniotomy",
+      "option_d": "Amdission to stroke unit",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Male 56 years old male pt found in teh house with decreas level of consuos Last tome seen normal 1 day back Brain ct scan showed:",
+    "options": {
+      "option_a": "tpa",
+      "option_b": "admission to stroke unite",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What is the artey?",
+    "options": {
+      "option_a": "mca",
+      "option_b": "pca",
+      "option_c": "ant choroidal artery",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "What is the mechanism?",
+    "options": {
+      "option_a": "tramatic haemorrage",
+      "option_b": "ICh",
+      "option_c": "lobar haemorrage",
+      "option_d": "is not provided.",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Intracranial MCA severe stenosis what next",
+    "options": {
+      "option_a": "(DAPT) is correct because the SAMMPRIS trial demonstrated that using both aspirin and clopidogrel reduces recurrent stroke risk in severe intracranial stenosis. Other alternatives like single antiplatelet therapy, anticoagulation, or immediate endovascular procedures have either not shown superior benefits or carry higher procedural risks.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Patient with ESRD Scenario with pic showing rt superficial borderzone infarction at MCA/ACA territory asking about next investigation",
+    "options": {
+      "option_a": "(Brain CTA) is acceptable as the next investigation if it includes imaging of the neck vessels. It is noninvasive and provides reliable information about both intracranial and extracranial vessels. Option b (Conventional angiography) is more invasive and carries a higher risk of complications including stroke, arterial injury, and contrast nephropathy, particularly in ESRD; hence, it is reserved for cases where noninvasive tests are inconclusive or for planning interventional procedures.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Minor stroke NIHSS 3 (left side decrease sensation, mild facial weakness) within the window what\u2019s next",
+    "options": {
+      "option_a": "(DAPT) is incorrect as sole acute treatment because while it reduces recurrent events, it does not actively lyse the clot. Option b (tPA) is correct because clot dissolution is essential for reperfusion in the hyperacute phase of ischemic stroke. Option c (Aspirin alone) is insufficient for acute reperfusion therapy; it is used more for secondary prevention post",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "82 female with stroke NIHSS 20, BP 180/100, 3 hrs from symptoms onset, brain CT pic look okay no clear hypodensity but showed subtle early ischemic changes in BG, insular ribbon what to do next",
+    "options": {
+      "option_a": "(Labetalol) is incorrect because the patient\u2019s blood pressure is already below the threshold that would mandate reduction prior to thrombolysis. Option b (Thrombolysis) is correct because the patient is within the therapeutic window and meets criteria for acute reperfusion therapy. Option c (Thrombectomy) is not the immediate next step without vascular imaging confirmation of a large vessel occlusion and is typically adjunctive to tPA rather than a substitute in this scenario.",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Acute stroke treated with tPA pic showing tongue angio edema, patient stable but severely dysarthric, what to do",
+    "options": {
+      "option_a": "(Intubation) is inappropriate because the patient is currently stable without airway compromise\u2014intubation is indicated only when there is imminent respiratory failure or severe obstruction. Option B (Steroid with antihistamine) directly addresses the inflammatory and mediator",
+      "option_b": "",
+      "option_c": "(ACE inhibitor with diuretics) is contraindicated because ACE inhibitors can exacerbate angioedema by further increasing bradykinin levels, and diuretics do not address the underlying issue and may worsen hemodynamics.",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "TIA found to have atrial flutter echo normal",
+    "options": {
+      "option_a": "(Factor Xa inhibitor) is correct as these agents have been shown to reduce the risk of cardioembolic stroke effectively. The marked answer was B, which is incorrect. Other potential options might include antiplatelet therapy or solely using rate",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "Case of malignant MCA with mass effect and decreased level of consciousness found unresponsive, what will change outcomes",
+    "options": {
+      "option_a": "(Decompressive hemicraniectomy) directly addresses the life\u2010threatening cerebral edema and mass effect, thereby altering the natural history and improving survival and functional outcome. Option B (Stroke admission) is an important supportive measure but does not counteract the mass effect. Option C (Hyperventilation) may transiently reduce ICP via cerebral vasoconstriction but is not a definitive treatment, and its effects are short",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  },
+  {
+    "question_text": "SCA came with ??",
+    "options": {
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "1",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2022",
+    "exam_type": "Part I"
+  }
+]

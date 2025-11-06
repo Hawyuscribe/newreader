@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": "Q173",
+    "question_text": "",
+    "options": {
+      "A": "child was seen during an interview and had continuous jerks of the right arm with few interruptions. What is the management?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q261",
+    "question_text": "",
+    "options": {
+      "A": "female patient had a seizure at the mall, described as a temporal lobe seizure. What is the recommended next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with hallucinations followed by a headache. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q18",
+    "question_text": "",
+    "options": {
+      "A": "male patient with a known history of epilepsy has been on carbamazepine and is free of seizures for a long time. Which of the following will carry the highest risk of recurrence?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q253",
+    "question_text": "What is the definition of ictal speech?",
+    "options": {
+      "A": "Intelligible talking localizing to the dominant hemisphere",
+      "B": "Unintelligible talking localizing to the dominant hemisphere",
+      "C": "Intelligible talking localizing to the non-dominant hemisphere",
+      "D": "Unintelligible talking localizing to the non-dominant hemisphere"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q242",
+    "question_text": "",
+    "options": {
+      "A": "7-year-old boy playing PlayStation all night has facial twitching and right arm movements. The patient cannot speak during the seizure, and postictally he complains of right upper limb numbness. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q130",
+    "question_text": "In a case where the seizure was idiopathic and the patient has a sibling with seizures, what is the risk of seizure recurrence at 4 months?",
+    "options": {
+      "A": "17%",
+      "B": "29%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q22",
+    "question_text": "",
+    "options": {
+      "A": "case of hypsarrhythmia, mental regression, and infantile spasms is presented. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q223",
+    "question_text": "",
+    "options": {
+      "A": "patient with Landau-Kleffner syndrome presents with auditory agnosia and aphasia. During slow-wave sleep, the patient has electrical status epilepticus during sleep (ESES). What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q35",
+    "question_text": "",
+    "options": {
+      "A": "female patient on four AEDs still has abnormal movements for more than one hour, with a normal prolonged EEG and MRI brain. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q162",
+    "question_text": "MTS seizure with normal MRI; EEG showed right frontotemporal discharge. What is the next step?",
+    "options": {
+      "A": "Scalp EEG",
+      "B": "Interictal PET",
+      "C": "Interictal SPECT",
+      "D": "Invasive EEG monitoring"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q23",
+    "question_text": "An EEG shows slow spikes characteristic of which condition?",
+    "options": {
+      "A": "Lennox-Gastaut syndrome",
+      "B": "West syndrome",
+      "C": "Juvenile myoclonic epilepsy (JME)",
+      "D": "Temporal lobe epilepsy"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q281",
+    "question_text": "What is the treatment for focal seizures?",
+    "options": {
+      "A": "IV diazepam",
+      "B": "IV Keppra",
+      "C": "IV phenytoin",
+      "D": "IV Depakin"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q17",
+    "question_text": "Young female with right arm focal clonic seizure lasting for 1 hour and triggered by stress on 4 AEDs, prolonged video EEG was repeated multiple times and was always normal. What supports the diagnosis?",
+    "options": {
+      "A": "Persistent eye opening",
+      "B": "Tongue biting",
+      "C": "Absence of aura",
+      "D": "Ictal incontinence"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "patient has a history of no aura with a seizure while on two ASM. An EEG showed left temporal frontal spikes. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q509",
+    "question_text": "",
+    "options": {
+      "A": "male patient with early morning seizures and an EEG showing juvenile myoclonic epilepsy (JME) is being treated. Which of the following medications is appropriate?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with a history of stroke followed by one episode of seizure in the form of generalized tonic-clonic seizure. He is a known case of well-controlled bipolar disorder. Which of the following is the appropriate antiepileptic medication for this patient?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q227",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with laryngeal discomfort and tonic posturing. What type of seizure is likely occurring?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q138",
+    "question_text": "",
+    "options": {
+      "A": "patient with seizure semiology that suggests Mesial Temporal Lobe Epilepsy (MTLE) with epigastric sensation and auditory hallucinations is being evaluated. What is the responsible gene?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q183",
+    "question_text": "Which of these is a characteristic of LGS?",
+    "options": {
+      "A": "Resistant to antiepileptic medications",
+      "B": "Peak onset 5-10 years",
+      "C": "Multiple seizure types including tonic and atonic seizures",
+      "D": "Associated with slow spike-and-wave pattern on EEG"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "In a patient with features of Rolandic epilepsy, what is the treatment?",
+    "options": {
+      "A": "Not necessary, but carbamazepine (CBZ) can be used in prolonged high-frequency cases",
+      "B": "Immediate initiation of valproate therapy",
+      "C": "Surgical resection of the epileptogenic focus",
+      "D": "Phenobarbital as first-line treatment"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q92",
+    "question_text": "In patients with head trauma, what is the risk of seizure recurrence at 12 months?",
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "46%",
+      "D": "50%"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q7",
+    "question_text": "",
+    "options": {
+      "A": "3-Hz spike EEG is characteristic of which condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q99",
+    "question_text": "",
+    "options": {
+      "A": "patient with generalized tonic-clonic seizures and interictal myoclonus (typical scenario for juvenile myoclonic epilepsy). What is the mechanism?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q135",
+    "question_text": "",
+    "options": {
+      "A": "patient with epilepsy denies any aura, and the MRI shows heterotopia. What is the classification of the epilepsy?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]

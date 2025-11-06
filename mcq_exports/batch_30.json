@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": "Q221",
+    "question_text": "",
+    "options": {
+      "A": "female patient has a tremor and her father has a tremor; the father reported that his tremor is improved with wine. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q361",
+    "question_text": "",
+    "options": {
+      "A": "scenario describes a woman who has suffered from falls and unsteady gait for 3 years, accompanied by urinary urgency and then incontinence. MRI shows atrophy of the midbrain. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q82",
+    "question_text": "",
+    "options": {
+      "A": "Parkinson's patient on medication develops wearing-off phenomena. What is the mechanism?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q411",
+    "question_text": "In a case of multiple system atrophy (MSA), what radiological finding is commonly associated?",
+    "options": {
+      "A": "Hot cross bun sign",
+      "B": "Dawson\u2019s fingers",
+      "C": "Butterfly glioma",
+      "D": "Ring-enhancing lesion"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q111",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old male presented with a history of falls, dyskinesia, and depression. His sister died at age 50 from the same condition. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q112",
+    "question_text": "What is dyskinesia related to essential physiological conditions?",
+    "options": {
+      "A": "Shambolic",
+      "B": "Amnesia related to alcohol",
+      "C": "Y- Be",
+      "D": "Bandhand neck"
+    },
+    "correct_answer": "C",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "If a patient with orthostatic tremor does not respond to clonazepam, what is the next step in management?",
+    "options": {
+      "A": "L-Dopa",
+      "B": "Gabapentin",
+      "C": "Primidone",
+      "D": "Levetiracetam"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q85",
+    "question_text": "",
+    "options": {
+      "A": "young man who is a law student in the last year of college has a long-standing intentional tremor that has worsened over the past few months. He has bronchial asthma and is on inhalers. What is the most appropriate treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "In a patient on risperidone, how can you differentiate tardive dyskinesia from Huntington\u2019s disease?",
+    "options": {
+      "A": "Family history",
+      "B": "Lack of eye movement",
+      "C": "Presence of chorea",
+      "D": "Age of onset"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q27",
+    "question_text": "In a scenario about a patient with parkinsonism, urinary symptoms, and falls, what would you find on MRI?",
+    "options": {
+      "A": "Hummingbird sign",
+      "B": "Hot cross bun sign",
+      "C": "Panda face",
+      "D": "Tiger eyes"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q107",
+    "question_text": "What medication is commonly used to treat essential tremor in a patient with asthma?",
+    "options": {
+      "A": "Primidone",
+      "B": "Propranolol",
+      "C": "Diazepam",
+      "D": "Gabapentin"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q157",
+    "question_text": "",
+    "options": {
+      "A": "patient with parkinsonism, ataxia, falls, and orthostatic hypotension has an MRI showing a \"hot cross bun\" sign. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q222",
+    "question_text": "In a scenario of progressive supranuclear palsy (PSP), what is the most likely diagnosis?",
+    "options": {
+      "A": "Parkinson's disease",
+      "B": "Multiple sclerosis",
+      "C": "Progressive supranuclear palsy",
+      "D": "Essential tremor"
+    },
+    "correct_answer": "C",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "Regarding essential palatal myoclonus, which of the following statements is true?",
+    "options": {
+      "A": "Disappears with sleep",
+      "B": "Hypertrophy of the ipsilateral olivary nucleus",
+      "C": "Pathology involving the triangle of Mollaret",
+      "D": "Responds well to anticonvulsant therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q3",
+    "question_text": "Case scenario of a patient with a 5-month history of unilateral rigidity, bradykinesia, tremor, and postural instability. What is the next step in management?",
+    "options": {
+      "A": "Levodopa",
+      "B": "DOPA-PET scan",
+      "C": "Physical therapy",
+      "D": "Anticholinergic medication"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q161",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with bilateral tremors, and her father has a similar tremor. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q194",
+    "question_text": "In the same scenario, what is the next step in management?",
+    "options": {
+      "A": "Start levodopa",
+      "B": "Initiate dopamine agonist therapy",
+      "C": "Begin physical therapy and exercise",
+      "D": "Order brain MRI to rule out other causes"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q203",
+    "question_text": "What is the first-line treatment for Sydenham chorea?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Valproic acid",
+      "C": "Carbamazepine",
+      "D": "Prednisone"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q15",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with frequent falls and vertical gaze palsy. Brain MRI shows tectal atrophy. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q231",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease has developed dystonia that is not improving with treatment. What is the next step?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q5",
+    "question_text": "",
+    "options": {
+      "A": "scenario of a patient with parkinsonian features and vertical gaze palsy is most likely indicative of which condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q188",
+    "question_text": "An approximately 70-year-old male patient has had recurrent falls and gait imbalance over the last 6 months. On examination, he has a masked face, vertical gaze palsy, retrocollis, and bradykinesia. MRI showed a hummingbird sign. What is the diagnosis?",
+    "options": {
+      "A": "Progressive Supranuclear Palsy (PSP)",
+      "B": "Multiple System Atrophy (MSA)",
+      "C": "Lewy Body Dementia (LBD)",
+      "D": "Corticobasal Degeneration (CBD)"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q133",
+    "question_text": "In patients with progressive supranuclear palsy (PSP), what symptom does L-dopa primarily treat?",
+    "options": {
+      "A": "Bradykinesia",
+      "B": "Rigidity",
+      "C": "Gait instability",
+      "D": "Vertical gaze palsy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q91",
+    "question_text": "",
+    "options": {
+      "A": "patient presented with recurrent unilateral facial twitching, mostly triggered by anxiety, what is the treatment of choice?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "",
+    "options": {
+      "A": "patient with Parkinson's disease presents with increased dyskinesia and parkinsonism. He is on Levodopa 100/25 mg every 6 hours. What should be done next?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Movement Disorders",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,121 @@
+{% extends "mcq/base.html" %}
+{% load mcq_filters %}
+
+{% block title %}Admin Export - MCQ Downloads{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <h1>Admin MCQ Export</h1>
+    
+    <div class="row mt-4">
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Export MCQs by Subspecialty</h3>
+                </div>
+                <div class="card-body">
+                    {% for subspecialty in subspecialties %}
+                    <div class="export-item mb-3 pb-3 border-bottom">
+                        <div class="row align-items-center">
+                            <div class="col-md-8">
+                                <h4>{{ subspecialty }}</h4>
+                                <p class="text-muted mb-0">
+                                    Found {{ subspecialty_counts|get_item:subspecialty|default:"0" }} MCQs
+                                </p>
+                            </div>
+                            <div class="col-md-4 text-end">
+                                <a href="{% url 'export_subspecialty_mcqs' subspecialty=subspecialty %}" 
+                                   class="btn btn-primary">
+                                    <i class="bi bi-download"></i> Download CSV
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    
+                    <div class="export-item mt-4">
+                        <div class="row align-items-center">
+                            <div class="col-md-8">
+                                <h4>All MCQs (Export All)</h4>
+                                <p class="text-muted mb-0">Total: {{ total_count }} MCQs</p>
+                            </div>
+                            <div class="col-md-4 text-end">
+                                <button class="btn btn-secondary" disabled>
+                                    <i class="bi bi-download"></i> Coming Soon
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>Export Information</h3>
+                </div>
+                <div class="card-body">
+                    <h5>CSV Format</h5>
+                    <p>The exported CSV files include:</p>
+                    <ul class="small">
+                        <li>Question ID and Number</li>
+                        <li>Exam Type and Year</li>
+                        <li>Question Text</li>
+                        <li>All Options (A-F)</li>
+                        <li>Correct Answer</li>
+                        <li>All Explanation Sections:
+                            <ul>
+                                <li>Conceptual Foundation</li>
+                                <li>Pathophysiology</li>
+                                <li>Clinical Correlation</li>
+                                <li>Diagnostic Approach</li>
+                                <li>Classification & Neurology</li>
+                                <li>Management Principles</li>
+                                <li>Option Analysis</li>
+                                <li>Clinical Pearls</li>
+                                <li>Current Evidence</li>
+                            </ul>
+                        </li>
+                        <li>Image URLs</li>
+                        <li>Source Files</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <h3>Statistics</h3>
+                </div>
+                <div class="card-body">
+                    <h5>MCQ Distribution</h5>
+                    <div class="statistics small">
+                        {% for subspecialty, count in subspecialty_counts.items %}
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>{{ subspecialty }}:</span>
+                            <span class="fw-bold">{{ count }}</span>
+                        </div>
+                        {% endfor %}
+                        <hr>
+                        <div class="d-flex justify-content-between">
+                            <span class="fw-bold">Total MCQs:</span>
+                            <span class="fw-bold">{{ total_count }}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+.export-item:last-child {
+    border-bottom: none !important;
+}
+
+.statistics {
+    max-height: 400px;
+    overflow-y: auto;
+}
+</style>
+{% endblock %}

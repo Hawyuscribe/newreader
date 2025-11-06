@@ -1,0 +1,369 @@
+[
+  {
+    "question_number": "Q192",
+    "question_text": "What is the primary benefit of administering anticonvulsants during the first week after traumatic brain injury (TBI)?",
+    "options": {
+      "A": "Decrease early and late seizures",
+      "B": "Decrease early seizures",
+      "C": "Decrease late seizures",
+      "D": "Don't decrease frequency but decrease severity of seizures"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q2",
+    "question_text": "",
+    "options": {
+      "A": "brain CT shows a coup contrecoup injury with left frontal and right temporal bleed. What is the most likely mechanism of injury?"
+    },
+    "correct_answer": "A",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "In a similar scenario to the previous one, what is the most likely diagnosis?",
+    "options": {
+      "A": "Acute confusional state",
+      "B": "Stroke",
+      "C": "Hypoglycaemia",
+      "D": "Meningitis"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Critical Care Neurology",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hyperphagia, personality changes, and memory loss. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "In the case of Gerstmann syndrome, what is the associated language deficit?",
+    "options": {
+      "A": "Anomic aphasia",
+      "B": "Wernicke\u2019s aphasia",
+      "C": "Transcortical motor aphasia",
+      "D": "Conduction aphasia"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q32",
+    "question_text": "To differentiate between frontotemporal dementia (FTD) and Alzheimer's disease (AD), which imaging modality is most useful?",
+    "options": {
+      "A": "PET scan",
+      "B": "MRI",
+      "C": "CT brain",
+      "D": "CSF"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q80",
+    "question_text": "For the same patient, what treatment would you recommend?",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "Lifestyle modification",
+      "C": "Memantine",
+      "D": "Donepezil"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q56",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with visual hallucinations and fluctuating levels of consciousness, with symptoms suggesting parkinsonism. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male presented with a shuffling gait, freezing, and urinary incontinence. Upon examination, he has a stooped posture and unsteady gait. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q25",
+    "question_text": "What is the differentiating feature between Alzheimer disease and Lewy body dementia?",
+    "options": {
+      "A": "Sleep disturbance",
+      "B": "Brain atrophy on MRI",
+      "C": "Anterograde memory loss",
+      "D": "Early shuffling gait"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q71",
+    "question_text": "In a scenario of Mild Cognitive Impairment (MCI), what is the recommended treatment?",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "High dose Vitamin E",
+      "C": "Cognitive training and lifestyle modification",
+      "D": "Memantine"
+    },
+    "correct_answer": "C",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q68",
+    "question_text": "",
+    "options": {
+      "A": "patient with increasing forgetfulness had to change his bank ATM card because he misplaced it. This has affected his activities of daily living (ADLs), but he is doing well at work. This presentation is suggestive of:"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "Dementia with Lewy Bodies (DLB)",
+    "options": {
+      "A": "Characterized by early memory loss and language deficits",
+      "B": "Typically presents with prominent visual hallucinations and fluctuating cognition",
+      "C": "Is primarily caused by vascular pathology",
+      "D": "Does not involve parkinsonism features"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q55",
+    "question_text": "",
+    "options": {
+      "A": "70-year-old male presents with cognitive decline, ataxia, and a startle response. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q52",
+    "question_text": "In the context of Dementia with Lewy Bodies (DLB), which medication is used for cognitive symptoms?",
+    "options": {
+      "A": "Quetiapine",
+      "B": "Rivastigmine",
+      "C": "Clonazepam",
+      "D": "Pimavanserin"
+    },
+    "correct_answer": "B",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q31",
+    "question_text": "Korsakoff dementia is characterized by impairment of which type of memory?",
+    "options": {
+      "A": "Episodic memory",
+      "B": "Immediate memory",
+      "C": "Working memory",
+      "D": "Procedural memory"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q58",
+    "question_text": "",
+    "options": {
+      "A": "patient with cognitive decline also presents with urinary incontinence and a magnetic gait. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q64",
+    "question_text": "This is a 70-year-old female with a history of short-term memory impairment, long-term memory not affected, and depression with withdrawal from people. CSF shows low amyloid and positive TUA. What is the diagnosis?",
+    "options": {
+      "A": "Frontotemporal Dementia (FTD)",
+      "B": "Alzheimer's Disease (AD)",
+      "C": "Dementia with Lewy Bodies (DLB)",
+      "D": "Corticobasal Degeneration (CBD)"
+    },
+    "correct_answer": "B",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "What is the most common memory type affected in Korsakoff's encephalopathy?",
+    "options": {
+      "A": "Episodic memory",
+      "B": "Declarative memory",
+      "C": "Working memory",
+      "D": "Semantic memory"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q83",
+    "question_text": "",
+    "options": {
+      "A": "patient came with behavioral changes; what is the gene defect?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q67",
+    "question_text": "The second most common neurodegenerative dementia is:",
+    "options": {
+      "A": "Lewy Body Dementia (LBD)",
+      "B": "Frontotemporal Dementia (FTD)",
+      "C": "Alzheimer's Disease (AD)",
+      "D": "Vascular Dementia"
+    },
+    "correct_answer": "D",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "60-year-old university professor started to forget things and frequently loses his bank cards, but it is not affecting his job. The patient is worried about his memory. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "",
+    "options": {
+      "A": "56-year-old female presents with behavioral changes and personality alterations. She starts talking to strangers and receives warnings from work due to inappropriate sexual jokes. She has poor personal hygiene and a Mini-Mental State Examination (MMSE) score of 28/30. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q66",
+    "question_text": "",
+    "options": {
+      "A": "58-year-old female presents with changes in behavior, memory issues, and visual hallucinations. MRI shows frontal and parietal atrophy. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2022_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q89",
+    "question_text": "For the same patient, what treatment would you recommend?",
+    "options": {
+      "A": "Rivastigmine",
+      "B": "Lifestyle modification",
+      "C": "Donepezil",
+      "D": "Memantine"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  }
+]

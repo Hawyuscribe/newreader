@@ -1,0 +1,1625 @@
+{% extends "mcq/base.html" %}
+{% load static %}
+
+{% block title %}Enhanced Case-Based Learning{% endblock %}
+
+{% block extra_css %}
+<style>
+    :root {
+        --cbl-primary: #2563eb;
+        --cbl-primary-dark: #1d4ed8;
+        --cbl-success: #16a34a;
+        --cbl-warning: #f59e0b;
+        --cbl-danger: #dc2626;
+        --cbl-border: #e5e7eb;
+        --cbl-bg: #f8fafc;
+        --cbl-bg-muted: #f1f5f9;
+        --cbl-text: #0f172a;
+        --cbl-text-muted: #475569;
+        --cbl-radius: 12px;
+    }
+
+    .cbl-layout {
+        max-width: 1150px;
+        margin: 0 auto;
+        padding: 2rem 1rem 4rem;
+        color: var(--cbl-text);
+    }
+
+    .cbl-banner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 1.5rem;
+        padding: 2rem;
+        border-radius: var(--cbl-radius);
+        background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 40%, #bfdbfe 100%);
+        box-shadow: 0 18px 30px -20px rgba(37, 99, 235, 0.45);
+    }
+
+    .cbl-banner__title {
+        font-size: clamp(1.8rem, 2.2vw + 1.2rem, 2.6rem);
+        font-weight: 700;
+        margin-bottom: 0.35rem;
+        color: #1e3a8a;
+    }
+
+    .cbl-banner__subtitle {
+        color: #1e40af;
+        font-size: 1rem;
+        max-width: 540px;
+        line-height: 1.55;
+    }
+
+    .cbl-banner__actions {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 0.75rem;
+        min-width: 220px;
+    }
+
+    .cbl-status {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6rem;
+        padding: 0.5rem 0.85rem;
+        font-size: 0.85rem;
+        border-radius: 999px;
+        background: #dbeafe;
+        color: #1e3a8a;
+        font-weight: 600;
+    }
+
+    .cbl-secondary-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: white;
+        border: 1px solid rgba(37, 99, 235, 0.3);
+        color: var(--cbl-primary);
+        padding: 0.55rem 1.1rem;
+        border-radius: 999px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .cbl-secondary-btn:hover {
+        background: #2563eb;
+        color: white;
+        border-color: transparent;
+        box-shadow: 0 8px 18px -10px rgba(37, 99, 235, 0.6);
+    }
+
+    .cbl-section {
+        margin-top: 2rem;
+        background: white;
+        border-radius: var(--cbl-radius);
+        border: 1px solid var(--cbl-border);
+        box-shadow: 0 14px 26px -24px rgba(15, 23, 42, 0.4);
+    }
+
+    .cbl-section__header {
+        padding: 1.5rem 1.75rem 1rem;
+        border-bottom: 1px solid var(--cbl-border);
+    }
+
+    .cbl-section__title {
+        font-size: 1.35rem;
+        font-weight: 700;
+        color: var(--cbl-text);
+        margin-bottom: 0.4rem;
+    }
+
+    .cbl-section__subtitle {
+        color: var(--cbl-text-muted);
+        font-size: 0.95rem;
+    }
+
+    .cbl-difficulty {
+        padding: 1.75rem;
+        border-bottom: 1px solid var(--cbl-border);
+        background: var(--cbl-bg);
+    }
+
+    .cbl-difficulty__buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.8rem;
+        align-items: center;
+    }
+
+    .cbl-difficulty__button {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        padding: 0.65rem 1.25rem;
+        border-radius: 999px;
+        border: 1px solid rgba(37, 99, 235, 0.35);
+        background: white;
+        color: var(--cbl-primary);
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .cbl-difficulty__button span {
+        font-size: 1.1rem;
+    }
+
+    .cbl-difficulty__button.is-selected {
+        background: var(--cbl-primary);
+        color: white;
+        border-color: transparent;
+        box-shadow: 0 10px 20px -15px rgba(37, 99, 235, 0.75);
+    }
+
+    .cbl-difficulty__description {
+        margin-top: 0.85rem;
+        color: var(--cbl-text-muted);
+        font-style: italic;
+        min-height: 1.4rem;
+    }
+
+    .cbl-specialties {
+        padding: 1.5rem 1.75rem 2rem;
+    }
+
+    .cbl-specialties__grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 1.1rem;
+    }
+
+    .cbl-card {
+        position: relative;
+        background: white;
+        border: 1px solid rgba(148, 163, 184, 0.45);
+        border-radius: var(--cbl-radius);
+        padding: 1.35rem 1.2rem 1.5rem;
+        cursor: pointer;
+        transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+        display: flex;
+        flex-direction: column;
+        gap: 0.55rem;
+        text-align: left;
+    }
+
+    .cbl-card__icon {
+        font-size: 1.8rem;
+    }
+
+    .cbl-card__title {
+        font-weight: 600;
+        font-size: 1.08rem;
+        color: var(--cbl-text);
+    }
+
+    .cbl-card__meta {
+        color: var(--cbl-text-muted);
+        font-size: 0.98rem;
+        line-height: 1.5;
+    }
+
+    .cbl-card__count {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: #1d4ed8;
+    }
+
+    .cbl-card:hover,
+    .cbl-card.is-selected {
+        border-color: rgba(37, 99, 235, 0.75);
+        transform: translateY(-4px);
+        box-shadow: 0 18px 32px -28px rgba(37, 99, 235, 0.8);
+    }
+
+    .cbl-start-btn-wrapper {
+        display: flex;
+        justify-content: center;
+        padding: 0 0 1.75rem;
+    }
+
+    .cbl-start-btn {
+        padding: 0.9rem 2.6rem;
+        border-radius: 999px;
+        background: var(--cbl-primary);
+        border: none;
+        color: white;
+        font-weight: 700;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        box-shadow: 0 16px 22px -18px rgba(37, 99, 235, 0.7);
+    }
+
+    .cbl-start-btn:disabled {
+        background: rgba(37, 99, 235, 0.4);
+        cursor: not-allowed;
+        box-shadow: none;
+    }
+
+    .cbl-chat {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1.75rem;
+    }
+
+    .cbl-chat__header {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .cbl-chat__meta {
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+    }
+
+    .cbl-chat__state {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        background: var(--cbl-bg-muted);
+        padding: 0.4rem 0.75rem;
+        border-radius: 999px;
+        font-size: 0.88rem;
+        font-weight: 600;
+    }
+
+    .cbl-chat__details {
+        font-size: 0.9rem;
+        color: var(--cbl-text-muted);
+    }
+
+    .cbl-chat__actions {
+        display: flex;
+        gap: 0.6rem;
+    }
+
+    .cbl-chat__actions button {
+        border-radius: 8px;
+        border: 1px solid rgba(15, 23, 42, 0.12);
+        background: var(--cbl-bg);
+        color: var(--cbl-text);
+        padding: 0.6rem 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .cbl-chat__actions button:hover {
+        background: #e2e8f0;
+    }
+
+    .cbl-notice {
+        border-radius: 10px;
+        padding: 0.8rem 1rem;
+        font-size: 0.95rem;
+        display: flex;
+        gap: 0.6rem;
+        align-items: flex-start;
+    }
+
+    .cbl-notice[data-variant="info"] {
+        background: #ecfeff;
+        border: 1px solid #67e8f9;
+        color: #0f766e;
+    }
+
+    .cbl-notice[data-variant="warning"] {
+        background: #fff7ed;
+        border: 1px solid #f97316;
+        color: #c2410c;
+    }
+
+    .cbl-notice[data-variant="danger"] {
+        background: #fef2f2;
+        border: 1px solid #f87171;
+        color: #b91c1c;
+    }
+
+    .cbl-chat__log {
+        position: relative;
+        border-radius: var(--cbl-radius);
+        border: 1px solid var(--cbl-border);
+        background: var(--cbl-bg);
+        padding: 1.5rem;
+        max-height: 505px;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 1.25rem;
+    }
+
+    .cbl-message {
+        max-width: 82%;
+        padding: 0.9rem 1.1rem;
+        border-radius: 16px;
+        border: 1px solid transparent;
+        line-height: 1.55;
+        font-size: 0.98rem;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        box-shadow: 0 12px 20px -18px rgba(15, 23, 42, 0.45);
+        animation: fadeIn 0.18s ease;
+    }
+
+    .cbl-message--user {
+        align-self: flex-end;
+        background: var(--cbl-primary);
+        color: white;
+        border-bottom-right-radius: 4px;
+    }
+
+    .cbl-message--bot {
+        align-self: flex-start;
+        background: white;
+        color: var(--cbl-text);
+        border: 1px solid rgba(15, 23, 42, 0.08);
+    }
+
+    .cbl-message--feedback {
+        align-self: stretch;
+        border: 1px solid rgba(250, 204, 21, 0.55);
+        background: #fef9c3;
+        color: #92400e;
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(8px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .cbl-loading {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        padding-left: 0.2rem;
+        color: var(--cbl-text-muted);
+        font-size: 0.92rem;
+    }
+
+    .cbl-loading__spinner {
+        width: 1.15rem;
+        height: 1.15rem;
+        border-radius: 50%;
+        border: 2px solid #cbd5f5;
+        border-top-color: var(--cbl-primary);
+        animation: spin 0.75s linear infinite;
+    }
+
+    @keyframes spin {
+        to {
+            transform: rotate(360deg);
+        }
+    }
+
+    .cbl-toolbar {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        border-radius: var(--cbl-radius);
+        background: var(--cbl-bg-muted);
+        padding: 1rem;
+        border: 1px solid rgba(148, 163, 184, 0.4);
+    }
+
+    .cbl-toolbar__section {
+        display: flex;
+        flex-direction: column;
+        gap: 0.55rem;
+    }
+
+    .cbl-toolbar__label {
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: #64748b;
+    }
+
+    .cbl-toolbar__buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.55rem;
+    }
+
+    .cbl-toolbar__button {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        border-radius: 999px;
+        border: none;
+        cursor: pointer;
+        padding: 0.55rem 1.1rem;
+        font-size: 0.88rem;
+        font-weight: 600;
+        transition: all 0.18s ease;
+        background: white;
+        border: 1px solid rgba(148, 163, 184, 0.35);
+        color: var(--cbl-text);
+    }
+
+    .cbl-toolbar__button:hover {
+        border-color: var(--cbl-primary);
+        color: var(--cbl-primary);
+        box-shadow: 0 10px 18px -18px rgba(37, 99, 235, 0.7);
+    }
+
+    .cbl-toolbar__button--primary {
+        background: var(--cbl-primary);
+***EOF
+        border-color: transparent;
+        color: white;
+    }
+
+    .cbl-toolbar__button--primary:hover {
+        background: var(--cbl-primary-dark);
+    }
+
+    .cbl-toolbar__button--success {
+        background: var(--cbl-success);
+        color: white;
+        border-color: transparent;
+    }
+
+    .cbl-toolbar__button--warning {
+        background: var(--cbl-warning);
+        color: #7c2d12;
+        border: none;
+    }
+
+    .cbl-composer {
+        display: flex;
+        gap: 0.75rem;
+        align-items: flex-end;
+        border: 1px solid rgba(148, 163, 184, 0.35);
+        border-radius: var(--cbl-radius);
+        padding: 0.8rem;
+        background: white;
+    }
+
+    .cbl-composer textarea {
+        flex: 1;
+        border: none;
+        resize: none;
+        min-height: 48px;
+        max-height: 220px;
+        font-size: 1rem;
+        line-height: 1.5;
+        color: var(--cbl-text);
+    }
+
+    .cbl-composer textarea:focus {
+        outline: none;
+    }
+
+    .cbl-composer__buttons {
+        display: flex;
+        gap: 0.4rem;
+    }
+
+    .cbl-composer__buttons button {
+        border-radius: 10px;
+        border: none;
+        padding: 0.6rem 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.18s ease;
+    }
+
+    .cbl-send-btn {
+        background: var(--cbl-primary);
+        color: white;
+    }
+
+    .cbl-send-btn:hover {
+        background: var(--cbl-primary-dark);
+    }
+
+    .cbl-record-btn {
+        background: #fee2e2;
+        color: #b91c1c;
+    }
+
+    .cbl-record-btn.is-recording {
+        background: var(--cbl-danger);
+        color: white;
+        animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+        0% {
+            box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.35);
+        }
+        70% {
+            box-shadow: 0 0 0 12px rgba(220, 38, 38, 0);
+        }
+        100% {
+            box-shadow: 0 0 0 0 rgba(220, 38, 38, 0);
+        }
+    }
+
+    .cbl-transcription {
+        display: flex;
+        align-items: center;
+        gap: 0.55rem;
+        font-size: 0.9rem;
+        color: var(--cbl-primary);
+    }
+
+    .cbl-sessions {
+        padding: 1.6rem 1.75rem;
+    }
+
+    .cbl-sessions__list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1rem;
+    }
+
+    .cbl-session-card {
+        border: 1px solid rgba(148, 163, 184, 0.4);
+        border-radius: var(--cbl-radius);
+        padding: 1rem;
+        background: var(--cbl-bg);
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+    }
+
+    .cbl-session-card__heading {
+        font-weight: 600;
+        font-size: 1rem;
+        color: var(--cbl-text);
+    }
+
+    .cbl-session-card__meta {
+        font-size: 0.85rem;
+        color: var(--cbl-text-muted);
+        line-height: 1.45;
+    }
+
+    .cbl-session-card__actions {
+        display: flex;
+        gap: 0.45rem;
+        margin-top: 0.2rem;
+    }
+
+    .cbl-session-card__actions button {
+        flex: 1;
+        border-radius: 8px;
+        border: none;
+        padding: 0.45rem 0.65rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.18s ease;
+    }
+
+    .cbl-session-card__actions button:first-child {
+        background: var(--cbl-primary);
+        color: white;
+    }
+
+    .cbl-session-card__actions button:last-child {
+        background: #fee2e2;
+        color: #b91c1c;
+    }
+
+    .cbl-empty-state {
+        border-radius: var(--cbl-radius);
+        border: 1px dashed rgba(148, 163, 184, 0.6);
+        padding: 1.25rem;
+        text-align: center;
+        color: var(--cbl-text-muted);
+        background: rgba(241, 245, 249, 0.6);
+    }
+
+    .cbl-hidden {
+        display: none !important;
+    }
+
+    @media (max-width: 960px) {
+        .cbl-chat__actions {
+            width: 100%;
+            justify-content: flex-start;
+        }
+        .cbl-composer {
+            flex-direction: column;
+        }
+        .cbl-layout {
+            padding-inline: 0.75rem;
+        }
+        .cbl-chat__log {
+            max-height: 440px;
+        }
+    }
+
+    @media (max-width: 640px) {
+        .cbl-banner {
+            padding: 1.6rem;
+        }
+        .cbl-banner__actions {
+            width: 100%;
+            align-items: flex-start;
+        }
+        .cbl-specialties__grid {
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        }
+        .cbl-card {
+            padding: 1.15rem;
+        }
+        .cbl-toolbar__buttons {
+            gap: 0.4rem;
+        }
+        .cbl-toolbar__button {
+            padding: 0.45rem 0.9rem;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="cbl-layout">
+    <div class="cbl-banner">
+        <div>
+            <h1 class="cbl-banner__title">Enhanced Case-Based Learning</h1>
+            <p class="cbl-banner__subtitle">
+                Run full neurology cases end-to-end, analyse your reasoning, and keep everything linked to the MCQs you convert.
+                Pick a specialty, choose a difficulty, or jump in from an MCQ conversion.
+            </p>
+        </div>
+        <div class="cbl-banner__actions">
+            <span id="sessionStatus" class="cbl-status">No active session</span>
+            <button type="button" id="toggleSessionsBtn" class="cbl-secondary-btn">📁 Saved sessions</button>
+        </div>
+    </div>
+</div>
+
+<section id="specialtySection" class="cbl-section">
+    <div class="cbl-section__header">
+        <h2 class="cbl-section__title">Pick a Specialty & Difficulty</h2>
+        <p class="cbl-section__subtitle">
+            Choose where you’d like to train today. We’ll tailor a fresh case to your difficulty preference, with exam-ready teaching points.
+        </p>
+    </div>
+
+    <div class="cbl-difficulty">
+        <div class="cbl-difficulty__buttons" id="difficultyButtons">
+            <button type="button" class="cbl-difficulty__button is-selected" data-difficulty="random">
+                <span>🎲</span>Random
+            </button>
+            <button type="button" class="cbl-difficulty__button" data-difficulty="easy">
+                <span>🌱</span>Easy
+            </button>
+            <button type="button" class="cbl-difficulty__button" data-difficulty="moderate">
+                <span>⚖️</span>Moderate
+            </button>
+            <button type="button" class="cbl-difficulty__button" data-difficulty="hard">
+                <span>🔥</span>Hard
+            </button>
+        </div>
+        <p id="difficultyHelp" class="cbl-difficulty__description"></p>
+    </div>
+
+    <div class="cbl-specialties">
+        <div class="cbl-specialties__grid" id="specialtyGrid" data-disable-specialty-icons="true">
+            <div class="cbl-card" data-specialty="Critical Care Neurology">
+                <div class="cbl-card__icon">🚨</div>
+                <div class="cbl-card__title">Critical Care Neurology</div>
+                <div class="cbl-card__meta">Neuro ICU scenarios, malignant strokes, emergency triage pitfalls.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Dementia">
+                <div class="cbl-card__icon">🧠</div>
+                <div class="cbl-card__title">Dementia</div>
+                <div class="cbl-card__meta">Differentiating cognitive syndromes, workup of memory complaints.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Epilepsy">
+                <div class="cbl-card__icon">⚡</div>
+                <div class="cbl-card__title">Epilepsy</div>
+                <div class="cbl-card__meta">Seizure semiology, EEG interpretation, anti-seizure medication pearls.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Headache">
+                <div class="cbl-card__icon">🤕</div>
+                <div class="cbl-card__title">Headache</div>
+                <div class="cbl-card__meta">Primary vs secondary headaches, red flags, imaging strategies.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Movement Disorders">
+                <div class="cbl-card__icon">🤸</div>
+                <div class="cbl-card__title">Movement Disorders</div>
+                <div class="cbl-card__meta">Tremor, hyperkinetic syndromes, neurodegenerative planning.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neurogenetics">
+                <div class="cbl-card__icon">🧬</div>
+                <div class="cbl-card__title">Neurogenetics</div>
+                <div class="cbl-card__meta">Inherited neuropathies, repeat expansions, genetic counselling.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neuroimmunology">
+                <div class="cbl-card__icon">🛡️</div>
+                <div class="cbl-card__title">Neuroimmunology</div>
+                <div class="cbl-card__meta">MS, NMOSD, autoimmune encephalitis, escalation decision-making.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neuro-infectious">
+                <div class="cbl-card__icon">🦠</div>
+                <div class="cbl-card__title">Neuro-infectious</div>
+                <div class="cbl-card__meta">CNS infections, immune status considerations, antimicrobial nuances.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neuro-oncology">
+                <div class="cbl-card__icon">🎗️</div>
+                <div class="cbl-card__title">Neuro-oncology</div>
+                <div class="cbl-card__meta">Tumours, paraneoplastic syndromes, chemo-radiation toxicities.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neuromuscular">
+                <div class="cbl-card__icon">💪</div>
+                <div class="cbl-card__title">Neuromuscular</div>
+                <div class="cbl-card__meta">Plexopathies, NMJ disorders, diagnostic algorithms for weakness.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Pediatric Neurology">
+                <div class="cbl-card__icon">👶</div>
+                <div class="cbl-card__title">Pediatric Neurology</div>
+                <div class="cbl-card__meta">Developmental delays, infantile epilepsies, neonatal neurology.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Vascular Neurology/Stroke">
+                <div class="cbl-card__icon">🩸</div>
+                <div class="cbl-card__title">Vascular Neurology / Stroke</div>
+                <div class="cbl-card__meta">Acute management, secondary prevention, complication strategies.</div>
+                <div class="cbl-card__count">45+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Sleep Neurology">
+                <div class="cbl-card__icon">😴</div>
+                <div class="cbl-card__title">Sleep Neurology</div>
+                <div class="cbl-card__meta">Sleep disorders, circadian rhythm disruptions, hypersomnia workups.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neuroophthalmology">
+                <div class="cbl-card__icon">👁️</div>
+                <div class="cbl-card__title">Neuro-ophthalmology</div>
+                <div class="cbl-card__meta">Optic neuropathies, diplopia, visual field localization.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neuropsychiatry">
+                <div class="cbl-card__icon">🧩</div>
+                <div class="cbl-card__title">Neuropsychiatry</div>
+                <div class="cbl-card__meta">Behavioural neurology, cognitive-affective syndromes, functional overlays.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+            <div class="cbl-card" data-specialty="Neurotoxicology">
+                <div class="cbl-card__icon">☠️</div>
+                <div class="cbl-card__title">Neurotoxicology</div>
+                <div class="cbl-card__meta">Toxic neuropathies, environmental exposures, metabolic mimics.</div>
+                <div class="cbl-card__count">40+ cases</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cbl-start-btn-wrapper">
+        <button id="startCaseBtn" class="cbl-start-btn" disabled>Choose a specialty to begin</button>
+    </div>
+</section>
+
+<section id="savedSessionsPanel" class="cbl-section cbl-hidden">
+    <div class="cbl-section__header">
+        <h2 class="cbl-section__title">Saved & Active Sessions</h2>
+        <p class="cbl-section__subtitle">Resume an in-progress case or clear sessions you no longer need.</p>
+    </div>
+    <div class="cbl-sessions">
+        <div id="savedSessionsList" class="cbl-sessions__list">
+            <div class="cbl-empty-state">No saved sessions found yet. Start a case and we’ll automatically store it here for you.</div>
+        </div>
+    </div>
+</section>
+
+<section id="chatPanel" class="cbl-section cbl-hidden">
+    <div class="cbl-chat">
+        <div class="cbl-chat__header">
+            <div class="cbl-chat__meta">
+                <span id="stateBadge" class="cbl-chat__state">Preparing case…</span>
+                <span id="caseMeta" class="cbl-chat__details"></span>
+            </div>
+            <div class="cbl-chat__actions">
+                <button type="button" id="skipCaseBtn">Skip Case</button>
+                <button type="button" id="newCaseBtn">Start Fresh Case</button>
+            </div>
+        </div>
+
+        <div id="systemNotice" class="cbl-notice cbl-hidden" data-variant="info"></div>
+
+        <div id="chatLog" class="cbl-chat__log">
+            <div class="cbl-message cbl-message--bot">
+                Welcome! Choose a specialty and difficulty to generate a new case, or resume a saved session.
+            </div>
+        </div>
+
+        <div id="loadingIndicator" class="cbl-loading cbl-hidden">
+            <span class="cbl-loading__spinner" aria-hidden="true"></span>
+            <span>AI is working on your request…</span>
+        </div>
+
+        <div class="cbl-toolbar" id="quickActions">
+            <div class="cbl-toolbar__section">
+                <span class="cbl-toolbar__label">Phase shortcuts</span>
+                <div class="cbl-toolbar__buttons">
+                    <button type="button" class="cbl-toolbar__button" data-action="proceed to examination">Examination</button>
+                    <button type="button" class="cbl-toolbar__button" data-action="proceed to localization">Localization</button>
+                    <button type="button" class="cbl-toolbar__button" data-action="proceed to investigations">Investigations</button>
+                    <button type="button" class="cbl-toolbar__button" data-action="proceed to differential diagnosis">Differential</button>
+                    <button type="button" class="cbl-toolbar__button" data-action="proceed to management">Management</button>
+                    <button type="button" class="cbl-toolbar__button" data-action="conclude the case">Conclusion</button>
+                </div>
+            </div>
+            <div class="cbl-toolbar__section cbl-hidden" id="expertActions">
+                <span class="cbl-toolbar__label">Expert follow-up</span>
+                <div class="cbl-toolbar__buttons">
+                    <button type="button" class="cbl-toolbar__button cbl-toolbar__button--success" data-action="proceed to complete localization analysis" data-expert>Complete Localization</button>
+                    <button type="button" class="cbl-toolbar__button cbl-toolbar__button--success" data-action="proceed to complete investigations" data-expert>Complete Investigations</button>
+                    <button type="button" class="cbl-toolbar__button cbl-toolbar__button--success" data-action="proceed to complete differential analysis" data-expert>Complete Differential</button>
+                    <button type="button" class="cbl-toolbar__button cbl-toolbar__button--success" data-action="proceed to complete management guidelines" data-expert>Complete Management</button>
+                    <button type="button" class="cbl-toolbar__button cbl-toolbar__button--warning" data-action="I would like to revise my answer" data-expert>Revise my answer</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="cbl-composer">
+            <textarea id="userInput" placeholder="Type your reasoning, ask for more data, or use Ctrl+Enter to send…"></textarea>
+            <div class="cbl-composer__buttons">
+                <button type="button" id="sendBtn" class="cbl-send-btn">Send</button>
+                <button type="button" id="recordBtn" class="cbl-record-btn">🎤 Record</button>
+            </div>
+        </div>
+        <div id="transcriptionStatus" class="cbl-transcription cbl-hidden">
+            <span class="cbl-loading__spinner" aria-hidden="true"></span>
+            <span>Transcribing your recording…</span>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+(() => {
+    const urls = {
+        bot: "{% url 'neurology_bot_enhanced' %}",
+        transcribe: "{% url 'transcribe_audio_enhanced' %}",
+        listSessions: "{% url 'list_case_sessions' %}",
+        resumeSession: "{% url 'resume_case_session' %}",
+        deleteSession: "{% url 'delete_case_session' %}"
+    };
+
+    const difficultyDescriptions = {
+        easy: "Straightforward diagnosis with classic presentation.",
+        moderate: "Some atypical features requiring careful analysis.",
+        hard: "Complex case with multiple differentials or rare entities.",
+        random: "We will pick a difficulty level for you each time."
+    };
+
+    const stateLabels = {
+        INITIAL: "Preparing Case",
+        CONVERSATION: "Conversation",
+        HISTORY_TAKING: "History Taking",
+        HISTORY_FEEDBACK: "History Feedback",
+        EXAMINATION: "Examination",
+        EXAMINATION_FEEDBACK: "Examination Feedback",
+        LOCALIZATION_PROMPT: "Your Localization",
+        LOCALIZATION_FEEDBACK: "Localization Feedback",
+        LOCALIZATION: "Expert Localization",
+        INVESTIGATIONS_PROMPT: "Your Investigations",
+        INVESTIGATIONS_FEEDBACK: "Investigation Feedback",
+        INVESTIGATIONS: "Expert Investigations",
+        DIFFERENTIAL_PROMPT: "Your Differential",
+        DIFFERENTIAL_FEEDBACK: "Differential Feedback",
+        DIFFERENTIAL_DIAGNOSIS: "Expert Differential",
+        MANAGEMENT_PROMPT: "Your Management",
+        MANAGEMENT_FEEDBACK: "Management Feedback",
+        MANAGEMENT: "Expert Management",
+        CONCLUSION: "Conclusion",
+        FOLLOWUP: "Follow-up"
+    };
+
+    const expertStates = new Set();
+
+    const state = {
+        sessionId: null,
+        selectedSpecialty: null,
+        selectedDifficulty: 'random',
+        currentState: 'INITIAL',
+        isRecording: false,
+        mediaRecorder: null,
+        audioChunks: [],
+        savedSessionsLoaded: false
+    };
+
+    const elements = {};
+
+    document.addEventListener('DOMContentLoaded', () => {
+        forceCardTextVisibility();
+
+        cacheElements();
+        attachEventListeners();
+        setDifficulty('random');
+        updateDifficultyDescription();
+        updateSessionStatus('No active session');
+        handleMcqHandoff();
+    });
+
+    function cacheElements() {
+        
+        elements.layout = document.querySelector('.cbl-layout');
+        elements.specialtySection = document.getElementById('specialtySection');
+        elements.savedSessionsPanel = document.getElementById('savedSessionsPanel');
+        elements.chatPanel = document.getElementById('chatPanel');
+        elements.difficultyButtons = Array.from(document.querySelectorAll('[data-difficulty]'));
+        elements.specialtyCards = Array.from(document.querySelectorAll('.cbl-card[data-specialty]'));
+        elements.startCaseBtn = document.getElementById('startCaseBtn');
+        elements.sessionStatus = document.getElementById('sessionStatus');
+        elements.toggleSessionsBtn = document.getElementById('toggleSessionsBtn');
+        elements.savedSessionsList = document.getElementById('savedSessionsList');
+        elements.chatLog = document.getElementById('chatLog');
+        elements.stateBadge = document.getElementById('stateBadge');
+        elements.caseMeta = document.getElementById('caseMeta');
+        elements.loadingIndicator = document.getElementById('loadingIndicator');
+        elements.systemNotice = document.getElementById('systemNotice');
+        elements.quickActions = document.getElementById('quickActions');
+        elements.expertActions = document.getElementById('expertActions');
+        elements.userInput = document.getElementById('userInput');
+        elements.sendBtn = document.getElementById('sendBtn');
+        elements.recordBtn = document.getElementById('recordBtn');
+        elements.transcriptionStatus = document.getElementById('transcriptionStatus');
+        elements.skipCaseBtn = document.getElementById('skipCaseBtn');
+        elements.newCaseBtn = document.getElementById('newCaseBtn');
+        elements.difficultyHelp = document.getElementById('difficultyHelp');
+    }
+
+    function attachEventListeners() {
+        elements.difficultyButtons.forEach(btn => btn.addEventListener('click', () => {
+            setDifficulty(btn.getAttribute('data-difficulty'));
+        }));
+
+        elements.specialtyCards.forEach(card => card.addEventListener('click', () => {
+            selectSpecialty(card.getAttribute('data-specialty'));
+        }));
+
+        elements.startCaseBtn.addEventListener('click', startNewCase);
+        elements.toggleSessionsBtn.addEventListener('click', toggleSavedSessions);
+        elements.savedSessionsList.addEventListener('click', handleSavedSessionAction);
+        elements.sendBtn.addEventListener('click', () => sendMessage());
+        elements.userInput.addEventListener('keydown', handleInputKeyDown);
+        elements.recordBtn.addEventListener('click', toggleRecording);
+        elements.skipCaseBtn.addEventListener('click', handleSkipCase);
+        elements.newCaseBtn.addEventListener('click', confirmStartFresh);
+        elements.quickActions.addEventListener('click', handleQuickAction);
+        setupKeyboardShortcuts();
+    }
+
+    function setDifficulty(value) {
+        state.selectedDifficulty = value;
+        elements.difficultyButtons.forEach(btn => {
+            btn.classList.toggle('is-selected', btn.getAttribute('data-difficulty') === value);
+        });
+        updateDifficultyDescription();
+        updateStartButtonLabel();
+    }
+
+    function updateDifficultyDescription() {
+        const desc = difficultyDescriptions[state.selectedDifficulty] || '';
+        elements.difficultyHelp.textContent = desc;
+    }
+
+    function selectSpecialty(specialty) {
+        forceCardTextVisibility();
+        state.selectedSpecialty = specialty;
+        elements.specialtyCards.forEach(card => {
+            card.classList.toggle('is-selected', card.getAttribute('data-specialty') === specialty);
+        });
+        updateStartButtonLabel();
+    }
+
+    function updateStartButtonLabel() {
+        if (!state.selectedSpecialty) {
+            elements.startCaseBtn.disabled = true;
+            elements.startCaseBtn.textContent = 'Choose a specialty to begin';
+            return;
+        }
+        const label = `${state.selectedSpecialty} • ${capitalize(state.selectedDifficulty)}`;
+        elements.startCaseBtn.textContent = `Start ${label} Case`;
+        elements.startCaseBtn.disabled = false;
+    }
+
+    function startNewCase() {
+        if (!state.selectedSpecialty) {
+            showNotice('Select a specialty to continue.', 'warning');
+            return;
+        }
+        state.sessionId = null;
+        state.currentState = 'INITIAL';
+        showChatPanel();
+        clearChatLog();
+        updateCaseMeta();
+        showNotice('Generating a new case…', 'info');
+        const payload = {
+            message: 'start_new_case',
+            specialty: state.selectedSpecialty,
+            difficulty: state.selectedDifficulty
+        };
+        startCaseWithPayload(payload);
+    }
+
+    function startCaseWithPayload(payload, options = {}) {
+        setLoading(true);
+        const body = buildPayload(payload);
+        fetch(urls.bot, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCsrfToken()
+            },
+            body: JSON.stringify(body)
+        })
+            .then(res => res.json())
+            .then(data => handleBotResponse(data, options))
+            .catch(err => handleError(err))
+            .finally(() => setLoading(false));
+    }
+
+    function buildPayload({ message, action, specialty, difficulty, mcq_case_data, custom_request }) {
+        const payload = {};
+        if (state.sessionId) {
+            payload.session_id = state.sessionId;
+        }
+        if (message) payload.message = message;
+        if (action) payload.action = action;
+        if (specialty) payload.specialty = specialty;
+        if (difficulty) payload.difficulty = difficulty;
+        if (mcq_case_data) payload.mcq_case_data = mcq_case_data;
+        if (custom_request) payload.custom_request = custom_request;
+        return payload;
+    }
+
+    function handleBotResponse(data, { clearNotice = true } = {}) {
+        if (data.error) {
+            showNotice(data.error, 'danger');
+            return;
+        }
+
+        if (data.notice_message && data.notice_message.trim()) {
+            showNotice(data.notice_message, data.notice_variant || 'info');
+        } else if (clearNotice) {
+            hideNotice();
+        }
+
+        if (data.session_id) {
+            state.sessionId = data.session_id;
+            updateSessionStatus('Active session');
+        }
+
+        if (data.specialty) {
+            state.selectedSpecialty = data.specialty;
+        }
+        if (data.difficulty) {
+            state.selectedDifficulty = data.difficulty.toLowerCase();
+        }
+
+        if (data.state) {
+            state.currentState = data.state;
+            updateStateBadge(state.currentState);
+        }
+
+        updateCaseMeta();
+        updateExpertActionsVisibility(state.currentState);
+
+        if (data.needs_feedback) {
+            addFeedbackMessage(data.message, data.missing_elements || []);
+        } else if (data.message) {
+            appendBotMessage(data.message);
+        }
+    }
+
+    function appendBotMessage(html) {
+        const bubble = document.createElement('div');
+        bubble.className = 'cbl-message cbl-message--bot';
+        bubble.innerHTML = html;
+        elements.chatLog.appendChild(bubble);
+        scrollChatToBottom();
+    }
+
+    function appendUserMessage(text) {
+        const bubble = document.createElement('div');
+        bubble.className = 'cbl-message cbl-message--user';
+        bubble.textContent = text;
+        elements.chatLog.appendChild(bubble);
+        scrollChatToBottom();
+    }
+
+    function addFeedbackMessage(html, missingElements) {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'cbl-message cbl-message--feedback';
+        let content = html || '';
+        if (missingElements.length) {
+            content += '<hr><strong>Missing items:</strong><ul>';
+            missingElements.forEach(item => {
+                content += `<li>${item}</li>`;
+            });
+            content += '</ul>';
+        }
+        wrapper.innerHTML = content;
+        elements.chatLog.appendChild(wrapper);
+        scrollChatToBottom();
+    }
+
+    function sendMessage(messageOverride) {
+        const text = messageOverride !== undefined ? messageOverride : elements.userInput.value.trim();
+        if (!text) return;
+        appendUserMessage(text);
+        elements.userInput.value = '';
+        elements.userInput.style.height = '48px';
+        setLoading(true);
+        const payload = buildPayload({ message: text });
+        fetch(urls.bot, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCsrfToken()
+            },
+            body: JSON.stringify(payload)
+        })
+            .then(res => res.json())
+            .then(data => handleBotResponse(data))
+            .catch(err => handleError(err))
+            .finally(() => setLoading(false));
+    }
+
+    function handleInputKeyDown(event) {
+        if (event.key === 'Enter' && !event.shiftKey) {
+            event.preventDefault();
+            sendMessage();
+        }
+    }
+
+    function handleQuickAction(event) {
+        const target = event.target.closest('[data-action]');
+        if (!target) return;
+        const action = target.getAttribute('data-action');
+        sendMessage(action);
+    }
+
+    function handleSkipCase() {
+        if (!state.sessionId) return;
+        if (!confirm('Skip this case and load another one?')) return;
+        setLoading(true);
+        const payload = buildPayload({ action: 'skip_case' });
+        fetch(urls.bot, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCsrfToken()
+            },
+            body: JSON.stringify(payload)
+        })
+            .then(res => res.json())
+            .then(data => {
+                clearChatLog();
+                handleBotResponse(data);
+            })
+            .catch(err => handleError(err))
+            .finally(() => setLoading(false));
+    }
+
+    function confirmStartFresh() {
+        if (confirm('Start a brand-new case? Your current progress will be saved.')) {
+            window.location.href = window.location.pathname;
+        }
+    }
+
+    function handleSavedSessionAction(event) {
+        const resumeBtn = event.target.closest('[data-resume-session]');
+        const deleteBtn = event.target.closest('[data-delete-session]');
+        if (resumeBtn) {
+            resumeSession(resumeBtn.getAttribute('data-resume-session'));
+        } else if (deleteBtn) {
+            deleteSession(deleteBtn.getAttribute('data-delete-session'));
+        }
+    }
+
+    function resumeSession(sessionId) {
+        setLoading(true);
+        fetch(urls.resumeSession, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCsrfToken()
+            },
+            body: JSON.stringify({ session_id: sessionId })
+        })
+            .then(res => res.json())
+            .then(data => {
+                if (data.error) {
+                    showNotice(data.error, 'danger');
+                    return;
+                }
+                state.sessionId = data.session_id;
+                state.currentState = data.state;
+                state.selectedSpecialty = data.specialty;
+                state.selectedDifficulty = (data.difficulty || 'random').toLowerCase();
+                showChatPanel();
+                clearChatLog();
+                appendBotMessage(data.message);
+                updateStateBadge(state.currentState);
+                updateCaseMeta();
+                hideNotice();
+                updateSessionStatus('Active session');
+            })
+            .catch(err => handleError(err))
+            .finally(() => setLoading(false));
+    }
+
+    function deleteSession(sessionId) {
+        if (!confirm('Delete this saved session? This action cannot be undone.')) {
+            return;
+        }
+        fetch(urls.deleteSession, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCsrfToken()
+            },
+            body: JSON.stringify({ session_id: sessionId })
+        })
+            .then(res => res.json())
+            .then(() => loadSavedSessions())
+            .catch(err => handleError(err));
+    }
+
+    function toggleSavedSessions() {
+        const isHidden = elements.savedSessionsPanel.classList.contains('cbl-hidden');
+        elements.savedSessionsPanel.classList.toggle('cbl-hidden', !isHidden);
+        if (isHidden && !state.savedSessionsLoaded) {
+            loadSavedSessions();
+        }
+    }
+
+    function loadSavedSessions() {
+        forceCardTextVisibility();
+        fetch(urls.listSessions, {
+            method: 'GET',
+            headers: { 'X-CSRFToken': getCsrfToken() }
+        })
+            .then(res => res.json())
+            .then(data => {
+                renderSavedSessions(data.sessions || []);
+                state.savedSessionsLoaded = true;
+            })
+            .catch(() => {
+                elements.savedSessionsList.innerHTML = '<div class="cbl-empty-state">Unable to load saved sessions right now.</div>';
+            });
+    }
+
+    function renderSavedSessions(sessions) {
+        if (!sessions.length) {
+            elements.savedSessionsList.innerHTML = '<div class="cbl-empty-state">No saved sessions found yet. Start a case and we’ll automatically store it here for you.</div>';
+            return;
+        }
+        const html = sessions.map(session => {
+            const date = new Date(session.last_activity);
+            const phase = session.state_label || 'In progress';
+            return `
+                <div class="cbl-session-card">
+                    <div class="cbl-session-card__heading">${session.specialty}</div>
+                    <div class="cbl-session-card__meta">
+                        Difficulty: ${capitalize(session.difficulty || 'unknown')}<br>
+                        Phase: ${phase}<br>
+                        Last activity: ${date.toLocaleString()}
+                    </div>
+                    <div class="cbl-session-card__actions">
+                        <button type="button" data-resume-session="${session.session_id}">Resume</button>
+                        <button type="button" data-delete-session="${session.session_id}">Delete</button>
+                    </div>
+                </div>
+            `;
+        }).join('');
+        elements.savedSessionsList.innerHTML = html;
+    }
+
+    function updateStateBadge(stateName) {
+        const label = stateLabels[stateName] || stateName;
+        elements.stateBadge.textContent = label;
+    }
+
+    function updateCaseMeta() {
+        const specialty = state.selectedSpecialty ? `${state.selectedSpecialty}` : 'Unknown specialty';
+        const difficulty = capitalize(state.selectedDifficulty || 'Random');
+        elements.caseMeta.textContent = `${specialty} • ${difficulty}`;
+    }
+
+    function updateSessionStatus(text) {
+        elements.sessionStatus.textContent = text;
+    }
+
+    function showChatPanel() {
+        elements.specialtySection.classList.add('cbl-hidden');
+        elements.savedSessionsPanel.classList.add('cbl-hidden');
+        elements.chatPanel.classList.remove('cbl-hidden');
+    }
+
+    function clearChatLog() {
+        elements.chatLog.innerHTML = '';
+    }
+
+    function showNotice(message, variant = 'info') {
+        elements.systemNotice.textContent = message;
+        elements.systemNotice.setAttribute('data-variant', variant);
+        elements.systemNotice.classList.remove('cbl-hidden');
+    }
+
+    function hideNotice() {
+        elements.systemNotice.classList.add('cbl-hidden');
+    }
+
+    function setLoading(isLoading) {
+        elements.loadingIndicator.classList.toggle('cbl-hidden', !isLoading);
+    }
+
+    function handleError(error) {
+        console.error('Case bot error:', error);
+        showNotice('Something went wrong. Please try again.', 'danger');
+        setLoading(false);
+    }
+
+    function scrollChatToBottom() {
+        elements.chatLog.scrollTop = elements.chatLog.scrollHeight;
+    }
+
+    function setupKeyboardShortcuts() {
+        document.addEventListener('keydown', event => {
+            if (event.ctrlKey && event.key === 'Enter') {
+                event.preventDefault();
+                sendMessage();
+            }
+            if (event.ctrlKey && event.key.toLowerCase() === 'r') {
+                event.preventDefault();
+                toggleRecording();
+            }
+            if (event.ctrlKey && event.key.toLowerCase() === 's') {
+                event.preventDefault();
+                handleSkipCase();
+            }
+        });
+    }
+
+    function handleMcqHandoff() {
+        const params = new URLSearchParams(window.location.search);
+        const isMcqCase = params.get('mcq_case') === 'true';
+        const mcqSessionId = params.get('session_id');
+        if (!isMcqCase || !mcqSessionId) return;
+
+        const storageKey = 'mcq-case-handoff-' + mcqSessionId;
+        let handoffPayload = null;
+        try {
+            const raw = localStorage.getItem(storageKey);
+            if (raw) {
+                handoffPayload = JSON.parse(raw);
+                localStorage.removeItem(storageKey);
+            }
+        } catch (storageError) {
+            console.warn('Unable to parse MCQ case handoff payload:', storageError);
+        }
+
+        showChatPanel();
+        clearChatLog();
+        showNotice('Loading MCQ-derived case…', 'info');
+
+        if (handoffPayload && handoffPayload.case_data) {
+            const caseData = handoffPayload.case_data;
+            const specialty = caseData.specialty || 'general neurology';
+            const difficulty = (caseData.difficulty || 'random').toLowerCase();
+            state.sessionId = null;
+            state.selectedSpecialty = specialty;
+            state.selectedDifficulty = difficulty;
+            updateCaseMeta();
+            updateSessionStatus('Preparing MCQ case');
+            startCaseWithPayload({
+                message: 'start_new_case',
+                specialty,
+                difficulty,
+                mcq_case_data: caseData
+            }, { clearNotice: false });
+            window.history.replaceState({}, document.title, window.location.pathname);
+            return;
+        }
+
+        fetch(urls.resumeSession, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCsrfToken()
+            },
+            body: JSON.stringify({ session_id: mcqSessionId })
+        })
+            .then(res => res.json())
+            .then(data => {
+                if (!data.success || !data.case_data) {
+                    showNotice('Unable to load MCQ case. Start a new case manually.', 'danger');
+                    return;
+                }
+                const caseData = data.case_data;
+                const specialty = caseData.specialty || 'general neurology';
+                state.selectedSpecialty = specialty;
+                state.selectedDifficulty = (caseData.difficulty || 'random').toLowerCase();
+                updateCaseMeta();
+                startCaseWithPayload({
+                    message: 'start_new_case',
+                    specialty,
+                    difficulty: state.selectedDifficulty,
+                    mcq_case_data: caseData
+                });
+                window.history.replaceState({}, document.title, window.location.pathname);
+            })
+            .catch(err => handleError(err));
+    }
+
+    function forceCardTextVisibility() {
+        const classes = ['cbl-card__title', 'cbl-card__meta', 'cbl-card__count'];
+        document.querySelectorAll('.cbl-card').forEach(card => {
+            classes.forEach(cls => {
+                const el = card.querySelector(`.${cls}`);
+                if (!el) return;
+                el.style.visibility = 'visible';
+                el.style.opacity = '1';
+                el.style.display = 'block';
+                el.style.color = 'var(--cbl-text)';
+            });
+        });
+    }
+
+    function updateExpertActionsVisibility(currentState) {
+        const show = Boolean(state.sessionId) && currentState !== 'INITIAL';
+        elements.expertActions.classList.toggle('cbl-hidden', !show);
+    }
+
+    function toggleRecording() {
+        if (state.isRecording) {
+            stopRecording();
+        } else {
+            startRecording();
+        }
+    }
+
+    async function startRecording() {
+        try {
+            const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+            const mimeTypes = [
+                'audio/webm',
+                'audio/webm;codecs=opus',
+                'audio/ogg',
+                'audio/mp4',
+                'audio/wav'
+            ];
+
+            let options = {};
+            for (const type of mimeTypes) {
+                if (MediaRecorder.isTypeSupported(type)) {
+                    options = { mimeType: type };
+                    break;
+                }
+            }
+
+            state.mediaRecorder = options.mimeType ? new MediaRecorder(stream, options) : new MediaRecorder(stream);
+            state.audioChunks = [];
+
+            state.mediaRecorder.ondataavailable = event => {
+                if (event.data.size > 0) {
+                    state.audioChunks.push(event.data);
+                }
+            };
+
+            state.mediaRecorder.onstop = sendAudioForTranscription;
+            const defaultTimeslice = 1000;
+            try {
+                state.mediaRecorder.start(defaultTimeslice);
+            } catch (err) {
+                state.mediaRecorder.start();
+            }
+            state.isRecording = true;
+            elements.recordBtn.classList.add('is-recording');
+            elements.recordBtn.textContent = '⏹ Stop';
+        } catch (error) {
+            alert('Unable to access microphone. Please check browser permissions.');
+        }
+    }
+
+    function stopRecording() {
+        if (!state.mediaRecorder) return;
+        state.mediaRecorder.stop();
+        state.mediaRecorder.stream.getTracks().forEach(track => track.stop());
+        state.isRecording = false;
+        elements.recordBtn.classList.remove('is-recording');
+        elements.recordBtn.textContent = '🎤 Record';
+    }
+
+    async function sendAudioForTranscription() {
+        if (!state.audioChunks.length) {
+            showNotice('No audio captured. Please ensure the microphone is enabled and try again.', 'warning');
+            return;
+        }
+        const mimeType = state.mediaRecorder.mimeType || 'audio/webm';
+        let extension = '.webm';
+        if (mimeType.includes('ogg')) extension = '.ogg';
+        else if (mimeType.includes('mp4') || mimeType.includes('m4a')) extension = '.m4a';
+        else if (mimeType.includes('wav')) extension = '.wav';
+        else if (mimeType.includes('mp3')) extension = '.mp3';
+
+        const blob = new Blob(state.audioChunks, { type: mimeType });
+        const formData = new FormData();
+        formData.append('audio', blob, `recording${extension}`);
+        formData.append('mimeType', mimeType);
+
+        elements.transcriptionStatus.classList.remove('cbl-hidden');
+        try {
+            const res = await fetch(urls.transcribe, {
+                method: 'POST',
+                headers: { 'X-CSRFToken': getCsrfToken() },
+                body: formData
+            });
+            const data = await res.json();
+            if (data.text) {
+                const text = data.text.trim();
+                if (text) {
+                    const current = elements.userInput.value.trim();
+                    elements.userInput.value = current ? `${current}\n${text}` : text;
+                }
+            } else if (data.error) {
+                showNotice(`Transcription error: ${data.error}`, 'danger');
+            }
+        } catch (error) {
+            showNotice('Transcription failed. Please try again.', 'danger');
+        } finally {
+            elements.transcriptionStatus.classList.add('cbl-hidden');
+            state.audioChunks = [];
+            state.mediaRecorder = null;
+        }
+    }
+
+    function getCsrfToken() {
+        const name = 'csrftoken=';
+        const cookies = document.cookie.split(';');
+        for (const cookie of cookies) {
+            const trimmed = cookie.trim();
+            if (trimmed.startsWith(name)) {
+                return decodeURIComponent(trimmed.substring(name.length));
+            }
+        }
+        return '';
+    }
+
+    function capitalize(text) {
+        if (!text) return '';
+        return text.charAt(0).toUpperCase() + text.slice(1);
+    }
+})();
+</script>
+{% endblock %}

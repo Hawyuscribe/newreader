@@ -1,0 +1,363 @@
+[
+  {
+    "question_number": "Q133",
+    "question_text": "",
+    "options": {
+      "A": "young healthy man presents with sudden foot drop. Nerve conduction studies show normal sensory and motor function, except for a drop in amplitude across the fibular head from 5 to 1.9 with reduced velocity in the motor peroneal nerve. What is the pathology and prognosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q147",
+    "question_text": "In the same scenario, a patient with weakness symptoms suggestive of Anti-MuSK myasthenia gravis was on mycophenolic acid and steroids with no benefit. After switching to azathioprine and developing hepatotoxicity, what should be tested before initiating treatment with the above chosen medication? (Referring to Rituximab from Q376)",
+    "options": {
+      "A": "Hepatitis B screening",
+      "B": "Complete blood count",
+      "C": "Renal function tests",
+      "D": "Thyroid function tests"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q445",
+    "question_text": "What is the recommended treatment for Inclusion Body Myositis (IBM)?",
+    "options": {
+      "A": "Supportive care",
+      "B": "High-dose corticosteroids",
+      "C": "Intravenous immunoglobulin (IVIG)",
+      "D": "Immunosuppressive therapy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q78",
+    "question_text": "",
+    "options": {
+      "A": "16-year-old presented with calf hypertrophy. Which of the following conditions is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q482",
+    "question_text": "",
+    "options": {
+      "A": "young patient presents with proximal painful weakness, and a biopsy result shows CD+8 lymphocytes. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q382",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with moderate muscle weakness, hyperkeratosis on the hands, and lung crackles. What is the most likely antibody associated with this condition?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q546",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old patient presented with ptosis, extraocular muscle weakness, dysphagia, and proximal weakness. What is the most likely genetic abnormality?"
+    },
+    "correct_answer": "A",
+    "source_file": "part 2 2021 (2",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q77",
+    "question_text": "",
+    "options": {
+      "A": "young woman who was recently diagnosed with diabetes mellitus (DM) was not controlled at all after admission to the hospital with diabetic ketoacidosis (DKA) and an HbA1c of 14. After her blood sugar was controlled adequately, she developed peripheral painful neuropathy. What is the recommended treatment?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q6",
+    "question_text": "In hypokalemic periodic paralysis, which of the following is true regarding the incidence of paralysis?",
+    "options": {
+      "A": "Predominantly male",
+      "B": "Equal incidence in males and females",
+      "C": "Occurs in the 1st-2nd decade",
+      "D": "Occurs in the 1st decade"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q65",
+    "question_text": "In a scenario of Charcot-Marie-Tooth disease type 2 (CMT2), what would you find?",
+    "options": {
+      "A": "Decrease in amplitude of sensory nerve action potentials",
+      "B": "Normal motor nerve conduction velocity",
+      "C": "Increased amplitude of sensory nerve action potentials",
+      "D": "Axonal degeneration"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q136",
+    "question_text": "",
+    "options": {
+      "A": "40-year-old previously healthy male developed gastrointestinal symptoms, then had generalized weakness and decreased reflexes. He has bilateral ptosis and dilated pupils. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q61",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with peripheral neuropathy and transient central nervous system (CNS) symptoms. Which condition is most likely?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q81",
+    "question_text": "In Paramyotonia Congenita, the effect of cold exposure is:",
+    "options": {
+      "A": "Induces attack",
+      "B": "Relieves attack",
+      "C": "No effect",
+      "D": "Prevents attack"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "Spinobulbar muscular atrophy (Kennedy's Disease) is primarily caused by which genetic mutation?",
+    "options": {
+      "A": "CAG expansion in the DMPK gene",
+      "B": "CAG expansion in the androgen-receptor (AR) gene",
+      "C": "CTG repeat in the DMPK gene",
+      "D": "CAG repeat in the CTG gene"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q167",
+    "question_text": "",
+    "options": {
+      "A": "31-year-old male has hand grip myotonia, facial weakness, significant atrophy of facial muscles, ptosis without ophthalmoplegia, and distal arm weakness. What else is associated?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q421",
+    "question_text": "",
+    "options": {
+      "A": "young male has a history of unilateral upper limb weakness that has progressed over 5 years. Examination reveals involvement of all hand muscles with sparing of the brachioradialis. What are the other associated features?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2022_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2022,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q50",
+    "question_text": "In Hyperkalemic Periodic Paralysis, the duration of paralysis is typically:",
+    "options": {
+      "A": "Hours to days",
+      "B": "Minutes to hours",
+      "C": "Seconds to minutes",
+      "D": "Days to weeks"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q62",
+    "question_text": "If single-fiber EMG is normal in clinically affected muscles, what can be concluded?",
+    "options": {
+      "A": "The diagnosis of MG is confirmed.",
+      "B": "The diagnosis of MG is excluded.",
+      "C": "Further testing is required.",
+      "D": "The patient has ocular MG."
+    },
+    "correct_answer": "B",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q104",
+    "question_text": "In a scenario about dermatomyositis, which antibody is associated with the condition?",
+    "options": {
+      "A": "Anti-synthetase",
+      "B": "Anti-MDA5",
+      "C": "Anti-Mi2",
+      "D": "Anti-SRP"
+    },
+    "correct_answer": "C",
+    "source_file": "Part 2 2020 copy_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q153",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old patient presented with progressive numbness and burning sensation in the lower limbs, along with two cutaneous nodules\u2014one in the upper trunk and one on the scalp. There are no autonomic features, normal reflexes, and normal proprioception. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q53",
+    "question_text": "In a case of Spinal Muscular Atrophy (SMA), which of the following is a supportive finding?",
+    "options": {
+      "A": "Neurogenic finding on EMG",
+      "B": "Abnormal respiratory function test",
+      "C": "Cardiomyopathy",
+      "D": "Elevated creatine kinase levels"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q76",
+    "question_text": "In Parsonage-Turner syndrome, which plexus is affected?",
+    "options": {
+      "A": "Upper brachial plexus",
+      "B": "Both the upper and lower plexus",
+      "C": "Lower brachial plexus",
+      "D": "Lumbar plexus"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 - 2023_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2023,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q16",
+    "question_text": "",
+    "options": {
+      "A": "case scenario about central core myopathy mentions a family history of malignant hyperthermia. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q148",
+    "question_text": "What is the most common myopathy in patients older than 50 years?",
+    "options": {
+      "A": "Inclusion Body Myositis (IBM)",
+      "B": "Dermatomyositis",
+      "C": "Duchenne muscular dystrophy",
+      "D": "Becker muscular dystrophy"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2018_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2018,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q121",
+    "question_text": "",
+    "options": {
+      "A": "55-year-old patient is complaining of generalized weakness, weight gain, and tingling in her hands. She has slight bradycardia and on examination, she had delayed relaxation with deep tendon reflexes. What test should be ordered?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 Adult Neurology residency 2024 V9_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2024,
+    "subspecialty": "Neuromuscular",
+    "explanation": ""
+  }
+]

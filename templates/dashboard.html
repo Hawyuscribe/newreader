@@ -1,0 +1,134 @@
+{% extends 'base.html' %}
+
+{% block title %}Dashboard - Neurology MCQ Reader{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12 mb-4">
+        <h1 class="mb-4">Dashboard</h1>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-6">
+        <div class="card h-100 shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">Flashcard Statistics</h3>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-6">
+                        <div class="py-3">
+                            <h4 class="mb-0">{{ flashcards_due }}</h4>
+                            <p class="text-muted">Due Today</p>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="py-3">
+                            <h4 class="mb-0">{{ flashcards_due_week }}</h4>
+                            <p class="text-muted">Due This Week</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-grid gap-2">
+                    <a href="{{ url_for('review_flashcards', timeframe='today') }}" class="btn btn-primary">Review Due Today</a>
+                    <a href="{{ url_for('review_flashcards', timeframe='week') }}" class="btn btn-outline-primary">Review Due This Week</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card h-100 shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">Quick Search</h3>
+            </div>
+            <div class="card-body">
+                <form action="{{ url_for('search') }}" method="get" class="mb-3">
+                    <div class="input-group">
+                        <input type="text" class="form-control" name="query" placeholder="Search for keywords (e.g., Cerebellum)">
+                        <button class="btn btn-primary" type="submit">Search</button>
+                    </div>
+                </form>
+                <p class="text-muted">Search across all MCQs by keywords in questions, answers, or explanations.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12 mb-4">
+        <h2>Neurology Subspecialties</h2>
+    </div>
+</div>
+
+<div class="row">
+    {% for subspecialty in subspecialty_stats %}
+    <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body">
+                <div class="d-flex align-items-center mb-3">
+                    <div class="flex-shrink-0">
+                        {% if subspecialty.name == "Critical Care Neurology" %}
+                        <i class="bi bi-hospital text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Dementia" %}
+                        <i class="bi bi-puzzle text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Epilepsy" %}
+                        <i class="bi bi-lightning text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Headache" %}
+                        <i class="bi bi-exclamation-circle text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Movement Disorders" %}
+                        <i class="bi bi-activity text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuroanatomy" %}
+                        <i class="bi bi-diagram-3 text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neurogenetics" %}
+                        <i class="bi bi-code-slash text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuroimmunology" %}
+                        <i class="bi bi-shield text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuro-infectious" %}
+                        <i class="bi bi-bug text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuro-oncology" %}
+                        <i class="bi bi-cells text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuro-otology" %}
+                        <i class="bi bi-ear text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuroophthalmology" %}
+                        <i class="bi bi-eye text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuropsychiatry" %}
+                        <i class="bi bi-person-hearts text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neurotoxicology" %}
+                        <i class="bi bi-droplet-half text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Neuromuscular" %}
+                        <i class="bi bi-heart-pulse text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Pediatric Neurology" %}
+                        <i class="bi bi-person-badge text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Sleep Neurology" %}
+                        <i class="bi bi-moon-stars text-primary fs-1"></i>
+                        {% elif subspecialty.name == "Vascular Neurology/Stroke" %}
+                        <i class="bi bi-droplet text-primary fs-1"></i>
+                        {% else %}
+                        <i class="bi bi-collection text-primary fs-1"></i>
+                        {% endif %}
+                    </div>
+                    <div class="flex-grow-1 ms-3">
+                        <h5 class="card-title mb-0">{{ subspecialty.name }}</h5>
+                        <p class="text-muted small mb-0">{{ subspecialty.total }} MCQs</p>
+                    </div>
+                </div>
+                
+                <div class="progress mb-3" style="height: 10px;">
+                    <div class="progress-bar bg-success" role="progressbar" style="width: {{ subspecialty.percentage }}%;" 
+                         aria-valuenow="{{ subspecialty.percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+                <p class="small text-muted mb-3">{{ subspecialty.completed }} of {{ subspecialty.total }} completed ({{ subspecialty.percentage }}%)</p>
+                
+                <div class="d-flex justify-content-between">
+                    <a href="{{ url_for('subspecialty', subspecialty=subspecialty.name) }}" class="btn btn-primary">Study</a>
+                    <button class="btn btn-outline-primary disabled">
+                        <i class="bi bi-bookmark-star"></i> {{ subspecialty.total }} MCQs
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

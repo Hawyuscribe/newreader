@@ -1,0 +1,9 @@
+{
+  "name": "neuro-agent-runner",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openai/agents": "^0.2.0",
+    "dotenv": "^16.4.0"
+  }
+}

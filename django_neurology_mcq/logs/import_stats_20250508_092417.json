@@ -1,0 +1,165 @@
+{
+  "start_time": "2025-05-08T09:24:15.716660",
+  "total_files": 19,
+  "total_mcqs": 3138,
+  "imported": 0,
+  "updated": 3136,
+  "errors": 2,
+  "no_explanation": 138,
+  "file_stats": [
+    {
+      "file": "Dementia",
+      "total": 117,
+      "imported": 0,
+      "updated": 117,
+      "errors": 0,
+      "no_explanation": 3
+    },
+    {
+      "file": "Pediatric_Neurology",
+      "total": 19,
+      "imported": 0,
+      "updated": 19,
+      "errors": 0,
+      "no_explanation": 2
+    },
+    {
+      "file": "Epilepsy",
+      "total": 327,
+      "imported": 0,
+      "updated": 327,
+      "errors": 0,
+      "no_explanation": 39
+    },
+    {
+      "file": "Neuropsychiatry",
+      "total": 40,
+      "imported": 0,
+      "updated": 40,
+      "errors": 0,
+      "no_explanation": 1
+    },
+    {
+      "file": "Neurogenetics",
+      "total": 106,
+      "imported": 0,
+      "updated": 106,
+      "errors": 0,
+      "no_explanation": 0
+    },
+    {
+      "file": "Critical_Care_Neurology",
+      "total": 127,
+      "imported": 0,
+      "updated": 127,
+      "errors": 0,
+      "no_explanation": 3
+    },
+    {
+      "file": "Neuroanatomy",
+      "total": 103,
+      "imported": 0,
+      "updated": 102,
+      "errors": 1,
+      "no_explanation": 4
+    },
+    {
+      "file": "Vascular_neurology_stroke",
+      "total": 388,
+      "imported": 0,
+      "updated": 388,
+      "errors": 0,
+      "no_explanation": 14
+    },
+    {
+      "file": "Neuro_otology",
+      "total": 9,
+      "imported": 0,
+      "updated": 9,
+      "errors": 0,
+      "no_explanation": 0
+    },
+    {
+      "file": "Other_Unclassified",
+      "total": 88,
+      "imported": 0,
+      "updated": 88,
+      "errors": 0,
+      "no_explanation": 0
+    },
+    {
+      "file": "Neuroimmunology",
+      "total": 333,
+      "imported": 0,
+      "updated": 333,
+      "errors": 0,
+      "no_explanation": 15
+    },
+    {
+      "file": "Neuroophthalmology",
+      "total": 98,
+      "imported": 0,
+      "updated": 98,
+      "errors": 0,
+      "no_explanation": 6
+    },
+    {
+      "file": "Movement_Disorders",
+      "total": 268,
+      "imported": 0,
+      "updated": 268,
+      "errors": 0,
+      "no_explanation": 8
+    },
+    {
+      "file": "Sleep_Neurology",
+      "total": 34,
+      "imported": 0,
+      "updated": 34,
+      "errors": 0,
+      "no_explanation": 3
+    },
+    {
+      "file": "Headache",
+      "total": 177,
+      "imported": 0,
+      "updated": 177,
+      "errors": 0,
+      "no_explanation": 5
+    },
+    {
+      "file": "Neuro_oncology",
+      "total": 164,
+      "imported": 0,
+      "updated": 164,
+      "errors": 0,
+      "no_explanation": 0
+    },
+    {
+      "file": "Neuro_infectious",
+      "total": 229,
+      "imported": 0,
+      "updated": 229,
+      "errors": 0,
+      "no_explanation": 7
+    },
+    {
+      "file": "Neuromuscular",
+      "total": 470,
+      "imported": 0,
+      "updated": 469,
+      "errors": 1,
+      "no_explanation": 27
+    },
+    {
+      "file": "Neurotoxicology",
+      "total": 41,
+      "imported": 0,
+      "updated": 41,
+      "errors": 0,
+      "no_explanation": 1
+    }
+  ],
+  "end_time": "2025-05-08T09:24:17.146823",
+  "duration": 1.430163
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "question_text": "Two weeks Postpartum with headache, presented with left side weakness. MRI picture with right cortical ICH with surrounding edema",
+    "options": {
+      "option_a": "aneurysm rupture",
+      "option_b": "CVT",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "75 years old female, DM, HTN who came with acute right side weakness. CTA angiography showed left ICA at 60% and right is 65% what to do",
+    "options": {
+      "option_a": "Maximize medical management",
+      "option_b": "Carotid endarterectomy",
+      "option_c": "Elective carotid stenting",
+      "option_d": "Stenting within 1 week",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Pregnant female patient with positive antiphospholipid who had a stroke was found to have small PFO, and prior history of DVT, what is the next best step",
+    "options": {
+      "option_a": "Aspirin",
+      "option_b": "Close the PFO",
+      "option_c": "Heparin",
+      "option_d": "Warfarin",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Stroke within window what should be done before IV tPA.",
+    "options": {
+      "option_a": "Coagulation",
+      "option_b": "Glucose Level",
+      "option_c": "ECG",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Same picture of Moyamoya in Q12 with right side weakness and CTA showing severe stenosis in the left MCA, what to do next",
+    "options": {
+      "option_a": "Exchange Transfusion",
+      "option_b": "Aspirin and Plavix",
+      "option_c": "Labetalol",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "The patient with a past medical history of stroke had a full cardiac workup but was negative. He was started on Aspirin which made his chronic epistaxis worse. Picture Attached. What to do next",
+    "options": {
+      "option_a": "Lung angiography",
+      "option_b": "C-ANCA",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient with migraine headaches, father died young from a stroke. To diagnose what should you do",
+    "options": {
+      "option_a": "Skin biopsy for eosinophilic inclusions",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "CVT after birth what to do?",
+    "options": {
+      "option_a": "CTV",
+      "option_b": "??",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Cardiac arrest in smoker patient complicated with hypotension and intubated. After 1 month came back to the clinic with chronic headaches, dizziness etc what is pathogenesis?",
+    "options": {
+      "option_a": "Hypercapnia",
+      "option_b": "Vasospasm",
+      "option_c": "-",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Two questions of a patient has horner that does not react with cocaine or amphetamine",
+    "options": {
+      "option_a": "Post-ganglionic",
+      "option_b": "Preganglionic",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "The most common first presentation of CJD",
+    "options": {
+      "option_a": "movement",
+      "option_b": "Psychiatry",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Alzheimer Dementia most commonly related gene mutation",
+    "options": {
+      "option_a": "APP",
+      "option_b": "APO.B",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2023",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Case of stroke within window NIHSS was 3, next step in rx?",
+    "options": {
+      "option_a": "DAPT",
+      "option_b": "TPA",
+      "option_c": "Thrombectomy",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Case of right ICA dissection presented with left sided weakness, what is the treatment in acute setting?",
+    "options": {
+      "option_a": "stenting",
+      "option_b": "angioplasty",
+      "option_c": "Medical therapy",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Sickler patient with multiple previous strokes, what is the most important preventitive Rx?",
+    "options": {
+      "option_a": "Chronic transfusion",
+      "option_b": "Aspirin",
+      "option_c": "Anticoagulation",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Case of malignant MCA and presented after 24 hours with midline shift what is the most important thing to do?",
+    "options": {
+      "option_a": "decompressive cranectomy",
+      "option_b": "admission to stroke unit",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "SCA causes?",
+    "options": {
+      "option_a": "Ipsilateral hornors/ptosis",
+      "option_b": "Ipsilateral fourth nerve palsy",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Scenario about patient with my Moyamoya syndrome and history of ischemic stroke, what is the best treatment to prevent future stroke?",
+    "options": {
+      "option_a": "Chronic transfusion",
+      "option_b": "Aspirin and clopidogrel",
+      "option_c": "?",
+      "option_d": "?",
+      "option_e": ""
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient on Warfarin developed weakness, CT brain attached showed intracranial bleeding with fluid level feature, what is the cause?",
+    "options": {
+      "option_a": "Coagulopathy",
+      "option_b": "?",
+      "option_c": "?",
+      "option_d": "?",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  },
+  {
+    "question_text": "Patient presented with right face, arm and leg weakness with mild articulation difficulties, where is the localization of his lesion?",
+    "options": {
+      "option_a": "Internal capsule",
+      "option_b": "Midbrain",
+      "option_c": "",
+      "option_d": "",
+      "option_e": ""
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "subspecialty": "vascular_neurology",
+    "exam_year": "2024",
+    "exam_type": "Part II"
+  }
+]

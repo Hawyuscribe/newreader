@@ -1,0 +1,4 @@
+260c260
+<                 data: [{{ flashcards_due }}, {{ flashcards_due_week|add:"-"|add:flashcards_due }}, 0], // Placeholder for total
+---
+>                 data: [{{ flashcards_due }}, {{ flashcards_due_week_only }}, 0], // Placeholder for total

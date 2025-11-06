@@ -1,0 +1,375 @@
+[
+  {
+    "question_number": "Q105",
+    "question_text": "",
+    "options": {
+      "A": "patient came with behavioral changes; what is the gene defect?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q39",
+    "question_text": "",
+    "options": {
+      "A": "young man with a family history of early onset Alzheimer disease. Which of the following genes increases the risk of sporadic Alzheimer disease?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part I 2023_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q49",
+    "question_text": "",
+    "options": {
+      "A": "patient with dementia has insomnia and agitation. What medication would you prescribe?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q59",
+    "question_text": "",
+    "options": {
+      "A": "patient with a history of memory changes and forgetfulness has cerebrospinal fluid (CSF) analysis showing high tau protein and low amyloid levels. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q46",
+    "question_text": "Which of the following most accurately summarizes the current situation with respect to the use of cholinesterase inhibitors to delay or prevent the progression from Mild Cognitive Impairment (MCI) to Alzheimer's disease or other forms of dementia?",
+    "options": {
+      "A": "Not proven to be effective in delaying or preventing the development of dementia",
+      "B": "Highly effective in preventing progression to Alzheimer's disease",
+      "C": "Recommended as first-line treatment for all patients with MCI",
+      "D": "Shown to reverse cognitive decline in MCI patients"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q47",
+    "question_text": "An individual with mild cognitive impairment is more likely to progress to dementia or Alzheimer disease if he/she:",
+    "options": {
+      "A": "Is an APOE4 carrier.",
+      "B": "Has atrophic hippocampi on MRI.",
+      "C": "Has an elevated tau level in the CSF.",
+      "D": "Has positive amyloid imaging on PET scan."
+    },
+    "correct_answer": "D",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "",
+    "options": {
+      "A": "male patient presents with recent behavioral changes, and MRI shows frontal and temporal atrophy. What is the most likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2021_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q69",
+    "question_text": "An elderly male was brought in by his family with urinary incontinence for years and cognitive decline (MMSE 25/30). He has bradykinesia, mild rigidity, and a shuffling gait with magnetic gait. MRI shows ventriculomegaly and mild volume loss. What is your management?",
+    "options": {
+      "A": "Trial of dopaminergic therapy",
+      "B": "Deep brain stimulation (DBS)",
+      "C": "Refer for elective shunt",
+      "D": "Symptomatic treatment only"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "Cognitive symptoms in Lewy body dementia are treated with which of the following medications?",
+    "options": {
+      "A": "Cholinesterase inhibitors",
+      "B": "Antidepressants",
+      "C": "Antipsychotics",
+      "D": "Mood stabilizers"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2018_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q88",
+    "question_text": "Declarative memory with remembering past experiences is referred to as:",
+    "options": {
+      "A": "Episodic memory",
+      "B": "Semantic memory",
+      "C": "Procedural memory",
+      "D": "Implicit memory"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q48",
+    "question_text": "Fatigue during the daytime and increased sleepiness in a patient with Alzheimer\u2019s disease is due to which of the following?",
+    "options": {
+      "A": "Atrophy in subthalamic nuclei",
+      "B": "Disturbance in serotonin pathway",
+      "C": "Decrease in glucose level",
+      "D": "Suprachiasmatic nucleus degeneration"
+    },
+    "correct_answer": "D",
+    "source_file": "PART I - 2024 - KSMC Revision_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2024,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q256",
+    "question_text": "What is the mechanism of action of donepezil?",
+    "options": {
+      "A": "Acetylcholinesterase inhibitor",
+      "B": "Direct thrombin inhibitor",
+      "C": "NMDA receptor antagonist",
+      "D": "ACE inhibitor"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2023_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2023,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q198",
+    "question_text": "",
+    "options": {
+      "A": "52-year-old woman presents with behavioral changes over the course of 2 years. Her concentration is decreasing, making it difficult to accomplish her work, and she does not care about her poor performance. She has gained 25 pounds in 4 months, is charged at work for telling inappropriate jokes, has stopped bathing, and refuses to take care of her personal hygiene. On examination, she has grasp and palmo-mental reflexes but no other abnormalities. Her MMSE is 29/30, but her clock drawing test was poor. What is the diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q51",
+    "question_text": "",
+    "options": {
+      "A": "Normal Pressure Hydrocephalus (NPH)",
+      "B": "Binswanger's disease",
+      "C": "Multiple sclerosis",
+      "D": "Alzheimer's disease"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q217",
+    "question_text": "Cognitive fluctuation is more common in which of the following conditions?",
+    "options": {
+      "A": "Dementia with Lewy Bodies (DLB)",
+      "B": "Alzheimer\u2019s Disease (AD)",
+      "C": "Frontotemporal Dementia (FTD)",
+      "D": "Vascular Dementia"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2018_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2018,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q164",
+    "question_text": "",
+    "options": {
+      "A": "56-year-old male with a history of memory loss for 24 hours and asking the same question repeatedly should undergo which investigation?"
+    },
+    "correct_answer": "A",
+    "source_file": "Part II 2019_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q42",
+    "question_text": "In a case of transient global amnesia (TGA) lasting 4 hours, with the patient confused, repeating questions, and preserving identity, what is the next step in management?",
+    "options": {
+      "A": "EEG",
+      "B": "Brain CT & CTA",
+      "C": "Lumbar puncture",
+      "D": "Observation and supportive care"
+    },
+    "correct_answer": "B",
+    "source_file": "Part I 2019_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q41",
+    "question_text": "What is the commonest pathological change in neurodegenerative diseases?",
+    "options": {
+      "A": "Tangles",
+      "B": "Glial cytoplasmic inclusions",
+      "C": "Lewy bodies",
+      "D": "Neurofibrillary tangles"
+    },
+    "correct_answer": "D",
+    "source_file": "Part I 2022_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2022,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hyperphagia, personality changes, and memory loss. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q57",
+    "question_text": "",
+    "options": {
+      "A": "patient presents with hyperphagia, personality changes, and memory loss. What is the likely diagnosis?"
+    },
+    "correct_answer": "A",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Dementia",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q45",
+    "question_text": "Typical JME on topiramate and well controlled; he wants to stop the medication. What is the recommendation?",
+    "options": {
+      "A": "Lifelong treatment",
+      "B": "Gradual tapering off after 2 years seizure-free",
+      "C": "Immediate discontinuation of medication",
+      "D": "Switch to another antiepileptic drug before stopping"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q63",
+    "question_text": "Patient with MTS seizure on Topamax 200mg BID and carbamazepine 400mg BID; his seizures are still not controlled. What will you do?",
+    "options": {
+      "A": "Increase Carbamazepine dose",
+      "B": "Refer to surgery",
+      "C": "Add a benzodiazepine",
+      "D": "Switch Topamax to levetiracetam"
+    },
+    "correct_answer": "B",
+    "source_file": "Part 2 2021_mcqs.txt",
+    "exam_type": "Part II",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q37",
+    "question_text": "What is the 2-year recurrence rate of seizures after the first seizure attack?",
+    "options": {
+      "A": "30%",
+      "B": "10%",
+      "C": "50%",
+      "D": "70%"
+    },
+    "correct_answer": "A",
+    "source_file": "Part 1 2021_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2021,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q9",
+    "question_text": "In a case of catamenial seizures, what is the recommended treatment?",
+    "options": {
+      "A": "Acetazolamide",
+      "B": "Clobazam",
+      "C": "Acetazolamide with hormonal therapy",
+      "D": "Perimenstrual progesterone supplementation"
+    },
+    "correct_answer": "D",
+    "source_file": "Part 1 2020_mcqs.txt",
+    "exam_type": "Part I",
+    "exam_year": 2020,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  },
+  {
+    "question_number": "Q250",
+    "question_text": "Hypsarrhythmia with tuberous sclerosis (TS), what is the treatment?",
+    "options": {
+      "A": "ACTH",
+      "B": "Corticosteroid",
+      "C": "Vigabatrin",
+      "D": "Valproic acid"
+    },
+    "correct_answer": "C",
+    "source_file": "Promotion 2019_mcqs.txt",
+    "exam_type": "Promotion",
+    "exam_year": 2019,
+    "subspecialty": "Epilepsy",
+    "explanation": ""
+  }
+]
